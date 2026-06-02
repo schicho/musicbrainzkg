@@ -1,0 +1,5236 @@
+[
+  {
+    "id": "846f980d-246b-4087-840b-ce8d21dd574b",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "name": "Cinthie",
+    "sort-name": "Cinthie",
+    "gender": "female",
+    "area": {
+      "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Berlin",
+      "sort-name": "Berlin",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Cinthy Aka Vinyl Princess",
+        "name": "Cinthy Aka Vinyl Princess",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Cinthie Aka Vinyl Princess",
+        "name": "Cinthie Aka Vinyl Princess",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ]
+  },
+  {
+    "id": "203783da-e3a5-450e-988d-704826ce3a82",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "name": "Don Rimini",
+    "sort-name": "Rimini, Don",
+    "country": "FR",
+    "area": {
+      "id": "08310658-51eb-3801-80de-5a0739207115",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "France",
+      "sort-name": "France",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Daft Punk",
+    "sort-name": "Daft Punk",
+    "country": "FR",
+    "area": {
+      "id": "08310658-51eb-3801-80de-5a0739207115",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "France",
+      "sort-name": "France",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Paris",
+      "sort-name": "Paris",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "French electronic duo",
+    "ipis": [
+      "00711797335"
+    ],
+    "isnis": [
+      "0000000123531208"
+    ],
+    "life-span": {
+      "begin": "1993",
+      "end": "2021-02-22",
+      "ended": true
+    },
+    "aliases": [
+      {
+        "sort-name": "Daft Punk",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "daft punk",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Duft Punk",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "Duft Punk",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "ダフト パンク",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "ダフト・パンク",
+        "locale": "ja",
+        "type": "Artist name",
+        "primary": true,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Daft Punk",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Daft Punk",
+        "locale": "en",
+        "type": "Artist name",
+        "primary": true,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Da Funk",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "Da Funk",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 39,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "synthpop"
+      },
+      {
+        "count": 1,
+        "name": "pop"
+      },
+      {
+        "count": 8,
+        "name": "french"
+      },
+      {
+        "count": 5,
+        "name": "dance"
+      },
+      {
+        "count": 20,
+        "name": "house"
+      },
+      {
+        "count": 2,
+        "name": "electro"
+      },
+      {
+        "count": 2,
+        "name": "vocoder"
+      },
+      {
+        "count": 2,
+        "name": "funk"
+      },
+      {
+        "count": 1,
+        "name": "techno"
+      },
+      {
+        "count": 2,
+        "name": "electronica"
+      },
+      {
+        "count": 2,
+        "name": "synth-pop"
+      },
+      {
+        "count": 4,
+        "name": "disco"
+      },
+      {
+        "count": -1,
+        "name": "favourite"
+      },
+      {
+        "count": 0,
+        "name": "tech house"
+      },
+      {
+        "count": 1,
+        "name": "indie dance"
+      },
+      {
+        "count": 2,
+        "name": "film score"
+      },
+      {
+        "count": -1,
+        "name": "wp musicians"
+      },
+      {
+        "count": 1,
+        "name": "electroclash"
+      },
+      {
+        "count": 1,
+        "name": "european"
+      },
+      {
+        "count": 2,
+        "name": "club"
+      },
+      {
+        "count": 2,
+        "name": "electro house"
+      },
+      {
+        "count": 1,
+        "name": "french touch"
+      },
+      {
+        "count": 17,
+        "name": "french house"
+      },
+      {
+        "count": 1,
+        "name": "edm"
+      },
+      {
+        "count": 1,
+        "name": "dance and electronica"
+      },
+      {
+        "count": 2,
+        "name": "electronic rock"
+      },
+      {
+        "count": 2,
+        "name": "dance music"
+      },
+      {
+        "count": 2,
+        "name": "nu disco"
+      },
+      {
+        "count": 0,
+        "name": "thomas bangalter"
+      },
+      {
+        "count": 1,
+        "name": "nu-disco"
+      },
+      {
+        "count": 2,
+        "name": "left-field house"
+      },
+      {
+        "count": 1,
+        "name": "r&b"
+      },
+      {
+        "count": 2,
+        "name": "house music"
+      },
+      {
+        "count": 1,
+        "name": "trap"
+      },
+      {
+        "count": 1,
+        "name": "future bass"
+      },
+      {
+        "count": 1,
+        "name": "organic house"
+      },
+      {
+        "count": 2,
+        "name": "french electro"
+      },
+      {
+        "count": 2,
+        "name": "leftfield house"
+      },
+      {
+        "count": 1,
+        "name": "jackin house"
+      },
+      {
+        "count": 1,
+        "name": "dj tools / acapellas"
+      }
+    ]
+  },
+  {
+    "id": "489db2b6-bbd6-4b79-8f06-d5ddec231521",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Jaded",
+    "sort-name": "Jaded",
+    "area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "London based remix/production trio",
+    "life-span": {
+      "begin": "2015",
+      "ended": null
+    }
+  },
+  {
+    "id": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Fred again..",
+    "sort-name": "Fred again..",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "UK producer, songwriter, multi-instrumentalist and DJ",
+    "ipis": [
+      "00228066278",
+      "00731904650",
+      "00731904748",
+      "00803797322"
+    ],
+    "isnis": [
+      "0000000493795075"
+    ],
+    "life-span": {
+      "begin": "1993-07-19",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Fred",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Fred",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Gibson, Frederick John Philip",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Frederick John Philip Gibson",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Gibson, Fred",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Fred Gibson",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 5,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "downtempo"
+      },
+      {
+        "count": 1,
+        "name": "pop"
+      },
+      {
+        "count": 1,
+        "name": "drum and bass"
+      },
+      {
+        "count": 2,
+        "name": "dance"
+      },
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "hip hop"
+      },
+      {
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "count": 1,
+        "name": "electronica"
+      },
+      {
+        "count": 1,
+        "name": "breakbeat"
+      },
+      {
+        "count": 1,
+        "name": "breaks"
+      },
+      {
+        "count": 4,
+        "name": "uk garage"
+      },
+      {
+        "count": 1,
+        "name": "latin"
+      },
+      {
+        "count": 1,
+        "name": "grime"
+      },
+      {
+        "count": 1,
+        "name": "club"
+      },
+      {
+        "count": 2,
+        "name": "garage"
+      },
+      {
+        "count": 4,
+        "name": "edm"
+      },
+      {
+        "count": 1,
+        "name": "bassline"
+      },
+      {
+        "count": 3,
+        "name": "future garage"
+      },
+      {
+        "count": 1,
+        "name": "house music"
+      },
+      {
+        "count": 1,
+        "name": "deep dubstep"
+      },
+      {
+        "count": 1,
+        "name": "trap"
+      },
+      {
+        "count": 1,
+        "name": "future bass"
+      },
+      {
+        "count": 1,
+        "name": "bass house"
+      },
+      {
+        "count": 1,
+        "name": "électronique"
+      },
+      {
+        "count": 2,
+        "name": "stutter house"
+      }
+    ]
+  },
+  {
+    "id": "35321b91-98ca-4a78-b34f-cb113722eab9",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Mochakk",
+    "sort-name": "Mochakk",
+    "gender": "male",
+    "country": "BR",
+    "area": {
+      "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Brazil",
+      "sort-name": "Brazil",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "1d008aa3-1ad0-4302-8c36-29e0c8429db4",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Sorocaba",
+      "sort-name": "Sorocaba",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Brazilian DJ and producer",
+    "isnis": [
+      "0000000512107814"
+    ],
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "35723b60-732e-4bd8-957f-320b416e7b7f",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Groove Armada",
+    "sort-name": "Groove Armada",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000122649407"
+    ],
+    "life-span": {
+      "begin": "1995",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Groove Aramada",
+        "name": "Groove Aramada",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Groove Armad",
+        "name": "Groove Armad",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "_Groove Armada_",
+        "name": "_Groove Armada_",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Groove Armanda",
+        "name": "Groove Armanda",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Groove Amarda",
+        "name": "Groove Amarda",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Groove Amanda",
+        "name": "Groove Amanda",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Groove Armarda",
+        "name": "Groove Armarda",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Groove Amada",
+        "name": "Groove Amada",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 5,
+        "name": "electronic"
+      },
+      {
+        "count": 2,
+        "name": "downtempo"
+      },
+      {
+        "count": 3,
+        "name": "big beat"
+      },
+      {
+        "count": 2,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "british"
+      },
+      {
+        "count": 1,
+        "name": "uk"
+      },
+      {
+        "count": 0,
+        "name": "techno"
+      },
+      {
+        "count": 0,
+        "name": "electronica"
+      },
+      {
+        "count": 1,
+        "name": "synth-pop"
+      },
+      {
+        "count": 1,
+        "name": "electropop"
+      },
+      {
+        "count": 0,
+        "name": "ambient techno"
+      },
+      {
+        "count": 0,
+        "name": "ambient dub"
+      },
+      {
+        "count": 1,
+        "name": "funky house"
+      },
+      {
+        "count": 1,
+        "name": "alternative dance"
+      },
+      {
+        "count": 1,
+        "name": "english"
+      },
+      {
+        "count": 1,
+        "name": "trip hop"
+      },
+      {
+        "count": 1,
+        "name": "dance and electronica"
+      }
+    ]
+  },
+  {
+    "id": "fa0e2024-95ff-44b6-9a86-f0ab120b6a72",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Todd Edwards",
+    "sort-name": "Edwards, Todd",
+    "gender": "male",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "5ce2147e-fc5d-4c21-8ae8-795f2b378483",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Bloomfield",
+      "sort-name": "Bloomfield",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "ipis": [
+      "00340380985"
+    ],
+    "isnis": [
+      "0000000372901660"
+    ],
+    "life-span": {
+      "begin": "1972-12-09",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "T Edwards",
+        "name": "T Edwards",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "T. Edwards",
+        "name": "T. Edwards",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Todd 'The God' Edwards",
+        "name": "Todd 'The God' Edwards",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "uk garage"
+      },
+      {
+        "count": 1,
+        "name": "garage"
+      },
+      {
+        "count": 1,
+        "name": "garage house"
+      },
+      {
+        "count": 1,
+        "name": "_wip_"
+      }
+    ]
+  },
+  {
+    "id": "cec0a68b-315f-4606-aea9-bf2fc6a481f0",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "The Director",
+    "sort-name": "The Director",
+    "gender": "male",
+    "disambiguation": "house music",
+    "life-span": {
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "french house"
+      },
+      {
+        "count": 1,
+        "name": "disco house"
+      }
+    ]
+  },
+  {
+    "id": "740c6238-3f5d-4e63-8836-826ad6c611ab",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "name": "Honey Dijon",
+    "sort-name": "Honey Dijon",
+    "gender": "female",
+    "area": {
+      "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Chicago",
+      "sort-name": "Chicago",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Chicago",
+      "sort-name": "Chicago",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "house producer",
+    "isnis": [
+      "0000000465902275"
+    ],
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Redmond, Honey",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Honey Redmond",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "house"
+      }
+    ]
+  },
+  {
+    "id": "12ec8b9f-3cb8-4893-9aa2-ba43313f8e32",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "LF SYSTEM",
+    "sort-name": "LF SYSTEM",
+    "area": {
+      "id": "6fa1c7da-6689-4cec-85f9-680f853e8a08",
+      "type": "Subdivision",
+      "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+      "name": "Scotland",
+      "sort-name": "Scotland",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "begin": "2019-11-01",
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "french house"
+      },
+      {
+        "count": 1,
+        "name": "disco house"
+      }
+    ]
+  },
+  {
+    "id": "d0f31126-6b12-4d5a-a08b-c31af0287c71",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Noizu",
+    "sort-name": "Noizu",
+    "gender": "male",
+    "area": {
+      "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Los Angeles",
+      "sort-name": "Los Angeles",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "LA house artist",
+    "isnis": [
+      "0000000467088190"
+    ],
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "ae65c507-d9a0-4d42-9a6c-2b1f82158b9f",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Disclosure",
+    "sort-name": "Disclosure",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "7a80651e-f1dc-48d8-8816-0e450432cf9d",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Reigate",
+      "sort-name": "Reigate",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "UK electronic duo Guy & Howard Lawrence",
+    "ipis": [
+      "00625266548"
+    ],
+    "isnis": [
+      "0000000470026978"
+    ],
+    "life-span": {
+      "begin": "2010",
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "rock"
+      },
+      {
+        "count": 1,
+        "name": "trance"
+      },
+      {
+        "count": 3,
+        "name": "electronic"
+      },
+      {
+        "count": 0,
+        "name": "synthpop"
+      },
+      {
+        "count": 1,
+        "name": "pop"
+      },
+      {
+        "count": 1,
+        "name": "drum and bass"
+      },
+      {
+        "count": 1,
+        "name": "dubstep"
+      },
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 4,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "bass"
+      },
+      {
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "count": 1,
+        "name": "electronica"
+      },
+      {
+        "count": 1,
+        "name": "breakbeat"
+      },
+      {
+        "count": 1,
+        "name": "disco"
+      },
+      {
+        "count": 1,
+        "name": "breaks"
+      },
+      {
+        "count": 1,
+        "name": "tech house"
+      },
+      {
+        "count": 1,
+        "name": "dance-pop"
+      },
+      {
+        "count": 4,
+        "name": "uk garage"
+      },
+      {
+        "count": 1,
+        "name": "club"
+      },
+      {
+        "count": 1,
+        "name": "garage"
+      },
+      {
+        "count": 1,
+        "name": "edm"
+      },
+      {
+        "count": 1,
+        "name": "bassline"
+      },
+      {
+        "count": 1,
+        "name": "uk funky"
+      },
+      {
+        "count": 3,
+        "name": "future garage"
+      },
+      {
+        "count": 1,
+        "name": "house music"
+      },
+      {
+        "count": 1,
+        "name": "afro house"
+      },
+      {
+        "count": 1,
+        "name": "melodic techno"
+      },
+      {
+        "count": 1,
+        "name": "bass house"
+      },
+      {
+        "count": 1,
+        "name": "melodic house"
+      }
+    ]
+  },
+  {
+    "id": "30111ec2-4574-4b1c-a6e6-372be13e9581",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "name": "Mike Newman",
+    "sort-name": "Newman, Mike",
+    "disambiguation": "trance artist",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "01cfa586-2a9a-46c8-95ab-7b05e25eae62",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Scott Garcia",
+    "sort-name": "Garcia, Scott",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "8598aed5-406f-434a-9762-80badb1cafc7",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Jack Marlow",
+    "sort-name": "Marlow, Jack",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "5fdbe54d-7a81-410b-b734-85de65dba41b",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Alan Fitzpatrick",
+    "sort-name": "Fitzpatrick, Alan",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "techno"
+      }
+    ]
+  },
+  {
+    "id": "3c470d9e-71d2-4c66-8bb0-064823fe48fe",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Danny Tenaglia",
+    "sort-name": "Tenaglia, Danny",
+    "gender": "male",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+      "type": "District",
+      "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+      "name": "Brooklyn",
+      "sort-name": "Brooklyn",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "ipis": [
+      "00228222884"
+    ],
+    "isnis": [
+      "0000000055163879"
+    ],
+    "life-span": {
+      "begin": "1961-03-07",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Danny Tenagila",
+        "name": "Danny Tenagila",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "techno"
+      },
+      {
+        "count": 1,
+        "name": "progressive house"
+      },
+      {
+        "count": 1,
+        "name": "tribal house"
+      },
+      {
+        "count": 1,
+        "name": "garage music"
+      }
+    ]
+  },
+  {
+    "id": "2c3d7081-7c6d-448a-a024-ba441252f62d",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Obskür",
+    "sort-name": "Obskür",
+    "country": "IE",
+    "area": {
+      "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Ireland",
+      "sort-name": "Ireland",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Dublin duo",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "5b7f4511-1764-4d80-83b5-8c150f4636c5",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Chris Stussy",
+    "sort-name": "Stussy, Chris",
+    "gender": "male",
+    "country": "NL",
+    "area": {
+      "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Netherlands",
+      "sort-name": "Netherlands",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "NL | electronic",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "6b8ff466-2757-4078-a2d9-1e164b3dce7a",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "GEE LEE",
+    "sort-name": "GEE LEE",
+    "gender": "male",
+    "area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Gideon Lee",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "32f80a4f-f5ec-48cc-8e6e-a71f30005109",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Robbie Doherty",
+    "sort-name": "Doherty, Robbie",
+    "gender": "male",
+    "area": {
+      "id": "2b30f961-ed7c-40d2-a9c5-6a905b35439a",
+      "type": "Subdivision",
+      "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+      "name": "Northern Ireland",
+      "sort-name": "Northern Ireland",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "ed1f94d7-3445-4e49-b640-12f889f36e13",
+    "score": 100,
+    "name": "Jake Antonio",
+    "sort-name": "Jake Antonio",
+    "disambiguation": "Jake Antonio - Vancouver Canada",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "b9157532-8101-4fa3-a568-3293574e1364",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Terrence Parker",
+    "sort-name": "Parker, Terrence",
+    "gender": "male",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "house music DJ/producer",
+    "ipis": [
+      "00238895418"
+    ],
+    "isnis": [
+      "0000000056846145"
+    ],
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Parker, Terrence Vincent",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Terrence Vincent Parker",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "7 Grand Housing Authority",
+        "name": "7 Grand Housing Authority",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "7th Grand Housing Authority",
+        "name": "7th Grand Housing Authority",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Seven Grand Housing Authority",
+        "name": "Seven Grand Housing Authority",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ]
+  },
+  {
+    "id": "d1515727-4a93-4c0d-88cb-d7a9fce01879",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Jamie xx",
+    "sort-name": "xx, Jamie",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "English DJ, record producer, and remixer",
+    "ipis": [
+      "00598347296"
+    ],
+    "isnis": [
+      "0000000118014919"
+    ],
+    "life-span": {
+      "begin": "1988-10-28",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Smith, James",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "James Smith",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Smith, Jamie",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Jamie Smith",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Smith, James Thomas",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "James Thomas Smith",
+        "locale": "en",
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 4,
+        "name": "electronic"
+      },
+      {
+        "count": 3,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "count": 0,
+        "name": "indie pop"
+      },
+      {
+        "count": 1,
+        "name": "pop rap"
+      },
+      {
+        "count": 0,
+        "name": "uk garage"
+      },
+      {
+        "count": 2,
+        "name": "uk funky"
+      },
+      {
+        "count": 2,
+        "name": "future garage"
+      },
+      {
+        "count": 3,
+        "name": "uk bass"
+      },
+      {
+        "count": 1,
+        "name": "post-dubstep"
+      },
+      {
+        "count": 0,
+        "name": "hardcore breaks"
+      }
+    ]
+  },
+  {
+    "id": "c9f7e40b-1367-4757-9048-21b276308ad3",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "KiLLOWEN",
+    "sort-name": "KiLLOWEN",
+    "gender": "male",
+    "area": {
+      "id": "3a3a40aa-9e73-4cce-bede-efe81e65aeba",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Hayes",
+      "sort-name": "Hayes",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Artist / Producer",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "902edbf1-6b07-4c72-9b09-4cdc608a133e",
+    "score": 100,
+    "name": "DTAILR",
+    "sort-name": "DTAILR",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "b2233a1e-2b25-4660-a578-b2e2de990792",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Kerri Chandler",
+    "sort-name": "Chandler, Kerri",
+    "gender": "male",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "b7abc17a-76de-40a2-88a5-c128228288a5",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "East Orange",
+      "sort-name": "East Orange",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "ipis": [
+      "00128591068"
+    ],
+    "isnis": [
+      "0000000114749969"
+    ],
+    "life-span": {
+      "begin": "1969-09-28",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Landcher, Errik",
+        "name": "Errik Landcher",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Chandler, Kerri Camar",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Kerri Camar Chandler",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Kerri 'Kaos 6:23' Chandler",
+        "name": "Kerri 'Kaos 6:23' Chandler",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Kerri 'Kaoz 6.23' Chandler",
+        "name": "Kerri 'Kaoz 6.23' Chandler",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Chandler, Kerry 'Kaoz 6:23'",
+        "name": "Kerry 'Kaoz 6:23' Chandler",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Kerry Chandler",
+        "name": "Kerry Chandler",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 2,
+        "name": "deep house"
+      },
+      {
+        "count": 1,
+        "name": "garage house"
+      },
+      {
+        "count": 1,
+        "name": "garage music"
+      }
+    ]
+  },
+  {
+    "id": "37a0943e-9638-48fe-9a56-7192d7efbbed",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "name": "Robin S",
+    "sort-name": "Robin S",
+    "gender": "female",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "431a085b-9f4c-4fbb-82de-2ca7ce735da8",
+      "type": "District",
+      "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+      "name": "Queens",
+      "sort-name": "Queens",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "US singer Robin Stone",
+    "isnis": [
+      "0000000055155342"
+    ],
+    "life-span": {
+      "begin": "1962-04-27",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Robin 5",
+        "name": "Robin 5",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Robin S",
+        "name": "Robin S",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Robin-S",
+        "name": "Robin-S",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Stone, Robin",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Robin Stone",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "S, Robin",
+        "name": "Robin S",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Robin's",
+        "name": "Robin's",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "S, Robyn",
+        "name": "Robyn S",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "nuno"
+      },
+      {
+        "count": 1,
+        "name": "vocal house"
+      },
+      {
+        "count": 1,
+        "name": "hip hop rnb and dance hall"
+      }
+    ]
+  },
+  {
+    "id": "0239ec24-bc3a-42a3-9713-7a48eebc0a2f",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "St. David",
+    "sort-name": "St. David",
+    "gender": "male",
+    "country": "IT",
+    "area": {
+      "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Italy",
+      "sort-name": "Italy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "2c639399-5472-4744-8baf-a25c0269240e",
+      "type": "Municipality",
+      "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+      "name": "Bari",
+      "sort-name": "Bari",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Italian house DJ & producer",
+    "ipis": [
+      "00383486818"
+    ],
+    "life-span": {
+      "begin": "1991-10-15",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Disanto, Davide",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Davide Disanto",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "St. David",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "St. David",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Geffen",
+        "name": "Geffen",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": "2015",
+        "end-date": null
+      },
+      {
+        "sort-name": "Spiritual Emphasi",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Spiritual Emphasi",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": "2017",
+        "end-date": null
+      },
+      {
+        "sort-name": "The Evidence",
+        "name": "The Evidence",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": "2019",
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "count": 2,
+        "name": "groove"
+      },
+      {
+        "count": 0,
+        "name": "artist"
+      },
+      {
+        "count": 0,
+        "name": "house music"
+      },
+      {
+        "count": 1,
+        "name": "mpc"
+      },
+      {
+        "count": 2,
+        "name": "st. david"
+      },
+      {
+        "count": 1,
+        "name": "vinyl only"
+      },
+      {
+        "count": 1,
+        "name": "let's play house"
+      },
+      {
+        "count": 1,
+        "name": "manitou"
+      },
+      {
+        "count": 0,
+        "name": "frole"
+      },
+      {
+        "count": 0,
+        "name": "house jam ep"
+      },
+      {
+        "count": 1,
+        "name": "south italy"
+      },
+      {
+        "count": 1,
+        "name": "unknown chicago"
+      },
+      {
+        "count": 1,
+        "name": "theory of swing"
+      },
+      {
+        "count": 2,
+        "name": "oldschool house"
+      },
+      {
+        "count": 1,
+        "name": "the groove ep"
+      },
+      {
+        "count": 1,
+        "name": "90's house"
+      },
+      {
+        "count": 1,
+        "name": "theory of swing records"
+      },
+      {
+        "count": 1,
+        "name": "st. david house music"
+      },
+      {
+        "count": 1,
+        "name": "theory of swing italy"
+      },
+      {
+        "count": 1,
+        "name": "st. david music"
+      },
+      {
+        "count": 1,
+        "name": "90's house grooves"
+      },
+      {
+        "count": 1,
+        "name": "st. david dj"
+      },
+      {
+        "count": 1,
+        "name": "st. david 90's house music"
+      }
+    ]
+  },
+  {
+    "id": "3016b5eb-866d-4051-a7fb-d9175853049b",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Livin’ Joy",
+    "sort-name": "Livin’ Joy",
+    "country": "IT",
+    "area": {
+      "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Italy",
+      "sort-name": "Italy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000115370862"
+    ],
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Livin Joy'",
+        "name": "Livin Joy'",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Livin’ Joy",
+        "name": "Livin’ Joy",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Livin Joy",
+        "name": "Livin Joy",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Livin'Joy",
+        "name": "Livin'Joy",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Living Joy",
+        "name": "Living Joy",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Livin Boy",
+        "name": "Livin Boy",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "italian"
+      },
+      {
+        "count": 1,
+        "name": "european"
+      },
+      {
+        "count": 1,
+        "name": "eurodance"
+      },
+      {
+        "count": 1,
+        "name": "euro house"
+      }
+    ]
+  },
+  {
+    "id": "dee0fb00-08aa-47e9-a58f-7682c8bd81f5",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "LNRT",
+    "sort-name": "LNRT",
+    "gender": "male",
+    "country": "NL",
+    "area": {
+      "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Netherlands",
+      "sort-name": "Netherlands",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Dutch DJ/producer Lennart Roelofsen",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "a5e504e6-c7d3-4147-ab37-fff9ff1bda84",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Gaskin",
+    "sort-name": "Gaskin",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "bfd5a31e-85d5-447f-bfa6-ef5869fa9ecd",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Scunthorpe",
+      "sort-name": "Scunthorpe",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "NWOBHM band",
+    "life-span": {
+      "begin": "1980-03",
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "heavy metal"
+      },
+      {
+        "count": 1,
+        "name": "metal"
+      },
+      {
+        "count": 1,
+        "name": "nwobhm"
+      }
+    ]
+  },
+  {
+    "id": "845ddc8b-36ba-4d7b-9c6f-bd7623cd3cac",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Mall Grab",
+    "sort-name": "Mall Grab",
+    "gender": "male",
+    "country": "AU",
+    "area": {
+      "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Australia",
+      "sort-name": "Australia",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "4983a5b8-eb24-431e-a782-93bec2a56fdc",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Newcastle",
+      "sort-name": "Newcastle",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000466341932"
+    ],
+    "life-span": {
+      "begin": "1994",
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "trance"
+      },
+      {
+        "count": 1,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "pop"
+      },
+      {
+        "count": 1,
+        "name": "drum and bass"
+      },
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "bass"
+      },
+      {
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "count": 1,
+        "name": "techno"
+      },
+      {
+        "count": 1,
+        "name": "electronica"
+      },
+      {
+        "count": 1,
+        "name": "breakbeat"
+      },
+      {
+        "count": 1,
+        "name": "breaks"
+      },
+      {
+        "count": 1,
+        "name": "tech house"
+      },
+      {
+        "count": 1,
+        "name": "uk garage"
+      },
+      {
+        "count": 1,
+        "name": "grime"
+      },
+      {
+        "count": 2,
+        "name": "club"
+      },
+      {
+        "count": 1,
+        "name": "edm"
+      },
+      {
+        "count": 1,
+        "name": "bassline"
+      },
+      {
+        "count": 1,
+        "name": "left-field house"
+      },
+      {
+        "count": 1,
+        "name": "deep dubstep"
+      },
+      {
+        "count": 1,
+        "name": "trap"
+      },
+      {
+        "count": 1,
+        "name": "melodic techno"
+      },
+      {
+        "count": 1,
+        "name": "future bass"
+      },
+      {
+        "count": 1,
+        "name": "bass house"
+      },
+      {
+        "count": 1,
+        "name": "melodic house"
+      },
+      {
+        "count": 1,
+        "name": "lo-fi house"
+      }
+    ]
+  },
+  {
+    "id": "d1fc7e04-1817-4559-bff4-691750401632",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Gadjo",
+    "sort-name": "Gadjo",
+    "gender": "male",
+    "country": "DE",
+    "area": {
+      "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Germany",
+      "sort-name": "Germany",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "German DJ, producer & remixer Murat Arslan",
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Heller & Enkie vs. Gadjo",
+        "name": "Heller & Enkie vs. Gadjo",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ]
+  },
+  {
+    "id": "e6d0179f-b899-4563-b6c6-88715aaae0b8",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "LFO",
+    "sort-name": "LFO",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "116e3eb1-2b14-42c9-91a1-7a2510dcc4b3",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Leeds",
+      "sort-name": "Leeds",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Mark Bell & Gez Varley: Low Frequency Oscillator",
+    "life-span": {
+      "begin": "1988",
+      "end": "2014-10-12",
+      "ended": true
+    },
+    "aliases": [
+      {
+        "sort-name": "L.F.O.",
+        "name": "L.F.O.",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "LFO -",
+        "name": "LFO -",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "エルエフオー",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "エルエフオー",
+        "locale": "ja",
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "idm"
+      },
+      {
+        "count": 1,
+        "name": "electronica"
+      },
+      {
+        "count": 1,
+        "name": "dance and electronica"
+      },
+      {
+        "count": 1,
+        "name": "bleep techno"
+      },
+      {
+        "count": 1,
+        "name": "techno"
+      },
+      {
+        "count": 1,
+        "name": "warp"
+      },
+      {
+        "count": 1,
+        "name": "uk"
+      },
+      {
+        "count": 1,
+        "name": "british"
+      },
+      {
+        "count": 1,
+        "name": "english"
+      }
+    ]
+  },
+  {
+    "id": "fdcd9dec-2d99-4d58-879f-ea99286006a8",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Jengi",
+    "sort-name": "Jengi",
+    "gender": "male",
+    "country": "NL",
+    "area": {
+      "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Netherlands",
+      "sort-name": "Netherlands",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Berendsen, Jan Theo",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Jan Theo Berendsen",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "iamjengi",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "iamjengi",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ]
+  },
+  {
+    "id": "17be33e3-6a92-472e-a5fd-1e2a4d98eed1",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Emz",
+    "sort-name": "Emz",
+    "gender": "male",
+    "begin-area": {
+      "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Bristol",
+      "sort-name": "Bristol",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 2,
+        "name": "drum and bass"
+      },
+      {
+        "count": 1,
+        "name": "jungle"
+      },
+      {
+        "count": 1,
+        "name": "uk garage"
+      },
+      {
+        "count": 1,
+        "name": "bassline"
+      }
+    ]
+  },
+  {
+    "id": "04bac789-bf59-4383-8ad7-799d20d969f7",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Modjo",
+    "sort-name": "Modjo",
+    "country": "FR",
+    "area": {
+      "id": "08310658-51eb-3801-80de-5a0739207115",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "France",
+      "sort-name": "France",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Paris",
+      "sort-name": "Paris",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000115077009"
+    ],
+    "life-span": {
+      "begin": "1998",
+      "end": "2002",
+      "ended": true
+    },
+    "aliases": [
+      {
+        "sort-name": "Modjo Band",
+        "name": "Modjo Band",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "french"
+      },
+      {
+        "count": 3,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "european"
+      },
+      {
+        "count": 1,
+        "name": "french touch"
+      },
+      {
+        "count": 3,
+        "name": "french house"
+      },
+      {
+        "count": 1,
+        "name": "rock and indie"
+      }
+    ]
+  },
+  {
+    "id": "f43b00ef-66cd-4c60-9c81-2c55236b5006",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "The Shapeshifters",
+    "sort-name": "Shapeshifters, The",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "UK electronic group, aka Shape:UK, and Shapeshifters",
+    "isnis": [
+      "000000010659838X"
+    ],
+    "life-span": {
+      "begin": "2003",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Shape: UK",
+        "name": "Shape: UK",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Shapeshifter",
+        "name": "Shapeshifter",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Shape:UK",
+        "name": "Shape:UK",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Shapeshifters",
+        "name": "Shapeshifters",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Shape Shifter UK",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Shape Shifter UK",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 0,
+        "name": "dance and electronica"
+      },
+      {
+        "count": 0,
+        "name": "uk"
+      },
+      {
+        "count": 0,
+        "name": "british"
+      }
+    ]
+  },
+  {
+    "id": "557dc5d5-37ca-4752-898f-fafb1aed68d9",
+    "score": 100,
+    "name": "Sem Jacobs",
+    "sort-name": "Jacobs, Sem",
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "b7a98e65-7ce4-4fab-8cf3-6b3ccda6115a",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Frankie Knuckles",
+    "sort-name": "Knuckles, Frankie",
+    "gender": "male",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e",
+      "type": "District",
+      "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+      "name": "The Bronx",
+      "sort-name": "The Bronx",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "end-area": {
+      "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Chicago",
+      "sort-name": "Chicago",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "ipis": [
+      "00128379062"
+    ],
+    "isnis": [
+      "0000000078399008"
+    ],
+    "life-span": {
+      "begin": "1955-01-18",
+      "end": "2014-03-31",
+      "ended": true
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 0,
+        "name": "soul"
+      },
+      {
+        "count": 1,
+        "name": "chicago house"
+      },
+      {
+        "count": 1,
+        "name": "dance music hall of fame"
+      }
+    ]
+  },
+  {
+    "id": "54d86cc6-2c30-47b4-bb68-cf5d82560e5c",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Tim Deluxe",
+    "sort-name": "Deluxe, Tim",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "057ce294-2684-46fd-aee1-4d8c6b4bf4ef",
+      "type": "Subdivision",
+      "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+      "name": "Belfast",
+      "sort-name": "Belfast",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000055172740"
+    ],
+    "life-span": {
+      "begin": "1977-07-18",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Tim de Luxe",
+        "name": "Tim de Luxe",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Tim deLuxe",
+        "name": "Tim deLuxe",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Tim Deluxe (dub)",
+        "name": "Tim Deluxe (dub)",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Tim Delux",
+        "name": "Tim Delux",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Time Deluxe",
+        "name": "Time Deluxe",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "dance and electronica"
+      }
+    ]
+  },
+  {
+    "id": "65a8e571-8a08-433f-a5bf-ead38c269ea6",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Inner City",
+    "sort-name": "Inner City",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Detroit",
+      "sort-name": "Detroit",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Detroit techno w/ Kevin Saunderson",
+    "isnis": [
+      "0000000114978526"
+    ],
+    "life-span": {
+      "begin": "1987",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Innercity",
+        "name": "Innercity",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "electronic"
+      },
+      {
+        "count": 2,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "classic pop and rock"
+      }
+    ]
+  },
+  {
+    "id": "7c59fcf7-8fe7-4871-9f2a-ba4fdb614c1a",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Xpansions",
+    "sort-name": "Xpansions",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "known for ‘Move Your Body’",
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Expansions",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "Expansions",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Xpansions 95",
+        "name": "Xpansions 95",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "X-Pansions",
+        "name": "X-Pansions",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Xpansion 95",
+        "name": "Xpansion 95",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Xpansions '95",
+        "name": "Xpansions '95",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ]
+  },
+  {
+    "id": "cd34e8ed-2f44-4031-849e-e56034b02cf9",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "name": "Gala",
+    "sort-name": "Gala",
+    "gender": "female",
+    "country": "IT",
+    "area": {
+      "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Italy",
+      "sort-name": "Italy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Milano",
+      "sort-name": "Milano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Italian singer & dance act",
+    "ipis": [
+      "00184463551"
+    ],
+    "isnis": [
+      "0000000117372749"
+    ],
+    "life-span": {
+      "begin": "1975-09-06",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Gala Rizzato",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "Gala Rizzato",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Rizzatto, Gala",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Gala Rizzatto",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "eurodance"
+      },
+      {
+        "count": 1,
+        "name": "female vocals"
+      },
+      {
+        "count": 1,
+        "name": "pop and chart"
+      },
+      {
+        "count": 2,
+        "name": "italo house"
+      }
+    ]
+  },
+  {
+    "id": "aed893c3-cac5-4f23-b175-979348bd6fee",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "N‐Joi",
+    "sort-name": "N‐Joi",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f706259c-989f-4a92-bbac-211135b5c207",
+      "type": "Subdivision",
+      "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+      "name": "Southend-on-Sea",
+      "sort-name": "Southend-on-Sea",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000115480471"
+    ],
+    "life-span": {
+      "begin": "1990",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Njoi",
+        "name": "Njoi",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "N Joi",
+        "name": "N Joi",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "N'Joi",
+        "name": "N'Joi",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "rave"
+      },
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "techno"
+      }
+    ]
+  },
+  {
+    "id": "b09b5127-c62e-4bb2-b790-1e4aa18749ed",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Armand van Helden",
+    "sort-name": "Helden, van, Armand",
+    "gender": "male",
+    "area": {
+      "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+      "type": "District",
+      "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+      "name": "Manhattan",
+      "sort-name": "Manhattan",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Boston",
+      "sort-name": "Boston",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "ipis": [
+      "00182487837"
+    ],
+    "isnis": [
+      "0000000055173348"
+    ],
+    "life-span": {
+      "begin": "1970-02-16",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "AVH",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "AVH",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Armand Van Helden",
+        "name": "Armand Van Helden",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Armond Van Helden",
+        "name": "Armond Van Helden",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Armen Van Helden",
+        "name": "Armen Van Helden",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Amand Van Helden",
+        "name": "Amand Van Helden",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Armand Van Heldon",
+        "name": "Armand Van Heldon",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Arman Van Helden",
+        "name": "Arman Van Helden",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Sampleslaya, Armand van Helden’s",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Armand van Helden’s Sampleslaya",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Arman’Van Helden",
+        "name": "Arman’Van Helden",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Armand Val Helden",
+        "name": "Armand Val Helden",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 3,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "pop"
+      },
+      {
+        "count": 1,
+        "name": "drum and bass"
+      },
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 7,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "bass"
+      },
+      {
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "count": 1,
+        "name": "techno"
+      },
+      {
+        "count": 1,
+        "name": "electronica"
+      },
+      {
+        "count": 1,
+        "name": "disco"
+      },
+      {
+        "count": 1,
+        "name": "tech house"
+      },
+      {
+        "count": 1,
+        "name": "funky house"
+      },
+      {
+        "count": 1,
+        "name": "uk garage"
+      },
+      {
+        "count": 2,
+        "name": "disco house"
+      },
+      {
+        "count": 1,
+        "name": "club"
+      },
+      {
+        "count": 1,
+        "name": "garage"
+      },
+      {
+        "count": 2,
+        "name": "dance and electronica"
+      },
+      {
+        "count": 1,
+        "name": "garage house"
+      },
+      {
+        "count": 1,
+        "name": "speed garage"
+      },
+      {
+        "count": 1,
+        "name": "bassline"
+      },
+      {
+        "count": 1,
+        "name": "house music"
+      },
+      {
+        "count": 1,
+        "name": "akai s1000 timestretch"
+      }
+    ]
+  },
+  {
+    "id": "77c9fe77-efef-4bef-bf97-a2be3479b981",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "name": "Kim English",
+    "sort-name": "English, Kim",
+    "gender": "female",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Chicago",
+      "sort-name": "Chicago",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "end-area": {
+      "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Chicago",
+      "sort-name": "Chicago",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "ipis": [
+      "00422084000"
+    ],
+    "isnis": [
+      "0000000055154171"
+    ],
+    "life-span": {
+      "begin": "1970-09-06",
+      "end": "2019-04-02",
+      "ended": true
+    },
+    "aliases": [
+      {
+        "sort-name": "English, Kim",
+        "name": "English, Kim",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ]
+  },
+  {
+    "id": "11293854-fc44-43e2-bb37-c48e5063bb55",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Masters at Work",
+    "sort-name": "Masters at Work",
+    "country": "US",
+    "area": {
+      "id": "489ce91b-6658-3307-9877-795b68554c98",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United States",
+      "sort-name": "United States",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "New York",
+      "sort-name": "New York",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Kenny “Dope” Gonzalez & “Little” Louie Vega",
+    "isnis": [
+      "0000000121041096"
+    ],
+    "life-span": {
+      "begin": "1990",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "A Tribute to Fela",
+        "name": "A Tribute to Fela",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "MAW Presents A Tribute To Fela",
+        "name": "MAW Presents A Tribute To Fela",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "MAW & Pupa Nas T/Denise",
+        "name": "MAW & Pupa Nas T/Denise",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "M.A.W.",
+        "name": "M.A.W.",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Master at Work",
+        "name": "Master at Work",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "MAW & Co.",
+        "name": "MAW & Co.",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "MAW",
+        "name": "MAW",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 0,
+        "name": "hip hop rnb and dance hall"
+      }
+    ]
+  },
+  {
+    "id": "598ded27-65cd-481b-b1d1-173f03e459de",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "BLOND:ISH",
+    "sort-name": "BLOND:ISH",
+    "country": "XE",
+    "area": {
+      "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+      "name": "Europe",
+      "sort-name": "Europe",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Canada",
+      "sort-name": "Canada",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Vivie‐Ann Bakos, formerly a duo",
+    "isnis": [
+      "0000000468955700"
+    ],
+    "life-span": {
+      "begin": "2008",
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 3,
+        "name": "house"
+      },
+      {
+        "count": 3,
+        "name": "deep house"
+      }
+    ]
+  },
+  {
+    "id": "09d6b57e-9cd9-4a74-b7cb-842b8443a1cd",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "name": "Nia Archives",
+    "sort-name": "Nia Archives",
+    "gender": "female",
+    "area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "3eec7695-0032-4fc9-8794-65c940e397f2",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Bradford",
+      "sort-name": "Bradford",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "begin": "1999-09",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Hunt, Dehaney Nia Lishahn",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Dehaney Nia Lishahn Hunt",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "jungle"
+      },
+      {
+        "count": 1,
+        "name": "vocalist"
+      }
+    ]
+  },
+  {
+    "id": "82e454e2-38ee-4e69-89a6-cc65167753d1",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Chase & Status",
+    "sort-name": "Chase & Status",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000469707178"
+    ],
+    "life-span": {
+      "begin": "2003",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Chase and Status",
+        "name": "Chase and Status",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 8,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "pop"
+      },
+      {
+        "count": 13,
+        "name": "drum and bass"
+      },
+      {
+        "count": 3,
+        "name": "jungle"
+      },
+      {
+        "count": 4,
+        "name": "dubstep"
+      },
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "hip hop"
+      },
+      {
+        "count": 1,
+        "name": "uk"
+      },
+      {
+        "count": 1,
+        "name": "techno"
+      },
+      {
+        "count": 1,
+        "name": "breakbeat"
+      },
+      {
+        "count": 1,
+        "name": "disco"
+      },
+      {
+        "count": 1,
+        "name": "breaks"
+      },
+      {
+        "count": 4,
+        "name": "uk garage"
+      },
+      {
+        "count": 1,
+        "name": "grime"
+      },
+      {
+        "count": 1,
+        "name": "club"
+      },
+      {
+        "count": 1,
+        "name": "garage"
+      },
+      {
+        "count": 0,
+        "name": "hip hop rnb and dance hall"
+      },
+      {
+        "count": 1,
+        "name": "deep dubstep"
+      },
+      {
+        "count": 0,
+        "name": "ukg"
+      },
+      {
+        "count": 1,
+        "name": "nu skool breaks"
+      }
+    ]
+  },
+  {
+    "id": "83928527-eeb1-4625-98df-0cfbcc5c07ec",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Camo & Krooked",
+    "sort-name": "Camo & Krooked",
+    "country": "AT",
+    "area": {
+      "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Austria",
+      "sort-name": "Austria",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Wien",
+      "sort-name": "Wien",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000469764244"
+    ],
+    "life-span": {
+      "begin": "2007",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Camo and Krooked",
+        "name": "Camo and Krooked",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Camo / Krooked",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Camo / Krooked",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 3,
+        "name": "electronic"
+      },
+      {
+        "count": 0,
+        "name": "liquid funk"
+      },
+      {
+        "count": 7,
+        "name": "drum and bass"
+      }
+    ]
+  },
+  {
+    "id": "8cf49f40-b8fe-4a63-b4ea-f922d6145bb4",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Sub Focus",
+    "sort-name": "Sub Focus",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f63466fa-e170-4262-840e-85eaab2d454f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Guildford",
+      "sort-name": "Guildford",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "UK drum & bass artist Nick Douwma",
+    "ipis": [
+      "00598476478"
+    ],
+    "isnis": [
+      "0000000131515283"
+    ],
+    "life-span": {
+      "begin": "1982-04-13",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Douwma, Nicolaas",
+        "name": "Nicolaas Douwma",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Douwma, Nick",
+        "name": "Nick Douwma",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Douwma, Nicolaas Douwe",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Nicolaas Douwe Douwma",
+        "locale": "en",
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Subfocus",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "Subfocus",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 2,
+        "name": "electronic"
+      },
+      {
+        "count": 10,
+        "name": "drum and bass"
+      },
+      {
+        "count": 2,
+        "name": "dubstep"
+      },
+      {
+        "count": 3,
+        "name": "electro house"
+      },
+      {
+        "count": 0,
+        "name": "edm"
+      },
+      {
+        "count": 0,
+        "name": "dance and electronica"
+      },
+      {
+        "count": 1,
+        "name": "drumstep"
+      }
+    ]
+  },
+  {
+    "id": "889b69e3-7b18-4889-b953-9f2931597204",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "High Contrast",
+    "sort-name": "High Contrast",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "3fe4f965-ff9e-49de-8597-b966d10464ca",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Penarth",
+      "sort-name": "Penarth",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "ipis": [
+      "00294368232"
+    ],
+    "isnis": [
+      "0000000079104478"
+    ],
+    "life-span": {
+      "begin": "1979-09-18",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Barrett, Lincoln J.",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Lincoln J. Barrett",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "The Contrast",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "The Contrast",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "electronic"
+      },
+      {
+        "count": 10,
+        "name": "drum and bass"
+      },
+      {
+        "count": 0,
+        "name": "uk"
+      },
+      {
+        "count": 0,
+        "name": "united kingdom"
+      },
+      {
+        "count": 0,
+        "name": "dance and electronica"
+      },
+      {
+        "count": 1,
+        "name": "liquid funk"
+      },
+      {
+        "count": 0,
+        "name": "dancefloor drum and bass"
+      }
+    ]
+  },
+  {
+    "id": "587fd8ec-2e9d-4ce6-8bc5-97d0a9334883",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Netsky",
+    "sort-name": "Netsky",
+    "gender": "male",
+    "country": "BE",
+    "area": {
+      "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Belgium",
+      "sort-name": "Belgium",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "ba41fd4c-4519-476e-a814-19faa0db3d25",
+      "type": "Municipality",
+      "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+      "name": "Edegem",
+      "sort-name": "Edegem",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "drum & bass artist Boris Daenen",
+    "ipis": [
+      "00618225654",
+      "00618225752"
+    ],
+    "isnis": [
+      "0000000378457687"
+    ],
+    "life-span": {
+      "begin": "1989-03-22",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Daenen, Boris",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Boris Daenen",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 2,
+        "name": "electronic"
+      },
+      {
+        "count": 10,
+        "name": "drum and bass"
+      },
+      {
+        "count": 3,
+        "name": "liquid funk"
+      }
+    ]
+  },
+  {
+    "id": "beff21d3-88c7-4ee0-8b7a-40b6db22c6d7",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Pendulum",
+    "sort-name": "Pendulum",
+    "country": "AU",
+    "area": {
+      "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Australia",
+      "sort-name": "Australia",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "21e8495a-32fa-4a97-8a92-57184e36235a",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Perth",
+      "sort-name": "Perth",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Australian drum & bass",
+    "isnis": [
+      "0000000115406255"
+    ],
+    "life-span": {
+      "begin": "2002",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Planet Pendulum",
+        "name": "Planet Pendulum",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "rock"
+      },
+      {
+        "count": 11,
+        "name": "electronic"
+      },
+      {
+        "count": 26,
+        "name": "drum and bass"
+      },
+      {
+        "count": 1,
+        "name": "dubstep"
+      },
+      {
+        "count": 1,
+        "name": "techstep"
+      },
+      {
+        "count": 5,
+        "name": "australian"
+      },
+      {
+        "count": 1,
+        "name": "neurofunk"
+      },
+      {
+        "count": 0,
+        "name": "alternative metal"
+      },
+      {
+        "count": 3,
+        "name": "australia"
+      },
+      {
+        "count": 1,
+        "name": "electro house"
+      },
+      {
+        "count": 1,
+        "name": "edm"
+      },
+      {
+        "count": 0,
+        "name": "pop and chart"
+      },
+      {
+        "count": 0,
+        "name": "dance and electronica"
+      },
+      {
+        "count": 6,
+        "name": "electronic rock"
+      },
+      {
+        "count": 3,
+        "name": "dancefloor drum and bass"
+      }
+    ]
+  },
+  {
+    "id": "2eeba1d4-f67d-45be-a22e-ab73e925aa43",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Roni Size",
+    "sort-name": "Roni Size",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Bristol",
+      "sort-name": "Bristol",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "000000007839483X"
+    ],
+    "life-span": {
+      "begin": "1969-10-29",
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 0,
+        "name": "electronic"
+      },
+      {
+        "count": 5,
+        "name": "drum and bass"
+      },
+      {
+        "count": 3,
+        "name": "jungle"
+      },
+      {
+        "count": 1,
+        "name": "big beat"
+      },
+      {
+        "count": 0,
+        "name": "british"
+      },
+      {
+        "count": 1,
+        "name": "hip hop"
+      },
+      {
+        "count": 0,
+        "name": "electronica"
+      },
+      {
+        "count": 0,
+        "name": "bristol"
+      },
+      {
+        "count": 0,
+        "name": "rock and indie"
+      }
+    ]
+  },
+  {
+    "id": "02ebebd7-120e-4341-ac89-90e666d49c9e",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Interplanetary Criminal",
+    "sort-name": "Interplanetary Criminal",
+    "gender": "male",
+    "area": {
+      "id": "116e3eb1-2b14-42c9-91a1-7a2510dcc4b3",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Leeds",
+      "sort-name": "Leeds",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    }
+  },
+  {
+    "id": "ec853694-30a1-4c7e-84e6-4ca87ee3c314",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Andy C",
+    "sort-name": "C, Andy",
+    "gender": "male",
+    "area": {
+      "id": "61c02f7b-2faf-489c-bd97-4cb937135dad",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Hornchurch",
+      "sort-name": "Hornchurch",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "2044e85e-2aa9-4a2b-8039-987bcaa3467e",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Walsall",
+      "sort-name": "Walsall",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "UK drum & bass DJ/producer",
+    "ipis": [
+      "00122348995",
+      "00122363509"
+    ],
+    "isnis": [
+      "0000000447144570"
+    ],
+    "life-span": {
+      "begin": "1976-04-07",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Clarke, Andrew",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Andrew Clarke",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "C, Andy",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Andy C",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Clarke, Ian Andrew",
+        "name": "Ian Andrew Clarke",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 2,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "pop"
+      },
+      {
+        "count": 6,
+        "name": "drum and bass"
+      },
+      {
+        "count": 3,
+        "name": "jungle"
+      },
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "count": 1,
+        "name": "electronica"
+      },
+      {
+        "count": 1,
+        "name": "breakbeat"
+      },
+      {
+        "count": 1,
+        "name": "breaks"
+      },
+      {
+        "count": 1,
+        "name": "tech house"
+      },
+      {
+        "count": 1,
+        "name": "club"
+      },
+      {
+        "count": 1,
+        "name": "edm"
+      },
+      {
+        "count": 1,
+        "name": "afro house"
+      },
+      {
+        "count": 1,
+        "name": "trap"
+      },
+      {
+        "count": 1,
+        "name": "future bass"
+      },
+      {
+        "count": 1,
+        "name": "dj tools"
+      }
+    ]
+  },
+  {
+    "id": "949e3135-54b7-4f17-b74b-52878b022e1e",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Bensley",
+    "sort-name": "Bensley",
+    "gender": "male",
+    "area": {
+      "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Toronto",
+      "sort-name": "Toronto",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Toronto",
+      "sort-name": "Toronto",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Drum & Bass producer from Canada",
+    "ipis": [
+      "00776225420"
+    ],
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Bennett, Peter",
+        "name": "Peter Bennett",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Bennett, Peter James",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Peter James Bennett",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "drum and bass"
+      }
+    ]
+  },
+  {
+    "id": "c478aff3-2457-4cee-bdf1-6b85758f7cc6",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "1991",
+    "sort-name": "1991",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "UK drum and bass producer",
+    "life-span": {
+      "ended": null
+    },
+    "tags": [
+      {
+        "count": 1,
+        "name": "electronic"
+      },
+      {
+        "count": 3,
+        "name": "drum and bass"
+      }
+    ]
+  },
+  {
+    "id": "1a7e9da1-f1df-43e9-b1aa-e9d4c2abcfce",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Mefjus",
+    "sort-name": "Mefjus",
+    "gender": "male",
+    "country": "AT",
+    "area": {
+      "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Austria",
+      "sort-name": "Austria",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Austrian drum & bass producer",
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Schober, Martin",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Martin Schober",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Mefjus",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Mefjus",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 4,
+        "name": "electronic"
+      },
+      {
+        "count": 5,
+        "name": "drum and bass"
+      },
+      {
+        "count": 3,
+        "name": "neurofunk"
+      },
+      {
+        "count": 1,
+        "name": "halftime"
+      }
+    ]
+  },
+  {
+    "id": "cfe0e278-18ac-492f-956a-d8c419f53af1",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Kanine",
+    "sort-name": "Kanine",
+    "gender": "male",
+    "area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Drum and Bass DJ and Producer from London",
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Bossert, Fergus",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Fergus Bossert",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Kanine",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Kanine",
+        "locale": null,
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ]
+  },
+  {
+    "id": "042f62fc-6c2e-4b8b-8114-8dab7f974631",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Luude",
+    "sort-name": "Luude",
+    "gender": "male",
+    "country": "AU",
+    "area": {
+      "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "Australia",
+      "sort-name": "Australia",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "103d2eb0-d702-4235-ac02-350a9c8470bb",
+      "type": "Subdivision",
+      "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+      "name": "Tasmania",
+      "sort-name": "Tasmania",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "ipis": [
+      "00379671899"
+    ],
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Benson, Christian",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Christian Benson",
+        "locale": null,
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ]
+  },
+  {
+    "id": "c9fa114f-8426-4286-a289-9f16c8e092b5",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Wilkinson",
+    "sort-name": "Wilkinson",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "UK‐based DJ",
+    "ipis": [
+      "00568780890"
+    ],
+    "isnis": [
+      "0000000407494357"
+    ],
+    "life-span": {
+      "begin": "1989-04-18",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Wilkinson, Mark Daniel George",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Mark Daniel George Wilkinson",
+        "locale": "en",
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 2,
+        "name": "electronic"
+      },
+      {
+        "count": 4,
+        "name": "drum and bass"
+      }
+    ]
+  },
+  {
+    "id": "be166079-6f21-4d0d-af2a-9f55c4b34455",
+    "type": "Group",
+    "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+    "score": 100,
+    "name": "Delta Heavy",
+    "sort-name": "Delta Heavy",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "life-span": {
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "DELTΔ HEΔVY",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "DELTΔ HEΔVY",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "electronic"
+      },
+      {
+        "count": 6,
+        "name": "drum and bass"
+      },
+      {
+        "count": 1,
+        "name": "jungle"
+      }
+    ]
+  },
+  {
+    "id": "abe931fd-bc88-40ee-ba42-f0ef2dc2eba5",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "S.P.Y",
+    "sort-name": "S.P.Y",
+    "gender": "male",
+    "area": {
+      "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "Bristol",
+      "sort-name": "Bristol",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "33e0f86c-d709-448d-a484-d55778913af1",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "São Paulo",
+      "sort-name": "São Paulo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "disambiguation": "Drum & Bass music producer Carlos Lima",
+    "ipis": [
+      "00713165665",
+      "00713165763"
+    ],
+    "life-span": {
+      "begin": "1976-12-30",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Carlos Barbosa de Lima Jr.",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Carlos Barbosa de Lima Jr.",
+        "locale": "pt_BR",
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "thespymusic",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "thespymusic",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "spydnb",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "spydnb",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "Spy",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "Spy",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "S. P. Y",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "S. P. Y",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "spymusicpage",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "spymusicpage",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "S.P.Y.",
+        "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+        "name": "S.P.Y.",
+        "locale": null,
+        "type": "Search hint",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      },
+      {
+        "sort-name": "S.P.Y",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "S.P.Y",
+        "locale": "en",
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": "2005",
+        "end-date": null
+      },
+      {
+        "sort-name": "Spyder",
+        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+        "name": "Spyder",
+        "locale": "en",
+        "type": "Artist name",
+        "primary": null,
+        "begin-date": "2003",
+        "end-date": "2005"
+      },
+      {
+        "sort-name": "Carlos Lima",
+        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+        "name": "Carlos Lima",
+        "locale": "en",
+        "type": "Legal name",
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 1,
+        "name": "electronic"
+      },
+      {
+        "count": 1,
+        "name": "pop"
+      },
+      {
+        "count": 4,
+        "name": "drum and bass"
+      },
+      {
+        "count": 1,
+        "name": "jungle"
+      },
+      {
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "count": 1,
+        "name": "house"
+      },
+      {
+        "count": 1,
+        "name": "breakbeat"
+      },
+      {
+        "count": 1,
+        "name": "breaks"
+      },
+      {
+        "count": 1,
+        "name": "neurofunk"
+      },
+      {
+        "count": 1,
+        "name": "uk garage"
+      },
+      {
+        "count": 1,
+        "name": "bassline"
+      },
+      {
+        "count": 2,
+        "name": "liquid funk"
+      },
+      {
+        "count": 1,
+        "name": "bass house"
+      }
+    ]
+  },
+  {
+    "id": "ee459bd7-9768-4cc2-9452-a09700c4aeaa",
+    "type": "Person",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "score": 100,
+    "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+    "name": "Shy FX",
+    "sort-name": "Shy FX",
+    "gender": "male",
+    "country": "GB",
+    "area": {
+      "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+      "type": "Country",
+      "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+      "name": "United Kingdom",
+      "sort-name": "United Kingdom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "begin-area": {
+      "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+      "type": "City",
+      "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+      "name": "London",
+      "sort-name": "London",
+      "life-span": {
+        "ended": null
+      }
+    },
+    "isnis": [
+      "0000000058385776"
+    ],
+    "life-span": {
+      "begin": "1977-11-28",
+      "ended": null
+    },
+    "aliases": [
+      {
+        "sort-name": "Andre Shy",
+        "name": "Andre Shy",
+        "locale": null,
+        "type": null,
+        "primary": null,
+        "begin-date": null,
+        "end-date": null
+      }
+    ],
+    "tags": [
+      {
+        "count": 3,
+        "name": "drum and bass"
+      },
+      {
+        "count": 2,
+        "name": "jungle"
+      },
+      {
+        "count": 0,
+        "name": "hip hop rnb and dance hall"
+      },
+      {
+        "count": 1,
+        "name": "dubwise"
+      }
+    ]
+  }
+]
