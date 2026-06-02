@@ -3,6 +3,7 @@ import json
 from time import sleep
 
 # using https://mbzero.readthedocs.io/en/latest/index.html
+# and data from https://musicbrainz.org/doc/MusicBrainz_API
 
 USER_AGENT = "schicho/musicbrainzkg"
 
@@ -117,5 +118,29 @@ def download_artists():
         json.dump(artists, f, ensure_ascii=False, indent=2)
 
 
+def lookup_genres(LIMIT: int = 25, OFFSET: int = 0):
+    content = mbr.MbzRequestLookup(USER_AGENT, "genre", "all").send(
+        opts={"limit": LIMIT, "offset": OFFSET}
+    )
+    return json.loads(content)
+
+
+def download_all_genres():
+    genres = []
+    offset = 0
+    limit = 25
+    while True:
+        print(f"Downloading genres {offset} - {offset + limit}")
+        genres_data = lookup_genres(LIMIT=limit, OFFSET=offset)
+        if not genres_data.get("genres"):
+            break
+        genres.extend(genres_data["genres"])
+        offset += limit
+        sleep(1)
+
+    with open("dataset/genres.json", "w") as f:
+        json.dump(genres, f, ensure_ascii=False, indent=2)
+
+
 if __name__ == "__main__":
-    download_artists()
+    download_all_genres()
