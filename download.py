@@ -105,6 +105,39 @@ All artists are queried on MusicBrainz for their releases, recordings, and relat
 """
 
 
+def retry(times, exceptions):
+    """
+    Retry Decorator
+    Retries the wrapped function/method `times` times if the exceptions listed
+    in ``exceptions`` are thrown
+    :param times: The number of times to repeat the wrapped function/method
+    :type times: Int
+    :param Exceptions: Lists of exceptions that trigger a retry attempt
+    :type Exceptions: Tuple of Exceptions
+    """
+
+    # https://stackoverflow.com/a/64030200
+    def decorator(func):
+        def newfn(*args, **kwargs):
+            attempt = 0
+            while attempt < times:
+                try:
+                    return func(*args, **kwargs)
+                except exceptions:
+                    print(
+                        "Exception thrown when attempting to run %s, attempt "
+                        "%d of %d" % (func, attempt, times)
+                    )
+                    attempt += 1
+                    sleep(SLEEP_TIME * 2)
+            return func(*args, **kwargs)
+
+        return newfn
+
+    return decorator
+
+
+@retry(times=5, exceptions=(mbzerror.MbzError,))
 def search_artist_api(name: str) -> dict:
     content = mbr.MbzRequestSearch(
         USER_AGENT,
@@ -136,6 +169,7 @@ def download_search_artists():
         json.dump(artists, f, ensure_ascii=False, indent=2)
 
 
+@retry(times=5, exceptions=(mbzerror.MbzError,))
 def lookup_genres(LIMIT: int = 25, OFFSET: int = 0):
     content = mbr.MbzRequestLookup(USER_AGENT, "genre", "all").send(
         opts={"limit": LIMIT, "offset": OFFSET}
@@ -158,38 +192,6 @@ def download_all_genres():
 
     with open("dataset/genres.json", "w") as f:
         json.dump(genres, f, ensure_ascii=False, indent=2)
-
-
-def retry(times, exceptions):
-    """
-    Retry Decorator
-    Retries the wrapped function/method `times` times if the exceptions listed
-    in ``exceptions`` are thrown
-    :param times: The number of times to repeat the wrapped function/method
-    :type times: Int
-    :param Exceptions: Lists of exceptions that trigger a retry attempt
-    :type Exceptions: Tuple of Exceptions
-    """
-
-    # https://stackoverflow.com/a/64030200
-    def decorator(func):
-        def newfn(*args, **kwargs):
-            attempt = 0
-            while attempt < times:
-                try:
-                    return func(*args, **kwargs)
-                except exceptions:
-                    print(
-                        "Exception thrown when attempting to run %s, attempt "
-                        "%d of %d" % (func, attempt, times)
-                    )
-                    attempt += 1
-                    sleep(SLEEP_TIME * 2)
-            return func(*args, **kwargs)
-
-        return newfn
-
-    return decorator
 
 
 @retry(times=5, exceptions=(mbzerror.MbzError,))
