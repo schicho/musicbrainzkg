@@ -516,6 +516,7 @@ dependencies = [
     { name = "dotenv" },
     { name = "mbzero" },
     { name = "neo4j" },
+    { name = "pandas" },
     { name = "pykeen" },
 ]
 
@@ -524,6 +525,7 @@ requires-dist = [
     { name = "dotenv", specifier = ">=0.9.9" },
     { name = "mbzero", specifier = ">=0.5" },
     { name = "neo4j", specifier = ">=6.2.0" },
+    { name = "pandas", specifier = ">=3.0.3" },
     { name = "pykeen", specifier = ">=1.11.1" },
 ]
 

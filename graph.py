@@ -1,5 +1,7 @@
+import argparse
 import os
 
+import pandas as pd
 from neo4j import Driver, GraphDatabase
 
 from config import NEO4J_PASSWORD, NEO4J_URI, NEO4J_USER
@@ -190,7 +192,12 @@ def load_releases(driver: Driver, filepath: str):
         create_release_release_group_recording_nodes(driver, releases, artist_id)
 
 
-if __name__ == "__main__":
+def load_into_neo4j():
+    """
+    Clears the entire (!) graph and loads the downloaded data into Neo4j.
+    Make sure to run the download script first to have the data available in the dataset directory.
+    """
+
     driver = get_driver()
     create_constraints(driver)
     clear_graph(driver)
@@ -198,3 +205,56 @@ if __name__ == "__main__":
     load_artists(driver, "dataset/artists.json")
     load_releases(driver, "dataset/releases")
     driver.close()
+
+
+def export_triples():
+    """
+    Exports all triples in the graph to a TSV file.
+    """
+
+    OUTPUT_DIR = "export"
+    OUTPUT_FILE = os.path.join(OUTPUT_DIR, "triples.tsv")
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    triples = []
+    driver = get_driver()
+
+    with driver.session() as s:
+        # store all triples in the graph in a dataframe
+        result = s.run(
+            """
+            MATCH (a)-[rel]->(b)
+            WHERE a.id IS NOT NULL AND b.id IS NOT NULL
+            RETURN a.id AS head, type(rel) AS relation, b.id AS tail
+            """
+        )
+        for record in result:
+            triples.append(
+                {
+                    "head": record["head"],
+                    "relation": record["relation"],
+                    "tail": record["tail"],
+                }
+            )
+
+    df = pd.DataFrame(triples)
+    df.to_csv(OUTPUT_FILE, sep="\t", index=False)
+    print(f"Exported {len(df)} triples to {OUTPUT_FILE}")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "mode",
+        choices=["load", "export"],
+        help="Specify which operation to perform",
+    )
+    args = parser.parse_args()
+
+    if args.mode == "load":
+        load_into_neo4j()
+    elif args.mode == "export":
+        export_triples()
+    else:
+        print(f"Unknown mode: {args.mode}")
