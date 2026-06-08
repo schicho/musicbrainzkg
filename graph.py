@@ -1,13 +1,12 @@
-from neo4j import Driver, GraphDatabase
 import os
+
+from neo4j import Driver, GraphDatabase
 
 from config import NEO4J_PASSWORD, NEO4J_URI, NEO4J_USER
 from entities import (
     Artist,
     Genre,
-    Recording,
     Release,
-    ReleaseGroup,
     parse_artists_file,
     parse_genres_file,
     parse_releases_file,
