@@ -14,6 +14,19 @@ from entities import (
     parse_releases_file,
 )
 
+"""
+This module contains functions to load the downloaded data into a Neo4j graph database and to export all triples in the graph to a TSV file.
+Make sure to run the download script first to have the data available in the dataset directory.
+
+You can run this module with the following command to load the data into Neo4j:
+python graph.py load
+
+WARNING: The load command will clear the entire graph before loading the new data, so make sure to back up any existing data in the graph if you want to keep it.
+
+With the following command you can export all triples in the graph to a TSV file:
+python graph.py export
+"""
+
 
 def get_driver() -> Driver:
     return GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))

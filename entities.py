@@ -1,5 +1,7 @@
+import json
+
 """
-This models the basic entities of the MusicBrainz knowledge graph:
+This file models the basic entities of the MusicBrainz knowledge graph:
 Artist, Recording, Release, ReleaseGroup, and Genre.
 Relationships between these entities are not modeled here,
 but rather provided later through relationships in the graph database.
@@ -16,8 +18,6 @@ The basic relationships are as follows:
 The Genre hasGenre relationship additionally has a "count" property which indicates how strongly this genre is associated with the entity.
 This is derived from the "count" field in the MusicBrainz API, which indicates how many times this genre has been applied to the entity by users.
 """
-
-import json
 
 
 class Genre:
@@ -154,15 +154,15 @@ def parse_genres_file(filepath: str) -> list[Genre]:
     return genres
 
 
-if __name__ == "__main__":
-    test_file = (
-        "dataset/releases/r_scott_garcia_01cfa586-2a9a-46c8-95ab-7b05e25eae62.json"
-    )
-
-    releases = parse_releases_file(test_file)
-    for release in releases:
-        print(json.dumps(release.__dict__, default=lambda o: o.__dict__, indent=2))
-
-    artists = parse_artists_file("dataset/artists.json")
-    for artist in artists:
-        print(json.dumps(artist.__dict__, default=lambda o: o.__dict__, indent=2))
+# if __name__ == "__main__":
+#     test_file = (
+#         "dataset/releases/r_scott_garcia_01cfa586-2a9a-46c8-95ab-7b05e25eae62.json"
+#     )
+#
+#     releases = parse_releases_file(test_file)
+#     for release in releases:
+#         print(json.dumps(release.__dict__, default=lambda o: o.__dict__, indent=2))
+#
+#     artists = parse_artists_file("dataset/artists.json")
+#     for artist in artists:
+#         print(json.dumps(artist.__dict__, default=lambda o: o.__dict__, indent=2))
