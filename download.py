@@ -17,6 +17,9 @@ By including ["recordings", "release-groups", "genres"] in the inc parameter of 
 we also get the recordings, release groups, and genres of the releases. This allows us to link artists to releases, releases to release groups,
 and all entities to genres in the graph.
 
+FOR YOUR CONVENIENCE: The artists and genres have already been downloaded and are available in the dataset folder.
+You are only required to run step 2 to download the releases for each artist.
+
 using https://mbzero.readthedocs.io/en/latest/index.html
 and data from https://musicbrainz.org/doc/MusicBrainz_API
 """
