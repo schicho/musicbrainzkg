@@ -43,7 +43,9 @@ Afterwards you can export the relationship triples with:
 uv run graph.py export
 ```
 
-The triples will be stored in `export/triples.tsv`. We already provide the triples in this repository.
+The triples will be stored in `export/triples.tsv`.
+
+We provide the exported ~73k triples in this repository (before any logical/embedding-based genre inference).
 
 #### The Knowledge Graph
 
