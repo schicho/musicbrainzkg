@@ -12,6 +12,12 @@ The genres of the ReleaseGroup are then propagated to the Release and Recording 
 
 This allows us to infer genres for Recordings and Releases that do not have any genre annotations, but belong to a ReleaseGroup that has genre annotations.
 The inferred genres are added as new nodes in the graph and connected to the respective entities with a new relationship type INFERRED_GENRE.
+
+Written as datalog rules, the inference can be expressed as follows:
+
+INFERRED_GENRE(rel, g) :- HAS_GENRE(rg, g), HAS_RELEASE(rg, rel)
+INFERRED_GENRE(rec, g) :- HAS_GENRE(rg, g), HAS_RELEASE(rg, rel), HAS_RECORDING(rel, rec)
+INFERRED_GENRE(rec, g) :- HAS_GENRE(rel, g), HAS_RECORDING(rel, rec)
 """
 
 

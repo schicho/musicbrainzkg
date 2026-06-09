@@ -124,7 +124,7 @@ We were able to increase the percentage of genre labeled Releases and Recordings
 Also testing the validity of our inferred genres we have correctly inferred Release genres at ~80% accuracy
 and Recordings at ~90%.
 
-Our test uses ground truth labeled Releases/Recordings and test whether they have been
+Our test uses ground truth labeled Releases/Recordings and tests whether they have been
 inferred at least one of these genres.
 
 Overall, the numbers show a strong success and accuracy of this methodology.
