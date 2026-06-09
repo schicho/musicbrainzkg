@@ -117,3 +117,14 @@ ReleaseGroup:  1563 with labeled genre,  1646 unlabeled,  3209 total, 48.71% lab
 Release     :  3421 with labeled genre,  1750 unlabeled,  5171 total, 66.16% labeled
 Recording   : 11039 with labeled genre,  5089 unlabeled, 16128 total, 68.45% labeled
 ```
+
+We were able to increase the percentage of genre labeled Releases and Recordings from
+14.35% and 15.03% to 66.16% and 68.45%, respectively.
+
+Also testing the validity of our inferred genres we have correctly inferred Release genres at ~80% accuracy
+and Recordings at ~90%.
+
+Our test uses ground truth labeled Releases/Recordings and test whether they have been
+inferred at least one of these genres.
+
+Overall, the numbers show a strong success and accuracy of this methodology.
