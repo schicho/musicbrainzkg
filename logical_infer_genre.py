@@ -37,7 +37,7 @@ def count_genre_relations(driver: Driver):
             )
             for record in result:
                 print(
-                    f"{type:<12}: withGenre = {record['withGenre']:>5}, withoutGenre = {record['withoutGenre']:>5}, all = {record['all']:>5}, percentageWithGenre = {record['percentageWithGenre']:.2f}%"
+                    f"{type:<12}: {record['withGenre']:>5} with labeled genre, {record['withoutGenre']:>5} unlabeled, {record['all']:>5} total, {record['percentageWithGenre']:.2f}% labeled"
                 )
 
 
@@ -73,13 +73,13 @@ def derive_inferable_genre_statistics(driver: Driver):
         print("\n" + "=" * 80)
         print("Inferable Genres Statistics")
         print(
-            f"Release:   with inferred genres from ReleaseGroup = {count_inferred_from_rg_release:>5}, which didn't have any genre before"
+            f"Release:   {count_inferred_from_rg_release:>5} could have genres inferred from their ReleaseGroup, which didn't have any genre before"
         )
         print(
-            f"Recording: with inferred genres from ReleaseGroup = {count_inferred_from_rg_recording:>5}, which didn't have any genre before"
+            f"Recording: {count_inferred_from_rg_recording:>5} could have genres inferred from their ReleaseGroup, which didn't have any genre before"
         )
         print(
-            f"Recording: with inferred genres from Release      = {count_inferred_from_rel_recording:>5}, which didn't have any genre before"
+            f"Recording: {count_inferred_from_rel_recording:>5} could have genres inferred from their Release, which didn't have any genre before"
         )
 
 
@@ -137,13 +137,13 @@ def calculate_correct_inference_percentage(driver: Driver):
         print("Correct Inference Percentage")
         if total_inferred_releases > 0:
             print(
-                f"Release:   {correct_inferred_releases} out of {total_inferred_releases} inferred genres match a labeled genre ({(correct_inferred_releases / total_inferred_releases) * 100:.2f}%)"
+                f"Release:   {correct_inferred_releases:>5} out of {total_inferred_releases:>5} inferred genres match a labeled genre ({(correct_inferred_releases / total_inferred_releases) * 100:.2f}%)"
             )
         else:
             print("Release:   No inferred genres to evaluate.")
         if total_inferred_recordings > 0:
             print(
-                f"Recording: {correct_inferred_recordings} out of {total_inferred_recordings} inferred genres match a labeled genre ({(correct_inferred_recordings / total_inferred_recordings) * 100:.2f}%)"
+                f"Recording: {correct_inferred_recordings:>5} out of {total_inferred_recordings:>5} inferred genres match a labeled genre ({(correct_inferred_recordings / total_inferred_recordings) * 100:.2f}%)"
             )
         else:
             print("Recording: No inferred genres to evaluate.")
@@ -176,7 +176,7 @@ def count_genre_relations_with_inferred(driver: Driver):
             )
             for record in result:
                 print(
-                    f"{type:<12}: withGenre = {record['withGenre']:>5}, withoutGenre = {record['withoutGenre']:>5}, all = {record['all']:>5}, percentageWithGenre = {record['percentageWithGenre']:.2f}%"
+                    f"{type:<12}: {record['withGenre']:>5} with labeled genre, {record['withoutGenre']:>5} unlabeled, {record['all']:>5} total, {record['percentageWithGenre']:.2f}% labeled"
                 )
 
 
