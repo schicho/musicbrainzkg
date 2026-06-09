@@ -1,7 +1,7 @@
 [project]
 name = "musicbrainzkg"
 version = "0.1.0"
-description = "Add your description here"
+description = "MusicBrainz Knowledge Graph Project for the Knowledge Graphs lecture 192.194 https://kg.dbai.tuwien.ac.at/kg-course/"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
