@@ -45,6 +45,8 @@ uv run graph.py export
 
 The triples will be stored in `export/triples.tsv`. We already provide the triples in this repository.
 
+#### The Knowledge Graph
+
 In the end the knowledge graph consists of 26,724 nodes:
 
 | Entity       | Count |
@@ -56,8 +58,6 @@ In the end the knowledge graph consists of 26,724 nodes:
 | Genre        |  2146 |
 
 and 15438 `:HAS_GENRE` relationships across Artists, ReleaseGroup, Release and Recording.
-
-#### The Knowledge Graph
 
 The Knowledge Graph we have created maps:
 
