@@ -2,9 +2,8 @@ import argparse
 import os
 
 import pandas as pd
-from neo4j import Driver, GraphDatabase
+from neo4j import Driver
 
-from config import NEO4J_PASSWORD, NEO4J_URI, NEO4J_USER
 from entities import (
     Artist,
     Genre,
@@ -13,6 +12,7 @@ from entities import (
     parse_genres_file,
     parse_releases_file,
 )
+from neo4j_conn import get_driver
 
 """
 This module contains functions to load the downloaded data into a Neo4j graph database and to export all triples in the graph to a TSV file.
@@ -26,10 +26,6 @@ WARNING: The load command will clear the entire graph before loading the new dat
 With the following command you can export all triples in the graph to a TSV file:
 python graph.py export
 """
-
-
-def get_driver() -> Driver:
-    return GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
 
 def clear_graph(driver: Driver):
