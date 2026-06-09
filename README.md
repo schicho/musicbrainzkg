@@ -128,3 +128,7 @@ Our test uses ground truth labeled Releases/Recordings and tests whether they ha
 inferred at least one of these genres.
 
 Overall, the numbers show a strong success and accuracy of this methodology.
+
+### 4. Embedding-based Genre Classification
+
+todo
