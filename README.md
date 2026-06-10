@@ -197,3 +197,77 @@ Hits@10: 0.8170
 MRR: 0.4784
 ```
 
+#### Experiments with Certain Relations Removed
+
+
+ARTIST_OF REMOVED
+
+```
+Original dataset size: 73104 triples
+Dataset size after restriction: 48369 triples
+Split sizes: training=38695, testing=4837, validation=4837
+Split sizes after restriction: training=38695, testing=1921, validation=1976
+
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (1921 test triples)
+Hits@1: 0.1208
+Hits@3: 0.2514
+Hits@5: 0.3441
+Hits@10: 0.5065
+MRR: 0.2413
+```
+
+HAS_RELEASE REMOVED
+
+```
+Original dataset size: 73104 triples
+Dataset size after restriction: 67933 triples
+Split sizes: training=54346, testing=6793, validation=6794
+Split sizes after restriction: training=54346, testing=1561, validation=1581
+
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (1561 test triples)
+Hits@1: 0.1397
+Hits@3: 0.2659
+Hits@5: 0.3523
+Hits@10: 0.5099
+MRR: 0.2563
+```
+
+HAS_RECORDING REMOVED
+
+```
+Original dataset size: 73104 triples
+Dataset size after restriction: 45345 triples
+Split sizes: training=36276, testing=4534, validation=4535
+Split sizes after restriction: training=36276, testing=2203, validation=2069
+
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (2203 test triples)
+Hits@1: 0.1167
+Hits@3: 0.2669
+Hits@5: 0.3509
+Hits@10: 0.4980
+MRR: 0.2404
+```
+
+ARTIST_OF and HAS_RECORDING REMOVED
+
+```
+Original dataset size: 73104 triples
+Dataset size after restriction: 20610 triples
+Split sizes: training=16488, testing=2061, validation=2061
+Split sizes after restriction: training=16488, testing=1958, validation=1954
+
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (1958 test triples)
+Hits@1: 0.0986
+Hits@3: 0.1987
+Hits@5: 0.2835
+Hits@10: 0.3626
+MRR: 0.1772
+```

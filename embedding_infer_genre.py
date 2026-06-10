@@ -126,6 +126,16 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     tf = load_triples(TRIPLES_PATH)
+
+    # Experiment with removing certain triples of dataset to see how it affects the performance of the model on the HAS_GENRE relation.
+    # e.g. removing all triples with the ARTIST_OF relation, or HAS_RELEASE relation.
+    # This needs adjusting for the early stopping parameters.
+    # DistMult requires frequency=10 and patience=5, while TransE can be trained with frequency=5 and patience=3.
+
+    # print(f"Original dataset size: {tf.num_triples} triples")
+    # tf = tf.new_with_restriction(relations=["ARTIST_OF"], invert_relation_selection=True)
+    # print(f"Dataset size after restriction: {tf.num_triples} triples")
+
     training, testing, validation = tf.split(
         [0.8, 0.1, 0.1], random_state=DEFAULT_RANDOM_SEED
     )
