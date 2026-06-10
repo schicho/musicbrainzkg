@@ -199,8 +199,15 @@ MRR: 0.4784
 
 #### Experiments with Certain Relations Removed
 
+To understand how the models infer the genres we have run experiments where we omitted
+triples of certain relations from the dataset. All the following statistics have been collected
+on `DistMult` models.
 
-ARTIST_OF REMOVED
+We can see that removing either relation drops Hits@10 by ten percentage points. When removing
+multiple, it falls even more. The models learn the structure of our graph and how to infer the genres
+similar to our logical inference approach.
+
+`ARTIST_OF` removed
 
 ```
 Original dataset size: 73104 triples
@@ -218,7 +225,7 @@ Hits@10: 0.5065
 MRR: 0.2413
 ```
 
-HAS_RELEASE REMOVED
+`HAS_RELEASE` removed
 
 ```
 Original dataset size: 73104 triples
@@ -236,7 +243,7 @@ Hits@10: 0.5099
 MRR: 0.2563
 ```
 
-HAS_RECORDING REMOVED
+`HAS_RECORDING` removed
 
 ```
 Original dataset size: 73104 triples
@@ -254,7 +261,7 @@ Hits@10: 0.4980
 MRR: 0.2404
 ```
 
-ARTIST_OF and HAS_RECORDING REMOVED
+`ARTIST_OF` and `HAS_RECORDING` removed
 
 ```
 Original dataset size: 73104 triples
