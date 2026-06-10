@@ -131,8 +131,20 @@ inferred at least one of these genres.
 
 Overall, the numbers show a strong success and accuracy of this methodology.
 
-### 4. Embedding-based Genre Classification
+### 4. Embedding-based Inference of Genres
 
+Next to the logical genre reasoning from the previous section, we also used knowledge graph embedding models
+to predict the genres.
+
+The exported ~72k triples of our knowledge graph were 0.8/0.1/0.1 split into a training/testing/validation set.
+We report the Hits@1, Hits@3, Hits@5, and Hits@10 and MRR metric for predicting the `HAS_GENRE` tail.
+
+This fourth part of the project has also been an interesting learning experience for the author of this project.
+While initial attempts have always blindly trained each model for 200 epochs, this was found to have degraded `HAS_GENRE`
+tail prediction performance. The models learned to predict all triples, which lead to overfitting the data, and
+diminished genre classification performance. In the end this was solved by adding an early stopper to the ML pipeline,
+which would evaluate Hits@10 every 5 epochs on a validation set purely consisting of triples of the `HAS_GENRE` relation.
+For both TransE and DistMult that lead to an increase of more than 10 percentage points for Hits@10.
 
 #### TransE
 
@@ -143,9 +155,12 @@ uv run embedding_infer_genre.py --model TransE
 ```
 ================================================================================
 Evaluation results (tail prediction - genre prediction):
-Evaluation on HAS_GENRE (3133 test triples)
-Hits@10: 0.3118
-MRR: 0.1565
+Evaluation on HAS_GENRE (1585 test triples)
+Hits@1: 0.0940
+Hits@3: 0.2088
+Hits@5: 0.2915
+Hits@10: 0.4303
+MRR: 0.1993
 ```
 
 #### DistMult
@@ -157,9 +172,12 @@ uv run embedding_infer_genre.py --model DistMult
 ```
 ================================================================================
 Evaluation results (tail prediction - genre prediction):
-Evaluation on HAS_GENRE (3133 test triples)
-Hits@10: 0.5426
-MRR: 0.2910
+Evaluation on HAS_GENRE (1585 test triples)
+Hits@1: 0.1577
+Hits@3: 0.3514
+Hits@5: 0.4719
+Hits@10: 0.6328
+MRR: 0.3054
 ```
 
 
