@@ -180,5 +180,20 @@ Hits@10: 0.6328
 MRR: 0.3054
 ```
 
+#### RotatE
 
+```
+uv run embedding_infer_genre.py --model RotatE
+```
+
+```
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (1585 test triples)
+Hits@1: 0.3098
+Hits@3: 0.5874
+Hits@5: 0.6927
+Hits@10: 0.8170
+MRR: 0.4784
+```
 
