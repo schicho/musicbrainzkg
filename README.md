@@ -133,4 +133,34 @@ Overall, the numbers show a strong success and accuracy of this methodology.
 
 ### 4. Embedding-based Genre Classification
 
-todo
+
+#### TransE
+
+```
+uv run embedding_infer_genre.py --model TransE
+```
+
+```
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (3133 test triples)
+Hits@10: 0.3118
+MRR: 0.1565
+```
+
+#### DistMult
+
+```
+uv run embedding_infer_genre.py --model DistMult
+```
+
+```
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (3133 test triples)
+Hits@10: 0.5426
+MRR: 0.2910
+```
+
+
+

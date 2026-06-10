@@ -1,2 +1,8 @@
 *
 !.gitignore
+
+!TransE_2026-06-10_16-28-51/
+!TransE_2026-06-10_16-28-51/results.json
+
+!DistMult_2026-06-10_16-43-04/
+!DistMult_2026-06-10_16-43-04/results.json
