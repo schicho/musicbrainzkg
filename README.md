@@ -214,6 +214,30 @@ Hits@10: 0.8170
 MRR: 0.4784
 ```
 
+#### ComplEx
+
+We have also run a training pipeline with the ComplEx model,
+which is considered a powerful model and required a long time to train.
+Usually, one can expect excellent results.
+
+However, it completetly failed on the genre prediction task. It is likely
+the wrong tool for the problem at hand.
+
+```
+uv run embedding_infer_genre.py --model ComplEx
+```
+
+```
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (1585 test triples)
+Hits@1: 0.0006
+Hits@3: 0.0038
+Hits@5: 0.0063
+Hits@10: 0.0101
+MRR: 0.0054
+```
+
 #### Experiments with Certain Relations Removed
 
 To understand how the models infer the genres we have run experiments where we omitted
