@@ -163,6 +163,23 @@ Hits@10: 0.4303
 MRR: 0.1993
 ```
 
+#### PairRE
+
+```
+uv run embedding_infer_genre.py --model PairRE
+```
+
+```
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (1585 test triples)
+Hits@1: 0.0820
+Hits@3: 0.2290
+Hits@5: 0.3590
+Hits@10: 0.5287
+MRR: 0.2144
+```
+
 #### DistMult
 
 ```
@@ -214,6 +231,23 @@ Hits@10: 0.8170
 MRR: 0.4784
 ```
 
+#### QuatE
+
+```
+uv run embedding_infer_genre.py --model QuatE
+```
+
+```
+================================================================================
+Evaluation results (tail prediction - genre prediction):
+Evaluation on HAS_GENRE (1585 test triples)
+Hits@1: 0.4662
+Hits@3: 0.6757
+Hits@5: 0.7432
+Hits@10: 0.8309
+MRR: 0.5936
+```
+
 #### ComplEx
 
 We have also run a training pipeline with the ComplEx model,
@@ -221,7 +255,8 @@ which is considered a powerful model and required a long time to train.
 Usually, one can expect excellent results.
 
 However, it completetly failed on the genre prediction task. It is likely
-the wrong tool for the problem at hand.
+the wrong tool for the problem at hand. We also continued running experiments
+with adjusted parameters, all of which were unsuccessful.
 
 ```
 uv run embedding_infer_genre.py --model ComplEx
@@ -238,15 +273,21 @@ Hits@10: 0.0101
 MRR: 0.0054
 ```
 
-#### Experiments with Certain Relations Removed
+#### Relation-Level Ablation Study
 
-To understand how the models infer the genres we have run experiments where we omitted
-triples of certain relations from the dataset. All the following statistics have been collected
-on `DistMult` models.
+To understand how the models infer genres, we conducted a relation-level ablation study
+in which triples of selected relation types were removed from the dataset.
+All statistics were collected using the DistMult model.
 
-We can see that removing either relation drops Hits@10 by ten percentage points. When removing
-multiple, it falls even more. The models learn the structure of our graph and how to infer the genres
-similar to our logical inference approach.
+We can see that removing individual relations drops Hits@10 by ten percentage points.
+When removing multiple, it falls even further.
+The results suggest that genre prediction is largely driven by tructural patterns in the graph,
+i.e. relational shortcuts such as shared artists or release groupings,
+rather than being inferred from isolated triples.
+
+Note that part of the observed performance drop may also be attributed to the reduced size
+ of the training data after removing triples, and not solely to the absence of the corresponding relations.
+
 
 `ARTIST_OF` removed
 
