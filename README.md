@@ -2,6 +2,25 @@
 
 MusicBrainz Knowledge Graph Project for the Knowledge Graphs lecture 192.194 https://kg.dbai.tuwien.ac.at/kg-course/
 
+## Introduction
+
+Electronic Dance Music (EDM) is an umbrella term for
+contemporary dance music. EDM has many (sub) genres, which are often quite similar.
+The MusicBrainz encyclopedia has entries for many EDM artists' albums and tracks,
+but are often not assigned their musical genre. We want to detect those and be able to complete the data.
+
+Manually studying and categorizing the individual entries is time
+consuming and would require listening to the music or having prior knowledge,
+which a MusicBrainz editor may not have. In this project, we want to solve this
+by building a Knowledge Graph that can infer missing genre classifications.
+
+The solution is a logic-based KG that describes artists’ creative work
+space, including their tracks, albums and live performances. This can already
+infer some data, if for instance an album is already labeled a genre, but its
+tracks are not, the tracks' genres can be logically reasoned, as they
+define the album's. Additionally, a KG embedding-based component is used for
+classification that is not easily inferred logically.
+
 ## Setup
 
 This project assumes you have the very good `uv` Python package manager installed.
