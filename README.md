@@ -48,6 +48,10 @@ uv run download.py releases
 
 This may take a little while, as we adhere to MusicBrainz' rate-limiting. Do not worry about being rate-limited and the download being interrupted. You can stop and resume downloading any time. Just rerun the script.
 
+#### Optional: Bring your own Artists
+
+`download.py` contains our list of 70 selected artists. You can modify or extend this list to include more artists. Subsequently, run `uv run download.py artist-search`. This will overwrite `dataset/artists.json`. Afterwards, make sure to run the releases download from the step above again to include the releases of the newly added artists.
+
 ### 2. Ingesting the Data into Neo4j
 
 After the dataset download has completed the knowledge graph can be created in Neo4j by running:
