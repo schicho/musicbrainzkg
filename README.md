@@ -54,7 +54,11 @@ This may take a little while, as we adhere to MusicBrainz' rate-limiting. Do not
 
 ### 2. Ingesting the Data into Neo4j
 
-After the dataset download has completed the knowledge graph can be created in Neo4j by running:
+After the dataset download has completed the knowledge graph can be created in Neo4j.
+
+**NOTE:** This deletes all data, which is currently stored in your Neo4j database. Backup any data you may want to keep!
+
+You can load the dataset into Neo4j with:
 
 ```
 uv run graph.py load
