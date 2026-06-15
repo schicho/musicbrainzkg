@@ -308,7 +308,7 @@ All statistics were collected using the DistMult model.
 
 We can see that removing individual relations drops Hits@10 by ten percentage points.
 When removing multiple, it falls even further.
-The results suggest that genre prediction is largely driven by tructural patterns in the graph,
+The results suggest that genre prediction is largely driven by structural patterns in the graph,
 i.e. relational shortcuts such as shared artists or release groupings,
 rather than being inferred from isolated triples.
 
