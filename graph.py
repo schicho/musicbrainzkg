@@ -28,6 +28,53 @@ python graph.py export
 """
 
 
+def _genre_to_dict(genre: Genre):
+    return {"id": genre.id, "name": genre.name, "count": genre.count}
+
+
+def _artist_to_dict(artist: Artist):
+    return {
+        "id": artist.id,
+        "name": artist.name,
+        "type": artist.type,
+        "country": artist.country,
+        "genres": [_genre_to_dict(genre) for genre in artist.genres],
+    }
+
+
+def _recording_to_dict(recording):
+    return {
+        "id": recording.id,
+        "title": recording.title,
+        "length": recording.length,
+        "genres": [_genre_to_dict(genre) for genre in recording.genres],
+    }
+
+
+def _release_group_to_dict(release_group):
+    return {
+        "id": release_group.id,
+        "title": release_group.title,
+        "first_release_date": release_group.first_release_date,
+        "primary_type": release_group.primary_type,
+        "genres": [_genre_to_dict(genre) for genre in release_group.genres],
+    }
+
+
+def _release_to_dict(release: Release):
+    return {
+        "id": release.id,
+        "title": release.title,
+        "date": release.date,
+        "country": release.country,
+        "genres": [_genre_to_dict(genre) for genre in release.genres],
+        "recordings": [
+            _recording_to_dict(recording) for recording in release.recordings
+        ],
+        "release_group": _release_group_to_dict(release.release_group),
+    }
+
+
 def clear_graph(driver: Driver):
     with driver.session() as s:
         s.run("MATCH (n) DETACH DELETE n")
@@ -50,14 +97,16 @@ def create_constraints(driver):
 
 
 def create_genre_nodes(driver: Driver, genres: list[Genre]):
+    genre_rows = [_genre_to_dict(genre) for genre in genres]
     with driver.session() as s:
-        for genre in genres:
-            print(f"Creating genre node for {genre.name} ({genre.id})")
-            s.run(
-                "MERGE (g:Genre {id: $id}) SET g.name = $name",
-                id=genre.id,
-                name=genre.name,
-            )
+        s.run(
+            """
+            UNWIND $genres AS genre
+            MERGE (g:Genre {id: genre.id})
+            SET g.name = genre.name
+            """,
+            genres=genre_rows,
+        )
 
 
 def load_genres(driver: Driver, filepath: str):
@@ -66,26 +115,26 @@ def load_genres(driver: Driver, filepath: str):
 
 
 def create_artist_nodes(driver: Driver, artists: list[Artist]):
+    artist_rows = [_artist_to_dict(artist) for artist in artists]
     with driver.session() as s:
-        for artist in artists:
-            print(f"Creating artist node for {artist.name} ({artist.id})")
-            # create artist node
-            s.run(
-                "MERGE (a:Artist {id: $id}) SET a.name = $name, a.type = $type, a.country = $country",
-                id=artist.id,
-                name=artist.name,
-                type=artist.type,
-                country=artist.country,
-            )
-
-            # create relationships to genres (we have to find them by name, since we don't have the id in the artist data)
-            for genre in artist.genres:
-                s.run(
-                    "MATCH (a:Artist {id: $artist_id}), (g:Genre {name: $genre_name}) "
-                    "MERGE (a)-[:HAS_GENRE]->(g)",
-                    artist_id=artist.id,
-                    genre_name=genre.name,
-                )
+        s.run(
+            """
+            UNWIND $artists AS artist
+            MERGE (a:Artist {id: artist.id})
+            SET a.name = artist.name, a.type = artist.type, a.country = artist.country
+            """,
+            artists=artist_rows,
+        )
+        s.run(
+            """
+            UNWIND $artists AS artist
+            MATCH (a:Artist {id: artist.id})
+            UNWIND coalesce(artist.genres, []) AS genre
+            MATCH (g:Genre {name: genre.name})
+            MERGE (a)-[:HAS_GENRE]->(g)
+            """,
+            artists=artist_rows,
+        )
 
 
 def load_artists(driver: Driver, filepath: str):
@@ -94,111 +143,95 @@ def load_artists(driver: Driver, filepath: str):
 
 
 def create_release_release_group_recording_nodes(
-    driver: Driver, releases: list[Release], artist_id: str
+    driver: Driver, release_entries: list[dict]
 ):
+    release_rows = [
+        {"artist_id": entry["artist_id"], **_release_to_dict(entry["release"])}
+        for entry in release_entries
+    ]
     with driver.session() as s:
-        for release in releases:
-            # create release node
-            s.run(
-                "MERGE (r:Release {id: $id}) SET r.title = $title, r.date = $date, r.country = $country",
-                id=release.id,
-                title=release.title,
-                date=release.date,
-                country=release.country,
-            )
-
-            # create relationships to genres
-            for genre in release.genres:
-                s.run(
-                    "MATCH (r:Release {id: $release_id}), (g:Genre {id: $genre_id}) "
-                    "MERGE (r)-[:HAS_GENRE {count: $count}]->(g)",
-                    release_id=release.id,
-                    genre_id=genre.id,
-                    count=genre.count,
-                )
-
-            # create relationship from artist to release
-            s.run(
-                "MATCH (a:Artist {id: $artist_id}), (r:Release {id: $release_id}) "
-                "MERGE (a)-[:ARTIST_OF]->(r)",
-                artist_id=artist_id,
-                release_id=release.id,
-            )
-
-            # create release group node
-            s.run(
-                """MERGE (rg:ReleaseGroup {id: $id})
-                SET rg.title = $title, rg.first_release_date = $first_release_date, rg.primary_type = $primary_type""",
-                id=release.release_group.id,
-                title=release.release_group.title,
-                first_release_date=release.release_group.first_release_date,
-                primary_type=release.release_group.primary_type,
-            )
-
-            # create relationships to genres
-            for genre in release.release_group.genres:
-                s.run(
-                    "MATCH (rg:ReleaseGroup {id: $release_group_id}), (g:Genre {id: $genre_id}) "
-                    "MERGE (rg)-[:HAS_GENRE {count: $count}]->(g)",
-                    release_group_id=release.release_group.id,
-                    genre_id=genre.id,
-                    count=genre.count,
-                )
-
-            s.run(
-                "MATCH (a:Artist {id: $artist_id}), (rg:ReleaseGroup {id: $release_group_id}) "
-                "MERGE (a)-[:ARTIST_OF]->(rg)",
-                artist_id=artist_id,
-                release_group_id=release.release_group.id,
-            )
-
-            # create relationship from release group to release
-            s.run(
-                "MATCH (rg:ReleaseGroup {id: $release_group_id}), (r:Release {id: $release_id}) "
-                "MERGE (rg)-[:HAS_RELEASE]->(r)",
-                release_group_id=release.release_group.id,
-                release_id=release.id,
-            )
-
-            # create recording nodes and relationships to release and genres
-            for recording in release.recordings:
-                s.run(
-                    "MERGE (rec:Recording {id: $id}) SET rec.title = $title, rec.length = $length",
-                    id=recording.id,
-                    title=recording.title,
-                    length=recording.length,
-                )
-                s.run(
-                    "MATCH (r:Release {id: $release_id}), (rec:Recording {id: $recording_id}) "
-                    "MERGE (r)-[:HAS_RECORDING]->(rec)",
-                    recording_id=recording.id,
-                    release_id=release.id,
-                )
-                for genre in recording.genres:
-                    s.run(
-                        "MATCH (rec:Recording {id: $recording_id}), (g:Genre {id: $genre_id}) "
-                        "MERGE (rec)-[:HAS_GENRE {count: $count}]->(g)",
-                        recording_id=recording.id,
-                        genre_id=genre.id,
-                        count=genre.count,
-                    )
-
-                s.run(
-                    "MATCH (a:Artist {id: $artist_id}), (rec:Recording {id: $recording_id}) "
-                    "MERGE (a)-[:ARTIST_OF]->(rec)",
-                    artist_id=artist_id,
-                    recording_id=recording.id,
-                )
+        s.run(
+            """
+            UNWIND $releases AS release
+            MERGE (r:Release {id: release.id})
+            SET r.title = release.title, r.date = release.date, r.country = release.country
+            """,
+            releases=release_rows,
+        )
+        s.run(
+            """
+            UNWIND $releases AS release
+            MATCH (a:Artist {id: release.artist_id})
+            MATCH (r:Release {id: release.id})
+            MERGE (a)-[:ARTIST_OF]->(r)
+            MERGE (rg:ReleaseGroup {id: release.release_group.id})
+            SET rg.title = release.release_group.title,
+                rg.first_release_date = release.release_group.first_release_date,
+                rg.primary_type = release.release_group.primary_type
+            MERGE (a)-[:ARTIST_OF]->(rg)
+            MERGE (rg)-[:HAS_RELEASE]->(r)
+            """,
+            releases=release_rows,
+        )
+        s.run(
+            """
+            UNWIND $releases AS release
+            MATCH (r:Release {id: release.id})
+            UNWIND coalesce(release.genres, []) AS genre
+            MATCH (g:Genre {id: genre.id})
+            MERGE (r)-[:HAS_GENRE {count: genre.count}]->(g)
+            """,
+            releases=release_rows,
+        )
+        s.run(
+            """
+            UNWIND $releases AS release
+            MATCH (rg:ReleaseGroup {id: release.release_group.id})
+            UNWIND coalesce(release.release_group.genres, []) AS genre
+            MATCH (g:Genre {id: genre.id})
+            MERGE (rg)-[:HAS_GENRE {count: genre.count}]->(g)
+            """,
+            releases=release_rows,
+        )
+        s.run(
+            """
+            UNWIND $releases AS release
+            MATCH (a:Artist {id: release.artist_id})
+            MATCH (r:Release {id: release.id})
+            UNWIND coalesce(release.recordings, []) AS recording
+            MERGE (rec:Recording {id: recording.id})
+            SET rec.title = recording.title, rec.length = recording.length
+            MERGE (r)-[:HAS_RECORDING]->(rec)
+            MERGE (a)-[:ARTIST_OF]->(rec)
+            """,
+            releases=release_rows,
+        )
+        s.run(
+            """
+            UNWIND $releases AS release
+            UNWIND coalesce(release.recordings, []) AS recording
+            MATCH (rec:Recording {id: recording.id})
+            UNWIND coalesce(recording.genres, []) AS genre
+            MATCH (g:Genre {id: genre.id})
+            MERGE (rec)-[:HAS_GENRE {count: genre.count}]->(g)
+            """,
+            releases=release_rows,
+        )
 
 
 def load_releases(driver: Driver, filepath: str):
     # find all files in the releases directory
     files = [f for f in os.listdir(filepath) if f.endswith(".json")]
+    release_entries = []
     for file in files:
         artist_id = file.split("_")[-1].split(".")[0]
         print(f"Loading releases for artist {artist_id} from file {file}")
         releases = parse_releases_file(os.path.join(filepath, file))
-        create_release_release_group_recording_nodes(driver, releases, artist_id)
+        release_entries.extend(
+            {"artist_id": artist_id, "release": release} for release in releases
+        )
+
+    create_release_release_group_recording_nodes(driver, release_entries)
 
 
 def load_into_neo4j():
