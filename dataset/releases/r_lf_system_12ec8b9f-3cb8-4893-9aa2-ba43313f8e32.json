@@ -1,0 +1,3121 @@
+[
+  {
+    "disambiguation": "",
+    "id": "1a200a08-9b53-4a99-be8b-0ad3c051ce3e",
+    "release-group": {
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "primary-type": "Single",
+      "id": "ab628803-7de8-4e4c-8410-596963fb6638",
+      "title": "Afraid to Feel (Tommy Villiers remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2022-07-22",
+      "secondary-types": [
+        "Remix"
+      ]
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5054197263361",
+    "country": null,
+    "date": "2022-07-22",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2022-07-22",
+        "area": null
+      }
+    ],
+    "status": "Official",
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "media": [
+      {
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2022-07-22",
+              "title": "Afraid to Feel (Tommy Villiers remix)",
+              "disambiguation": "",
+              "video": false,
+              "length": 247773,
+              "id": "66033516-bc1a-4b7e-be00-792a7616a71d",
+              "genres": []
+            },
+            "title": "Afraid to Feel (Tommy Villiers remix)",
+            "number": "1",
+            "length": 247773,
+            "position": 1,
+            "id": "9e60b1e5-4304-4f7b-a81d-2d54073edf56"
+          }
+        ],
+        "format": "Digital Media",
+        "title": "",
+        "track-count": 1,
+        "position": 1,
+        "id": "7d9896da-d571-3123-b939-14d825df7479",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "title": "Afraid to Feel (Tommy Villiers remix)",
+    "quality": "normal"
+  },
+  {
+    "disambiguation": "",
+    "id": "2092a645-2db9-4e77-9b57-965fed50ada5",
+    "release-group": {
+      "id": "14fe84b9-d342-4ed7-ba68-d7706f608cfc",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "disambiguation": "",
+          "name": "disco"
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "2022-10-07",
+      "title": "Hungry (For Love)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5054197355042",
+    "country": null,
+    "date": "2022-10-07",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2022-10-07",
+        "area": null
+      }
+    ],
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "media": [
+      {
+        "title": "",
+        "track-count": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "title": "Hungry (For Love)",
+            "recording": {
+              "length": 129375,
+              "id": "889b33d5-35ae-4835-aca1-3a7dee69a1f1",
+              "video": false,
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2022-10-07",
+              "title": "Hungry (For Love)"
+            },
+            "number": "1",
+            "id": "5462ce5a-367b-4e20-ad41-a29b4c5d85de",
+            "position": 1,
+            "length": 129375
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "2c420738-36c0-36c6-a623-8739f63fa91c",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "title": "Hungry (For Love)",
+    "quality": "normal"
+  },
+  {
+    "release-group": {
+      "first-release-date": "2023-11-03",
+      "secondary-types": [],
+      "title": "In My Head",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "dea46488-764e-467a-a688-c08e61f89d52",
+      "primary-type": "Single",
+      "genres": []
+    },
+    "disambiguation": "",
+    "id": "27a82d58-7c8e-4552-a022-94cbdb12bf5f",
+    "date": "2023-11-03",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "196871517973",
+    "country": "XW",
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type": null,
+          "type-id": null
+        },
+        "date": "2023-11-03"
+      }
+    ],
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "length": 321000,
+            "position": 1,
+            "id": "e1f10c24-e491-44c8-84f3-066f20414d94",
+            "number": "1",
+            "title": "In My Head (Extended)",
+            "recording": {
+              "first-release-date": "2023-11-03",
+              "title": "In My Head (Extended)",
+              "disambiguation": "",
+              "video": false,
+              "id": "18ed31a6-033d-4c47-97b5-443ab60b4a0b",
+              "length": 321000,
+              "genres": []
+            }
+          }
+        ],
+        "track-count": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "987a5f84-c587-371b-89dc-a6ea7f9722a5",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "title": "In My Head (Extended)",
+    "quality": "normal"
+  },
+  {
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "type-id": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2022-01-28"
+      }
+    ],
+    "status": "Official",
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "media": [
+      {
+        "id": "ddb2b8b6-4ce3-3d29-b5de-4be7901f4630",
+        "track-offset": 0,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "track-count": 1,
+        "tracks": [
+          {
+            "title": "Dancing Cliché (Catz ‘n Dogz remix)",
+            "recording": {
+              "title": "Dancing Cliché (Catz ‘n Dogz remix)",
+              "first-release-date": "2022-01-28",
+              "genres": [],
+              "video": false,
+              "disambiguation": "",
+              "id": "f0fcc8f2-4072-40e5-b9e6-2a5f4fa82e00",
+              "length": 191336
+            },
+            "number": "1",
+            "position": 1,
+            "length": 191336,
+            "id": "622d1215-1c8f-4a21-b1dd-3638d345d8df"
+          }
+        ],
+        "format": "Digital Media"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "title": "Dancing Cliché (Catz ‘n Dogz remix)",
+    "quality": "normal",
+    "disambiguation": "",
+    "id": "28f512de-744f-4841-abf7-e9b571a1fe22",
+    "release-group": {
+      "genres": [],
+      "id": "88af9571-da83-41ce-ae69-efc335036083",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "title": "Dancing Cliché (Catz ‘n Dogz remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2022-01-28",
+      "secondary-types": [
+        "Remix"
+      ]
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "190296273612",
+    "country": "XW",
+    "date": "2022-01-28",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    }
+  },
+  {
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5054197253539",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2022-07-15",
+    "id": "2ae242b7-2b72-47e6-a296-e8aa1bf05cde",
+    "disambiguation": "",
+    "release-group": {
+      "title": "Afraid to Feel (CID remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2022-07-15",
+      "genres": [],
+      "id": "3e1206bc-b058-498d-94e4-66417253d694",
+      "primary-type": "Single",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": ""
+    },
+    "title": "Afraid to Feel (CID remix)",
+    "quality": "normal",
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "length": 205714,
+              "id": "5e96de77-0c09-437f-a3f6-43f8a7cdae8e",
+              "genres": [],
+              "first-release-date": "2022-07-15",
+              "title": "Afraid to Feel (CID remix)"
+            },
+            "title": "Afraid to Feel (CID remix)",
+            "id": "5f470fee-3419-4351-8ba6-0f9ef57a9c8b",
+            "position": 1,
+            "length": 205714,
+            "number": "1"
+          }
+        ],
+        "title": "",
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "782acb8c-da8d-3726-96f7-db53513d22f2",
+        "position": 1,
+        "track-offset": 0
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2022-07-15"
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "packaging": "None"
+  },
+  {
+    "release-group": {
+      "title": "Afraid to Feel (CID extended remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2022-07-21",
+      "genres": [],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": "",
+      "id": "6d20573c-a62f-4347-86ba-678e6524c650",
+      "primary-type": "Single"
+    },
+    "disambiguation": "",
+    "id": "33e3c44f-44d6-498d-a5bd-96ec40012b6f",
+    "date": "2022-07-21",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "",
+    "country": "XW",
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2022-07-21"
+      }
+    ],
+    "media": [
+      {
+        "track-count": 1,
+        "title": "",
+        "tracks": [
+          {
+            "recording": {
+              "genres": [],
+              "id": "71325538-1b57-403b-93eb-6e93d92269d6",
+              "length": 293000,
+              "video": false,
+              "disambiguation": "",
+              "title": "Afraid to Feel (CID extended remix)",
+              "first-release-date": "2022-07-21"
+            },
+            "title": "Afraid to Feel (CID extended remix)",
+            "number": "1",
+            "length": 293000,
+            "position": 1,
+            "id": "8cf95789-c662-41a2-a0af-fbb253cedb3c"
+          }
+        ],
+        "format": "Digital Media",
+        "id": "a7fce589-15b9-34fb-968c-7f6146319d5d",
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 1,
+      "front": true,
+      "artwork": true
+    },
+    "title": "Afraid to Feel (CID extended remix)",
+    "quality": "normal"
+  },
+  {
+    "quality": "normal",
+    "title": "Dancing Cliché (Catz ’n Dogz remix) (extended)",
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "id": "a899cb84-01dc-37dc-8589-dcf488d0de3c",
+        "track-offset": 0,
+        "title": "",
+        "track-count": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "recording": {
+              "title": "Dancing Cliché (Catz ’n Dogz remix) (extended)",
+              "first-release-date": "2022-01-28",
+              "genres": [],
+              "id": "77d23d5f-6ea0-421c-a9d5-82da46ea9db9",
+              "length": 313000,
+              "disambiguation": "",
+              "video": false
+            },
+            "title": "Dancing Cliché (Catz ’n Dogz remix) (extended)",
+            "number": "1",
+            "id": "fafb12f4-5800-4e0a-b410-71a9bc263afa",
+            "position": 1,
+            "length": 313000
+          }
+        ]
+      }
+    ],
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2022-01-28",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "genres": [],
+    "asin": null,
+    "packaging": "None",
+    "country": "XW",
+    "barcode": "190296273605",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2022-01-28",
+    "id": "35bf6448-59fe-41e2-9324-e918bd42511f",
+    "disambiguation": "",
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Dancing Cliché (Catz ‘n Dogz remix)",
+      "first-release-date": "2022-01-28",
+      "secondary-types": [
+        "Remix"
+      ],
+      "genres": [],
+      "primary-type": "Single",
+      "id": "88af9571-da83-41ce-ae69-efc335036083",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": ""
+    }
+  },
+  {
+    "title": "Afraid to Feel (Armand Van Helden remix)",
+    "quality": "normal",
+    "media": [
+      {
+        "track-count": 1,
+        "title": "",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "recording": {
+              "genres": [
+                {
+                  "count": 1,
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+                  "name": "pop",
+                  "disambiguation": ""
+                }
+              ],
+              "disambiguation": "",
+              "video": false,
+              "id": "7e638904-ad3a-496f-a9b2-580e92bfb5e3",
+              "length": 168508,
+              "title": "Afraid to Feel (Armand Van Helden remix)",
+              "first-release-date": "2022-08-19"
+            },
+            "title": "Afraid to Feel (Armand Van Helden remix)",
+            "number": "1",
+            "position": 1,
+            "length": 168508,
+            "id": "f0f460aa-faac-4b34-a342-8426b5ca1f2d"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "3feba2a8-b148-36a8-985c-d9ffbb8df548",
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 1,
+      "back": false,
+      "darkened": false
+    },
+    "asin": null,
+    "genres": [],
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2022-08-19",
+        "area": null
+      }
+    ],
+    "status": "Official",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2022-08-19",
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5054197295157",
+    "release-group": {
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "6a720320-8917-47d7-b24c-fa6cd9dfa392",
+      "genres": [],
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2022-08-19",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Afraid to Feel (Armand Van Helden remix)"
+    },
+    "id": "383442a9-fe20-46fb-9679-405fd83e610a",
+    "disambiguation": ""
+  },
+  {
+    "quality": "normal",
+    "title": "Dancing Cliché",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 1,
+      "back": false,
+      "darkened": false
+    },
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "ca8e279f-2c21-3c06-ba3f-75f518e84fb7",
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "track-count": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "position": 1,
+            "length": 152669,
+            "id": "9659a4e3-6141-4372-8066-b046e52da396",
+            "number": "1",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "video": false,
+              "id": "de22ddbc-7f38-47de-b27b-04c890570d98",
+              "length": 152669,
+              "title": "Dancing Cliché",
+              "first-release-date": "2021-10-22"
+            },
+            "title": "Dancing Cliché"
+          }
+        ]
+      }
+    ],
+    "genres": [],
+    "asin": null,
+    "packaging": "None",
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "type-id": null
+        },
+        "date": "2021-10-22"
+      }
+    ],
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2021-10-22",
+    "country": "XW",
+    "barcode": "190296423208",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-group": {
+      "first-release-date": "2021-10-22",
+      "secondary-types": [],
+      "title": "Dancing Cliché",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "3e6d7dca-5515-45db-b044-11934415b5d1",
+      "primary-type": "Single",
+      "genres": []
+    },
+    "id": "3a4251fb-db16-42fd-b0b4-6371d33944c5",
+    "disambiguation": ""
+  },
+  {
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2024-12-06",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "packaging": "None",
+    "title": "Meet Me in the Middle (Westend remix)",
+    "quality": "normal",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "9fd4d464-1f8a-4ca4-a00f-14f595f97d62",
+            "position": 1,
+            "length": 161250,
+            "number": "1",
+            "title": "Meet Me in the Middle (Westend remix)",
+            "recording": {
+              "title": "Meet Me in the Middle (Westend remix)",
+              "first-release-date": "2024-12-06",
+              "genres": [],
+              "id": "70f7338d-cfd3-4529-b73c-d0c1db61ab4c",
+              "length": 161250,
+              "video": false,
+              "disambiguation": ""
+            }
+          }
+        ],
+        "format": "Digital Media",
+        "title": "",
+        "track-count": 1,
+        "id": "7f24b862-7598-4512-b15d-56257226d6cc",
+        "track-offset": 0,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 1,
+      "front": true,
+      "artwork": true
+    },
+    "id": "3ceee494-2164-480f-b605-73967cfd8ce1",
+    "disambiguation": "",
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Meet Me in the Middle (Westend remix)",
+      "first-release-date": "2024-12-06",
+      "secondary-types": [
+        "Remix"
+      ],
+      "genres": [],
+      "id": "bda3f3c0-c565-4e0a-8005-fd39aec90c27",
+      "primary-type": "Single",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": ""
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "196872694567",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "date": "2024-12-06"
+  },
+  {
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "2e8b2488-5779-3076-ab78-d339527cbbfe",
+        "position": 1,
+        "title": "",
+        "track-count": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "1d799b7d-d34a-4126-8f1f-117cd342f317",
+            "length": 289898,
+            "number": "1",
+            "recording": {
+              "first-release-date": "2022-05-02",
+              "title": "Afraid to Feel (extended mix)",
+              "id": "23269ffa-9277-4f6a-b203-efaec1dd7dd8",
+              "length": 289898,
+              "video": false,
+              "disambiguation": "",
+              "genres": []
+            },
+            "title": "Afraid to Feel (extended)"
+          }
+        ]
+      }
+    ],
+    "quality": "normal",
+    "title": "Afraid to Feel (extended)",
+    "packaging": null,
+    "genres": [
+      {
+        "name": "dance",
+        "disambiguation": "",
+        "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "id": "62e4c7cb-a2b3-462b-8d96-1b0d66ee6cf3",
+        "disambiguation": "",
+        "name": "funky house"
+      },
+      {
+        "id": "4cc411c2-ec68-4aeb-8af5-d690e96eba88",
+        "disambiguation": "",
+        "name": "future funk",
+        "count": 1
+      },
+      {
+        "name": "garage house",
+        "disambiguation": "",
+        "id": "092f40b5-9157-41f2-8243-68b704cd0ed1",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+      }
+    ],
+    "asin": null,
+    "packaging-id": null,
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2022-05-02",
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "type": null
+        }
+      }
+    ],
+    "date": "2022-05-02",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "release-group": {
+      "id": "32c77089-45f7-4bb8-9960-9b11899d4743",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": ""
+        },
+        {
+          "name": "pop",
+          "disambiguation": "",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+          "name": "soul",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "2022-05-02",
+      "title": "Afraid to Feel",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "disambiguation": "",
+    "id": "429b274e-924f-46de-a3d5-1c9cbe9f732b"
+  },
+  {
+    "disambiguation": "",
+    "id": "53640361-3d37-49c0-b4e2-9e2373c33570",
+    "release-group": {
+      "primary-type": "Single",
+      "id": "edac621b-b92d-4127-bd07-30be99747423",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "first-release-date": "2022-07-01",
+      "secondary-types": [],
+      "title": "Afraid to Feel (acoustic)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5054197224379",
+    "country": null,
+    "date": "2022-07-01",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2022-07-01",
+        "area": null
+      }
+    ],
+    "status": "Official",
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "media": [
+      {
+        "track-offset": 0,
+        "id": "4cb2e05c-3e7d-31a9-a16a-ad984be63303",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "genres": [],
+              "length": 147000,
+              "id": "f5756409-40f7-4bc0-b2af-20b470cc1b4d",
+              "video": false,
+              "disambiguation": "",
+              "title": "Afraid to Feel (acoustic)",
+              "first-release-date": "2022-07-01"
+            },
+            "title": "Afraid to Feel (acoustic)",
+            "position": 1,
+            "id": "273ba98e-4ae9-4080-b296-d5604f38e673",
+            "length": 147000,
+            "number": "1"
+          }
+        ],
+        "format": "Digital Media",
+        "title": "",
+        "track-count": 1
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "title": "Afraid to Feel (acoustic)",
+    "quality": "normal"
+  },
+  {
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "type-id": null
+        },
+        "date": "2024-10-04"
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "packaging": "None",
+    "title": "Meet Me in the Middle",
+    "quality": "normal",
+    "media": [
+      {
+        "id": "48b2ecbb-b2b4-349b-b72c-d6ba86adcf9d",
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "bfbd1143-8451-4ee3-b0f2-d71c59ec5766",
+            "length": 137000,
+            "number": "1",
+            "recording": {
+              "genres": [],
+              "length": 137386,
+              "id": "d79a534a-196e-49f6-a07a-933b679a5fdb",
+              "disambiguation": "",
+              "video": false,
+              "title": "Meet Me in the Middle",
+              "first-release-date": "2024-10-04"
+            },
+            "title": "Meet Me in the Middle"
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 1,
+        "title": ""
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "artwork": true,
+      "front": true
+    },
+    "id": "5372269d-32a7-470f-8c87-0f5503064dd6",
+    "disambiguation": "",
+    "release-group": {
+      "primary-type": "Single",
+      "id": "b025bfe1-bc16-4278-9d13-5156aab71a91",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "secondary-types": [],
+      "first-release-date": "2024-10-04",
+      "title": "Meet Me in the Middle",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "196872462685",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2024-10-04"
+  },
+  {
+    "id": "5baff3a1-2dd4-46f0-8843-6338ea351bb9",
+    "disambiguation": "",
+    "release-group": {
+      "primary-type": "Single",
+      "id": "73e9641a-338c-48c3-9b1c-85bf0693e87d",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "genres": [],
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2022-08-05",
+      "title": "Afraid to Feel (David Guetta & Dyro remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5054197272462",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2022-08-05",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2022-08-05",
+        "area": null
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "packaging": "None",
+    "title": "Afraid to Feel (David Guetta & Dyro remix)",
+    "quality": "normal",
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "f305dd92-a205-3533-919f-223fb347f1a2",
+        "position": 1,
+        "title": "",
+        "track-count": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "title": "Afraid to Feel (David Guetta & Dyro remix)",
+            "recording": {
+              "genres": [],
+              "id": "94fe728c-26df-4974-83ec-e6aa9e25049e",
+              "length": 142509,
+              "video": false,
+              "disambiguation": "",
+              "title": "Afraid to Feel (David Guetta & Dyro remix)",
+              "first-release-date": "2022-08-05"
+            },
+            "number": "1",
+            "length": 142509,
+            "position": 1,
+            "id": "cd57d4c5-d5df-400e-a5a3-d3bdb0a90681"
+          }
+        ]
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false
+    }
+  },
+  {
+    "release-group": {
+      "secondary-types": [],
+      "first-release-date": "2022-03-04",
+      "title": "So Do You",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "380aa268-2956-4ca8-8791-ca38c72f36c4",
+      "primary-type": "Single",
+      "genres": []
+    },
+    "id": "608b9a2d-0a06-453a-afbf-50d61126073e",
+    "disambiguation": "",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2022-03-04",
+    "country": "XW",
+    "barcode": "5060944572945",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "genres": [],
+    "asin": null,
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        },
+        "date": "2022-03-04"
+      }
+    ],
+    "quality": "normal",
+    "title": "So Do You",
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "927f46ae-92dc-37c8-8e2a-0a6bfbd46b7f",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 1,
+        "title": "",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "title": "So Do You",
+            "recording": {
+              "video": false,
+              "disambiguation": "",
+              "id": "83d3a5a8-ed21-4cff-9b75-4f1e94dc4866",
+              "length": 151601,
+              "genres": [],
+              "first-release-date": "2022-03-04",
+              "title": "So Do You"
+            },
+            "number": "1",
+            "position": 1,
+            "id": "e9d8b933-9fe4-48e7-8ac4-18dc5aed89db",
+            "length": 151601
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "release-events": [
+      {
+        "date": "2020-07-03",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "type": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "asin": null,
+    "genres": [],
+    "packaging": "None",
+    "title": "Bourgie Bourgie",
+    "quality": "normal",
+    "media": [
+      {
+        "title": "",
+        "track-count": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 392812,
+            "position": 1,
+            "id": "271638d5-2585-4a4b-a036-3dc70961cf22",
+            "recording": {
+              "video": false,
+              "disambiguation": "",
+              "id": "2e820e7d-ff4e-44b0-9fff-5826f405c7a9",
+              "length": 392812,
+              "genres": [],
+              "first-release-date": "2020-07-03",
+              "title": "Bourgie Bourgie"
+            },
+            "title": "Bourgie Bourgie"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "f8916d8d-e4ee-3223-a519-444af7004308",
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "id": "6206f339-b128-4e32-afe9-cbb13e4ced96",
+    "disambiguation": "",
+    "release-group": {
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "disco",
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea"
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "name": "funk",
+          "disambiguation": "",
+          "id": "fe4ba6a1-9873-4fd0-a12b-a70c81818514",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "name": "latin",
+          "disambiguation": "",
+          "id": "7369bb8b-3399-4180-8cb2-4e37e0e7b0e7"
+        }
+      ],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "99f82f85-75e4-41be-8ff1-a50ffdb4512a",
+      "title": "Bourgie Bourgie",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2020-07-03",
+      "secondary-types": []
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5054285107621",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2020-07-03"
+  },
+  {
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "190296191992",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2022-05-02",
+    "id": "633c9295-51dc-4454-9b38-2bd0437fd20c",
+    "disambiguation": "",
+    "release-group": {
+      "genres": [
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "house",
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "disambiguation": "",
+          "name": "pop",
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "count": 1
+        },
+        {
+          "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+          "name": "soul",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "primary-type": "Single",
+      "id": "32c77089-45f7-4bb8-9960-9b11899d4743",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Afraid to Feel",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2022-05-02",
+      "secondary-types": []
+    },
+    "title": "Afraid to Feel",
+    "quality": "normal",
+    "media": [
+      {
+        "title": "",
+        "track-count": 1,
+        "tracks": [
+          {
+            "title": "Afraid to Feel",
+            "recording": {
+              "title": "Afraid to Feel",
+              "first-release-date": "2022-05-02",
+              "genres": [
+                {
+                  "name": "house",
+                  "disambiguation": "",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "count": 2
+                },
+                {
+                  "disambiguation": "",
+                  "name": "pop",
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+                  "count": 2
+                }
+              ],
+              "id": "d71f7d62-f7fc-4907-ba37-3f97a12448f7",
+              "length": 177524,
+              "video": false,
+              "disambiguation": ""
+            },
+            "position": 1,
+            "length": 177000,
+            "id": "9789cd70-7373-478f-a0b0-d7b4e5ba969f",
+            "number": "1"
+          }
+        ],
+        "format": "Digital Media",
+        "track-offset": 0,
+        "id": "55f04a5b-9b46-3f53-8a8f-b5dadd0e79e4",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "artwork": true,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2022-05-02"
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "packaging": "None"
+  },
+  {
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2023-11-03",
+        "area": null
+      }
+    ],
+    "genres": [],
+    "asin": null,
+    "packaging": "None",
+    "quality": "normal",
+    "title": "In My Head",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "media": [
+      {
+        "tracks": [
+          {
+            "position": 1,
+            "id": "f57891bb-61c3-47d1-9efe-3555928e3006",
+            "length": 170750,
+            "number": "1",
+            "recording": {
+              "title": "In My Head",
+              "first-release-date": "2023-11-03",
+              "genres": [],
+              "id": "6bdff1e7-4737-4781-9633-54b1b4294ad8",
+              "length": 170750,
+              "disambiguation": "",
+              "video": false
+            },
+            "title": "In My Head"
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 1,
+        "title": "",
+        "id": "424906bc-1f06-398f-9a17-18548c6f9a28",
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "id": "6ac8b8c0-83c9-495a-81c6-74a3ba00a0d8",
+    "disambiguation": "",
+    "release-group": {
+      "genres": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "dea46488-764e-467a-a688-c08e61f89d52",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "In My Head",
+      "secondary-types": [],
+      "first-release-date": "2023-11-03"
+    },
+    "country": null,
+    "barcode": "196871517713",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "language": "fin",
+      "script": "Latn"
+    },
+    "date": "2023-11-03"
+  },
+  {
+    "title": "We Can’t Be Dreaming",
+    "quality": "normal",
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "318a39dd-10f0-3135-8378-4d6c9d385df3",
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "track-count": 2,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "position": 1,
+            "length": 189850,
+            "id": "6f327809-f7ac-4fe4-8773-1cc8f269a581",
+            "number": "1",
+            "recording": {
+              "first-release-date": "2020-10-30",
+              "title": "We Can’t Be Dreaming (edit)",
+              "disambiguation": "",
+              "video": false,
+              "id": "960b3004-4bd7-4626-83e2-09749eed28f8",
+              "length": 189850,
+              "genres": []
+            },
+            "title": "We Can’t Be Dreaming (edit)"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "553554ff-e087-4361-b88e-8a8e0ac4c573",
+              "length": 373428,
+              "genres": [],
+              "first-release-date": "2020-10-30",
+              "title": "We Can’t Be Dreaming (extended)"
+            },
+            "title": "We Can’t Be Dreaming (extended)",
+            "id": "144812f9-efbf-4fff-8aa2-221e985bfcd1",
+            "position": 2,
+            "length": 373428,
+            "number": "2"
+          }
+        ]
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "artwork": true,
+      "front": true
+    },
+    "asin": null,
+    "genres": [
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+      }
+    ],
+    "packaging": "None",
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "type-id": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2020-10-30"
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2020-10-30",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5060786568366",
+    "release-group": {
+      "genres": [],
+      "primary-type": "Single",
+      "id": "dde9e13c-312f-4df4-8e50-3f378a496793",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "We Can’t Be Dreaming",
+      "first-release-date": "2020-10-30",
+      "secondary-types": []
+    },
+    "id": "78a65260-1adf-4ccc-808d-bbe98e73aeff",
+    "disambiguation": ""
+  },
+  {
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2023-10-06"
+      }
+    ],
+    "genres": [],
+    "asin": null,
+    "packaging": "None",
+    "quality": "normal",
+    "title": "Big Sax",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "c2744eda-367a-3e74-b54e-6fa8082e2861",
+        "position": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "id": "f43121ad-f38a-46dd-87b0-c73803d59574",
+            "position": 1,
+            "length": 248546,
+            "number": "1",
+            "title": "Big Sax",
+            "recording": {
+              "first-release-date": "2023-10-06",
+              "title": "Big Sax",
+              "video": false,
+              "disambiguation": "",
+              "id": "b503ba76-4c31-4b11-b451-9926c0544ebe",
+              "length": 248546,
+              "genres": []
+            }
+          }
+        ],
+        "title": "",
+        "track-count": 1
+      }
+    ],
+    "id": "78de20ce-eca1-4718-963b-2b707c023aa4",
+    "disambiguation": "",
+    "release-group": {
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "4b00e8bc-ce6c-4dec-8e7f-24f098788525",
+      "primary-type": "Single",
+      "title": "Big Sax",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2023-10-06",
+      "secondary-types": []
+    },
+    "country": null,
+    "barcode": "196871484299",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "date": "2023-10-06"
+  },
+  {
+    "country": "XW",
+    "barcode": "196871981699",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "date": "2024-04-19",
+    "id": "7aa7d940-10ac-4f2d-a044-e04701509c9b",
+    "disambiguation": "",
+    "release-group": {
+      "secondary-types": [],
+      "first-release-date": "2024-04-19",
+      "title": "Lift You Up",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "9dfc28c3-f472-4f3b-839b-fb36d25383d6",
+      "primary-type": "Single",
+      "genres": []
+    },
+    "quality": "normal",
+    "title": "Lift You Up",
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "artwork": true,
+      "front": true
+    },
+    "media": [
+      {
+        "tracks": [
+          {
+            "title": "Lift You Up",
+            "recording": {
+              "genres": [],
+              "id": "4b09a3d7-8d5a-40f8-aacd-c4377a86fc16",
+              "length": 133234,
+              "video": false,
+              "disambiguation": "",
+              "title": "Lift You Up",
+              "first-release-date": "2024-04-19"
+            },
+            "id": "c30d7543-3aca-412e-8798-c35f356f9376",
+            "position": 1,
+            "length": 133234,
+            "number": "1"
+          }
+        ],
+        "format": "Digital Media",
+        "title": "",
+        "track-count": 1,
+        "id": "e96a1e7b-6716-30c0-9387-7fcda29e8db4",
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2024-04-19",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "genres": [],
+    "asin": null,
+    "packaging": "None"
+  },
+  {
+    "disambiguation": "",
+    "id": "7c63ca7e-bfd6-4224-b4b7-9a4bcca49e33",
+    "release-group": {
+      "id": "14fe84b9-d342-4ed7-ba68-d7706f608cfc",
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "disco",
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1
+        }
+      ],
+      "first-release-date": "2022-10-07",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Hungry (For Love)"
+    },
+    "barcode": "5054197355059",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "date": "2022-10-07",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]"
+        },
+        "date": "2022-10-07"
+      }
+    ],
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "media": [
+      {
+        "tracks": [
+          {
+            "recording": {
+              "title": "Hungry (For Love) (Extended)",
+              "first-release-date": "2022-10-07",
+              "genres": [],
+              "id": "ef48f19c-3c79-4364-ab93-5f368ef59d57",
+              "length": 230625,
+              "disambiguation": "",
+              "video": false
+            },
+            "title": "Hungry (For Love) (Extended)",
+            "id": "92aa736b-7a60-4c09-a2ac-f829d3458a4a",
+            "position": 1,
+            "length": 230625,
+            "number": "1"
+          }
+        ],
+        "format": "Digital Media",
+        "title": "",
+        "track-count": 1,
+        "position": 1,
+        "id": "65971a08-b61a-361d-8c97-4f42c7962358",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "quality": "normal",
+    "title": "Hungry (For Love) [Extended]"
+  },
+  {
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "artwork": true,
+      "front": true
+    },
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "5d386a94-82fc-30c4-a129-22343b6f3ad9",
+        "position": 1,
+        "track-offset": 0,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "recording": {
+              "genres": [],
+              "id": "848664c2-9214-4110-a8a9-d150aedea8e7",
+              "length": 224400,
+              "disambiguation": "",
+              "video": false,
+              "title": "Afraid to Feel (Gerd Janson remix)",
+              "first-release-date": "2022-07-08"
+            },
+            "title": "Afraid to Feel (Gerd Janson remix)",
+            "id": "5f695205-6cf7-463a-8b27-341102b2ad0e",
+            "position": 1,
+            "length": 224400,
+            "number": "1"
+          }
+        ],
+        "track-count": 1,
+        "title": ""
+      }
+    ],
+    "quality": "normal",
+    "title": "Afraid to Feel (Gerd Janson remix)",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2022-07-08",
+        "area": null
+      }
+    ],
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "barcode": "5054197224386",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": null,
+    "date": "2022-07-08",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "disambiguation": "",
+    "id": "8229a238-9dfd-4ae0-a36a-6e4ff985f9cc",
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Afraid to Feel (Gerd Janson remix)",
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2022-07-08",
+      "genres": [],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "651d1224-71b4-43c9-9ce3-77a7cbb3f039"
+    }
+  },
+  {
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2023-05-15",
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "196871071741",
+    "release-group": {
+      "secondary-types": [],
+      "first-release-date": "2023-05-15",
+      "title": "Dancing Shoes (Take Me Higher)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "id": "8058e796-20f7-4c2a-abb0-4979a16c64e6",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": []
+    },
+    "id": "835b28b4-baec-43e2-b18e-178ae5c47ea0",
+    "disambiguation": "",
+    "title": "Dancing Shoes (Take Me Higher)",
+    "quality": "normal",
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "d8f793a1-7ac0-3ccc-8d5b-1dcaf3966419",
+        "position": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "position": 1,
+            "length": 154831,
+            "id": "14e00ecd-a794-4ab9-8154-97a792d3e8d1",
+            "number": "1",
+            "title": "Dancing Shoes (Take Me Higher)",
+            "recording": {
+              "first-release-date": "2023-05-15",
+              "title": "Dancing Shoes (Take Me Higher)",
+              "id": "0e6a21b4-d3cf-4586-9ea2-9aecf0f34485",
+              "length": 154831,
+              "video": false,
+              "disambiguation": "",
+              "genres": []
+            }
+          }
+        ],
+        "track-count": 1,
+        "title": ""
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "asin": null,
+    "genres": [
+      {
+        "name": "house",
+        "disambiguation": "",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "count": 1
+      }
+    ],
+    "packaging": "None",
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2023-05-15"
+      }
+    ]
+  },
+  {
+    "id": "950b80d0-ddad-48e5-8831-d04865e63a25",
+    "disambiguation": "",
+    "release-group": {
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "id": "99f82f85-75e4-41be-8ff1-a50ffdb4512a",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "disco",
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "id": "fe4ba6a1-9873-4fd0-a12b-a70c81818514",
+          "name": "funk",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "id": "7369bb8b-3399-4180-8cb2-4e37e0e7b0e7",
+          "name": "latin",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "first-release-date": "2020-07-03",
+      "secondary-types": [],
+      "title": "Bourgie Bourgie",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "country": "GB",
+    "status-id": null,
+    "barcode": "5054285107621",
+    "text-representation": {
+      "script": null,
+      "language": "eng"
+    },
+    "date": "2020-07-03",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": null,
+    "release-events": [
+      {
+        "date": "2020-07-03",
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "name": "United Kingdom",
+          "type-id": null,
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "disambiguation": "",
+          "sort-name": "United Kingdom"
+        }
+      }
+    ],
+    "asin": null,
+    "genres": [
+      {
+        "count": 2,
+        "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+        "name": "disco",
+        "disambiguation": ""
+      },
+      {
+        "count": 2,
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "name": "electronic",
+        "disambiguation": ""
+      },
+      {
+        "id": "fe4ba6a1-9873-4fd0-a12b-a70c81818514",
+        "name": "funk",
+        "disambiguation": "",
+        "count": 2
+      },
+      {
+        "count": 2,
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "name": "house"
+      },
+      {
+        "count": 2,
+        "disambiguation": "",
+        "name": "latin",
+        "id": "7369bb8b-3399-4180-8cb2-4e37e0e7b0e7"
+      }
+    ],
+    "packaging": "None",
+    "title": "Bourgie Bourgie",
+    "quality": "normal",
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "8856147b-a4cd-3bda-a3c1-25a0ad434416",
+        "position": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "position": 1,
+            "length": 392000,
+            "id": "ffe5d445-39fb-42ee-9849-44318958087c",
+            "recording": {
+              "first-release-date": "2020-07-03",
+              "title": "Bourgie Bourgie",
+              "id": "c6e3cafc-d952-4265-83cd-95a25c4aa7cd",
+              "length": 392000,
+              "disambiguation": "",
+              "video": false,
+              "genres": []
+            },
+            "title": "Bourgie Bourgie"
+          }
+        ],
+        "track-count": 1,
+        "title": ""
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 0,
+      "artwork": false,
+      "front": false
+    }
+  },
+  {
+    "quality": "normal",
+    "title": "Lift You Up (Extended)",
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "media": [
+      {
+        "position": 1,
+        "id": "a25089ca-b7af-3f21-9ac0-f2e93adb2362",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "track-count": 1,
+        "tracks": [
+          {
+            "number": "1",
+            "position": 1,
+            "id": "85a040c5-ff36-4d76-9da6-09dabc662781",
+            "length": 263123,
+            "title": "Lift You Up (extended)",
+            "recording": {
+              "id": "a541e1d6-01fb-4244-a059-ba24df8513b7",
+              "length": 263123,
+              "video": false,
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2024-04-19",
+              "title": "Lift You Up (extended)"
+            }
+          }
+        ],
+        "format": "Digital Media"
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "type-id": null,
+          "type": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2024-04-19"
+      }
+    ],
+    "status": "Official",
+    "genres": [],
+    "asin": null,
+    "packaging": "None",
+    "country": "XW",
+    "barcode": "196871981712",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2024-04-19",
+    "id": "95a66a74-dba3-4095-8e8d-26d3f370654c",
+    "disambiguation": "",
+    "release-group": {
+      "title": "Lift You Up",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2024-04-19",
+      "secondary-types": [],
+      "genres": [],
+      "primary-type": "Single",
+      "id": "9dfc28c3-f472-4f3b-839b-fb36d25383d6",
+      "secondary-type-ids": [],
+      "disambiguation": ""
+    }
+  },
+  {
+    "release-group": {
+      "first-release-date": "2023-05-15",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Dancing Shoes (Take Me Higher)",
+      "primary-type": "Single",
+      "id": "8058e796-20f7-4c2a-abb0-4979a16c64e6",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "genres": []
+    },
+    "id": "b2fd0336-72bb-4549-91d4-15fa3b069ebc",
+    "disambiguation": "",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2023-05-15",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "196871099066",
+    "asin": null,
+    "genres": [
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+      }
+    ],
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "type": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]"
+        },
+        "date": "2023-05-15"
+      }
+    ],
+    "title": "Dancing Shoes (Take Me Higher)",
+    "quality": "normal",
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "position": 1,
+            "length": 301000,
+            "id": "26496229-5ad2-49a2-a960-391fd79214b5",
+            "recording": {
+              "first-release-date": "2023-05-15",
+              "title": "Dancing Shoes (Take Me Higher) (extended)",
+              "disambiguation": "",
+              "video": false,
+              "id": "c4914213-442a-4964-a474-a0ac97a02dff",
+              "length": 301000,
+              "genres": []
+            },
+            "title": "Dancing Shoes (Take Me Higher) (extended)"
+          }
+        ],
+        "title": "",
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "2b49d335-80c3-3a84-9412-057c7c725095",
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 1,
+      "back": false,
+      "darkened": false
+    }
+  },
+  {
+    "barcode": "5054197494734",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": null,
+    "date": "2023-01-20",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "disambiguation": "",
+    "id": "bf0251b4-b412-4b22-8387-371f914e1ca7",
+    "release-group": {
+      "title": "Hungry (For Love) (Paul Woolford remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2023-01-20",
+      "secondary-types": [
+        "Remix"
+      ],
+      "genres": [],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "f590706f-3186-460a-8f0f-a221a017d71b"
+    },
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "media": [
+      {
+        "title": "",
+        "track-count": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "position": 1,
+            "id": "da078aee-f697-47bb-8720-62d7c66f13c6",
+            "length": 241500,
+            "recording": {
+              "first-release-date": "2023-01-20",
+              "title": "Hungry (For Love) (Paul Woolford remix)",
+              "video": false,
+              "disambiguation": "",
+              "id": "b576365d-e929-42b3-a163-7b4fd271e5a6",
+              "length": 241500,
+              "genres": []
+            },
+            "title": "Hungry (For Love) (Paul Woolford remix)"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "bc108dcc-8a0b-3383-b590-39ebb21ffb4a",
+        "position": 1,
+        "track-offset": 0
+      }
+    ],
+    "quality": "normal",
+    "title": "Hungry (For Love) (Paul Woolford remix)",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2023-01-20"
+      }
+    ],
+    "packaging": "None",
+    "genres": [],
+    "asin": null
+  },
+  {
+    "country": "XE",
+    "barcode": "5054197368479",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "date": "2023-01-20",
+    "id": "d0f31653-1cb8-47e7-bec3-c2d8044dcadf",
+    "disambiguation": "",
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Hungry (For Love)",
+      "first-release-date": "2022-10-07",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 1,
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "disambiguation": "",
+          "name": "disco"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "14fe84b9-d342-4ed7-ba68-d7706f608cfc"
+    },
+    "quality": "normal",
+    "title": "Hungry (For Love)",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 4,
+      "back": true,
+      "darkened": false
+    },
+    "media": [
+      {
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "id": "d41f60d2-669d-3504-a1b6-a27b5d93bd92",
+        "track-offset": 0,
+        "position": 1,
+        "format": "12\" Vinyl",
+        "tracks": [
+          {
+            "id": "966c3feb-917d-4560-8423-f47c0288302f",
+            "position": 1,
+            "length": null,
+            "number": "A",
+            "recording": {
+              "title": "Hungry (For Love)",
+              "first-release-date": "2022-10-07",
+              "genres": [],
+              "id": "889b33d5-35ae-4835-aca1-3a7dee69a1f1",
+              "length": 129375,
+              "video": false,
+              "disambiguation": ""
+            },
+            "title": "Hungry (For Love)"
+          },
+          {
+            "recording": {
+              "title": "Afraid to Feel",
+              "first-release-date": "2022-05-02",
+              "genres": [
+                {
+                  "name": "house",
+                  "disambiguation": "",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "count": 2
+                },
+                {
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+                  "name": "pop",
+                  "disambiguation": "",
+                  "count": 2
+                }
+              ],
+              "disambiguation": "",
+              "video": false,
+              "id": "d71f7d62-f7fc-4907-ba37-3f97a12448f7",
+              "length": 177524
+            },
+            "title": "Afraid To Feel",
+            "id": "73b3f935-0de2-445c-a3f3-8dec4a7741b0",
+            "position": 2,
+            "length": null,
+            "number": "B"
+          }
+        ],
+        "title": "",
+        "track-count": 2
+      }
+    ],
+    "packaging-id": null,
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2023-01-20",
+        "area": {
+          "type-id": null,
+          "type": null,
+          "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+          "disambiguation": "",
+          "sort-name": "Europe",
+          "iso-3166-1-codes": [
+            "XE"
+          ],
+          "name": "Europe"
+        }
+      }
+    ],
+    "genres": [],
+    "asin": "B0BJ64WV31",
+    "packaging": null
+  },
+  {
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2024-02-23",
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "type": null,
+          "type-id": null
+        }
+      }
+    ],
+    "media": [
+      {
+        "title": "",
+        "track-count": 1,
+        "tracks": [
+          {
+            "title": "All I’ve Got",
+            "recording": {
+              "length": 181308,
+              "id": "78578d2a-1007-4f1e-8435-55d728b8acd9",
+              "disambiguation": "",
+              "video": false,
+              "genres": [],
+              "first-release-date": "2024-02-23",
+              "title": "All I’ve Got"
+            },
+            "position": 1,
+            "id": "242b6830-417a-4b85-b0fa-5a4ec280d70c",
+            "length": 181308,
+            "number": "1"
+          }
+        ],
+        "format": "Digital Media",
+        "id": "9ed1d626-47ef-3390-8547-038a98c2fbf7",
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "title": "All I’ve Got",
+    "quality": "normal",
+    "release-group": {
+      "genres": [],
+      "primary-type": "Single",
+      "id": "39083851-eede-4dae-a760-71cd83362c7e",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "title": "All I’ve Got",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2024-02-23",
+      "secondary-types": []
+    },
+    "disambiguation": "",
+    "id": "d11a0778-b858-43d1-a0ac-1e395107249f",
+    "date": "2024-02-23",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "8721056430376",
+    "country": "XW"
+  },
+  {
+    "media": [
+      {
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2024-02-23",
+              "title": "All I've Got",
+              "disambiguation": "",
+              "video": false,
+              "length": 376036,
+              "id": "d230e3ef-f2be-4863-b641-6ec37a6b79df",
+              "genres": []
+            },
+            "title": "All I’ve Got",
+            "length": 376036,
+            "position": 1,
+            "id": "71f04ffc-db71-475c-a98a-49233d33ef7f",
+            "number": "1"
+          }
+        ],
+        "format": "Digital Media",
+        "title": "",
+        "track-count": 1,
+        "track-offset": 0,
+        "id": "73e3f949-054c-3a1c-bd9b-5092a2bd9528",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 1,
+      "darkened": false,
+      "back": false
+    },
+    "title": "All I’ve Got",
+    "quality": "normal",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]"
+        },
+        "date": "2024-02-23"
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "8721056430468",
+    "country": "XW",
+    "date": "2024-02-23",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "disambiguation": "",
+    "id": "e1bfcd79-09d6-442d-96dd-e29242f126a0",
+    "release-group": {
+      "title": "All I’ve Got",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "first-release-date": "2024-02-23",
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "39083851-eede-4dae-a760-71cd83362c7e",
+      "primary-type": "Single"
+    }
+  },
+  {
+    "media": [
+      {
+        "tracks": [
+          {
+            "number": "1",
+            "id": "be4c2177-fa84-4f9e-8b49-fb71574d7e6a",
+            "position": 1,
+            "length": 191275,
+            "recording": {
+              "id": "6e835da3-0281-47ba-bec8-0542d74d860f",
+              "length": 191275,
+              "video": false,
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2024-11-29",
+              "title": "Meet Me in the Middle (Monty Kiddo remix)"
+            },
+            "title": "Meet Me in the Middle (Monty Kiddo remix)"
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 1,
+        "title": "",
+        "track-offset": 0,
+        "id": "1a5d1445-01d1-4e62-9528-0019a825d84f",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "title": "Meet Me in the Middle (Monty Kiddo remix)",
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]"
+        },
+        "date": "2024-11-29"
+      }
+    ],
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "196872678321",
+    "country": "XW",
+    "date": "2024-11-29",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "disambiguation": "",
+    "id": "e566526d-4cfe-4ffb-a9a4-0a7301a4fe35",
+    "release-group": {
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": "",
+      "id": "c5cbcafe-ede6-474c-8618-2191038f1be4",
+      "primary-type": "Single",
+      "genres": [],
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2024-11-29",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Meet Me in the Middle (Monty Kiddo remix)"
+    }
+  },
+  {
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2024-11-15",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "afd44a5d-6d9c-43b4-a590-57f0841ebdea",
+        "position": 1,
+        "track-count": 1,
+        "title": "",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2024-11-15",
+              "title": "Meet Me in the Middle (Josh Dorey remix)",
+              "id": "ed4a87d8-3a33-440e-8d20-8abbfaf4c903",
+              "length": 181806,
+              "disambiguation": "",
+              "video": false,
+              "genres": []
+            },
+            "title": "Meet Me in the Middle (Josh Dorey remix)",
+            "id": "7e5352db-3cab-407c-9edd-8b3e59dbee8b",
+            "position": 1,
+            "length": 181806,
+            "number": "1"
+          }
+        ]
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 1,
+      "back": false,
+      "darkened": false
+    },
+    "title": "Meet Me in the Middle (Josh Dorey remix)",
+    "quality": "normal",
+    "release-group": {
+      "first-release-date": "2024-11-15",
+      "secondary-types": [
+        "Remix"
+      ],
+      "title": "Meet Me in the Middle (Josh Dorey remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "3a46b265-9b37-441c-bbd1-14a5b66f6258",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "genres": []
+    },
+    "disambiguation": "",
+    "id": "ea3088a7-0a11-461f-b57e-4202f3af49e7",
+    "date": "2024-11-15",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "196872635836",
+    "country": "XW"
+  },
+  {
+    "disambiguation": "",
+    "id": "f1cc3792-d1b8-46bb-9082-ce61b12b488b",
+    "release-group": {
+      "title": "Afraid to Feel (Armand Van Helden extended remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2022-08-19",
+      "genres": [],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "31f5a203-a95c-4e6a-b674-ba5071ebf8b5"
+    },
+    "status-id": null,
+    "barcode": "",
+    "country": "XW",
+    "date": "2022-08-19",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "status": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]"
+        },
+        "date": "2022-08-19"
+      }
+    ],
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "media": [
+      {
+        "id": "290441dd-f752-3c0c-8386-4e0099ed16ba",
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "track-count": 1,
+        "tracks": [
+          {
+            "position": 1,
+            "id": "0f64c1c3-ace2-452e-90f3-72cea3140767",
+            "length": 300000,
+            "number": "1",
+            "recording": {
+              "length": 300000,
+              "id": "76411520-0c8c-4fbe-a47f-258a22d6b9a1",
+              "video": false,
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2022-08-19",
+              "title": "Afraid to Feel (Armand Van Helden extended remix)"
+            },
+            "title": "Afraid to Feel (Armand Van Helden extended remix)"
+          }
+        ],
+        "format": "Digital Media"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 1,
+      "front": true,
+      "artwork": true
+    },
+    "title": "Afraid to Feel (Armand Van Helden extended remix)",
+    "quality": "normal"
+  },
+  {
+    "date": "2023-10-06",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": "196871484572",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "release-group": {
+      "genres": [],
+      "primary-type": "Single",
+      "id": "4b00e8bc-ce6c-4dec-8e7f-24f098788525",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Big Sax",
+      "secondary-types": [],
+      "first-release-date": "2023-10-06"
+    },
+    "disambiguation": "",
+    "id": "ffd685ea-ec22-4278-aefa-d6b5f499ee6c",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "media": [
+      {
+        "id": "d136a7f9-8336-307a-b86c-d609bb9c57c2",
+        "track-offset": 0,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "title": "",
+        "tracks": [
+          {
+            "title": "Big Sax (Extended)",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "e2b78395-be56-48f3-97d7-839f758bed36",
+              "length": 288020,
+              "genres": [],
+              "first-release-date": "2023-10-06",
+              "title": "Big Sax (Extended)"
+            },
+            "number": "1",
+            "position": 1,
+            "length": 288020,
+            "id": "aa9ce1fa-6767-40f7-b041-7747dfdead11"
+          }
+        ],
+        "format": "Digital Media"
+      }
+    ],
+    "quality": "normal",
+    "title": "Big Sax (Extended)",
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]"
+        },
+        "date": "2023-10-06"
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official"
+  }
+]

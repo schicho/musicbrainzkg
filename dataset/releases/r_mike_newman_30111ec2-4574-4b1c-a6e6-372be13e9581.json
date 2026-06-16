@@ -1,0 +1,387 @@
+[
+  {
+    "barcode": "4250782255754",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "quality": "normal",
+    "id": "19f88e94-ebea-4b86-9409-e4304e13cff6",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null
+        },
+        "date": "2014-03-17"
+      }
+    ],
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "117099d1-e6b2-3416-864e-026500da6b1b",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 1,
+        "tracks": [
+          {
+            "length": 425156,
+            "position": 1,
+            "title": "Metamorph",
+            "recording": {
+              "video": false,
+              "first-release-date": "2014-03-17",
+              "length": 425156,
+              "genres": [],
+              "id": "0765cc10-e59c-4061-9350-1eb9877c0f9e",
+              "disambiguation": "",
+              "title": "Metamorph"
+            },
+            "id": "ff27af36-47e6-4ce1-a634-8f0c1b524c6d",
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "title": "Metamorph",
+    "genres": [
+      {
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "count": 1
+      }
+    ],
+    "date": "2014-03-17",
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "first-release-date": "2014-03-17",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "disambiguation": "",
+      "id": "d25a64da-4699-448d-910b-f7f4ef3fbef9",
+      "title": "Metamorph"
+    },
+    "status": "Official"
+  },
+  {
+    "release-group": {
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "2013-06-21",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "name": "house",
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1
+        }
+      ],
+      "disambiguation": "",
+      "id": "b263466f-3555-49e0-9f7c-8ede1739bc2e",
+      "title": "Dance"
+    },
+    "asin": null,
+    "status": null,
+    "title": "Dance",
+    "media": [
+      {
+        "id": "087219dd-23c5-4bb2-b82b-dcf75a9b5827",
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "length": 403000,
+            "position": 1,
+            "title": "Dance",
+            "recording": {
+              "genres": [],
+              "length": 403000,
+              "video": false,
+              "first-release-date": "2013-06-21",
+              "title": "Dance",
+              "disambiguation": "",
+              "id": "ec1e09d5-da45-4487-97ea-8deaf1a8671d"
+            },
+            "id": "7cce5558-6b0e-45cb-8293-c326649768ee",
+            "number": "1"
+          },
+          {
+            "length": 372000,
+            "position": 2,
+            "title": "Dance (Peter Brown & Jay C remix)",
+            "recording": {
+              "title": "Dance (Peter Brown & Jay C remix)",
+              "disambiguation": "",
+              "id": "b88a1f44-4291-4864-afe4-44650785be7f",
+              "genres": [],
+              "first-release-date": "2013-06-21",
+              "video": false,
+              "length": 372000
+            },
+            "id": "38b26698-cb54-4fb4-9ace-ce3a0af7fd15",
+            "number": "2"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 2,
+        "track-offset": 0
+      }
+    ],
+    "id": "bc1e3388-52ba-4607-8a5e-e7c70154fe47",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "FR"
+          ],
+          "sort-name": "France",
+          "id": "08310658-51eb-3801-80de-5a0739207115",
+          "disambiguation": "",
+          "type": null,
+          "name": "France",
+          "type-id": null
+        },
+        "date": "2013-06-21"
+      }
+    ],
+    "date": "2013-06-21",
+    "genres": [
+      {
+        "name": "house",
+        "count": 1,
+        "disambiguation": "",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+      }
+    ],
+    "country": "FR",
+    "status-id": null,
+    "cover-art-archive": {
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false
+    },
+    "packaging-id": null,
+    "quality": "normal",
+    "barcode": null,
+    "packaging": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    }
+  },
+  {
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "091012224263",
+    "quality": "normal",
+    "cover-art-archive": {
+      "count": 1,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "US",
+    "genres": [],
+    "date": "2011-04-26",
+    "id": "d6b60c14-073e-45a6-a89f-b02e7ac1a4ef",
+    "release-events": [
+      {
+        "date": "2011-04-26",
+        "area": {
+          "name": "United States",
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "sort-name": "United States",
+          "type": null
+        }
+      }
+    ],
+    "disambiguation": "",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "length": 401000,
+            "id": "6af620e6-68cc-328e-a7d7-9899f7e44bc5",
+            "recording": {
+              "title": "Manga (original mix)",
+              "id": "b3a9c92a-6570-4db6-bb62-f7485abe0268",
+              "disambiguation": "",
+              "genres": [],
+              "length": 401000,
+              "first-release-date": "2011-04-26",
+              "video": false
+            },
+            "position": 1,
+            "title": "Manga (original mix)",
+            "number": "1"
+          },
+          {
+            "length": 434000,
+            "title": "Manga (Urh remix)",
+            "recording": {
+              "title": "Manga (Urh remix)",
+              "id": "65899010-5dad-4de7-9590-e24f5985e6d7",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2011-04-26",
+              "video": false,
+              "length": 434000
+            },
+            "position": 2,
+            "id": "8015bc96-4c07-3a95-8571-d6de5ed10e39",
+            "number": "2"
+          },
+          {
+            "number": "3",
+            "length": 585000,
+            "recording": {
+              "genres": [],
+              "length": 585000,
+              "first-release-date": "2011-04-26",
+              "video": false,
+              "title": "Manga (Hardrox remix)",
+              "id": "f87ed2ed-b101-4c42-bad1-433ca41d44ae",
+              "disambiguation": ""
+            },
+            "title": "Manga (Hardrox remix)",
+            "position": 3,
+            "id": "5ef0cdd5-95a1-38e3-aacf-72a451df900d"
+          },
+          {
+            "id": "6b759a1b-1f90-35df-9547-dde59d53f2f5",
+            "recording": {
+              "video": false,
+              "first-release-date": "2011-04-26",
+              "length": 393000,
+              "genres": [],
+              "id": "855dc7ee-191f-44b7-a3b8-9001784d8cd3",
+              "disambiguation": "",
+              "title": "Manga (Vlegel remix)"
+            },
+            "position": 4,
+            "title": "Manga (Vlegel remix)",
+            "length": 393000,
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "position": 5,
+            "title": "Manga (Chiqito remix)",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2011-04-26",
+              "length": 432000,
+              "title": "Manga (Chiqito remix)",
+              "disambiguation": "",
+              "id": "1be15f21-9a48-457e-af28-3ba7bab4e84a"
+            },
+            "id": "e35fea1d-f189-34b9-b124-dd93de1e0649",
+            "length": 432000
+          },
+          {
+            "length": 401000,
+            "position": 6,
+            "recording": {
+              "length": 401000,
+              "video": false,
+              "first-release-date": "2011-04-26",
+              "genres": [],
+              "disambiguation": "",
+              "id": "4c71d45e-e827-4697-939b-c01b667061da",
+              "title": "Manga (dub mix)"
+            },
+            "title": "Manga (dub mix)",
+            "id": "854c9388-2fb1-3b7e-8f2c-e26e09385b7c",
+            "number": "6"
+          },
+          {
+            "position": 7,
+            "title": "Manga (John de Mark & Steve Kid remix)",
+            "recording": {
+              "first-release-date": "2011-04-26",
+              "video": false,
+              "length": 342000,
+              "genres": [],
+              "id": "253fa4f0-4b3e-46ae-8a59-36e30262d042",
+              "disambiguation": "",
+              "title": "Manga (John de Mark & Steve Kid remix)"
+            },
+            "id": "d91e11b3-f3b9-369f-922b-50a71e1127df",
+            "length": 342000,
+            "number": "7"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 7,
+        "title": "",
+        "position": 1,
+        "id": "bbc28dbf-0fdc-3940-8a46-c3f6e192378c"
+      }
+    ],
+    "title": "Manga",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2011-04-26",
+      "title": "Manga",
+      "disambiguation": "",
+      "id": "c5d8c4b6-3e4c-4854-afc7-4f52e1807f83",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": []
+    }
+  }
+]

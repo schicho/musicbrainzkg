@@ -1,0 +1,944 @@
+[
+  {
+    "disambiguation": "",
+    "id": "5372e143-e30b-45bc-b47b-e2c7cc40ffd0",
+    "release-events": [
+      {
+        "date": "2023-10",
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "name": "United Kingdom"
+        }
+      }
+    ],
+    "media": [
+      {
+        "id": "36859bde-83d7-4cb5-927e-1dcb159b16cc",
+        "position": 1,
+        "title": "",
+        "track-count": 9,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "117e9d18-6717-44f9-8a33-fb9345de55ec",
+            "recording": {
+              "video": false,
+              "first-release-date": "2023-10",
+              "length": 120883,
+              "genres": [],
+              "id": "03f2115c-0a10-409e-be7f-9b2c0fd47015",
+              "disambiguation": "",
+              "title": "Landmines."
+            },
+            "title": "Landmines.",
+            "position": 1,
+            "length": 120883
+          },
+          {
+            "number": "2",
+            "id": "2134b84e-2bc6-4713-928f-2d9724dcc519",
+            "recording": {
+              "id": "d7dcadc0-d163-409a-a1ec-e69f00c9cf8c",
+              "disambiguation": "",
+              "title": "One Thing",
+              "length": 147971,
+              "video": false,
+              "first-release-date": "2023-10",
+              "genres": []
+            },
+            "position": 2,
+            "title": "One Thing",
+            "length": 147971
+          },
+          {
+            "id": "4b912b11-e47a-4649-a4b9-90534a83ddab",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2023-10",
+              "video": false,
+              "length": 107524,
+              "title": "Sober",
+              "disambiguation": "",
+              "id": "818b8982-7b2d-4919-bddf-3900fc56962a"
+            },
+            "title": "Sober",
+            "position": 3,
+            "length": 107524,
+            "number": "3"
+          },
+          {
+            "length": 149732,
+            "id": "7ecc740e-01ef-47b7-af8f-5f9d04ca4bad",
+            "recording": {
+              "id": "9a0c5063-bd4c-469d-9513-0053f67f0b33",
+              "disambiguation": "",
+              "title": "About Last Night…",
+              "length": 149732,
+              "first-release-date": "2023-10",
+              "video": false,
+              "genres": []
+            },
+            "title": "About Last Night…",
+            "position": 4,
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "length": 224786,
+            "id": "c01b9d94-5899-4314-8188-d336bca0609e",
+            "title": "Holding On",
+            "position": 5,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2023-10",
+              "video": false,
+              "length": 224786,
+              "title": "Holding On",
+              "disambiguation": "",
+              "id": "30babe07-99dd-464a-88fa-defa20a2bd01"
+            }
+          },
+          {
+            "number": "6",
+            "title": "Bar Fights & Poetry",
+            "position": 6,
+            "recording": {
+              "id": "6b5766a0-d8b6-4b88-ba53-bffff1968dfe",
+              "disambiguation": "",
+              "title": "Bar Fights & Poetry",
+              "first-release-date": "2023-10",
+              "video": false,
+              "length": 161250,
+              "genres": []
+            },
+            "id": "05e1eb83-5772-4c13-90ae-919d12bb9609",
+            "length": 161250
+          },
+          {
+            "length": 193487,
+            "id": "96fb4dfe-bfc1-477a-9aa6-e2070ab5d40b",
+            "position": 7,
+            "recording": {
+              "title": "20:50 Freestyle",
+              "id": "cd7622c5-2ad6-4741-aaf4-c0bcd2e23fbb",
+              "disambiguation": "",
+              "genres": [],
+              "length": 193487,
+              "first-release-date": "2023-10",
+              "video": false
+            },
+            "title": "20:50 Freestyle",
+            "number": "7"
+          },
+          {
+            "recording": {
+              "id": "c8fbb2fe-bd88-49a6-89ac-cd021c003065",
+              "disambiguation": "",
+              "title": "Break The Cycle",
+              "length": 155924,
+              "first-release-date": "2023-10",
+              "video": false,
+              "genres": []
+            },
+            "title": "Break The Cycle",
+            "position": 8,
+            "id": "bee65d69-6747-4c23-a8aa-d1df842f9769",
+            "length": 155924,
+            "number": "8"
+          },
+          {
+            "number": "9",
+            "recording": {
+              "id": "ca0ee0e4-e1ee-49f8-9eab-def6c36beeaa",
+              "disambiguation": "",
+              "title": "The Butterfly Effect",
+              "length": 134077,
+              "first-release-date": "2023-10",
+              "video": false,
+              "genres": []
+            },
+            "title": "The Butterfly Effect",
+            "position": 9,
+            "id": "6af55397-6bfd-4b4f-9d7d-86510a969af7",
+            "length": 134077
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Pub Therapy",
+    "date": "2023-10",
+    "genres": [],
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2023-10",
+      "title": "Pub Therapy",
+      "disambiguation": "",
+      "id": "256a7ca3-4e9f-4e2f-9ce9-ab7ba223a53f"
+    },
+    "status": "Official",
+    "barcode": "044003380844",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "packaging": null,
+    "packaging-id": null,
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "artwork": false
+    },
+    "country": "GB",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "quality": "normal"
+  },
+  {
+    "release-group": {
+      "title": "Six Missed Calls",
+      "id": "eadd8831-a1cf-4540-b572-e7e7c093570f",
+      "disambiguation": "",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2025-02-28",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "asin": null,
+    "status": "Official",
+    "media": [
+      {
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 187556,
+            "title": "Cook & Effy",
+            "recording": {
+              "first-release-date": "2025-02-28",
+              "video": false,
+              "length": 187556,
+              "genres": [],
+              "disambiguation": "",
+              "id": "1484db09-fd0c-4d52-8c49-bccffbba7a90",
+              "title": "Cook & Effy"
+            },
+            "position": 1,
+            "id": "74bfff85-9834-41fe-b6c0-02273afbc9b8",
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "length": 122175,
+            "title": "Something to Say",
+            "position": 2,
+            "recording": {
+              "first-release-date": "2025-02-28",
+              "video": false,
+              "length": 122175,
+              "genres": [],
+              "id": "31104c8f-0dcb-47b5-ba25-47c426a00671",
+              "disambiguation": "",
+              "title": "Something to Say"
+            },
+            "id": "107eccef-e446-4159-b2d2-6ca63ae84174"
+          },
+          {
+            "length": 137091,
+            "title": "Pick Your Poison",
+            "position": 3,
+            "recording": {
+              "id": "a5a8d98a-d17d-4702-bf03-3b4907750086",
+              "disambiguation": "",
+              "title": "Pick Your Poison",
+              "length": 137091,
+              "video": false,
+              "first-release-date": "2025-02-28",
+              "genres": []
+            },
+            "id": "7ea9e328-6ed0-478c-a164-a97c883d9779",
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "title": "Reason",
+            "position": 4,
+            "recording": {
+              "genres": [],
+              "length": 208509,
+              "video": false,
+              "first-release-date": "2025-02-28",
+              "title": "Reason",
+              "disambiguation": "",
+              "id": "c4ec3751-eb5e-42ff-a054-2266d888bfd0"
+            },
+            "id": "0b49d88b-b28f-4d46-8bac-901265ec3ab3",
+            "length": 208509
+          },
+          {
+            "id": "06f88471-2738-43b1-958c-adcc6f49fd66",
+            "recording": {
+              "id": "22a8b242-cf8a-456e-9ac0-b104af1f98e1",
+              "disambiguation": "",
+              "title": "Forever",
+              "first-release-date": "2025-02-28",
+              "video": false,
+              "length": 214988,
+              "genres": []
+            },
+            "position": 5,
+            "title": "Forever",
+            "length": 214988,
+            "number": "5"
+          },
+          {
+            "number": "6",
+            "length": 181525,
+            "id": "49c348a1-122e-4a1d-b85c-76336f058a08",
+            "title": "Have the World Your Way",
+            "position": 6,
+            "recording": {
+              "genres": [],
+              "length": 181525,
+              "first-release-date": "2025-02-28",
+              "video": false,
+              "title": "Have the World Your Way",
+              "id": "c0f53403-0217-447c-8b4e-436ff5fe6aa6",
+              "disambiguation": ""
+            }
+          }
+        ],
+        "track-count": 6,
+        "track-offset": 0,
+        "id": "52d68ae4-7a9b-3da7-b323-f61bca55a888",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "title": "Six Missed Calls",
+    "release-events": [
+      {
+        "area": {
+          "id": "08310658-51eb-3801-80de-5a0739207115",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "FR"
+          ],
+          "sort-name": "France",
+          "type": null,
+          "name": "France",
+          "type-id": null
+        },
+        "date": "2025-02-28"
+      }
+    ],
+    "id": "74f13458-c4e7-4ae6-bad5-1cc2e29626ef",
+    "disambiguation": "",
+    "genres": [],
+    "date": "2025-02-28",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "FR",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "front": true,
+      "darkened": false,
+      "back": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "quality": "normal",
+    "barcode": null,
+    "packaging": "None",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    }
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "GB",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "front": true,
+      "back": false,
+      "darkened": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "quality": "normal",
+    "barcode": "3616552651996",
+    "packaging": "None",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "release-group": {
+      "disambiguation": "",
+      "id": "ca00130e-8aa7-473c-9e41-5bfa8c6167c1",
+      "title": "Falling Up",
+      "first-release-date": "2021-02-26",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": []
+    },
+    "asin": null,
+    "status": "Official",
+    "title": "Falling Up",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "f871144e-9e7e-3820-b8d1-70feefb7aeac",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "length": 244000,
+            "position": 1,
+            "recording": {
+              "title": "Falling Up",
+              "disambiguation": "",
+              "id": "5627320b-acaf-4752-938c-242e5d5b7e72",
+              "genres": [],
+              "length": 244000,
+              "video": false,
+              "first-release-date": "2021-02-26"
+            },
+            "title": "Falling Up",
+            "id": "040456c3-e044-44a7-9c40-1daca987c5b9",
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "format": "Digital Media"
+      }
+    ],
+    "id": "76cc929f-ffb1-4a7d-a5e3-267a92bbd2ca",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2021-02-26",
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "name": "United Kingdom"
+        }
+      }
+    ],
+    "date": "2021-02-26",
+    "genres": []
+  },
+  {
+    "packaging": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": null,
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "AU",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "packaging-id": null,
+    "date": "2024-11-27",
+    "genres": [],
+    "media": [
+      {
+        "id": "052a920f-eae0-3793-8dd9-8c0297f15387",
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "4cc83888-7726-4430-85f1-b104ab63beea",
+            "title": "96 (extended mix)",
+            "recording": {
+              "genres": [],
+              "length": 279000,
+              "first-release-date": "2024-11-27",
+              "video": false,
+              "title": "96 (extended mix)",
+              "id": "2b487a84-f779-46da-bd6b-5572df8a3cd2",
+              "disambiguation": ""
+            },
+            "position": 1,
+            "length": 279000
+          },
+          {
+            "number": "2",
+            "id": "22464ad7-e33e-414b-bf65-9a02203974aa",
+            "position": 2,
+            "recording": {
+              "first-release-date": "2024-11-27",
+              "video": false,
+              "length": 150000,
+              "genres": [],
+              "id": "094e899a-7f84-4ced-8931-068dc61530b7",
+              "disambiguation": "",
+              "title": "96"
+            },
+            "title": "96",
+            "length": 150000
+          }
+        ],
+        "track-count": 2,
+        "track-offset": 0
+      }
+    ],
+    "title": "96",
+    "id": "8b41aee2-f0ed-4c32-88af-77ef4997b6fb",
+    "disambiguation": "Extended",
+    "release-events": [
+      {
+        "date": "2024-11-27",
+        "area": {
+          "disambiguation": "",
+          "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+          "iso-3166-1-codes": [
+            "AU"
+          ],
+          "sort-name": "Australia",
+          "type": null,
+          "name": "Australia",
+          "type-id": null
+        }
+      }
+    ],
+    "status": "Official",
+    "release-group": {
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2024-11-27",
+      "title": "96",
+      "id": "6f0545d0-7e3a-4b46-ac9b-974d2d5b2dd0",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": []
+    },
+    "asin": null
+  },
+  {
+    "barcode": "049362858874",
+    "packaging": "None",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "quality": "normal",
+    "title": "Addicted To Nostalgia",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "84523c64-ca94-47a4-8193-43bd43ae6416",
+        "track-offset": 0,
+        "track-count": 10,
+        "tracks": [
+          {
+            "length": 88152,
+            "id": "b2e3ed35-7630-45ec-b9a2-00f73f77e592",
+            "position": 1,
+            "title": "Where Do I Start",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2026-03-13",
+              "video": false,
+              "length": 88152,
+              "title": "Where Do I Start",
+              "id": "2564d308-f666-44ad-bca8-06d8c449c566",
+              "disambiguation": ""
+            },
+            "number": "1"
+          },
+          {
+            "position": 2,
+            "title": "Motion Sickness",
+            "recording": {
+              "length": 200571,
+              "first-release-date": "2026-03-13",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "1f49c80c-eab7-4e4e-b88c-9bc138c83aab",
+              "title": "Motion Sickness"
+            },
+            "id": "ecedaf6c-9d16-4981-9025-8725b4fa86fb",
+            "length": 200571,
+            "number": "2"
+          },
+          {
+            "position": 3,
+            "recording": {
+              "video": false,
+              "first-release-date": "2026-03-13",
+              "length": 149630,
+              "genres": [],
+              "disambiguation": "",
+              "id": "dce76522-f3d1-4fa4-a767-70b300d7d9df",
+              "title": "From My Ends"
+            },
+            "title": "From My Ends",
+            "id": "173386c2-5528-42ae-8987-14eaa83ee4f6",
+            "length": 149630,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 120000,
+            "position": 4,
+            "title": "Facetime",
+            "recording": {
+              "genres": [],
+              "length": 120000,
+              "first-release-date": "2026-03-13",
+              "video": false,
+              "title": "Facetime",
+              "id": "5abe473e-a9b6-4e7b-bafc-c99aea502582",
+              "disambiguation": ""
+            },
+            "id": "6738039f-ecd4-46f6-bdab-58da78194d66"
+          },
+          {
+            "title": "Sexy",
+            "position": 5,
+            "recording": {
+              "disambiguation": "",
+              "id": "2d17ea76-0f45-4000-9862-a2ea192a2613",
+              "title": "Sexy",
+              "video": false,
+              "first-release-date": "2026-03-13",
+              "length": 160112,
+              "genres": []
+            },
+            "id": "e91ce301-ff07-4494-8216-e288ea1e9b05",
+            "length": 160112,
+            "number": "5"
+          },
+          {
+            "id": "aec50161-e909-4015-8254-dd693cae5ffe",
+            "title": "Naughties",
+            "recording": {
+              "length": 146893,
+              "first-release-date": "2026-03-13",
+              "video": false,
+              "genres": [],
+              "id": "f9b63714-806b-41f2-abff-57faa699833f",
+              "disambiguation": "",
+              "title": "Naughties"
+            },
+            "position": 6,
+            "length": 146893,
+            "number": "6"
+          },
+          {
+            "length": 168176,
+            "id": "4b1f7e2e-6539-484f-87cb-d1df41f31db4",
+            "title": "Tell Me Where Your Mind Goes",
+            "recording": {
+              "id": "78ee4582-95c6-46a9-8ad0-d13f2d25dd7a",
+              "disambiguation": "",
+              "title": "Tell Me Where Your Mind Goes",
+              "length": 168176,
+              "video": false,
+              "first-release-date": "2026-03-13",
+              "genres": []
+            },
+            "position": 7,
+            "number": "7"
+          },
+          {
+            "number": "8",
+            "id": "15752e42-445b-4d29-b92c-eea2be23be25",
+            "title": "Shiloh Type Flip",
+            "position": 8,
+            "recording": {
+              "title": "Shiloh Type Flip",
+              "disambiguation": "",
+              "id": "1d4bf1c6-9f8c-49da-a0a7-d662439a57ac",
+              "genres": [],
+              "length": 153933,
+              "first-release-date": "2026-03-13",
+              "video": false
+            },
+            "length": 153933
+          },
+          {
+            "recording": {
+              "length": 172292,
+              "video": false,
+              "first-release-date": "2026-03-13",
+              "genres": [],
+              "disambiguation": "",
+              "id": "ffbfb933-68cd-4b8e-9609-0a79a5417405",
+              "title": "Closer"
+            },
+            "title": "Closer",
+            "position": 9,
+            "id": "cf775371-fa0e-4480-af6e-030061083519",
+            "length": 172292,
+            "number": "9"
+          },
+          {
+            "number": "10",
+            "id": "6d6e42c3-ac81-492a-b43f-be594b8e511b",
+            "position": 10,
+            "recording": {
+              "disambiguation": "",
+              "id": "5d5c2dba-9a92-4250-8d00-5b55d11e0dfb",
+              "title": "Addicted 2 Nostalgia",
+              "length": 241792,
+              "first-release-date": "2026-03-13",
+              "video": false,
+              "genres": []
+            },
+            "title": "Addicted 2 Nostalgia",
+            "length": 241792
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "format": "Digital Media"
+      }
+    ],
+    "id": "b0af0adf-df22-4617-a174-27e512f45264",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2026-03-13",
+        "area": {
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        }
+      }
+    ],
+    "date": "2026-03-13",
+    "genres": [],
+    "release-group": {
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Addicted To Nostalgia",
+      "id": "a5dc11b0-681d-44a3-ba2b-37ff97bf02d9",
+      "disambiguation": "",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2026-03-13"
+    },
+    "asin": null,
+    "status": "Official"
+  },
+  {
+    "packaging": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "zxx"
+    },
+    "barcode": "5021732539403",
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "AU",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "genres": [],
+    "date": "2024-11-27",
+    "media": [
+      {
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "1235cbd3-af31-4c7f-87cb-538387255c50",
+            "title": "96",
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "length": 150000,
+              "video": false,
+              "first-release-date": "2024-11-27",
+              "title": "96",
+              "id": "7a4a8c91-0106-4686-9fa8-a63a785cd680",
+              "disambiguation": ""
+            },
+            "length": 150000,
+            "number": "1"
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "0d2a09e9-03f5-4ae7-a460-7f3c79962f92",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "title": "96",
+    "release-events": [
+      {
+        "area": {
+          "name": "Australia",
+          "type-id": null,
+          "sort-name": "Australia",
+          "iso-3166-1-codes": [
+            "AU"
+          ],
+          "disambiguation": "",
+          "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+          "type": null
+        },
+        "date": "2024-11-27"
+      }
+    ],
+    "id": "b866704e-c4c5-433f-b3cc-0c53fda4dcc0",
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "id": "6f0545d0-7e3a-4b46-ac9b-974d2d5b2dd0",
+      "disambiguation": "",
+      "title": "96",
+      "first-release-date": "2024-11-27",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": []
+    },
+    "asin": null
+  },
+  {
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "id": "e12a0522-8e6f-4e79-bd47-77cd123e9d1f",
+      "disambiguation": "",
+      "title": "Break The Cycle (Luke Gomm Refix)",
+      "first-release-date": "2022-12-09",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "genres": [],
+    "date": "2022-12-09",
+    "release-events": [
+      {
+        "date": "2022-12-09",
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "id": "f6971067-9698-44e2-9b1d-c3196acfa551",
+    "disambiguation": "",
+    "title": "Break The Cycle (Luke Gomm Refix)",
+    "media": [
+      {
+        "id": "c729f090-4e06-3442-a6b5-51162e1a8309",
+        "title": "",
+        "position": 1,
+        "tracks": [
+          {
+            "length": 201251,
+            "id": "b240198b-e32f-4e54-bbbf-b0f5649b8733",
+            "position": 1,
+            "title": "Break The Cycle - Luke Gomm Refix",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2022-12-09",
+              "length": 201251,
+              "title": "Break The Cycle - Luke Gomm Refix",
+              "id": "2494cd91-dc53-4637-a1ff-f003305e9f35",
+              "disambiguation": ""
+            },
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "front": true,
+      "darkened": false,
+      "back": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "packaging": "None",
+    "barcode": "3617053561654"
+  }
+]

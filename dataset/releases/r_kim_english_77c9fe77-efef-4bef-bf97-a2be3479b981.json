@@ -1,0 +1,3398 @@
+[
+  {
+    "packaging": null,
+    "id": "03a00d9f-c7e2-483a-ad3e-402037e5e85f",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "disambiguation": "",
+          "name": "United States",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "date": "2006"
+      }
+    ],
+    "release-group": {
+      "id": "fe33a5d4-ae68-47ff-8389-51abc9cd8118",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2006",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+          "count": 1,
+          "name": "contemporary r&b",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "deep house",
+          "count": 1,
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f"
+        },
+        {
+          "disambiguation": "",
+          "name": "downtempo",
+          "count": 1,
+          "id": "cc38aba3-48ed-439a-83b9-f81a34a66598"
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "disambiguation": "",
+          "name": "garage house",
+          "count": 1,
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "progressive house",
+          "id": "70adb285-e1f7-458a-823f-5cbda5e291c4"
+        },
+        {
+          "id": "1b5e7b16-336b-473e-a364-5120413a9827",
+          "count": 1,
+          "disambiguation": "",
+          "name": "soul"
+        }
+      ],
+      "title": "My Destiny"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "US",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "front": true,
+      "back": false
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "track-offset": 0,
+        "id": "ce4e11f9-3311-38e4-b057-8ad8d4b08095",
+        "format": "CD",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "cd510524-7f10-4ad7-87f8-fe5fa5e418f9",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "fc26edab-8696-43b6-950a-28cc73c9b7e1",
+              "genres": [],
+              "length": 298000,
+              "title": "It Makes A Difference (Kyle Smith Soulful Vox Mix)",
+              "first-release-date": "2006"
+            },
+            "length": 298000,
+            "title": "It Makes A Difference (Kyle Smith Soulful Vox Mix)",
+            "number": "1"
+          },
+          {
+            "length": 233000,
+            "title": "My Destiny (DJ Exacta Electro Chill Mix)",
+            "number": "2",
+            "id": "4373dbbc-8e01-4310-8683-3513d219e063",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "title": "My Destiny (DJ Exacta Electro Chill Mix)",
+              "length": 233000,
+              "first-release-date": "2006",
+              "disambiguation": "",
+              "video": false,
+              "id": "e5947da0-a130-4b14-9528-695d7e963d4e"
+            }
+          },
+          {
+            "id": "4acc8ba0-d7e5-4f55-b52d-d07bef005aa7",
+            "position": 3,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "21b5ca27-87e2-4fac-8d2a-a8e5a672f95d",
+              "title": "Nitelife (Encore)",
+              "length": 289000,
+              "genres": [],
+              "first-release-date": "2006"
+            },
+            "length": 289000,
+            "title": "Nitelife (Encore)",
+            "number": "3"
+          },
+          {
+            "id": "4ab09c2b-40b4-49c6-8e85-171301116908",
+            "position": 4,
+            "recording": {
+              "length": 198000,
+              "title": "C'est La Vie (Hex Hector Club Remix)",
+              "genres": [],
+              "first-release-date": "2006",
+              "disambiguation": "",
+              "video": false,
+              "id": "069c1d7f-5d8b-4347-89d5-c559939765c9"
+            },
+            "length": 198000,
+            "title": "C'est La Vie (Hex Hector Club Remix)",
+            "number": "4"
+          },
+          {
+            "id": "530f658b-ae55-4170-97fe-57792e4745d0",
+            "position": 5,
+            "recording": {
+              "title": "Love That Jazz",
+              "length": 205000,
+              "genres": [],
+              "first-release-date": "2006",
+              "disambiguation": "",
+              "id": "00ca29b1-e601-4a70-a09f-378cbd837ccc",
+              "video": false
+            },
+            "length": 205000,
+            "title": "Love That Jazz",
+            "number": "5"
+          },
+          {
+            "length": 247000,
+            "title": "Everyday (Hex Hector And Mac Quayle Mix)",
+            "number": "6",
+            "id": "cfb0f5ce-2334-4a8d-aa9a-6ef08169736a",
+            "position": 6,
+            "recording": {
+              "disambiguation": "",
+              "id": "d44f995d-6c9c-42f8-af48-8474aa7eeaf2",
+              "video": false,
+              "title": "Everyday (Hex Hector And Mac Quayle Mix)",
+              "length": 247000,
+              "genres": [],
+              "first-release-date": "2006"
+            }
+          },
+          {
+            "number": "7",
+            "title": "Treat Me Right (Jon Cutler NY Flavor House Mix)",
+            "length": 290000,
+            "recording": {
+              "title": "Treat Me Right (Jon Cutler NY Flavor House Mix)",
+              "length": 290000,
+              "genres": [],
+              "first-release-date": "2006",
+              "disambiguation": "",
+              "video": false,
+              "id": "4622c2df-067d-4084-96b4-614c2b5bd7c4"
+            },
+            "id": "b819f913-a70e-4ab8-a27e-2b341a0b1983",
+            "position": 7
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "d2b92bf0-adda-4543-bfdd-845beba3ba71",
+              "genres": [],
+              "title": "Simply Grateful (Darryl James R&B House Jam Remix)",
+              "length": 300000,
+              "first-release-date": "2006"
+            },
+            "position": 8,
+            "id": "a8c5bd8e-09c5-45d6-ae2b-f0b91c18a790",
+            "number": "8",
+            "length": 300000,
+            "title": "Simply Grateful (Darryl James R&B House Jam Remix)"
+          },
+          {
+            "length": 325000,
+            "title": "My Destiny (Maurice Joshua Chicago House Mix)",
+            "number": "9",
+            "position": 9,
+            "id": "ddfc8643-7c17-44d2-90fa-0716ee0c9440",
+            "recording": {
+              "first-release-date": "2006",
+              "length": 325000,
+              "title": "My Destiny (Maurice Joshua Chicago House Mix)",
+              "genres": [],
+              "id": "d4dfa14a-2db1-4289-83a6-9d6d442a6afa",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "title": "Finally (Someone For Me)",
+            "length": 269000,
+            "number": "10",
+            "id": "59319db2-51bd-458a-b2fb-2aeea84cd1bb",
+            "position": 10,
+            "recording": {
+              "first-release-date": "2006",
+              "title": "Finally (Someone For Me)",
+              "length": 269000,
+              "genres": [],
+              "video": false,
+              "id": "e7553bb3-d51f-466a-85b3-c7d08e51c280",
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "11",
+            "length": 576000,
+            "title": "It Makes A Difference (Tony Moran \"Arms Open Wide\" Mix)",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "c7f4c155-d69a-487d-8f0e-edaf0d1144c3",
+              "genres": [],
+              "length": 576000,
+              "title": "It Makes A Difference (Tony Moran \"Arms Open Wide\" Mix)",
+              "first-release-date": "2006"
+            },
+            "position": 11,
+            "id": "95742d24-2baa-4ace-a29b-bb9638a7f417"
+          },
+          {
+            "position": 12,
+            "id": "2716da48-9dcd-4ebc-9fc8-83db42860a9a",
+            "recording": {
+              "video": false,
+              "id": "083d3759-bf2b-44b6-881b-bb6ae2bdd148",
+              "disambiguation": "",
+              "first-release-date": "2006",
+              "genres": [],
+              "length": 551000,
+              "title": "Treat Me Right (Guido Osario Big Room Revisit Mix)"
+            },
+            "length": 551000,
+            "title": "Treat Me Right (Guido Osario Big Room Revisit Mix)",
+            "number": "12"
+          }
+        ],
+        "track-count": 12
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "My Destiny",
+    "date": "2006",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": null,
+    "barcode": "091012051623"
+  },
+  {
+    "date": "2022-10-21",
+    "text-representation": {
+      "script": null,
+      "language": "eng"
+    },
+    "barcode": null,
+    "packaging-id": null,
+    "country": null,
+    "disambiguation": "",
+    "release-group": {
+      "id": "b32b505f-168c-48e8-aaf2-5ab3bb7b3f83",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "first-release-date": "2022-10-21",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Moving All Around (Jumpin')",
+      "genres": []
+    },
+    "release-events": [
+      {
+        "date": "2022-10-21",
+        "area": null
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "id": "0626b2d0-daea-4764-8fde-703441d80daa",
+    "title": "Moving All Around (Jumpin')",
+    "asin": null,
+    "genres": [],
+    "status": "Official",
+    "media": [
+      {
+        "id": "6d1d872f-b1c9-37a1-8349-a31d39239aca",
+        "tracks": [
+          {
+            "length": 189000,
+            "title": "Moving All Around (Jumpin')",
+            "number": "1",
+            "position": 1,
+            "id": "83b9e86f-d35c-4349-9a2b-060a93c1f4b5",
+            "recording": {
+              "first-release-date": "2022-10-21",
+              "length": 189000,
+              "title": "Moving All Around (Jumpin')",
+              "genres": [],
+              "video": false,
+              "id": "6719ca84-ec3b-4d4c-ac89-8515d2e7d41d",
+              "disambiguation": ""
+            }
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 1,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "track-offset": 0
+      }
+    ],
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "quality": "normal"
+  },
+  {
+    "title": "Higher Things (Thunderpuss Remixes)",
+    "asin": null,
+    "genres": [],
+    "status": "Official",
+    "media": [
+      {
+        "track-count": 5,
+        "id": "13a3c475-1745-37c2-9661-e524717c504f",
+        "tracks": [
+          {
+            "title": "Higher Things (Thunderpuss radio edit)",
+            "length": 286387,
+            "number": "1",
+            "id": "99148f88-fbef-4b4e-8716-a14cf0416c28",
+            "position": 1,
+            "recording": {
+              "first-release-date": "2008-11-17",
+              "genres": [],
+              "title": "Higher Things (Thunderpuss radio edit)",
+              "length": 286387,
+              "video": false,
+              "id": "88d547c5-2586-4a09-bad6-4bb536dc73ee",
+              "disambiguation": ""
+            }
+          },
+          {
+            "id": "6a07687c-c0cc-4905-943a-d239cfda4683",
+            "position": 2,
+            "recording": {
+              "title": "Higher Things (Jazz‐N‐Groove radio edit)",
+              "length": 202093,
+              "genres": [],
+              "first-release-date": "2008-11-17",
+              "disambiguation": "",
+              "video": false,
+              "id": "3f3f46f7-abe0-4ad1-aa04-9125ee375a49"
+            },
+            "length": 202093,
+            "title": "Higher Things (Jazz‐N‐Groove radio edit)",
+            "number": "2"
+          },
+          {
+            "title": "Higher Things (Thunderpuss club Anthem)",
+            "length": 669080,
+            "number": "3",
+            "id": "4f5db772-2e50-4434-b9ef-3fc7daf65478",
+            "position": 3,
+            "recording": {
+              "genres": [],
+              "length": 669080,
+              "title": "Higher Things (Thunderpuss club Anthem)",
+              "first-release-date": "2008-11-17",
+              "disambiguation": "",
+              "video": false,
+              "id": "f174928c-42bb-4c3a-ae24-cec1d41729b4"
+            }
+          },
+          {
+            "id": "96223f96-1947-47ea-be1c-8104ab9e2327",
+            "position": 4,
+            "recording": {
+              "first-release-date": "2008-11-17",
+              "genres": [],
+              "title": "Higher Things (Jazz‐N‐Groove Prime Time club mix)",
+              "length": 441333,
+              "video": false,
+              "id": "d3b2ba45-4d6a-4144-945d-7ebb18ffe7ab",
+              "disambiguation": ""
+            },
+            "length": 441333,
+            "title": "Higher Things (Jazz‐N‐Groove Prime Time club mix)",
+            "number": "4"
+          },
+          {
+            "id": "f42c0694-299a-446f-8a49-0406c0e875b6",
+            "position": 5,
+            "recording": {
+              "genres": [],
+              "length": 412293,
+              "title": "Higher Things (Maurice Joshua version)",
+              "first-release-date": "2008-11-17",
+              "disambiguation": "",
+              "video": false,
+              "id": "6328b276-4232-4dab-8230-8f90f2243ede"
+            },
+            "title": "Higher Things (Maurice Joshua version)",
+            "length": 412293,
+            "number": "5"
+          }
+        ],
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "front": true,
+      "darkened": false,
+      "back": false
+    },
+    "quality": "normal",
+    "disambiguation": "",
+    "country": "XW",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]"
+        },
+        "date": "2008-11-17"
+      }
+    ],
+    "release-group": {
+      "id": "029d3c61-30ab-4fa7-bd92-034e5bc0d05b",
+      "primary-type": "Single",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "secondary-types": [
+        "Remix"
+      ],
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2008-11-17",
+      "genres": [],
+      "title": "Higher Things (Thunderpuss Remixes)"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "id": "0cc40b09-1b16-4285-9926-99c67efd7178",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": "091012083464",
+    "date": "2008-11-17",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    }
+  },
+  {
+    "barcode": "042285149524",
+    "packaging-id": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "1995",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "id": "168ca893-19da-3cd4-aa8c-1dcd650e089b",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Time for Love (Morales radio edit)",
+            "length": 230266,
+            "recording": {
+              "genres": [],
+              "length": 230266,
+              "title": "Time for Love (Morales radio edit)",
+              "first-release-date": "1995",
+              "disambiguation": "",
+              "id": "99bb3bc2-0e5c-4f16-a381-caeed802accb",
+              "video": false
+            },
+            "position": 1,
+            "id": "b596cb41-c138-306e-8f85-695eda8e23f8"
+          },
+          {
+            "recording": {
+              "first-release-date": "1995",
+              "title": "Time for Love (Mollison / Malone club mix)",
+              "length": 603600,
+              "genres": [],
+              "id": "d7a57944-1b91-4306-93bc-ad0a353cabf0",
+              "video": false,
+              "disambiguation": ""
+            },
+            "position": 2,
+            "id": "94cc51e2-b9ea-3c06-89e2-86db12355e1c",
+            "number": "2",
+            "title": "Time for Love (Mollison / Malone club mix)",
+            "length": 603600
+          },
+          {
+            "number": "3",
+            "length": 489200,
+            "title": "Time for Love (Morales club mix)",
+            "recording": {
+              "id": "904e79a1-c591-4cd2-938c-b4d2195af7c3",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995",
+              "genres": [],
+              "length": 489200,
+              "title": "Time for Love (Morales club mix)"
+            },
+            "id": "09ca8ffa-777b-331d-b31f-3f950cd0310b",
+            "position": 3
+          },
+          {
+            "id": "f22b0879-b211-39e3-8023-900c6d3c44c8",
+            "position": 4,
+            "recording": {
+              "first-release-date": "1995",
+              "genres": [],
+              "length": 471040,
+              "title": "Time for Love (UK dub mix)",
+              "video": false,
+              "id": "757e56ee-caba-4d35-bf6c-d076f6ea4e8b",
+              "disambiguation": ""
+            },
+            "title": "Time for Love (UK dub mix)",
+            "length": 471040,
+            "number": "4"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "750d9aac-6c29-4c04-a1c3-175dedbd634a",
+              "disambiguation": "",
+              "first-release-date": "1995",
+              "length": 477893,
+              "title": "Time for Love (Two for One mix)",
+              "genres": []
+            },
+            "position": 5,
+            "id": "efeeb639-e323-3491-91c1-5d4087b229bb",
+            "number": "5",
+            "title": "Time for Love (Two for One mix)",
+            "length": 477893
+          }
+        ],
+        "format": "CD",
+        "track-count": 5,
+        "position": 1,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0
+      }
+    ],
+    "asin": "B000007YOS",
+    "genres": [],
+    "title": "Time for Love",
+    "packaging": null,
+    "id": "15f12dbb-3985-451d-9234-f2a5d4ec9d39",
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom"
+        },
+        "date": "1995"
+      }
+    ],
+    "release-group": {
+      "first-release-date": "1995",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Time for Love",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "name": "house",
+          "disambiguation": ""
+        }
+      ],
+      "id": "752936a5-8035-4fcb-b9a2-bab43a96c215",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "GB"
+  },
+  {
+    "packaging": null,
+    "id": "20d76b24-1ab0-4fe7-92a0-a7cc28b30ce3",
+    "release-group": {
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "752936a5-8035-4fcb-b9a2-bab43a96c215",
+      "genres": [
+        {
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "disambiguation": "",
+          "name": "house"
+        }
+      ],
+      "title": "Time for Love",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1995"
+    },
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "name": "United States",
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States"
+        },
+        "date": "1995"
+      }
+    ],
+    "status-id": null,
+    "country": "US",
+    "disambiguation": "",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "quality": "normal",
+    "status": null,
+    "media": [
+      {
+        "id": "5681bd70-8917-3f2d-afb5-d6ebb6bdb818",
+        "tracks": [
+          {
+            "title": "Time For Love (Broken Down Vocal)",
+            "length": 371000,
+            "number": "A1",
+            "position": 1,
+            "id": "aea519be-ab85-4e5b-a1f4-eb64eada5328",
+            "recording": {
+              "id": "723bdb1b-fb1a-494a-8810-a9359ae0834d",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995",
+              "title": "Time For Love (Broken Down Vocal)",
+              "length": 371000,
+              "genres": []
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "1995",
+              "genres": [],
+              "length": 351000,
+              "title": "Time For Love (Broken Down Dub)",
+              "id": "208f8bfe-a8b2-41ee-a204-6490a682096f",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "635d7c6c-ed6f-4a98-b1ec-ff8cdfc4c54c",
+            "position": 2,
+            "number": "A2",
+            "length": 351000,
+            "title": "Time For Love (Broken Down Dub)"
+          },
+          {
+            "length": 514000,
+            "title": "Time For Love (Nervous Club Mix)",
+            "number": "B",
+            "position": 3,
+            "id": "6026bd8f-fcf7-482d-ad44-30857e6318eb",
+            "recording": {
+              "first-release-date": "1995",
+              "length": 514000,
+              "title": "Time For Love (Nervous Club Mix)",
+              "genres": [],
+              "video": false,
+              "id": "b7f1afd9-dc39-4720-adff-188d9b56ac28",
+              "disambiguation": ""
+            }
+          }
+        ],
+        "format": "12\" Vinyl",
+        "track-count": 3,
+        "position": 1,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "track-offset": 0
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "Time For Love",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "date": "1995",
+    "packaging-id": null,
+    "barcode": null
+  },
+  {
+    "date": "1998-07-07",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": "091012025822",
+    "packaging-id": null,
+    "release-events": [
+      {
+        "date": "1998-07-07",
+        "area": {
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "name": "United States",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "release-group": {
+      "first-release-date": "1998-07-07",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "disambiguation": "",
+          "name": "garage house",
+          "count": 1,
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "title": "Higher Things",
+      "id": "56b988b0-2bd7-4f9c-a836-495a845d3ec2",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": []
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "US",
+    "packaging": null,
+    "id": "355f0a98-0c65-40c6-b486-5a4e68f33a20",
+    "asin": "B000007SPG",
+    "genres": [],
+    "title": "Higher Things",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "front": true,
+      "back": false
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "track-count": 11,
+        "format": "CD",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "1998-07-07",
+              "title": "Learn 2 Luv (Francois K’s atmospheric mood mix)",
+              "length": 298000,
+              "genres": [],
+              "video": false,
+              "id": "bec414fc-6f40-4da8-9c0c-23fb0c817534",
+              "disambiguation": ""
+            },
+            "id": "8ad63ee4-ea70-461e-8515-c1383f259af9",
+            "position": 1,
+            "number": "1",
+            "length": 298000,
+            "title": "Learn 2 Luv (Francois K’s atmospheric mood mix)"
+          },
+          {
+            "id": "9c7ad984-b18c-4a3c-a3d6-32a5c0dcd4ba",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "id": "8615f7dd-1086-4de9-adcb-a1c474a24870",
+              "video": false,
+              "genres": [],
+              "title": "Unspeakable Joy",
+              "length": 345000,
+              "first-release-date": "1998-07-07"
+            },
+            "length": 345000,
+            "title": "Unspeakable Joy",
+            "number": "2"
+          },
+          {
+            "number": "3",
+            "length": 411000,
+            "title": "Higher Things",
+            "recording": {
+              "first-release-date": "1998-07-07",
+              "title": "Higher Things",
+              "length": 411000,
+              "genres": [],
+              "video": false,
+              "id": "9da1800e-d91c-4650-aa8a-bcc75177d85d",
+              "disambiguation": ""
+            },
+            "id": "7827295a-4eec-4697-86f9-62f9436221b6",
+            "position": 3
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "0c58edc9-84f8-42c0-9046-d00f44c6921d",
+              "disambiguation": "",
+              "first-release-date": "1998-07-07",
+              "genres": [],
+              "length": 299000,
+              "title": "Supernatural (Mousse T. super soul mix)"
+            },
+            "id": "8a697aca-a7d8-4a30-ab8c-323ddbce9a9f",
+            "position": 4,
+            "number": "4",
+            "length": 299000,
+            "title": "Supernatural (Mousse T. super soul mix)"
+          },
+          {
+            "recording": {
+              "title": "Missing You",
+              "length": 238000,
+              "genres": [],
+              "first-release-date": "1998-07-07",
+              "disambiguation": "",
+              "id": "ec0ce7dd-bfe3-4f24-96bd-2ae4ff371fa8",
+              "video": false
+            },
+            "id": "e2a43a10-f75a-4940-9878-1ecc155771cf",
+            "position": 5,
+            "number": "5",
+            "length": 238000,
+            "title": "Missing You"
+          },
+          {
+            "length": 272000,
+            "title": "Been So Long",
+            "number": "6",
+            "position": 6,
+            "id": "98b3cf95-6b99-4328-89e8-e61a22dcb93c",
+            "recording": {
+              "genres": [],
+              "length": 272000,
+              "title": "Been So Long",
+              "first-release-date": "1998-07-07",
+              "disambiguation": "",
+              "id": "1ede1434-9b7e-4577-b79a-9b7c5c77d6c9",
+              "video": false
+            }
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "abcd64de-9b32-43cf-80f6-9970a6aefda0",
+              "disambiguation": "",
+              "first-release-date": "1998-07-07",
+              "genres": [],
+              "length": 318000,
+              "title": "Learn 2 Luv"
+            },
+            "id": "c3d84bec-a479-4cb0-8ec1-d1b0e114bf18",
+            "position": 7,
+            "number": "7",
+            "length": 318000,
+            "title": "Learn 2 Luv"
+          },
+          {
+            "title": "Time for Love (Frankie Feliciano reprise)",
+            "length": 310000,
+            "number": "8",
+            "id": "ef6e5973-1fbf-4f73-ae3a-b75c1fa2cd69",
+            "position": 8,
+            "recording": {
+              "genres": [],
+              "title": "Time for Love (Frankie Feliciano reprise)",
+              "length": 310000,
+              "first-release-date": "1998-07-07",
+              "disambiguation": "",
+              "id": "c7cf0be9-9741-4ff7-acbe-081933b69011",
+              "video": false
+            }
+          },
+          {
+            "title": "Tomorrow",
+            "length": 218000,
+            "number": "9",
+            "position": 9,
+            "id": "22e1428c-e9ff-498a-80e4-d37c5b45da93",
+            "recording": {
+              "video": false,
+              "id": "fca76469-0dde-42fc-bd4f-c206d23aabbd",
+              "disambiguation": "",
+              "first-release-date": "1998-07-07",
+              "genres": [],
+              "length": 218000,
+              "title": "Tomorrow"
+            }
+          },
+          {
+            "length": 296000,
+            "title": "Nite Life (Masters at Work nite mix)",
+            "number": "10",
+            "id": "3a3fb68f-7537-48dc-9238-b0e2a49006f0",
+            "position": 10,
+            "recording": {
+              "disambiguation": "",
+              "id": "9bb36b96-71b5-4e39-ae40-c74fae18df87",
+              "video": false,
+              "length": 296000,
+              "title": "Nite Life (Masters at Work nite mix)",
+              "genres": [],
+              "first-release-date": "1998-07-07"
+            }
+          },
+          {
+            "number": "11",
+            "length": 333000,
+            "title": "4 the Luv of Music",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "0365cb19-83b5-4bf6-a556-183b1834e8fc",
+              "genres": [],
+              "length": 333000,
+              "title": "4 the Luv of Music",
+              "first-release-date": "1998-07-07"
+            },
+            "position": 11,
+            "id": "73606935-e1c0-499a-a5f6-323655c516ed"
+          }
+        ],
+        "id": "4e9e0e88-f1bb-3501-9846-a0337083d3ed",
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "position": 1
+      }
+    ]
+  },
+  {
+    "date": "2001",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": null,
+    "packaging-id": null,
+    "packaging": null,
+    "id": "3a389393-452a-4dac-b325-6afa2e2aa1bd",
+    "disambiguation": "",
+    "country": "US",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "name": "United States",
+          "disambiguation": "",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "date": "2001"
+      }
+    ],
+    "release-group": {
+      "id": "b9400a23-42de-3a44-92a0-2cf2bc5d00c8",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2001",
+      "title": "Bumpin' & Jumpin'",
+      "genres": []
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "media": [
+      {
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "position": 1,
+        "track-count": 6,
+        "format": "CD",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 239106,
+            "title": "Bumpin' & Jumpin' (radio edit)",
+            "recording": {
+              "genres": [],
+              "length": 239106,
+              "title": "Bumpin' & Jumpin' (radio edit)",
+              "first-release-date": "2001",
+              "disambiguation": "",
+              "video": false,
+              "id": "ca0630b8-39d7-4824-b523-368ec9f312a8"
+            },
+            "id": "44b91764-6288-3f14-8402-1e7300507141",
+            "position": 1
+          },
+          {
+            "id": "f8fd203d-30ba-37fa-9a94-ff8e55055f38",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "34d11556-2705-4174-ac06-8b4af2d593e9",
+              "length": 609386,
+              "title": "Bumpin' & Jumpin' (MTD mix)",
+              "genres": [],
+              "first-release-date": "2001"
+            },
+            "title": "Bumpin' & Jumpin' (MTD mix)",
+            "length": 609386,
+            "number": "2"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "fb7aab36-7b94-4d84-bf1d-a1d35caa84a6",
+              "disambiguation": "",
+              "first-release-date": "2001",
+              "title": "Bumpin' & Jumpin' (dub)",
+              "length": 310386,
+              "genres": []
+            },
+            "id": "3c32cbe0-3211-3b05-948e-a2a385563556",
+            "position": 3,
+            "number": "3",
+            "title": "Bumpin' & Jumpin' (dub)",
+            "length": 310386
+          },
+          {
+            "position": 4,
+            "id": "9b83446f-0df8-35c2-9181-1b8bc71a34dd",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "c3bc5a2b-ec4e-4e7c-a4b5-5ffc0aa2f810",
+              "genres": [],
+              "length": 230466,
+              "title": "Supernatural (radio edit)",
+              "first-release-date": "2001"
+            },
+            "title": "Supernatural (radio edit)",
+            "length": 230466,
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "title": "Supernatural (club mix)",
+            "length": 612826,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "71e5f1fd-481b-4a75-bf00-3d9358ef38fb",
+              "genres": [],
+              "title": "Supernatural (club mix)",
+              "length": 612826,
+              "first-release-date": "2001"
+            },
+            "position": 5,
+            "id": "5a84c182-897c-3ab3-9810-00a42ac06dc0"
+          },
+          {
+            "recording": {
+              "id": "fb38995a-978c-4980-aebc-c0e12de61121",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "2001",
+              "genres": [],
+              "title": "Supernatural (dub)",
+              "length": 505827
+            },
+            "position": 6,
+            "id": "bcc1a50f-390e-3c83-a3db-524cb19d90e6",
+            "number": "6",
+            "length": 505827,
+            "title": "Supernatural (dub)"
+          }
+        ],
+        "id": "367fa3b1-28b1-37c4-850a-e83b8741b83a"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false
+    },
+    "quality": "normal",
+    "title": "Bumpin' & Jumpin'",
+    "asin": null,
+    "genres": []
+  },
+  {
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "barcode": "731457980729",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "1995",
+    "asin": null,
+    "genres": [],
+    "title": "I Know a Place",
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "front": false,
+      "darkened": false
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0,
+        "position": 1,
+        "track-count": 4,
+        "id": "e9465131-df53-35f4-a3c0-8e25e5c4df9a",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 270266,
+            "title": "I Know a Place (radio edit)",
+            "recording": {
+              "id": "93a5644b-e13f-47ea-baab-601f5aabdd85",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995",
+              "genres": [],
+              "length": 270266,
+              "title": "I Know a Place (radio edit)"
+            },
+            "position": 1,
+            "id": "497f10d0-7922-4d53-8e23-fa1ea40e85c3"
+          },
+          {
+            "number": "2",
+            "length": 559333,
+            "title": "I Know a Place (E-Smoove remix)",
+            "recording": {
+              "id": "12e6b88f-efb5-4846-927d-5dd72c5c7c11",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995",
+              "length": 559333,
+              "title": "I Know a Place (E-Smoove remix)",
+              "genres": []
+            },
+            "position": 2,
+            "id": "c1863feb-3450-426a-95e2-f1c71d8c26d3"
+          },
+          {
+            "length": 306666,
+            "title": "Nite Life (Nite mix)",
+            "number": "3",
+            "id": "c2155a8b-25da-4f65-b272-5de47cf6064e",
+            "position": 3,
+            "recording": {
+              "id": "ed1d3e19-9ea3-4cf6-815f-da659cdb8795",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995",
+              "length": 306666,
+              "title": "Nite Life (Nite mix)",
+              "genres": []
+            }
+          },
+          {
+            "number": "4",
+            "title": "Time for Love (Morales mix)",
+            "length": 362466,
+            "recording": {
+              "id": "2f619008-8f9f-4f8e-bd12-60c492419222",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995",
+              "title": "Time for Love (Morales mix)",
+              "length": 362466,
+              "genres": []
+            },
+            "position": 4,
+            "id": "e24f26c3-f7d9-4a0b-b4f5-2508f3d8621c"
+          }
+        ],
+        "format": "CD"
+      }
+    ],
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        },
+        "date": "1995"
+      }
+    ],
+    "release-group": {
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "e989664d-28db-4e1e-888e-9bb8db3867c3",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "name": "garage house",
+          "disambiguation": "",
+          "count": 1,
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1"
+        }
+      ],
+      "title": "I Know a Place",
+      "first-release-date": "1995",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "GB",
+    "packaging": "Cardboard/Paper Sleeve",
+    "id": "3a484ef1-d4d3-474e-bb78-599b6fe9c5ab"
+  },
+  {
+    "packaging-id": null,
+    "barcode": "091012023910",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "date": "1996",
+    "title": "Nite Life (The Joe T. Vannelli Remixes)",
+    "genres": [],
+    "asin": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "9540e542-f395-475f-980b-703d96c40bc5",
+            "position": 1,
+            "recording": {
+              "first-release-date": "1996",
+              "genres": [],
+              "title": "Nite Life (Dubby mix)",
+              "length": 520000,
+              "video": false,
+              "id": "0bddf2dd-9280-45f3-9d3e-c0b810f325b8",
+              "disambiguation": ""
+            },
+            "title": "Nite Life (Dubby mix)",
+            "length": 520000,
+            "number": "A1"
+          },
+          {
+            "recording": {
+              "title": "Nite Life (Light mix)",
+              "length": 378000,
+              "genres": [],
+              "first-release-date": "1996",
+              "disambiguation": "",
+              "video": false,
+              "id": "495423da-34ef-49c2-8bb7-e8fa35105bf2"
+            },
+            "id": "45d7eff0-682f-436d-a53d-3331fd064123",
+            "position": 2,
+            "number": "A2",
+            "length": 378000,
+            "title": "Nite Life (Light mix)"
+          },
+          {
+            "number": "B1",
+            "title": "Nite Life (Silk X-tra mix)",
+            "length": 311000,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "49bf29c9-e9da-42b5-b25c-7a2d2bcf8176",
+              "title": "Nite Life (Silk X-tra mix)",
+              "length": 311000,
+              "genres": [],
+              "first-release-date": "1996"
+            },
+            "id": "cb5f3fc8-31ca-410c-b6f4-ee590cce1419",
+            "position": 3
+          },
+          {
+            "title": "Nite Life (Corvette mix)",
+            "length": 311000,
+            "number": "B2",
+            "position": 4,
+            "id": "d6151008-d7c6-4e1e-92aa-e425f126580a",
+            "recording": {
+              "first-release-date": "1996",
+              "title": "Nite Life (Corvette mix)",
+              "length": 311000,
+              "genres": [],
+              "video": false,
+              "id": "e329a653-a8a9-49f6-8980-f6e05368309a",
+              "disambiguation": ""
+            }
+          }
+        ],
+        "format": "12\" Vinyl",
+        "id": "b0ce6f3a-c266-383a-9f66-d75537388ec7",
+        "track-count": 4,
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": ""
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "back": true,
+      "front": true,
+      "darkened": false,
+      "count": 3,
+      "artwork": true
+    },
+    "disambiguation": "",
+    "country": "US",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-group": {
+      "id": "184b569a-9b2a-45e4-8626-951d405acdb8",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "1996",
+      "genres": [],
+      "title": "Nite Life (The Joe T. Vannelli Remixes)"
+    },
+    "release-events": [
+      {
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "name": "United States",
+          "disambiguation": "",
+          "type": null
+        },
+        "date": "1996"
+      }
+    ],
+    "id": "3ce9113c-16ac-4baf-bf7c-91b421f40c2c",
+    "packaging": null
+  },
+  {
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "date": "2011-08-01",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": "091012010569",
+    "packaging": "None",
+    "id": "525b3f54-9ddc-41d8-8805-8303321eb6a1",
+    "release-events": [
+      {
+        "date": "2011-08-01",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "release-group": {
+      "id": "4daa410d-b8bf-4845-8e50-6007793aa4a0",
+      "secondary-types": [
+        "Remix"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "primary-type": "EP",
+      "first-release-date": "2011-08-01",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Nitelife - Armand Van Helden Remixes",
+      "genres": []
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "disambiguation": "",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "front": true,
+      "darkened": false,
+      "back": false
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "id": "4f4b1fe6-325d-382b-9c63-3182c2227a32",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "d2629944-a120-4fa9-be46-a3c97afc1524",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "59cca807-d171-4fae-91b3-7f87f9c87e3e",
+              "genres": [],
+              "title": "Nitelife (Armand Van Helden Retail Mix)",
+              "length": 417401,
+              "first-release-date": "2011-08-01"
+            },
+            "length": 417401,
+            "title": "Nitelife (Armand Van Helden Retail Mix)",
+            "number": "1"
+          },
+          {
+            "title": "Nitelife (Armand Van Helden Retail Dub)",
+            "length": 416473,
+            "number": "2",
+            "id": "ca0d96f6-7e6b-444e-a113-5c3981882fec",
+            "position": 2,
+            "recording": {
+              "title": "Nitelife (Armand Van Helden Retail Dub)",
+              "length": 416473,
+              "genres": [],
+              "first-release-date": "2011-08-01",
+              "disambiguation": "",
+              "video": false,
+              "id": "f2a06795-a411-4c1d-bba1-3fd413f805c4"
+            }
+          },
+          {
+            "recording": {
+              "id": "fe96f05b-fcbf-4454-a94e-b7d1314691d6",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1996-11-18",
+              "genres": [],
+              "title": "Nite Life (Armand Van Helden Sound Factory Mix)",
+              "length": 388000
+            },
+            "id": "2901597b-bb73-4cd5-959f-977ec69f95aa",
+            "position": 3,
+            "number": "3",
+            "title": "Nitelife (Armand Van Helden Sound Factory Mix)",
+            "length": 390095
+          },
+          {
+            "position": 4,
+            "id": "4b49a329-b22d-4107-a866-3a36010a51db",
+            "recording": {
+              "genres": [],
+              "title": "Nitelife (Armand Van Helden Sound Factory Bar Mix)",
+              "length": 392614,
+              "first-release-date": "2011-08-01",
+              "disambiguation": "",
+              "video": false,
+              "id": "80f95eae-b6c4-4d0c-840e-da76a3433a05"
+            },
+            "length": 392614,
+            "title": "Nitelife (Armand Van Helden Sound Factory Bar Mix)",
+            "number": "4"
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 4,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "track-offset": 0
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "Nitelife - Armand Van Helden Remixes"
+  },
+  {
+    "packaging": null,
+    "id": "55a8cf2c-4a41-4b38-8410-2391bed43738",
+    "country": "US",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "disambiguation": "",
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null
+        },
+        "date": "2001"
+      }
+    ],
+    "release-group": {
+      "first-release-date": "2001",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Everyday",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "disambiguation": "",
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "progressive house",
+          "disambiguation": "",
+          "id": "70adb285-e1f7-458a-823f-5cbda5e291c4"
+        },
+        {
+          "id": "57159d7c-faa8-4266-abe1-7504e312fc88",
+          "name": "tribal house",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "id": "e36f742e-c281-3ab1-8f3c-6fbc9bdcedd6",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "Single"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "media": [
+      {
+        "position": 1,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0,
+        "id": "2c2fa3c9-8a6e-38c5-a47a-926a6b385715",
+        "tracks": [
+          {
+            "title": "Everyday (Hex Hector & Mac Quayle short radio edit)",
+            "length": 247546,
+            "number": "1",
+            "id": "5617bd54-b3e9-3856-9dbc-6e16417e1027",
+            "position": 1,
+            "recording": {
+              "first-release-date": "2001",
+              "length": 247546,
+              "title": "Everyday (Hex Hector & Mac Quayle short radio edit)",
+              "genres": [],
+              "video": false,
+              "id": "b958bb76-e064-4f94-8567-54799756881d",
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "2",
+            "title": "Everyday (Hex Hector & Mac Quayle club mix)",
+            "length": 575786,
+            "recording": {
+              "video": false,
+              "id": "edab5d4f-8df4-4a81-9216-7b1a3a3dbfa5",
+              "disambiguation": "",
+              "first-release-date": "2001",
+              "genres": [],
+              "length": 575786,
+              "title": "Everyday (Hex Hector & Mac Quayle club mix)"
+            },
+            "id": "22bdf185-f7ce-33d7-a834-62f3a79943ce",
+            "position": 2
+          },
+          {
+            "id": "a69aa2ee-c34b-362f-824b-a2bcde3f6fb4",
+            "position": 3,
+            "recording": {
+              "video": false,
+              "id": "7e6d5955-e657-46d0-9060-925faed61e1f",
+              "disambiguation": "",
+              "first-release-date": "2001",
+              "title": "Everyday (Maurice Joshua club mix)",
+              "length": 426373,
+              "genres": []
+            },
+            "title": "Everyday (Maurice Joshua club mix)",
+            "length": 426373,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 354294,
+            "title": "Treat Me Right (Maurice Joshua original mix)",
+            "recording": {
+              "id": "21184948-aff6-4a72-90a8-1886a06982e4",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "2001",
+              "genres": [],
+              "title": "Treat Me Right (Maurice Joshua original mix)",
+              "length": 354294
+            },
+            "id": "6e2f699b-a2ff-37fc-bc8f-089f6e07e2f3",
+            "position": 4
+          }
+        ],
+        "format": "CD",
+        "track-count": 4
+      }
+    ],
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "front": false,
+      "darkened": false
+    },
+    "quality": "normal",
+    "title": "Everyday",
+    "asin": "B00005YQ5M",
+    "genres": [],
+    "date": "2001",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": null,
+    "barcode": "091012048722"
+  },
+  {
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "date": "2022-10-21",
+    "barcode": null,
+    "packaging-id": null,
+    "country": "GB",
+    "disambiguation": "Extended Mix",
+    "status-id": null,
+    "release-group": {
+      "title": "Moving All Around (Jumpin')",
+      "genres": [],
+      "first-release-date": "2022-10-21",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "id": "b32b505f-168c-48e8-aaf2-5ab3bb7b3f83"
+    },
+    "release-events": [
+      {
+        "date": "2022-10-21",
+        "area": {
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "id": "5ca8b853-9422-4074-ae5d-6240713d2d2d",
+    "packaging": null,
+    "title": "Moving All Around (Jumpin')",
+    "genres": [
+      {
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "name": "house",
+        "disambiguation": "",
+        "count": 1
+      }
+    ],
+    "asin": null,
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Moving All Around (Jumpin')",
+            "length": 427000,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "6699e6c6-910b-413d-9458-76f0ea46d7b7",
+              "genres": [],
+              "length": 427000,
+              "title": "Moving All Around (Jumpin')",
+              "first-release-date": "2022-10-21"
+            },
+            "id": "e720294d-3d54-487a-bb38-71159286639a",
+            "position": 1
+          }
+        ],
+        "id": "fea84600-ba41-4a6f-ad55-29a8b548bda3",
+        "track-count": 1,
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "status": null,
+    "quality": "normal",
+    "cover-art-archive": {
+      "darkened": false,
+      "front": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    }
+  },
+  {
+    "title": "Missing You (Mind Trap Remixes)",
+    "asin": null,
+    "genres": [],
+    "status": "Official",
+    "media": [
+      {
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "position": 1,
+        "track-count": 4,
+        "format": "CD",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 701666,
+            "title": "Missing You (Mind Trap vocal)",
+            "recording": {
+              "length": 701666,
+              "title": "Missing You (Mind Trap vocal)",
+              "genres": [],
+              "first-release-date": "1999",
+              "disambiguation": "",
+              "video": false,
+              "id": "a8188455-0978-4cf8-95a9-6b773da69de4"
+            },
+            "id": "48d9c7e7-4a38-324b-8e0c-54f2aa9ff110",
+            "position": 1
+          },
+          {
+            "id": "4c308cc8-748e-3ee7-a281-18747afd0615",
+            "position": 2,
+            "recording": {
+              "title": "Missing You (Mind Trap dub)",
+              "length": 588146,
+              "genres": [],
+              "first-release-date": "1999",
+              "disambiguation": "",
+              "video": false,
+              "id": "8c61a531-6cc4-4e89-a7d7-2b63f64e0481"
+            },
+            "title": "Missing You (Mind Trap dub)",
+            "length": 588146,
+            "number": "2"
+          },
+          {
+            "number": "3",
+            "title": "Missing You (Mind Trap Beats)",
+            "length": 238386,
+            "recording": {
+              "first-release-date": "1999",
+              "genres": [],
+              "length": 238386,
+              "title": "Missing You (Mind Trap Beats)",
+              "video": false,
+              "id": "77ac3138-590f-4ed9-97f6-be7d9017b208",
+              "disambiguation": ""
+            },
+            "position": 3,
+            "id": "04a363a8-2245-3a88-9dd9-7b6f449ebf67"
+          },
+          {
+            "title": "Missing You (Ricanstruction mix)",
+            "length": 374800,
+            "number": "4",
+            "position": 4,
+            "id": "412777ad-ba5a-31d1-a77a-7f0167e14d59",
+            "recording": {
+              "disambiguation": "",
+              "id": "c36257fd-9fe8-47e2-be88-b579372f72e9",
+              "video": false,
+              "length": 374800,
+              "title": "Missing You (Ricanstruction mix)",
+              "genres": [],
+              "first-release-date": "1999"
+            }
+          }
+        ],
+        "id": "bb625e5d-c737-33a7-a7e6-dde0cff6a397"
+      }
+    ],
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "quality": "normal",
+    "country": "US",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "1999",
+        "area": {
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "name": "United States",
+          "disambiguation": "",
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }
+      }
+    ],
+    "release-group": {
+      "first-release-date": "1999",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [
+        {
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "disambiguation": "",
+          "name": "deep house",
+          "count": 1
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "disambiguation": "",
+          "name": "garage house",
+          "count": 1,
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1"
+        },
+        {
+          "name": "house",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "title": "Missing You (Mind Trap Remixes)",
+      "id": "d1bebd92-3726-37f7-9085-8647288096e5",
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": []
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "id": "6731d7e0-3c83-4d8d-8456-b85f7cebf7f4",
+    "packaging-id": null,
+    "barcode": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "1999"
+  },
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2000",
+    "packaging-id": null,
+    "barcode": null,
+    "id": "7fc7bd38-9ba0-4ebb-a4e3-aed6bcdd57d2",
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "disambiguation": "",
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null
+        },
+        "date": "2000"
+      }
+    ],
+    "release-group": {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2000",
+      "genres": [],
+      "title": "Re-Energized",
+      "id": "d41b9d3d-0f84-3bb1-994a-1042a8cb6a60",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Remix"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ]
+    },
+    "disambiguation": "",
+    "country": "US",
+    "quality": "normal",
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "media": [
+      {
+        "track-count": 10,
+        "format": "CD",
+        "tracks": [
+          {
+            "length": 375000,
+            "title": "Been So Long",
+            "number": "1",
+            "id": "292457ce-cb37-3b7d-af92-3d241e563b7f",
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "title": "Been So Long",
+              "length": 375000,
+              "first-release-date": "2000",
+              "disambiguation": "",
+              "video": false,
+              "id": "6363b5b9-9083-44b1-8ccd-0a48ebc4e8e4"
+            }
+          },
+          {
+            "number": "2",
+            "title": "Unspeakable Joy",
+            "length": 246000,
+            "recording": {
+              "disambiguation": "",
+              "id": "0141e70d-3ff4-421d-9a24-7ec8906083f7",
+              "video": false,
+              "genres": [],
+              "title": "Unspeakable Joy",
+              "length": 246000,
+              "first-release-date": "2000"
+            },
+            "position": 2,
+            "id": "2a3374fb-117c-37f8-bb73-721af4351dc3"
+          },
+          {
+            "title": "Learn 2 Luv",
+            "length": 693000,
+            "number": "3",
+            "id": "2804e2f7-5173-3f07-bc7e-30b2c3e340ae",
+            "position": 3,
+            "recording": {
+              "first-release-date": "2000",
+              "length": 693000,
+              "title": "Learn 2 Luv",
+              "genres": [],
+              "id": "59bbf7f5-5fda-4858-9bae-6f36a19a6bb7",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "4",
+            "title": "Missing You",
+            "length": 699000,
+            "recording": {
+              "length": 699000,
+              "title": "Missing You",
+              "genres": [],
+              "first-release-date": "2000",
+              "disambiguation": "",
+              "video": false,
+              "id": "713bfeda-40a0-4daa-ab0a-3bec4883acc3"
+            },
+            "position": 4,
+            "id": "2aac20b8-12bb-3501-ae9a-40dfc0753280"
+          },
+          {
+            "number": "5",
+            "length": 609000,
+            "title": "Supernatural",
+            "recording": {
+              "first-release-date": "2000",
+              "title": "Supernatural",
+              "length": 609000,
+              "genres": [],
+              "id": "e5579ee3-5bcd-494d-8754-5de3f2f99a1b",
+              "video": false,
+              "disambiguation": ""
+            },
+            "position": 5,
+            "id": "37996522-4e61-3e1b-8cd9-f0e5a9f63ac5"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "9f82d79f-8d85-4069-b3d2-b85364b12947",
+              "disambiguation": "",
+              "first-release-date": "2000",
+              "genres": [],
+              "length": 615000,
+              "title": "Time for Love"
+            },
+            "position": 6,
+            "id": "d5f572f2-3625-3b05-a5ae-99e67fd2bda6",
+            "number": "6",
+            "title": "Time for Love",
+            "length": 615000
+          },
+          {
+            "title": "Nitelife",
+            "length": 578000,
+            "number": "7",
+            "id": "3f602556-4e72-3ef1-8ae0-d10afb52832a",
+            "position": 7,
+            "recording": {
+              "first-release-date": "2000",
+              "length": 578000,
+              "title": "Nitelife",
+              "genres": [],
+              "id": "8bf46bd1-0b9c-4c58-8c28-186754cf728e",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "length": 256000,
+            "title": "4 the Luv of Music",
+            "number": "8",
+            "id": "7b43ce4c-8f3e-3bc8-a3dd-7e75c3443abc",
+            "position": 8,
+            "recording": {
+              "first-release-date": "2000",
+              "genres": [],
+              "length": 256000,
+              "title": "4 the Luv of Music",
+              "id": "5bdf1649-ce74-471a-a91a-cce44a9c320e",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "9",
+            "title": "Higher Things",
+            "length": 203000,
+            "recording": {
+              "first-release-date": "2000",
+              "genres": [],
+              "title": "Higher Things",
+              "length": 203000,
+              "id": "d914b7fa-f4f1-4d28-9e9e-7b0b6f7bf8e1",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "c8a29495-deab-3790-9b80-c4863e05c24b",
+            "position": 9
+          },
+          {
+            "length": 257000,
+            "title": "Tomorrow",
+            "number": "10",
+            "id": "e06db83c-9bd6-34ba-8808-b9b53a97e18d",
+            "position": 10,
+            "recording": {
+              "length": 257000,
+              "title": "Tomorrow",
+              "genres": [],
+              "first-release-date": "2000",
+              "disambiguation": "",
+              "id": "09d7c091-bbf1-4bfc-a370-c00d7fc81816",
+              "video": false
+            }
+          }
+        ],
+        "id": "24109346-d7ca-3d33-968f-92e25ca94a8b",
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "position": 1
+      }
+    ],
+    "status": "Official",
+    "genres": [],
+    "asin": "B00004TCFN",
+    "title": "Re-Energized"
+  },
+  {
+    "packaging": "None",
+    "id": "7ff1bea3-115b-47bd-a35d-0abdafc60db8",
+    "disambiguation": "",
+    "country": "XW",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "disambiguation": "",
+          "name": "[Worldwide]",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        },
+        "date": "2018-08-24"
+      }
+    ],
+    "release-group": {
+      "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix)",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2018-08-24",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Remix"
+      ],
+      "primary-type": "Single",
+      "id": "ba65cc9e-6519-4547-8476-7ba3c60c569e"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "media": [
+      {
+        "track-offset": 0,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "track-count": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "length": 357135,
+            "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix)",
+            "number": "1",
+            "id": "ad11de3e-88cc-4455-b56b-c181424710b4",
+            "position": 1,
+            "recording": {
+              "disambiguation": "",
+              "id": "53bd4f95-66dc-44c3-b2a8-eb69b09be9f5",
+              "video": false,
+              "genres": [],
+              "length": 357135,
+              "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix)",
+              "first-release-date": "2018-08-24"
+            }
+          }
+        ],
+        "id": "d8c72519-520a-41e8-b53f-71e9d12e3e4c"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "quality": "normal",
+    "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix)",
+    "asin": null,
+    "genres": [
+      {
+        "disambiguation": "",
+        "name": "house",
+        "count": 1,
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+      },
+      {
+        "id": "70adb285-e1f7-458a-823f-5cbda5e291c4",
+        "count": 1,
+        "name": "progressive house",
+        "disambiguation": ""
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2018-08-24",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": "190295562250"
+  },
+  {
+    "genres": [],
+    "asin": null,
+    "title": "Supernatural",
+    "quality": "normal",
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "id": "a5c99bdd-87ba-4985-ada5-aff6e2e9d8c1",
+              "video": false,
+              "title": "Supernatural (Radio Edit (Mousse T's Super Soul))",
+              "length": 230200,
+              "genres": [],
+              "first-release-date": "1997"
+            },
+            "position": 1,
+            "id": "7a8a6639-bc75-4c73-b423-d27f45f7ca61",
+            "number": "1",
+            "title": "Supernatural (Radio Edit (Mousse T's Super Soul))",
+            "length": 230200
+          },
+          {
+            "length": 442360,
+            "title": "Supernatural (Mousse T's Discoid Club Mix)",
+            "number": "2",
+            "id": "176db5f5-41ec-4ce4-a531-a9f429238a88",
+            "position": 2,
+            "recording": {
+              "first-release-date": "1997",
+              "genres": [],
+              "length": 442360,
+              "title": "Supernatural (Mousse T's Discoid Club Mix)",
+              "id": "75a0840f-d2da-46f5-a2d3-e7d0fa39817b",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "id": "3aec7de8-a8fb-4203-8851-cc896e4ba7c4",
+            "position": 3,
+            "recording": {
+              "title": "Supernatural (Hula's Superdeep Vocal Mix)",
+              "length": 443200,
+              "genres": [],
+              "first-release-date": "1997",
+              "disambiguation": "",
+              "id": "b7214d8c-ae72-429f-a033-df835e411b58",
+              "video": false
+            },
+            "length": 443200,
+            "title": "Supernatural (Hula's Superdeep Vocal Mix)",
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 546066,
+            "title": "Supernatural (Climax Inc Remix)",
+            "recording": {
+              "first-release-date": "1997",
+              "genres": [],
+              "length": 546066,
+              "title": "Supernatural (Climax Inc Remix)",
+              "video": false,
+              "id": "2d94aed0-a964-468b-a7ca-cd31bd1f348f",
+              "disambiguation": ""
+            },
+            "id": "5a57831e-606a-4c19-855c-39cbd3521029",
+            "position": 4
+          },
+          {
+            "number": "5",
+            "length": 368133,
+            "title": "Supernatural (Mousse T's Super Soul)",
+            "recording": {
+              "video": false,
+              "id": "32338284-f803-44c7-a6c4-60f9b5d9f1eb",
+              "disambiguation": "",
+              "first-release-date": "1997",
+              "genres": [],
+              "title": "Supernatural (Mousse T's Super Soul)",
+              "length": 368133
+            },
+            "position": 5,
+            "id": "bfb2815b-f2d9-4b6a-959f-1be8f31ccb76"
+          },
+          {
+            "number": "6",
+            "length": 367800,
+            "title": "Supernatural (M & S Epic Club Mix)",
+            "recording": {
+              "disambiguation": "",
+              "id": "2a3e6399-18c9-4186-89d5-cb4febb2f4dc",
+              "video": false,
+              "length": 367800,
+              "title": "Supernatural (M & S Epic Club Mix)",
+              "genres": [],
+              "first-release-date": "1997"
+            },
+            "id": "524a9c79-1381-4aa4-a67a-c7c54d355ec1",
+            "position": 6
+          }
+        ],
+        "format": "CD",
+        "id": "e9b31fc4-2cc2-38de-90d3-0221296958e5",
+        "track-count": 6
+      }
+    ],
+    "status": null,
+    "status-id": null,
+    "release-group": {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "id": "b1865db6-6474-4732-9a60-2bd4d3b04c2f",
+      "title": "Supernatural",
+      "genres": [],
+      "first-release-date": "1997",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "release-events": [
+      {
+        "date": "1997",
+        "area": null
+      }
+    ],
+    "country": null,
+    "disambiguation": "",
+    "id": "85b36ee4-b656-43a1-980c-92cade7408bf",
+    "packaging": null,
+    "packaging-id": null,
+    "barcode": null,
+    "date": "1997",
+    "text-representation": {
+      "language": null,
+      "script": null
+    }
+  },
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2015-04-13",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": "",
+    "id": "92000639-3d0c-4c00-aab8-5786f394e6a6",
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-group": {
+      "first-release-date": "2015-04-13",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Natural High",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "house",
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "id": "0de266d5-7992-475e-bd1b-50d811bb3109",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "release-events": [
+      {
+        "date": "2015-04-13",
+        "area": {
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "country": "XW",
+    "disambiguation": "",
+    "quality": "normal",
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "media": [
+      {
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "track-offset": 0,
+        "id": "207b8085-5400-3b88-a422-21da654cc7ec",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2015-04-13",
+              "genres": [],
+              "title": "Natural High (Midnight City club mix)",
+              "length": 335000,
+              "id": "0672117a-a424-4d0c-b44d-0d20b27f851b",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "99219887-30bb-4610-b800-bc441f66ba79",
+            "position": 1,
+            "number": "1",
+            "length": 335000,
+            "title": "Natural High (Midnight City club mix)"
+          },
+          {
+            "recording": {
+              "first-release-date": "2015-04-13",
+              "genres": [],
+              "title": "Natural High (Midnight City radio mix)",
+              "length": 216000,
+              "video": false,
+              "id": "96858957-5f1b-4123-aee5-ab10cb0f1516",
+              "disambiguation": ""
+            },
+            "id": "ccedbbc2-261f-40a0-9e3c-7ef3cb5328c5",
+            "position": 2,
+            "number": "2",
+            "length": 216000,
+            "title": "Natural High (Midnight City radio mix)"
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 2
+      }
+    ],
+    "status": "Official",
+    "genres": [],
+    "asin": null,
+    "title": "Natural High"
+  },
+  {
+    "release-group": {
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-types": [
+        "Remix"
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "id": "c670a223-90d0-4469-aae1-72ed898a5952",
+      "genres": [],
+      "title": "Moving All Around (Jumpin’) (Skream’s This Is How We Do It Down South remix)",
+      "first-release-date": "2023-01-13",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "release-events": [
+      {
+        "area": null,
+        "date": "2023-01-13"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": null,
+    "packaging": "None",
+    "id": "a2638141-1829-4149-9b58-4696ff28189a",
+    "asin": null,
+    "genres": [],
+    "title": "Moving All Around (Jumpin’) (Skream’s This Is How We Do It Down South remix)",
+    "cover-art-archive": {
+      "back": false,
+      "front": true,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "track-count": 1,
+        "id": "fdc8c3a4-bed8-3220-ac61-d2b77f3f339d",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "length": 200500,
+            "title": "Moving All Around (Jumpin’) (Skream’s This Is How We Do It Down South remix)",
+            "number": "1",
+            "id": "ac1b8eb5-c78a-41c3-89d6-bfad89c1bada",
+            "position": 1,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "f3c4f4d5-5b78-4760-8520-267c0bf0f539",
+              "genres": [],
+              "title": "Moving All Around (Jumpin’) (Skream’s This Is How We Do It Down South remix)",
+              "length": 200500,
+              "first-release-date": "2023-01-13"
+            }
+          }
+        ],
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "date": "2023-01-13",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": "196589793393"
+  },
+  {
+    "country": "GB",
+    "disambiguation": "",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "date": "1994",
+        "area": {
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "release-group": {
+      "first-release-date": "1994",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Nite Life",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "name": "house",
+          "disambiguation": ""
+        }
+      ],
+      "id": "9e8dc393-4abf-49e7-aa6c-2627a2e0c03f",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "Single"
+    },
+    "id": "e3d20e10-0690-462f-9cf5-0e601a69236e",
+    "packaging": "Cardboard/Paper Sleeve",
+    "title": "Nite Life",
+    "genres": [],
+    "asin": null,
+    "media": [
+      {
+        "id": "08a0764f-8155-301b-9147-424cd0241834",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Nite Life (Bump radio edit)",
+            "length": 236093,
+            "recording": {
+              "genres": [],
+              "title": "Nite Life (Bump radio edit)",
+              "length": 236093,
+              "first-release-date": "1994",
+              "disambiguation": "",
+              "id": "89854440-156f-4cd2-b832-9455b9730314",
+              "video": false
+            },
+            "id": "db03b16b-6121-4a4f-9227-6d55c2064610",
+            "position": 1
+          },
+          {
+            "number": "2",
+            "length": 396506,
+            "title": "Nite Life (Nite mix)",
+            "recording": {
+              "title": "Nite Life (Nite mix)",
+              "length": 396506,
+              "genres": [],
+              "first-release-date": "1994",
+              "disambiguation": "",
+              "video": false,
+              "id": "12c12c0b-280c-451d-a090-b89eb395a03a"
+            },
+            "position": 2,
+            "id": "e557d8ae-29b9-4451-b977-e28dae98305b"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "25262182-c6e4-4e92-9ddc-93ef3e579446",
+              "genres": [],
+              "title": "Nite Life (original Ten City mix)",
+              "length": 266626,
+              "first-release-date": "1994"
+            },
+            "position": 3,
+            "id": "5d2fb2b3-371a-458f-aebc-668812a5371a",
+            "number": "3",
+            "length": 266626,
+            "title": "Nite Life (original Ten City mix)"
+          },
+          {
+            "recording": {
+              "id": "8d23d084-5881-42ff-adf3-4cc013178b2d",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1994",
+              "genres": [],
+              "title": "Nite Life (Big Bump mix)",
+              "length": 643173
+            },
+            "id": "2edca4ab-86c5-411d-a67b-e345260ad901",
+            "position": 4,
+            "number": "4",
+            "title": "Nite Life (Big Bump mix)",
+            "length": 643173
+          },
+          {
+            "number": "5",
+            "title": "Nite Life (Faraway dub)",
+            "length": 329093,
+            "recording": {
+              "first-release-date": "1994",
+              "length": 329093,
+              "title": "Nite Life (Faraway dub)",
+              "genres": [],
+              "video": false,
+              "id": "f963a672-139a-4cec-a44c-a080fb6363fc",
+              "disambiguation": ""
+            },
+            "position": 5,
+            "id": "8dfae3fc-115b-4323-b46f-d72b9496fc8c"
+          }
+        ],
+        "format": "CD",
+        "track-count": 5,
+        "position": 1,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "back": false,
+      "front": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    },
+    "date": "1994",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "barcode": "042285331929"
+  },
+  {
+    "date": "1999",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+    "barcode": "091012035821",
+    "packaging": "Jewel Case",
+    "id": "e680af2f-22f6-4731-ae25-e1180ce89a09",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "name": "United States",
+          "disambiguation": "",
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States"
+        },
+        "date": "1999"
+      }
+    ],
+    "release-group": {
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "id": "f5d80309-9a29-4ebd-98c2-4817f5c70d08",
+      "title": "Unspeakable Joy",
+      "genres": [],
+      "first-release-date": "1999",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "US",
+    "disambiguation": "",
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "format": "CD",
+        "tracks": [
+          {
+            "id": "b89a915b-5235-4227-b183-e4ec2c0063c9",
+            "position": 1,
+            "recording": {
+              "title": "Unspeakable Joy (Razor 'n' Guido Radio Mix)",
+              "length": 248933,
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "name": "electronic",
+                  "count": 1,
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                },
+                {
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "disambiguation": "",
+                  "name": "house",
+                  "count": 1
+                },
+                {
+                  "count": 1,
+                  "disambiguation": "",
+                  "name": "progressive house",
+                  "id": "70adb285-e1f7-458a-823f-5cbda5e291c4"
+                }
+              ],
+              "first-release-date": "1999",
+              "disambiguation": "",
+              "id": "17b6455b-225c-4c32-a3e0-fa47227ee7b4",
+              "video": false
+            },
+            "title": "Unspeakable Joy (Razor 'n' Guido Radio Mix)",
+            "length": 248933,
+            "number": "1"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "4e1c3036-1af2-4c60-913a-330e95b38bc8",
+              "title": "Unspeakable Joy (Osio Radio Mix)",
+              "length": 245813,
+              "genres": [],
+              "first-release-date": "1999"
+            },
+            "id": "7796223d-cbb9-4985-8d94-5a42a5390bb8",
+            "position": 2,
+            "number": "2",
+            "length": 245813,
+            "title": "Unspeakable Joy (Osio Radio Mix)"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "id": "4df54d1c-a3ec-46f2-bb91-ec1be1d0de62",
+              "video": false,
+              "genres": [],
+              "title": "Unspeakable Joy (Razor 'n' Guido Vocal Mix)",
+              "length": 654026,
+              "first-release-date": "1999"
+            },
+            "position": 3,
+            "id": "f808be9f-a7e4-4c8a-bb78-fe11aef745ef",
+            "number": "3",
+            "length": 657000,
+            "title": "Unspeakable Joy (Razor 'n' Guido Vocal Mix)"
+          },
+          {
+            "number": "4",
+            "title": "Unspeakable Joy (Osio Club Mix)",
+            "length": 517266,
+            "recording": {
+              "id": "aa908336-4c68-46a1-ad1f-548523a4e8ef",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1999",
+              "genres": [],
+              "length": 517266,
+              "title": "Unspeakable Joy (Osio Club Mix)"
+            },
+            "id": "74f99332-0372-4c51-86aa-49919bd1e1ba",
+            "position": 4
+          },
+          {
+            "recording": {
+              "first-release-date": "1999",
+              "genres": [],
+              "title": "Unspeakable Joy (Razor 'n' Guido Dub)",
+              "length": 652786,
+              "video": false,
+              "id": "4be135b2-d894-45a7-a53a-e14897f22332",
+              "disambiguation": ""
+            },
+            "id": "e256f485-db8c-4acd-92c7-f1ed00c3a5b2",
+            "position": 5,
+            "number": "5",
+            "title": "Unspeakable Joy (Razor 'n' Guido Dub)",
+            "length": 652786
+          }
+        ],
+        "id": "61e749bb-d79c-3632-8164-aa2b24fa9002",
+        "track-count": 5,
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+      }
+    ],
+    "asin": "B00000IPRQ",
+    "genres": [],
+    "title": "Unspeakable Joy"
+  },
+  {
+    "asin": null,
+    "genres": [
+      {
+        "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+        "disambiguation": "",
+        "name": "tech house",
+        "count": 1
+      }
+    ],
+    "title": "Moving All Around (Jumpin') (John Summit remix)",
+    "cover-art-archive": {
+      "back": false,
+      "front": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    },
+    "quality": "normal",
+    "status": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "length": 333000,
+            "title": "Moving All Around (Jumpin') (John Summit remix)",
+            "number": "1",
+            "id": "581437f6-f6ab-4c34-98c1-87bbc79b963a",
+            "position": 1,
+            "recording": {
+              "disambiguation": "",
+              "id": "74551b36-bc80-4b44-9085-8382c1e296ba",
+              "video": false,
+              "length": 333000,
+              "title": "Moving All Around (Jumpin') (John Summit remix)",
+              "genres": [],
+              "first-release-date": "2023-02-03"
+            }
+          }
+        ],
+        "format": "Digital Media",
+        "id": "105c5bc4-9320-4310-9b30-feddecce7f51",
+        "track-count": 1,
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": ""
+      }
+    ],
+    "release-group": {
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "b32b505f-168c-48e8-aaf2-5ab3bb7b3f83",
+      "genres": [],
+      "title": "Moving All Around (Jumpin')",
+      "first-release-date": "2022-10-21",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "release-events": [
+      {
+        "date": "2023-02-03",
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom"
+        }
+      }
+    ],
+    "status-id": null,
+    "disambiguation": "",
+    "country": "GB",
+    "packaging": null,
+    "id": "f1d7b530-ef8d-4de3-933f-7b8ebafc9c28",
+    "barcode": null,
+    "packaging-id": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "date": "2023-02-03"
+  },
+  {
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "format": "CD",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "fef3de54-a486-4967-b0ab-666135e185a6",
+            "recording": {
+              "id": "ede88602-d7cc-42c3-bfa1-b13560271870",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1996-11-18",
+              "genres": [],
+              "length": 231000,
+              "title": "Nite Life (J.T. Vannelli Radio Mix)"
+            },
+            "length": 231000,
+            "title": "Nite Life (J.T. Vannelli Radio Mix)",
+            "number": "1"
+          },
+          {
+            "recording": {
+              "id": "b7f80ddd-bc54-4187-8cbb-e312ccc5d714",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1996-11-18",
+              "genres": [],
+              "length": 375000,
+              "title": "Nite Life (J.T. Vannelli Light Mix)"
+            },
+            "id": "4b45b89d-ce1b-403f-94e0-98788ab9994e",
+            "position": 2,
+            "number": "2",
+            "title": "Nite Life (J.T. Vannelli Light Mix)",
+            "length": 375000
+          },
+          {
+            "number": "3",
+            "length": 414000,
+            "title": "Nite Life (Armand Van Helden Club Mix)",
+            "recording": {
+              "title": "Nite Life (Armand Van Helden Club Mix)",
+              "length": 414000,
+              "genres": [],
+              "first-release-date": "1996-11-18",
+              "disambiguation": "",
+              "video": false,
+              "id": "4a575ebe-d1bf-4c0e-9c09-16c6e51eb579"
+            },
+            "id": "f277d39d-0a2d-4420-8631-f091e801e761",
+            "position": 3
+          },
+          {
+            "number": "4",
+            "title": "Nite Life (Armand Van Helden Sound Factory Mix)",
+            "length": 388000,
+            "recording": {
+              "id": "fe96f05b-fcbf-4454-a94e-b7d1314691d6",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1996-11-18",
+              "genres": [],
+              "length": 388000,
+              "title": "Nite Life (Armand Van Helden Sound Factory Mix)"
+            },
+            "id": "99588d6e-b3a1-4c4f-9064-1988755f73ef",
+            "position": 4
+          },
+          {
+            "title": "Nite Life (Basement Jaxx Mix)",
+            "length": 453000,
+            "number": "5",
+            "id": "5220ebe9-8160-45b1-b7ca-bd0c0f49dcec",
+            "position": 5,
+            "recording": {
+              "id": "b0959a2a-6d08-4547-8cc9-913d1cb5bef4",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1996-11-18",
+              "title": "Nite Life (Basement Jaxx Mix)",
+              "length": 453000,
+              "genres": []
+            }
+          },
+          {
+            "number": "6",
+            "length": 393000,
+            "title": "Nite Life (Masters At Work Nite Mix)",
+            "recording": {
+              "id": "13d53937-98e5-4521-99c7-eb4189ae6c27",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1996-11-18",
+              "genres": [],
+              "length": 393000,
+              "title": "Nite Life (Masters At Work Nite Mix)"
+            },
+            "id": "0d9a0197-6309-43c1-bb2a-9a4b3c1053c3",
+            "position": 6
+          }
+        ],
+        "id": "6e899ee3-1315-3d9f-acb3-8558b1cdaa77",
+        "track-count": 6
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "darkened": false,
+      "front": true,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "title": "Nite Life",
+    "genres": [],
+    "asin": null,
+    "id": "f82992e2-0118-440f-a4f4-13cf6ebd6176",
+    "packaging": null,
+    "disambiguation": "",
+    "country": "GB",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1994",
+      "title": "Nite Life",
+      "genres": [
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "id": "9e8dc393-4abf-49e7-aa6c-2627a2e0c03f",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Single"
+    },
+    "release-events": [
+      {
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null
+        },
+        "date": "1996-11-18"
+      }
+    ],
+    "packaging-id": null,
+    "barcode": "731457553329",
+    "text-representation": {
+      "language": "eng",
+      "script": null
+    },
+    "date": "1996-11-18"
+  },
+  {
+    "country": "XW",
+    "disambiguation": "",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-group": {
+      "genres": [],
+      "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix)",
+      "first-release-date": "2018-08-24",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-types": [
+        "Remix"
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "id": "ba65cc9e-6519-4547-8476-7ba3c60c569e"
+    },
+    "release-events": [
+      {
+        "date": "2018-08-24",
+        "area": {
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "id": "fb15a774-419d-415d-8825-d2b8d142fb28",
+    "packaging": "None",
+    "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix)",
+    "genres": [],
+    "asin": null,
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "e358ad22-a9a1-3bbe-8d5f-19a1aa9499c6",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix) (edit)",
+            "length": 206140,
+            "recording": {
+              "video": false,
+              "id": "c7fb4374-ea9f-4bbc-9f6a-2b7c40dc4e13",
+              "disambiguation": "",
+              "first-release-date": "2018-08-24",
+              "length": 206140,
+              "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix) (edit)",
+              "genres": []
+            },
+            "position": 1,
+            "id": "e78b82b4-9361-41e9-9ee3-ed03e77bf2c5"
+          },
+          {
+            "id": "c00ccfc1-9049-49fa-9145-c75e8c6c88b9",
+            "position": 2,
+            "recording": {
+              "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix)",
+              "length": 357135,
+              "genres": [],
+              "first-release-date": "2018-08-24",
+              "disambiguation": "",
+              "video": false,
+              "id": "53bd4f95-66dc-44c3-b2a8-eb69b09be9f5"
+            },
+            "length": 357135,
+            "title": "Hang Up Your Hang Ups (The Only One) (CamelPhat remix)",
+            "number": "2"
+          }
+        ],
+        "track-count": 2
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "date": "2018-08-24",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "190295564032",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+  }
+]

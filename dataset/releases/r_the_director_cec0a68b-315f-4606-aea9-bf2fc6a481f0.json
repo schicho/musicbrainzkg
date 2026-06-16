@@ -1,0 +1,382 @@
+[
+  {
+    "id": "1f3613c1-c17d-4fff-a34d-a5c076edcf0b",
+    "packaging": "None",
+    "disambiguation": "",
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-group": {
+      "id": "561881e6-cfba-4a01-9bf7-a62170eb6d2e",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "2024-08-23",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "title": "Cliffhanger"
+    },
+    "release-events": [
+      {
+        "area": null,
+        "date": "2024-08-23"
+      }
+    ],
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2024-08-23",
+              "title": "Cliffhanger",
+              "length": 221129,
+              "genres": [],
+              "video": false,
+              "id": "f022bd18-9c62-47c5-bb9a-1e2a18003372",
+              "disambiguation": ""
+            },
+            "id": "d8a3e059-0709-4329-9f7c-f982097fb849",
+            "position": 1,
+            "number": "1",
+            "title": "Cliffhanger",
+            "length": 221129
+          }
+        ],
+        "id": "71db2b7b-f70b-3dfc-acd8-0c9b4e8ef46f",
+        "track-count": 1,
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "back": false,
+      "front": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    },
+    "title": "Cliffhanger",
+    "genres": [
+      {
+        "count": 1,
+        "name": "french house",
+        "disambiguation": "",
+        "id": "5acda04e-995d-4f79-9a66-5fe6a977ce15"
+      }
+    ],
+    "asin": null,
+    "date": "2024-08-23",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": "0057362784468"
+  },
+  {
+    "id": "96262ead-058d-44aa-9488-4c34854f24de",
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "date": "2023-10-13",
+        "area": null
+      }
+    ],
+    "release-group": {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "46a46919-d657-4eaa-ae64-970e3bd16f70",
+      "title": "B-Movie",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2023-10-13"
+    },
+    "country": null,
+    "disambiguation": "",
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "front": true,
+      "darkened": false,
+      "back": false
+    },
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "c664d4b0-22e7-3f44-881c-2a1793286695",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "id": "3ef72954-ceed-4dac-88d9-ea4144dce325",
+            "position": 1,
+            "recording": {
+              "first-release-date": "2023-10-13",
+              "length": 228000,
+              "title": "Phunkymusik",
+              "genres": [],
+              "id": "62ee8394-504d-402a-89a3-3626c957ea9f",
+              "video": false,
+              "disambiguation": ""
+            },
+            "title": "Phunkymusik",
+            "length": 228000,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "title": "Let Me Be Your Energy",
+            "length": 222000,
+            "recording": {
+              "title": "Let Me Be Your Energy",
+              "length": 222000,
+              "genres": [],
+              "first-release-date": "2023-10-13",
+              "disambiguation": "",
+              "id": "5e6e6ee0-ccc0-4c2d-b2cf-650d1b7c23d7",
+              "video": false
+            },
+            "position": 2,
+            "id": "d9338ff5-677a-42ae-8178-9eda2c628ea2"
+          },
+          {
+            "position": 3,
+            "id": "216b2876-82a2-4bdd-9efa-aa6e761f0f96",
+            "recording": {
+              "length": 355000,
+              "title": "Undercranking",
+              "genres": [],
+              "first-release-date": "2023-10-13",
+              "disambiguation": "",
+              "id": "b304aecf-e48b-4d56-bfa1-0686aa53a63a",
+              "video": false
+            },
+            "title": "Undercranking",
+            "length": 355000,
+            "number": "3"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "aa4e1eb4-8fa0-45e6-8fb3-83b8e6688b83",
+              "disambiguation": "",
+              "first-release-date": "2023-10-13",
+              "title": "Letterbox",
+              "length": 201000,
+              "genres": []
+            },
+            "position": 4,
+            "id": "5a722dd6-d87e-4ffb-850b-6f281b758b6d",
+            "number": "4",
+            "title": "Letterbox",
+            "length": 201000
+          },
+          {
+            "title": "Close Up",
+            "length": 321000,
+            "number": "5",
+            "position": 5,
+            "id": "d73553f0-102a-437e-b391-c58928c2cd56",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "1d253f0f-c1de-49ed-b7c6-f2e87565b4d9",
+              "genres": [],
+              "title": "Close Up",
+              "length": 321000,
+              "first-release-date": "2023-10-13"
+            }
+          }
+        ],
+        "track-count": 5
+      }
+    ],
+    "status": "Official",
+    "genres": [],
+    "asin": null,
+    "title": "B-Movie",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2023-10-13",
+    "packaging-id": null,
+    "barcode": null
+  },
+  {
+    "date": "2024-11-01",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": null,
+    "barcode": "057362784567",
+    "packaging": null,
+    "id": "bee01fab-72e0-4f80-8741-ac1cfffa0102",
+    "disambiguation": "",
+    "country": null,
+    "release-events": [
+      {
+        "date": "2024-11-01",
+        "area": null
+      }
+    ],
+    "release-group": {
+      "title": "Outtakes",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "disambiguation": "",
+          "name": "house"
+        }
+      ],
+      "first-release-date": "2024-11-01",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "id": "48e24544-8f0f-4ff7-92f2-0d083945ba6e"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "media": [
+      {
+        "tracks": [
+          {
+            "recording": {
+              "title": "Cliffhanger",
+              "length": 388000,
+              "genres": [],
+              "first-release-date": "2024-11-01",
+              "disambiguation": "",
+              "id": "d1a55c3a-b1c2-49dd-8800-b59e5ca5ffaa",
+              "video": false
+            },
+            "position": 1,
+            "id": "929d57ea-390f-4ef0-8d74-c264ee2b9795",
+            "number": "1",
+            "length": 388000,
+            "title": "Cliffhanger"
+          },
+          {
+            "length": 449000,
+            "title": "Take Number One (On & On)",
+            "number": "2",
+            "position": 2,
+            "id": "36716c3e-175d-42f1-b347-c68adfc133ba",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "f1e8198d-1618-46d9-a153-65a0434b50b4",
+              "genres": [],
+              "length": 449000,
+              "title": "Take Number One (On & On)",
+              "first-release-date": "2024-11-01"
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "2024-11-01",
+              "title": "Quiet On Da Set",
+              "length": 297000,
+              "genres": [],
+              "video": false,
+              "id": "5faae3f7-cb6b-409b-a257-ac0109e4cdea",
+              "disambiguation": ""
+            },
+            "position": 3,
+            "id": "c60dc611-211b-413a-b386-4602d643b0d0",
+            "number": "3",
+            "length": 297000,
+            "title": "Quiet On Da Set"
+          },
+          {
+            "length": 245000,
+            "title": "Action!",
+            "number": "4",
+            "id": "0d0c1a33-7bc5-4f40-ab09-5576a3d59398",
+            "position": 4,
+            "recording": {
+              "title": "Action!",
+              "length": 245000,
+              "genres": [],
+              "first-release-date": "2024-11-01",
+              "disambiguation": "",
+              "video": false,
+              "id": "ba07968e-288a-44b4-901f-b98a29c35e0f"
+            }
+          },
+          {
+            "title": "End Credits",
+            "length": 173000,
+            "number": "5",
+            "id": "f3e75792-f6a7-4f22-9396-24912947bcba",
+            "position": 5,
+            "recording": {
+              "first-release-date": "2024-11-01",
+              "title": "End Credits",
+              "length": 173000,
+              "genres": [],
+              "video": false,
+              "id": "2207e2e5-f692-4cff-9cbd-7dc94eb8f520",
+              "disambiguation": ""
+            }
+          },
+          {
+            "id": "bebd82ac-cf2d-4f6f-bcb0-dd11498f5b9b",
+            "position": 6,
+            "recording": {
+              "disambiguation": "",
+              "id": "83cd3e58-3a70-4af7-874d-69c77bb4b920",
+              "video": false,
+              "genres": [],
+              "length": 137000,
+              "title": "The Fella's Interlude (Bonus Track)",
+              "first-release-date": "2024-11-01"
+            },
+            "length": 137000,
+            "title": "The Fella's Interlude (Bonus Track)",
+            "number": "6"
+          }
+        ],
+        "format": "Digital Media",
+        "id": "82c5f4c1-8152-3305-bafd-454a55bebdf4",
+        "track-count": 6,
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": ""
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "front": true,
+      "back": false
+    },
+    "quality": "normal",
+    "title": "Outtakes",
+    "asin": null,
+    "genres": []
+  }
+]

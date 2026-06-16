@@ -1,0 +1,1414 @@
+[
+  {
+    "status": "Official",
+    "packaging": "None",
+    "title": "Serious",
+    "genres": [],
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "disambiguation": "",
+      "first-release-date": "2025-10-10",
+      "id": "4de6751a-f012-4712-8cf1-472aaf16b0d3",
+      "genres": [],
+      "secondary-types": [],
+      "title": "Serious"
+    },
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "country": "XW",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2025-10-10"
+      }
+    ],
+    "quality": "normal",
+    "id": "02b04238-4612-4c14-a4e3-dcfd4280c0d3",
+    "asin": null,
+    "media": [
+      {
+        "id": "4a4408af-95e4-436c-9f27-2e2ba9be41ab",
+        "track-offset": 0,
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "tracks": [
+          {
+            "title": "Serious",
+            "position": 1,
+            "number": "1",
+            "id": "b5f08b2f-b162-476b-b724-fc3e5beb4c01",
+            "length": 179641,
+            "recording": {
+              "first-release-date": "2025-10-10",
+              "genres": [],
+              "id": "2c5c103c-97f8-45fb-ad2d-31396e71c0ca",
+              "title": "Serious",
+              "disambiguation": "",
+              "video": false,
+              "length": 179641
+            }
+          }
+        ]
+      }
+    ],
+    "disambiguation": "",
+    "date": "2025-10-10",
+    "barcode": "198704582295",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+  },
+  {
+    "genres": [],
+    "title": "Bayside",
+    "packaging": null,
+    "status": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "genres": [],
+      "id": "f9079e84-91b8-4dd6-9695-dcc9e79172c8",
+      "first-release-date": "",
+      "title": "Bayside",
+      "secondary-types": []
+    },
+    "packaging-id": null,
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "front": false
+    },
+    "id": "0d451b85-f72d-4f21-8492-921b31270143",
+    "quality": "normal",
+    "media": [
+      {
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "track-count": 2,
+        "tracks": [
+          {
+            "title": "Bayside",
+            "position": 1,
+            "number": "1",
+            "id": "4bd694f6-5eea-4dff-96cd-be3bf8b8e167",
+            "length": 329037,
+            "recording": {
+              "video": false,
+              "disambiguation": "",
+              "title": "Bayside",
+              "genres": [],
+              "id": "c119752d-102f-4ffa-905b-cc84083bc7f0",
+              "length": 329037
+            }
+          },
+          {
+            "number": "2",
+            "length": 197419,
+            "id": "eb8c5617-d3b2-48bf-bf45-1011e3d15b91",
+            "title": "Bayside (Radio Edit)",
+            "position": 2,
+            "recording": {
+              "length": 197419,
+              "video": false,
+              "disambiguation": "",
+              "title": "Bayside (Radio Edit)",
+              "genres": [],
+              "id": "b56d86c8-e800-4852-a51d-15a1660ec113"
+            }
+          }
+        ],
+        "id": "9beb94d0-fe0f-3981-8e9c-57f777baa48e",
+        "track-offset": 0,
+        "title": "",
+        "position": 1,
+        "format": "CD"
+      }
+    ],
+    "disambiguation": "",
+    "asin": null,
+    "status-id": null,
+    "barcode": null
+  },
+  {
+    "title": "MR. WHIPPY'S DISCO WEAPON",
+    "packaging": null,
+    "status": null,
+    "genres": [
+      {
+        "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+        "disambiguation": "",
+        "count": 1,
+        "name": "dance"
+      },
+      {
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "disambiguation": "",
+        "count": 1,
+        "name": "electronic"
+      }
+    ],
+    "release-group": {
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "MR. WHIPPY'S DISCO WEAPON",
+      "first-release-date": "2021",
+      "id": "9439fae0-70ec-4baf-abc9-e343d081a54c",
+      "genres": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "country": null,
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "packaging-id": null,
+    "release-events": [
+      {
+        "date": "2021",
+        "area": null
+      }
+    ],
+    "quality": "normal",
+    "id": "1fa81273-0286-4000-84e9-cd62f6ddb529",
+    "asin": null,
+    "disambiguation": "",
+    "media": [
+      {
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "id": "cfb88bc9-c131-4a93-ad38-01c83f52df37",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "MR. WHIPPY'S DISCO WEAPON",
+            "number": "1",
+            "length": 314666,
+            "id": "44a8a424-4fc3-4793-9aa2-6002a2ecf221",
+            "recording": {
+              "length": 314666,
+              "first-release-date": "2021",
+              "genres": [],
+              "id": "81f9f2ca-7c4e-4462-b52f-e283553a26e4",
+              "title": "MR. WHIPPY'S DISCO WEAPON",
+              "disambiguation": "",
+              "video": false
+            }
+          }
+        ],
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "date": "2021",
+    "barcode": "",
+    "status-id": null
+  },
+  {
+    "release-events": [
+      {
+        "area": null,
+        "date": "2022-06-22"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true,
+      "back": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "Beautiful People",
+      "first-release-date": "1994-02-14",
+      "genres": [
+        {
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1",
+          "disambiguation": "",
+          "name": "garage house",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "id": "e1d984f8-0d73-3842-b8c1-94c6c541516d"
+    },
+    "country": null,
+    "status": "Official",
+    "packaging": "None",
+    "title": "Beautiful People (Obskür Remix)",
+    "genres": [],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "4050538821062",
+    "date": "2022-06-22",
+    "asin": null,
+    "disambiguation": "",
+    "media": [
+      {
+        "track-offset": 0,
+        "id": "12b7fd14-dcaf-381f-b62b-cbf6773d69c1",
+        "format": "Digital Media",
+        "position": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "length": 333771,
+              "title": "Beautiful People (Obskür Remix)",
+              "first-release-date": "2022-06-22",
+              "id": "4838336b-018d-4858-a4fe-b9b0f4e0de34",
+              "genres": [],
+              "video": false,
+              "disambiguation": ""
+            },
+            "length": 333771,
+            "id": "efdab9e3-475f-41ef-892c-8c1eb621b893",
+            "number": "1",
+            "title": "Beautiful People (Obskür Remix)",
+            "position": 1
+          }
+        ],
+        "track-count": 1
+      }
+    ],
+    "quality": "normal",
+    "id": "2893e70a-6a8c-4011-94c6-05fb7d6155e4"
+  },
+  {
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2021-11-12",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "1bbad5bf-8957-444a-ab37-6cc56debe0e3",
+            "length": 296000,
+            "number": "1",
+            "position": 1,
+            "title": "Pure Evil",
+            "recording": {
+              "length": 296000,
+              "genres": [],
+              "id": "56d60c5b-f072-4c84-9e87-209289872ae3",
+              "first-release-date": "2021-11-12",
+              "title": "Pure Evil",
+              "disambiguation": "",
+              "video": false
+            }
+          },
+          {
+            "length": 377000,
+            "id": "4639972d-d727-4b59-8599-39c547c33aff",
+            "number": "2",
+            "title": "Home Interlude",
+            "position": 2,
+            "recording": {
+              "length": 377000,
+              "id": "ad656118-d37f-49a6-9f16-1582b6ad0141",
+              "genres": [],
+              "first-release-date": "2021-11-12",
+              "title": "Home Interlude",
+              "disambiguation": "",
+              "video": false
+            }
+          },
+          {
+            "position": 3,
+            "title": "Possessions",
+            "number": "3",
+            "id": "2b834d95-3dbd-41cf-a61b-f132f8d43f92",
+            "length": 261000,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "9edd869d-3ac9-4008-8406-44f997f6115c",
+              "genres": [],
+              "first-release-date": "2021-11-12",
+              "title": "Possessions",
+              "length": 261000
+            }
+          }
+        ],
+        "track-count": 3,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "id": "9035377b-c42d-436e-97dc-36b5ebc8574f"
+      }
+    ],
+    "disambiguation": "",
+    "asin": null,
+    "id": "3f2859f7-ca63-464c-aaa5-e0ff8be447bf",
+    "quality": "normal",
+    "release-events": [
+      {
+        "date": "2021-11-12",
+        "area": null
+      }
+    ],
+    "packaging-id": null,
+    "cover-art-archive": {
+      "back": false,
+      "front": true,
+      "artwork": true,
+      "count": 1,
+      "darkened": false
+    },
+    "country": null,
+    "release-group": {
+      "disambiguation": "",
+      "title": "Pure Evil - Single",
+      "secondary-types": [],
+      "genres": [],
+      "id": "4e7fab5c-d661-4d4b-a1ca-e505b7dd5206",
+      "first-release-date": "2021-11-12",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album"
+    },
+    "text-representation": {
+      "script": null,
+      "language": "eng"
+    },
+    "genres": [],
+    "packaging": null,
+    "title": "Pure Evil - Single",
+    "status": "Official"
+  },
+  {
+    "genres": [
+      {
+        "name": "deep tech",
+        "count": 1,
+        "disambiguation": "",
+        "id": "82c2ef18-d28a-48fa-992e-793328bcc117"
+      }
+    ],
+    "title": "Falling Back",
+    "packaging": "None",
+    "status": "Official",
+    "country": "XW",
+    "release-group": {
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "Falling Back",
+      "first-release-date": "2024-11-29",
+      "genres": [],
+      "id": "7b6b0a81-a103-43c6-8e01-2af9bd20c487",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": "tgl"
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "front": true
+    },
+    "release-events": [
+      {
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "sort-name": "[Worldwide]"
+        },
+        "date": "2024-11-29"
+      }
+    ],
+    "id": "52703cac-ef18-4b4d-bfd8-ec65790da8b1",
+    "quality": "normal",
+    "disambiguation": "",
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "length": 210680,
+              "first-release-date": "2024-11-29",
+              "id": "bbeeed9c-1844-4c8b-8122-c96bf2e5e7ba",
+              "genres": [],
+              "title": "Falling Back",
+              "disambiguation": "",
+              "video": false
+            },
+            "length": 210680,
+            "id": "ec449054-b9a3-4238-b17e-f586624daedf",
+            "number": "1",
+            "position": 1,
+            "title": "Falling Back"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "819cfa57-01f9-407c-931e-f0bc5485b663",
+              "genres": [],
+              "first-release-date": "2024-11-29",
+              "title": "Check One",
+              "length": 218507
+            },
+            "title": "Check One",
+            "position": 2,
+            "number": "2",
+            "id": "272d571e-89c6-495f-87a3-6b7340792afa",
+            "length": 218507
+          }
+        ],
+        "track-count": 2,
+        "track-offset": 0,
+        "id": "4c1b6807-7347-3981-bb85-f5204eb622f3",
+        "format": "Digital Media",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "asin": null,
+    "date": "2024-11-29",
+    "barcode": "5054288630157",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+  },
+  {
+    "release-group": {
+      "disambiguation": "sped up version",
+      "id": "38cc677a-bf82-49cc-a076-4a5ea82eaa6d",
+      "genres": [],
+      "first-release-date": "2020-11-09",
+      "title": "Bayside",
+      "secondary-types": [
+        "Remix"
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single"
+    },
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "country": "XW",
+    "packaging": "None",
+    "title": "Bayside",
+    "status": "Official",
+    "genres": [
+      {
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "count": 1,
+        "name": "house"
+      }
+    ],
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "name": "[Worldwide]",
+          "type": null
+        },
+        "date": "2020-11-09"
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "asin": null,
+    "disambiguation": "",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "id": "09a5e4ab-7d53-44fd-bd3e-6be2138eb579",
+        "track-offset": 0,
+        "track-count": 2,
+        "tracks": [
+          {
+            "title": "Bayside",
+            "position": 1,
+            "number": "1",
+            "id": "da1306e4-dd0d-4172-8611-a0041f120af2",
+            "length": 329000,
+            "recording": {
+              "title": "Bayside",
+              "first-release-date": "2020-11-09",
+              "genres": [],
+              "id": "8c7f590c-7375-49c0-83be-b7809585283d",
+              "video": false,
+              "disambiguation": "",
+              "length": 329000
+            }
+          },
+          {
+            "position": 2,
+            "title": "Bayside (Radio Edit)",
+            "id": "bacf1a08-7f74-452c-b38c-f769430237d0",
+            "length": 197000,
+            "number": "2",
+            "recording": {
+              "length": 197000,
+              "genres": [],
+              "id": "7973aae6-0361-483c-893e-2acdf0f5c3d4",
+              "first-release-date": "2020-11-09",
+              "title": "Bayside (Radio Edit)",
+              "disambiguation": "",
+              "video": false
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "quality": "normal",
+    "id": "5a2602c1-aacd-42e1-88c6-eebc36c7f554",
+    "barcode": "190295078867",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2020-11-09"
+  },
+  {
+    "date": "2025-05-30",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "198704490880",
+    "id": "63213a7a-388f-449a-b851-d55d98f13ba8",
+    "quality": "normal",
+    "disambiguation": "",
+    "media": [
+      {
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "id": "222c48ab-d3ca-40cf-89a6-a39894bf789e",
+        "tracks": [
+          {
+            "recording": {
+              "length": 208726,
+              "title": "Seen It All Before",
+              "genres": [],
+              "id": "0eb17243-d970-4af5-9a58-d49228a0a8f0",
+              "first-release-date": "2025-05-30",
+              "video": false,
+              "disambiguation": ""
+            },
+            "position": 1,
+            "title": "Seen It All Before",
+            "length": 208726,
+            "id": "a3f7ee45-52f8-4620-ba01-fbb89a42b6a9",
+            "number": "1"
+          }
+        ],
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "asin": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "back": false,
+      "artwork": true,
+      "front": true,
+      "count": 1,
+      "darkened": false
+    },
+    "release-events": [
+      {
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2025-05-30"
+      }
+    ],
+    "genres": [],
+    "title": "Seen It All Before",
+    "packaging": "None",
+    "status": "Official",
+    "country": "XW",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "id": "d6f5c35a-d87f-478d-9dba-b5d5b06ecbf9",
+      "genres": [],
+      "first-release-date": "2025-05-30",
+      "title": "Seen It All Before",
+      "secondary-types": []
+    }
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "198704582301",
+    "date": "2025-10-10",
+    "asin": null,
+    "media": [
+      {
+        "track-offset": 0,
+        "id": "147c0425-224a-4c31-8ea4-0530ee316694",
+        "format": "Digital Media",
+        "position": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "length": 179641,
+              "video": false,
+              "disambiguation": "",
+              "title": "Serious",
+              "first-release-date": "2025-10-10",
+              "genres": [],
+              "id": "2c5c103c-97f8-45fb-ad2d-31396e71c0ca"
+            },
+            "number": "1",
+            "id": "c6243fed-ece9-41e5-af64-5b1e12c65bca",
+            "length": 179641,
+            "position": 1,
+            "title": "Serious"
+          }
+        ],
+        "track-count": 1
+      }
+    ],
+    "disambiguation": "24bit/44.1kHz",
+    "quality": "normal",
+    "id": "75f0c4e0-adaa-45bc-9cca-ffe63933d2dc",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2025-10-10"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "Serious",
+      "first-release-date": "2025-10-10",
+      "genres": [],
+      "id": "4de6751a-f012-4712-8cf1-472aaf16b0d3"
+    },
+    "country": null,
+    "packaging": "None",
+    "status": "Official",
+    "title": "Serious",
+    "genres": []
+  },
+  {
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "name": "[Worldwide]",
+          "type": null,
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2024-07-26"
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "country": "XW",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "release-group": {
+      "first-release-date": "2024-07-26",
+      "genres": [],
+      "id": "79d0e2f7-cb3e-453c-907e-9e78ec1092ce",
+      "secondary-types": [],
+      "title": "I’ve Arrived",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "genres": [],
+    "packaging": "None",
+    "title": "I’ve Arrived",
+    "status": "Official",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "198704054044",
+    "date": "2024-07-26",
+    "media": [
+      {
+        "track-count": 1,
+        "tracks": [
+          {
+            "recording": {
+              "title": "I’ve Arrived",
+              "id": "8fd8792c-a0b4-4e9e-9889-725c056c38fe",
+              "genres": [],
+              "first-release-date": "2024-07-26",
+              "video": false,
+              "disambiguation": "",
+              "length": 150923
+            },
+            "length": 150923,
+            "id": "6d3d25f9-2f6b-42d0-a5df-dbac24bb5c8d",
+            "number": "1",
+            "title": "I’ve Arrived",
+            "position": 1
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "id": "7eb4786c-c122-308b-aa12-c546b643db4f",
+        "track-offset": 0
+      }
+    ],
+    "disambiguation": "",
+    "asin": null,
+    "id": "77f88eac-e118-491b-afc8-055b2eb0ba91",
+    "quality": "normal"
+  },
+  {
+    "barcode": "5054288818852",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2025-02-28",
+    "media": [
+      {
+        "track-offset": 0,
+        "id": "4ef6ea19-9d66-4c05-acee-d123ecec9c3f",
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "title": "Another Life",
+            "position": 1,
+            "id": "bbbe01a8-a159-45e6-b3ea-2422864adbe8",
+            "length": 220312,
+            "number": "1",
+            "recording": {
+              "title": "Another Life",
+              "id": "67cee234-830b-4e20-a2ea-56d2c0b6a666",
+              "genres": [],
+              "first-release-date": "2025-02-28",
+              "video": false,
+              "disambiguation": "",
+              "length": 220312
+            }
+          },
+          {
+            "recording": {
+              "length": 232796,
+              "disambiguation": "",
+              "video": false,
+              "first-release-date": "2025-02-28",
+              "genres": [],
+              "id": "ff674e91-0957-453b-9ca4-63c8ba7c59f7",
+              "title": "Can You Dig It"
+            },
+            "number": "2",
+            "length": 232796,
+            "id": "596690ee-ed11-4023-990b-768295f457c1",
+            "title": "Can You Dig It",
+            "position": 2
+          }
+        ],
+        "track-count": 2
+      }
+    ],
+    "disambiguation": "",
+    "asin": null,
+    "id": "b43d4fcc-52b8-4fcb-a308-b219165757fd",
+    "quality": "normal",
+    "release-events": [
+      {
+        "date": "2025-02-28",
+        "area": {
+          "name": "[Worldwide]",
+          "type": null,
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "country": "XW",
+    "release-group": {
+      "secondary-types": [],
+      "title": "Another Life EP",
+      "first-release-date": "2025-02-28",
+      "genres": [],
+      "id": "a46cd1d0-4417-4d72-9be7-ee04967651a1",
+      "disambiguation": "",
+      "primary-type": "EP",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": []
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "genres": [],
+    "title": "Another Life EP",
+    "packaging": "None",
+    "status": "Official"
+  },
+  {
+    "id": "b43e0421-43c0-44f9-ba6a-73a0161b7df2",
+    "quality": "normal",
+    "media": [
+      {
+        "track-offset": 0,
+        "id": "54f69abd-3f73-41c4-b85f-9b8e2860ebf9",
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "first-release-date": "2023-10-18",
+              "genres": [],
+              "id": "3a3103e8-fe42-445c-b923-611f134304c6",
+              "title": "Rebel (extended mix)",
+              "length": 261433
+            },
+            "id": "270b0c14-2e1b-4e10-a2e8-a1560929eaa6",
+            "length": 261433,
+            "number": "1",
+            "position": 1,
+            "title": "Rebel (extended mix)"
+          }
+        ],
+        "track-count": 1
+      }
+    ],
+    "disambiguation": "extended mix",
+    "asin": null,
+    "date": "2023-10-18",
+    "barcode": "826194639181",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "genres": [],
+    "status": "Official",
+    "packaging": "None",
+    "title": "Rebel",
+    "country": "XW",
+    "release-group": {
+      "disambiguation": "",
+      "title": "Rebel",
+      "secondary-types": [],
+      "genres": [],
+      "id": "1527499f-5d87-4de9-ab37-ad3702e86890",
+      "first-release-date": "2023-10-18",
+      "secondary-type-ids": [],
+      "primary-type-id": null,
+      "primary-type": null
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "back": false,
+      "front": true,
+      "artwork": true,
+      "count": 1,
+      "darkened": false
+    },
+    "release-events": [
+      {
+        "date": "2023-10-18",
+        "area": {
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ]
+  },
+  {
+    "asin": null,
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 166530,
+            "id": "6a48e394-0a81-4086-8b18-a98c4846bb00",
+            "title": "Bayside",
+            "position": 1,
+            "recording": {
+              "length": 166530,
+              "video": false,
+              "disambiguation": "",
+              "title": "Bayside",
+              "id": "e689c20f-8139-4b45-9b52-437cb25738f9",
+              "genres": [],
+              "first-release-date": "2023-11-16"
+            }
+          }
+        ],
+        "id": "cf59e38e-6999-3233-9d29-8d2fcb48326c",
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media"
+      }
+    ],
+    "disambiguation": "sped up version",
+    "quality": "normal",
+    "id": "b5154b4f-9193-43fe-b6fc-da08f9b515eb",
+    "barcode": "5054197903908",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2023-11-16",
+    "release-group": {
+      "disambiguation": "sped up version",
+      "first-release-date": "2020-11-09",
+      "genres": [],
+      "id": "38cc677a-bf82-49cc-a076-4a5ea82eaa6d",
+      "secondary-types": [
+        "Remix"
+      ],
+      "title": "Bayside",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "country": null,
+    "packaging": "None",
+    "status": "Official",
+    "title": "Bayside",
+    "genres": [],
+    "release-events": [
+      {
+        "date": "2023-11-16",
+        "area": null
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+  },
+  {
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        },
+        "date": "2022-07-29"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "genres": [],
+      "id": "d87079f3-8100-40eb-b655-f243a23e45de",
+      "first-release-date": "2022-07-29",
+      "title": "Twister",
+      "secondary-types": []
+    },
+    "country": "GB",
+    "packaging": "None",
+    "status": "Official",
+    "title": "Twister",
+    "genres": [],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5054197235580",
+    "date": "2022-07-29",
+    "asin": null,
+    "disambiguation": "",
+    "media": [
+      {
+        "tracks": [
+          {
+            "number": "1",
+            "id": "eeaf68d1-105f-48d5-b632-9af4b6d14bb1",
+            "length": 158219,
+            "position": 1,
+            "title": "Twister",
+            "recording": {
+              "length": 158219,
+              "video": false,
+              "disambiguation": "",
+              "title": "Twister",
+              "first-release-date": "2022-07-29",
+              "id": "3ddeec76-252f-4ce3-ae9c-8678f59ce6f8",
+              "genres": []
+            }
+          }
+        ],
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "id": "bfe8edeb-ecee-36cc-aee9-c2b92f17eb28"
+      }
+    ],
+    "quality": "normal",
+    "id": "c2fa8d65-dd97-4b50-80f8-799aafef1c59"
+  },
+  {
+    "media": [
+      {
+        "track-offset": 0,
+        "id": "8ed37fa7-dd3f-4fb7-bf3b-3fe0739ae9f6",
+        "format": "Digital Media",
+        "position": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "length": 279403,
+              "video": false,
+              "disambiguation": "",
+              "title": "Another Life",
+              "genres": [],
+              "id": "3a415b6a-0b27-4a25-a06f-0420b262699c",
+              "first-release-date": "2025-02-28"
+            },
+            "number": "1",
+            "id": "858dc13a-93a9-4420-90f3-b600f4bfe19a",
+            "length": 279403,
+            "title": "Another Life",
+            "position": 1
+          },
+          {
+            "recording": {
+              "first-release-date": "2025-02-28",
+              "genres": [],
+              "id": "5ba3ea4a-3155-4d08-bb94-c40859edc118",
+              "title": "Can You Dig It",
+              "disambiguation": "",
+              "video": false,
+              "length": 339248
+            },
+            "position": 2,
+            "title": "Can You Dig It",
+            "id": "38eb512f-de25-4ae2-858b-e5c89cf976d7",
+            "length": 339248,
+            "number": "2"
+          }
+        ],
+        "track-count": 2
+      }
+    ],
+    "disambiguation": "",
+    "asin": null,
+    "id": "d1277384-ab5d-4be6-b9a0-7cbb7fb547e7",
+    "quality": "normal",
+    "barcode": "5054288794408",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2025-02-28",
+    "country": "XW",
+    "release-group": {
+      "disambiguation": "",
+      "title": "Another Life EP",
+      "secondary-types": [],
+      "id": "a46cd1d0-4417-4d72-9be7-ee04967651a1",
+      "genres": [],
+      "first-release-date": "2025-02-28",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "primary-type": "EP"
+    },
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "genres": [],
+    "title": "Another Life EP",
+    "packaging": "None",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "type": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        },
+        "date": "2025-02-28"
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "darkened": false,
+      "count": 1,
+      "front": true,
+      "artwork": true,
+      "back": false
+    }
+  },
+  {
+    "disambiguation": "",
+    "media": [
+      {
+        "track-offset": 0,
+        "id": "6d7df49b-a90c-3491-a5ce-7f2c8c842c5e",
+        "format": "Digital Media",
+        "position": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "2024-12-28: BBC Radio 1 Essential Mix",
+            "number": "1",
+            "id": "cde20757-4699-4806-a66e-42c399e96094",
+            "length": 7200000,
+            "recording": {
+              "length": 7200000,
+              "first-release-date": "2024-12-28",
+              "id": "c10cd712-d554-4524-b10b-dadc0adc26e3",
+              "genres": [],
+              "title": "2024-12-28: BBC Radio 1 Essential Mix",
+              "disambiguation": "",
+              "video": false
+            }
+          }
+        ],
+        "track-count": 1
+      }
+    ],
+    "asin": null,
+    "id": "fd35a763-6d93-4219-a16c-17833513023c",
+    "quality": "normal",
+    "barcode": null,
+    "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+    "date": "2024-12-28",
+    "country": "GB",
+    "release-group": {
+      "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+      "primary-type": "Broadcast",
+      "secondary-type-ids": [
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+      ],
+      "id": "fe289eaa-02f4-4d53-8c37-78878877cf70",
+      "genres": [],
+      "first-release-date": "2024-12-28",
+      "title": "2024-12-28: BBC Radio 1 Essential Mix",
+      "secondary-types": [
+        "DJ-mix"
+      ],
+      "disambiguation": ""
+    },
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "genres": [],
+    "title": "2024-12-28: BBC Radio 1 Essential Mix",
+    "packaging": null,
+    "status": "Bootleg",
+    "release-events": [
+      {
+        "date": "2024-12-28",
+        "area": {
+          "type-id": null,
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "GB"
+          ]
+        }
+      }
+    ],
+    "packaging-id": null,
+    "cover-art-archive": {
+      "darkened": false,
+      "count": 2,
+      "artwork": true,
+      "front": true,
+      "back": false
+    }
+  }
+]

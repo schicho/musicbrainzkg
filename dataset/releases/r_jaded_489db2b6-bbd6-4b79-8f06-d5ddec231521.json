@@ -1,0 +1,2623 @@
+[
+  {
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "id": "01744af8-a910-4821-bbfe-9034bf411060",
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "dance",
+          "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "title": "Pancake",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2018-01-19",
+      "id": "62271a5f-d368-44c4-905c-23bc22dde884"
+    },
+    "media": [
+      {
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "length": 194000,
+            "number": "1",
+            "position": 1,
+            "title": "Pancake",
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Pancake",
+              "length": 192000,
+              "video": false,
+              "id": "e55a196b-3854-45e7-85a1-a75ecb2ee86d",
+              "first-release-date": "2018-01-19"
+            },
+            "id": "0ee35868-d8ed-4690-8e0f-c5948a14a1f6"
+          },
+          {
+            "id": "e89d2090-6f46-4d37-934b-6aed77413404",
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Pancake (The Sauce VIP)",
+              "length": 277000,
+              "video": false,
+              "id": "dca456e8-f421-44de-ae6f-2a2c40137afe",
+              "first-release-date": "2018-01-19"
+            },
+            "position": 2,
+            "title": "Pancake (The Sauce VIP)",
+            "number": "2",
+            "length": 277000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "b1f17753-b1de-3702-a6d3-5ec9102b17a2",
+        "track-count": 2
+      }
+    ],
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "title": "Pancake",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "date": "2018-01-19",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2018-01-19",
+        "area": {
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    }
+  },
+  {
+    "status": "Official",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "id": "15587312-7769-43d4-9eef-3c5cf16cfb0e",
+    "release-group": {
+      "title": "4000hz",
+      "disambiguation": "",
+      "genres": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "4658d563-f1b1-415c-83f0-21f80f13c5da",
+      "first-release-date": "2016-06-10",
+      "primary-type": "Single",
+      "secondary-types": []
+    },
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "4000hz",
+            "position": 1,
+            "length": 156000,
+            "recording": {
+              "first-release-date": "2016-06-10",
+              "id": "b5ceee49-5c7a-428e-a4be-1e80ca30c6f0",
+              "video": false,
+              "length": 156000,
+              "title": "4000hz",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "6af37a30-06d1-40bc-a1f7-a596ff4650ac"
+          }
+        ],
+        "track-offset": 0,
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-count": 1,
+        "id": "fbdc2be9-1e70-3f5b-ae51-1ff207b145a8"
+      }
+    ],
+    "packaging": "None",
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "title": "4000hz",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "date": "2016-06-10",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2016-06-10"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false
+    }
+  },
+  {
+    "media": [
+      {
+        "tracks": [
+          {
+            "length": 204375,
+            "number": "1",
+            "position": 1,
+            "title": "Tax",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Tax",
+              "length": 204375,
+              "video": false,
+              "id": "30200669-5e24-4a50-a4a7-870225b5b532",
+              "first-release-date": "2024-12-13"
+            },
+            "id": "bf4b2bbe-335f-4c0e-a351-a5be6830c8a9"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 1,
+        "id": "f903d1b0-5b23-3ce2-a190-7326fd49e5f6"
+      }
+    ],
+    "barcode": "199066016114",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "title": "Tax",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "asin": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2024-12-13",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2024-12-13",
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "tech house",
+        "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0"
+      }
+    ],
+    "id": "259ced56-d67b-4d57-9804-e8ce6e667306",
+    "release-group": {
+      "disambiguation": "",
+      "genres": [],
+      "title": "Tax",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "3cc638e9-17e5-4caa-8a47-a57c390bc246",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2024-12-13"
+    }
+  },
+  {
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null
+        },
+        "date": "2022-01-21"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "date": "2022-01-21",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "title": "Lost Myself Again",
+    "asin": null,
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "media": [
+      {
+        "id": "03e5b14d-02cc-3e2d-a851-89e8bff03769",
+        "track-count": 1,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "id": "467d014a-03ad-433d-83ad-5891dba0599b",
+            "recording": {
+              "length": 172826,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Lost Myself Again",
+              "first-release-date": "2022-01-21",
+              "video": false,
+              "id": "b84324fe-aed2-4bf5-8fd8-1490a33a3a60"
+            },
+            "title": "Lost Myself Again",
+            "position": 1,
+            "number": "1",
+            "length": 172826
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "packaging": "None",
+    "barcode": "190296286155",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "id": "27a3c01f-d6c6-4157-be4b-1b063a3b5775",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Lost Myself Again",
+      "disambiguation": "",
+      "genres": [],
+      "first-release-date": "2022-01-21",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "id": "212ff912-ffad-4278-a817-db53f89bf0bc"
+    },
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal"
+  },
+  {
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "status": "Official",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Pancake",
+      "genres": [
+        {
+          "name": "dance",
+          "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "disambiguation": "",
+      "first-release-date": "2018-01-19",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "id": "62271a5f-d368-44c4-905c-23bc22dde884"
+    },
+    "id": "313b5f3c-6c26-41c1-881c-e6d1119177e3",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "packaging": null,
+    "media": [
+      {
+        "id": "9cd67367-f86e-3383-837d-8e2921b6481a",
+        "track-count": 1,
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2018-01-19",
+              "id": "e55a196b-3854-45e7-85a1-a75ecb2ee86d",
+              "video": false,
+              "length": 192000,
+              "title": "Pancake",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "aed8dccb-c553-4801-ba40-a9817d13ee1e",
+            "length": 192000,
+            "number": "1",
+            "title": "Pancake",
+            "position": 1
+          }
+        ]
+      }
+    ],
+    "text-representation": {
+      "language": "eng",
+      "script": null
+    },
+    "asin": null,
+    "title": "Pancake",
+    "country": "XW",
+    "packaging-id": null,
+    "date": "2018-01-19",
+    "cover-art-archive": {
+      "front": false,
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false
+    },
+    "release-events": [
+      {
+        "date": "2018-01-19",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "type-id": null,
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4b8daa2b-cb28-4ef0-8e7d-61a2d6e38d60",
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "genres": [],
+      "disambiguation": "",
+      "title": "Coins",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2025-01-23",
+      "id": "54544121-a5d3-4855-a26f-db2c93864f46"
+    },
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2025-01-23",
+    "country": "XW",
+    "release-events": [
+      {
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2025-01-23"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false
+    },
+    "media": [
+      {
+        "tracks": [
+          {
+            "length": 246343,
+            "number": "1",
+            "title": "Coins",
+            "position": 1,
+            "recording": {
+              "length": 246343,
+              "title": "Coins",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2025-01-23",
+              "id": "3b8fe1a7-5444-481a-889c-1b2f1052e503",
+              "video": false
+            },
+            "id": "4fa5d245-137e-4cc2-a521-e682045c97e7"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 1,
+        "id": "cae51b28-d51d-38ef-822f-d5d03db317ae"
+      }
+    ],
+    "barcode": "810162872908",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "title": "Coins",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "asin": null
+  },
+  {
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2024-01-11",
+      "id": "79ee0ae3-04b0-46cd-ae68-8c2d5f8847bc",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "genres": [],
+      "disambiguation": "",
+      "title": "All For You"
+    },
+    "id": "4c4f1dcb-fe11-477a-be3d-e8479f9f895e",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "All For You",
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "810072047991",
+    "media": [
+      {
+        "tracks": [
+          {
+            "length": 366904,
+            "number": "1",
+            "position": 1,
+            "title": "All for You (extended)",
+            "recording": {
+              "title": "All for You (extended)",
+              "disambiguation": "",
+              "genres": [],
+              "length": 366904,
+              "id": "7c4c95f3-4bff-495a-b5ce-9ef474b94d36",
+              "video": false,
+              "first-release-date": "2024-01-11"
+            },
+            "id": "63b4113e-1c04-4846-9d76-4e7cfab37961"
+          },
+          {
+            "length": 213000,
+            "number": "2",
+            "title": "All for You",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "All for You",
+              "length": 213000,
+              "video": false,
+              "id": "20f9c255-cc02-44b3-8aed-e5657159e4ce",
+              "first-release-date": "2024-01-11"
+            },
+            "id": "ba65a923-4c66-46dd-8dff-f39fb43b5ca9"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 2,
+        "id": "d0f153e2-0ab9-3ee2-a384-9cc853234be5"
+      }
+    ],
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null
+        },
+        "date": "2024-01-11"
+      }
+    ],
+    "country": "XW",
+    "date": "2024-01-11",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+  },
+  {
+    "release-group": {
+      "id": "79ee0ae3-04b0-46cd-ae68-8c2d5f8847bc",
+      "first-release-date": "2024-01-11",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "title": "All For You",
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "id": "51e8af22-7aaa-4d85-afd4-924054cdc056",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+      }
+    ],
+    "status": "Official",
+    "cover-art-archive": {
+      "front": false,
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false
+    },
+    "release-events": [
+      {
+        "date": "2024-01-11",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2024-01-11",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "All For You",
+    "barcode": "810072047991",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "42b2d4c8-e13d-47fc-815e-e3d36270020d",
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "All for You (extended)",
+              "length": 366904,
+              "video": false,
+              "id": "7c4c95f3-4bff-495a-b5ce-9ef474b94d36",
+              "first-release-date": "2024-01-11"
+            },
+            "position": 1,
+            "title": "All for You (extended)",
+            "number": "1",
+            "length": 366904
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 1,
+        "id": "e1f30d72-11ad-356d-ae84-d9370bd88f51"
+      }
+    ]
+  },
+  {
+    "release-group": {
+      "first-release-date": "2019-07-24",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "id": "dc578a6a-8a57-4c21-931f-a57679737387",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Hand of God",
+      "genres": [],
+      "disambiguation": ""
+    },
+    "id": "5620d19f-d7dc-4075-bd87-f74801943d0e",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "status": "Official",
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "release-events": [
+      {
+        "date": "2019-07-24",
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "disambiguation": "",
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type": null,
+          "name": "United Kingdom"
+        }
+      }
+    ],
+    "country": "GB",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2019-07-24",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "Hand of God",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "packaging": "None",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "66a4aaee-f383-4a14-8e58-3583f412d3fa",
+            "recording": {
+              "length": 188000,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Hand of God",
+              "first-release-date": "2019-07-24",
+              "video": false,
+              "id": "9adc2319-c13f-4169-9506-0243f0943f73"
+            },
+            "length": 188000,
+            "title": "Hand of God",
+            "position": 1,
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "format": "Digital Media",
+        "title": "",
+        "track-offset": 0,
+        "track-count": 1,
+        "id": "9dca60c5-6ae3-3005-bff3-c6d42b9dcb52"
+      }
+    ]
+  },
+  {
+    "asin": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "title": "IBIZA",
+    "packaging": "None",
+    "barcode": "8721056928064",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "IBIZA (original mix)",
+              "length": 319000,
+              "video": false,
+              "id": "8889dcb6-c7bc-4d49-953c-51be2b061c76",
+              "first-release-date": "2024-05-31"
+            },
+            "id": "01103ee5-6d8d-44f5-beee-1e7cb95fdb68",
+            "number": "1",
+            "title": "IBIZA (original mix)",
+            "position": 1,
+            "length": 319000
+          },
+          {
+            "length": 182000,
+            "title": "IBIZA (radio mix)",
+            "position": 2,
+            "number": "2",
+            "id": "4bc427f8-41cc-4f79-a6a4-74e01a404841",
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "IBIZA (radio mix)",
+              "length": 182000,
+              "video": false,
+              "id": "cb57c193-f785-4b37-9792-3fbdfd2e96af",
+              "first-release-date": "2024-05-31"
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "8e1c95f6-1270-3636-83e6-4f6fc89dbd9e",
+        "track-count": 2
+      }
+    ],
+    "cover-art-archive": {
+      "front": false,
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "back": false
+    },
+    "release-events": [
+      {
+        "date": "2024-05-31",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "country": "XW",
+    "date": "2024-05-31",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": "Official",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "IBIZA",
+      "genres": [],
+      "disambiguation": "",
+      "first-release-date": "2024-05-31",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "id": "9cb06c4d-b435-4cf6-be30-e8a3a3d3b8f4"
+    },
+    "id": "5bab9256-0342-4a7f-9cd3-5291518ce6f1"
+  },
+  {
+    "title": "Welcome To The People",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "asin": null,
+    "media": [
+      {
+        "track-offset": 0,
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "312facaf-6723-48b2-afa8-1db90afe2a73",
+            "recording": {
+              "length": 160669,
+              "title": "Welcome To The People",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2021-09-10",
+              "id": "983e45dc-22a6-4455-aa56-5c8cc18253de",
+              "video": false
+            },
+            "title": "Welcome To The People",
+            "position": 1,
+            "number": "1",
+            "length": 160669
+          },
+          {
+            "number": "2",
+            "title": "Wale",
+            "position": 2,
+            "length": 201517,
+            "recording": {
+              "first-release-date": "2021-09-10",
+              "id": "6fe0124d-a05d-4164-861e-d28fdd34dea8",
+              "video": false,
+              "length": 201517,
+              "title": "Wale",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "ac434f78-4786-4679-8351-6af0804f0368"
+          }
+        ],
+        "id": "a2aa5a1c-73f6-35e6-8db5-823e524e4c2a",
+        "track-count": 2
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "810072041524",
+    "packaging": "None",
+    "release-events": [
+      {
+        "date": "2021-09-10",
+        "area": {
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2021-09-10",
+    "country": "XW",
+    "status": "Official",
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "id": "600cc90b-8141-436c-aa24-59f68d61f21d",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2021-09-10",
+      "id": "d6ead90a-5057-49dc-a194-e508f53eb5bd",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "title": "Welcome To The People"
+    }
+  },
+  {
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "disambiguation": "",
+      "genres": [],
+      "title": "Mirror",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "6c8dac82-9d86-4bb0-a194-82a475ba4208",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "first-release-date": "2023-07-14"
+    },
+    "id": "687a5663-9ff7-46a5-a6d2-d39f1e4e3a0a",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "810072044549",
+    "packaging": "None",
+    "media": [
+      {
+        "id": "c29d1385-aa6b-338e-aa14-0ba8d1e14e90",
+        "track-count": 1,
+        "position": 1,
+        "format": "Digital Media",
+        "title": "",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "length": 202400,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Mirror",
+              "first-release-date": "2023-07-14",
+              "video": false,
+              "id": "f5f71083-23ac-42b5-a6dd-f6081d932890"
+            },
+            "id": "6676a4c5-a2a5-4318-b048-6bb266aefc84",
+            "number": "1",
+            "position": 1,
+            "title": "Mirror",
+            "length": 202400
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "Mirror",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2023-07-14",
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "release-events": [
+      {
+        "date": "2023-07-14",
+        "area": {
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null
+        }
+      }
+    ]
+  },
+  {
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2024-05-31",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2024-05-31",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1,
+      "front": true
+    },
+    "media": [
+      {
+        "position": 1,
+        "format": "Digital Media",
+        "title": "",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "title": "IBIZA (radio mix)",
+              "genres": [],
+              "disambiguation": "",
+              "length": 182000,
+              "id": "cb57c193-f785-4b37-9792-3fbdfd2e96af",
+              "video": false,
+              "first-release-date": "2024-05-31"
+            },
+            "id": "40a1d502-ce21-42a0-9584-ec2aaec8676d",
+            "length": 182000,
+            "number": "1",
+            "title": "IBIZA",
+            "position": 1
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "5f6fed24-7455-3916-910b-b4f2862548cf",
+        "track-count": 1
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "8721056927999",
+    "packaging": "None",
+    "title": "IBIZA",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "asin": null,
+    "id": "77291f27-f747-4569-a0a6-7f757f3bfe51",
+    "release-group": {
+      "disambiguation": "",
+      "genres": [],
+      "title": "IBIZA",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "9cb06c4d-b435-4cf6-be30-e8a3a3d3b8f4",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2024-05-31"
+    },
+    "status": "Official",
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": ""
+  },
+  {
+    "release-events": [
+      {
+        "date": "2019-02-18",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false
+    },
+    "date": "2019-02-18",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "title": "Slippin'",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "video": false,
+              "id": "afa1002e-6ce3-45af-9835-7f01e3dac6f8",
+              "first-release-date": "2019-02-18",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Slippin'",
+              "length": 192000
+            },
+            "id": "6fb1cfd9-00e4-49ae-8d6c-4512da078620",
+            "number": "1",
+            "position": 1,
+            "title": "Slippin'",
+            "length": 192000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "84884dcc-7048-3b15-9203-2fc174512ed0",
+        "track-count": 1
+      }
+    ],
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "id": "7d0c3163-2d32-4ea3-b771-5482c4d974d2",
+    "release-group": {
+      "disambiguation": "",
+      "genres": [],
+      "title": "Slippin'",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "bbb9da9b-beed-4d8e-b6c1-8595fb081ca9",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2019-02-18"
+    },
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal"
+  },
+  {
+    "id": "7dafb5f4-0b18-42bc-a8cb-258a513689d7",
+    "release-group": {
+      "title": "Big Round & Juicy",
+      "genres": [
+        {
+          "count": 1,
+          "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+          "name": "dance",
+          "disambiguation": ""
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "19a02caf-3e97-4e85-8c8c-4449effc7b28",
+      "first-release-date": "2015-05-31",
+      "secondary-types": [],
+      "primary-type": "EP"
+    },
+    "status": "Official",
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2015-05-31",
+        "area": {
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2015-05-31",
+    "country": "XW",
+    "title": "Big Round & Juicy",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "media": [
+      {
+        "track-count": 4,
+        "id": "f1305b3b-9c9f-3215-bd6d-fad05ab1afd9",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 216000,
+            "number": "1",
+            "position": 1,
+            "title": "Big Round & Juicy",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Big Round & Juicy",
+              "length": 216000,
+              "video": false,
+              "id": "496443d1-84e7-4a0b-a924-b899f75d7188",
+              "first-release-date": "2015-05-31"
+            },
+            "id": "172b174f-c62d-41af-8ab1-acdd33e86cd1"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "58daedbf-f3c5-42a4-8d65-2bbd49678e34",
+              "first-release-date": "2015-05-31",
+              "genres": [],
+              "disambiguation": "",
+              "title": "She Likes It",
+              "length": 358000
+            },
+            "id": "789407d5-214d-4e26-81ac-a33ae21a9390",
+            "number": "2",
+            "title": "She Likes It",
+            "position": 2,
+            "length": 358000
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "ab17cf93-84cc-4177-bfb1-6aa32e3443f8",
+              "first-release-date": "2015-05-31",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Big Round & Juicy (VIP mix)",
+              "length": 255000
+            },
+            "id": "004ff125-ca94-45ff-be40-67342f2e8793",
+            "length": 255000,
+            "number": "3",
+            "title": "Big Round & Juicy (VIP mix)",
+            "position": 3
+          },
+          {
+            "recording": {
+              "length": 260000,
+              "title": "Big Round & Juicy (extended mix)",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2015-05-31",
+              "id": "7e262a69-aa98-46b7-b5f5-9801c54e2402",
+              "video": false
+            },
+            "id": "fffdb6a3-85ce-458d-9e36-1da5129c9526",
+            "length": 260000,
+            "number": "4",
+            "position": 4,
+            "title": "Big Round & Juicy (extended mix)"
+          }
+        ],
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "192562890530",
+    "packaging": "None"
+  },
+  {
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "United Kingdom",
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "disambiguation": ""
+        },
+        "date": "2019-08-07"
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2019-08-07",
+    "country": "GB",
+    "title": "Move It",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "media": [
+      {
+        "id": "5941287d-c4b2-3329-850d-217911aec710",
+        "track-count": 2,
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "6e6190be-175b-428d-bfef-5ba72b4b787f",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Move It",
+              "length": 153000,
+              "video": false,
+              "id": "364e6cbb-f689-4ff9-8575-9d066961fbcd",
+              "first-release-date": "2019-08-07"
+            },
+            "title": "Move It",
+            "position": 1,
+            "number": "1",
+            "length": 153000
+          },
+          {
+            "length": 173000,
+            "number": "2",
+            "title": "Move It (VIP Mix)",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Move It (VIP mix)",
+              "length": 173000,
+              "video": false,
+              "id": "b0ef1927-7ca9-49c3-ac04-207a991f84c6",
+              "first-release-date": "2019-08-07"
+            },
+            "id": "ebe403ec-2678-4431-9337-d5c628790397"
+          }
+        ]
+      }
+    ],
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "id": "896d6ef8-dbf8-4601-aa95-340dfc42558a",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2019-08-07",
+      "id": "92309c94-9e83-490b-afa7-0d6ccb04b095",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "genres": [],
+      "disambiguation": "",
+      "title": "Move It"
+    },
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": []
+  },
+  {
+    "release-group": {
+      "id": "852a231c-8a73-4b3c-ac61-be033bead8e8",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "first-release-date": "2021-08-06",
+      "genres": [],
+      "disambiguation": "",
+      "title": "Babylon",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "id": "8ebdde7b-74d5-4c67-9087-cc8905758bb2",
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "status": "Official",
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2021-08-06"
+      }
+    ],
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2021-08-06",
+    "asin": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "title": "Babylon",
+    "barcode": "5052075508702",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "media": [
+      {
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "length": 210667,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Babylon",
+              "first-release-date": "2021-08-06",
+              "video": false,
+              "id": "a58dc21b-9e6a-4ea5-bcf8-fbc8bcdcfbce"
+            },
+            "id": "7013a266-e9fd-40dc-accf-3b6e7b1c3af0",
+            "number": "1",
+            "position": 1,
+            "title": "Babylon",
+            "length": 210667
+          },
+          {
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Babylon (extended mix)",
+              "length": 373000,
+              "video": false,
+              "id": "0a8b6dbf-98ca-4aba-bdbc-d9119c39a0f2",
+              "first-release-date": "2021-08-06"
+            },
+            "id": "45fd37db-dfe3-49be-998d-995033e958c9",
+            "length": 373377,
+            "number": "2",
+            "position": 2,
+            "title": "Babylon (extended mix)"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "56b68ca2-d994-384e-a61f-c44e4cecf7d9",
+        "track-count": 2
+      }
+    ]
+  },
+  {
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2016-07-29",
+      "id": "69b19a35-9fe1-46cf-9af2-05eb63360540",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "genres": [],
+      "disambiguation": "",
+      "title": "4000hz (remixes)"
+    },
+    "id": "9bea2718-019e-4060-a9a4-625e0cf40ecd",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "4000hz (remixes)",
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "media": [
+      {
+        "track-offset": 0,
+        "position": 1,
+        "format": "Digital Media",
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "7ad84de3-9811-44f5-827d-2c78baf1f58b",
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "4000hz (Gully Goose remix)",
+              "length": 220000,
+              "video": false,
+              "id": "fac06b85-53a5-42eb-ad6b-c6e4a1d4eacf",
+              "first-release-date": "2016-07-29"
+            },
+            "length": 220000,
+            "position": 1,
+            "title": "4000hz (Gully Goose remix)",
+            "number": "1"
+          },
+          {
+            "id": "c53d9012-88bd-4749-8a46-fbe7b4e1a98a",
+            "recording": {
+              "video": false,
+              "id": "dd2ffe8b-83ba-48f9-a808-66b18c9b588e",
+              "first-release-date": "2016-07-29",
+              "genres": [],
+              "disambiguation": "",
+              "title": "4000hz (Purple Pelican remix)",
+              "length": 224000
+            },
+            "position": 2,
+            "title": "4000hz (Purple Pelican remix)",
+            "number": "2",
+            "length": 224000
+          },
+          {
+            "id": "5d1a5846-d249-4ae7-809e-49e1695b1118",
+            "recording": {
+              "length": 207000,
+              "genres": [],
+              "disambiguation": "",
+              "title": "4000hz (Dumb DoDo remix)",
+              "first-release-date": "2016-07-29",
+              "video": false,
+              "id": "17788612-1968-4850-bd91-dc908fffb066"
+            },
+            "title": "4000hz (Dumb DoDo remix)",
+            "position": 3,
+            "number": "3",
+            "length": 207000
+          },
+          {
+            "recording": {
+              "id": "6537415b-35a6-4bd0-93ce-c16580a1e4b5",
+              "video": false,
+              "first-release-date": "2016-07-29",
+              "title": "4000hz (Dutty Dove remix)",
+              "genres": [],
+              "disambiguation": "",
+              "length": 214000
+            },
+            "id": "3075beb9-66d6-4959-8950-5d89483bd7d2",
+            "number": "4",
+            "title": "4000hz (Dutty Dove remix)",
+            "position": 4,
+            "length": 214000
+          }
+        ],
+        "id": "d5f41f98-0c40-324d-b72f-01c70e8b2f2d",
+        "track-count": 4
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "release-events": [
+      {
+        "date": "2016-07-29",
+        "area": {
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null
+        }
+      }
+    ],
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2016-07-29"
+  },
+  {
+    "status": "Official",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "id": "a09715c2-ab07-470c-97ab-a42486ef7c2b",
+    "release-group": {
+      "secondary-types": [
+        "Remix"
+      ],
+      "primary-type": "Single",
+      "first-release-date": "2016-06-24",
+      "id": "bb164cbc-9509-4f1a-95ed-e1d89499e0ea",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "genres": [
+        {
+          "count": 1,
+          "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+          "name": "dance",
+          "disambiguation": ""
+        }
+      ],
+      "disambiguation": "",
+      "title": "4000hz (extended club edit)"
+    },
+    "title": "4000hz (extended club edit)",
+    "asin": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "media": [
+      {
+        "position": 1,
+        "format": "Digital Media",
+        "title": "",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "id": "ec80c2d1-9687-446d-b833-f06369ed7815",
+            "recording": {
+              "first-release-date": "2016-06-24",
+              "id": "d04ea07c-ac86-4ead-9b30-2c50b19cf2b1",
+              "video": false,
+              "length": 264000,
+              "title": "4000hz (extended club edit)",
+              "disambiguation": "",
+              "genres": []
+            },
+            "position": 1,
+            "title": "4000hz (extended club edit)",
+            "number": "1",
+            "length": 264000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "5ab87c4d-1251-3981-96ca-da278687f327",
+        "track-count": 1
+      }
+    ],
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "886445916867",
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2016-06-24"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "date": "2016-06-24",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW"
+  },
+  {
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "first-release-date": "2016-07-29",
+      "primary-type": "EP",
+      "secondary-types": [
+        "Remix"
+      ],
+      "id": "69b19a35-9fe1-46cf-9af2-05eb63360540",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "4000hz (remixes)",
+      "disambiguation": "",
+      "genres": []
+    },
+    "id": "ac2e77c0-0eca-4192-ac95-8d7b9c2b9deb",
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "media": [
+      {
+        "id": "31c91aca-4d38-31b3-abfc-4c90483ff12d",
+        "track-count": 4,
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "97f76dfe-3428-48aa-a5a6-024f7aaf8c53",
+            "recording": {
+              "length": 296000,
+              "genres": [],
+              "disambiguation": "",
+              "title": "4000hz (Gully Goose club mix)",
+              "first-release-date": "2016-07-29",
+              "video": false,
+              "id": "ad1e18b4-9ac0-4745-be49-7bfa5f1b4966"
+            },
+            "length": 296000,
+            "position": 1,
+            "title": "4000hz (Gully Goose club mix)",
+            "number": "1"
+          },
+          {
+            "length": 351000,
+            "position": 2,
+            "title": "4000hz (Purple Pelican club mix)",
+            "number": "2",
+            "id": "2bafb8c2-0635-459b-844f-9703dbb2f63a",
+            "recording": {
+              "id": "88a9c046-a3fe-4416-b495-d29d19af56a1",
+              "video": false,
+              "first-release-date": "2016-07-29",
+              "title": "4000hz (Purple Pelican club mix)",
+              "disambiguation": "",
+              "genres": [],
+              "length": 351000
+            }
+          },
+          {
+            "recording": {
+              "length": 236000,
+              "disambiguation": "",
+              "genres": [],
+              "title": "4000hz (Dumb DoDo club mix)",
+              "first-release-date": "2016-07-29",
+              "video": false,
+              "id": "223f2b08-7fff-406d-a3ba-cc7ed377da68"
+            },
+            "id": "58d5ecbd-a371-431c-9905-3ad906b09498",
+            "length": 236000,
+            "number": "3",
+            "title": "4000hz (Dumb DoDo club mix)",
+            "position": 3
+          },
+          {
+            "length": 414000,
+            "number": "4",
+            "title": "4000hz (Dutty Dove club mix)",
+            "position": 4,
+            "recording": {
+              "first-release-date": "2016-07-29",
+              "video": false,
+              "id": "774f5fab-3a8a-4586-b894-8b913e16e79e",
+              "length": 414000,
+              "disambiguation": "",
+              "genres": [],
+              "title": "4000hz (Dutty Dove club mix)"
+            },
+            "id": "447f6ea6-7bca-4421-a42b-0ee0a116c908"
+          }
+        ]
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "4000hz (club remixes)",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2016-07-29",
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "release-events": [
+      {
+        "date": "2016-07-29",
+        "area": {
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "status": "Official",
+    "release-group": {
+      "id": "2484c89e-7f77-4bd9-9b47-bf326c18347c",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2024-10-25",
+      "disambiguation": "",
+      "genres": [],
+      "title": "Jump N Twist",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "id": "be361fa9-300b-493d-8340-ed18dca1328a",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "Jump N Twist",
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "3617663615877",
+    "media": [
+      {
+        "id": "595ec89b-16f2-3658-ab07-09a289b36f97",
+        "track-count": 1,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "length": 178901,
+            "position": 1,
+            "title": "Jump N Twist",
+            "number": "1",
+            "id": "cf3a9adf-9955-4244-8cbb-af31a3536b71",
+            "recording": {
+              "video": false,
+              "id": "b6f168bd-6bbe-4d24-8a94-9defd79f1a31",
+              "first-release-date": "2024-10-25",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Jump N Twist",
+              "length": 178901
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "release-events": [
+      {
+        "date": "2024-10-25",
+        "area": {
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "country": "XW",
+    "date": "2024-10-25",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "886446600741",
+    "packaging": "None",
+    "media": [
+      {
+        "id": "919b571c-dbd1-356e-80ed-594c58dc5bd6",
+        "track-count": 5,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2017-07-14",
+              "id": "2ad5ce96-4261-44d9-95f7-b51b332e0519",
+              "video": false,
+              "length": 196200,
+              "title": "In the Morning",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "80206d9c-475f-457d-88f1-6a12575345a9",
+            "number": "1",
+            "title": "In the Morning",
+            "position": 1,
+            "length": 195000
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "title": "In the Morning (GotSome & Jaded Remix)",
+            "length": 204000,
+            "recording": {
+              "video": false,
+              "id": "1dd24c98-64ef-435c-b220-229bc8f991f6",
+              "first-release-date": "2017-07-21",
+              "genres": [],
+              "disambiguation": "",
+              "title": "In the Morning (Gotsome & Jaded remix)",
+              "length": 204000
+            },
+            "id": "d86b26d7-e15d-4d12-bb58-d86dbc741642"
+          },
+          {
+            "length": 182000,
+            "position": 3,
+            "title": "In the Morning (Alle Farben Remix)",
+            "number": "3",
+            "id": "8f157693-1437-4c83-92ea-16ae26d57781",
+            "recording": {
+              "video": false,
+              "id": "f52d9c79-dbd1-47df-b849-dddc614a5d30",
+              "first-release-date": "2017-08-25",
+              "disambiguation": "",
+              "genres": [],
+              "title": "In the Morning (Alle Farben Remix)",
+              "length": 182000
+            }
+          },
+          {
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "In the Morning (VIP Remix)",
+              "length": 203000,
+              "video": false,
+              "id": "24d718f2-892e-4a02-9b7a-8536100b0482",
+              "first-release-date": "2017-08-25"
+            },
+            "id": "36784608-5ef6-4496-8f3b-930b8bc26953",
+            "number": "4",
+            "title": "In the Morning (VIP Remix)",
+            "position": 4,
+            "length": 203000
+          },
+          {
+            "position": 5,
+            "title": "In the Morning (Purple Pelican Remix)",
+            "number": "5",
+            "length": 340000,
+            "id": "54787cd2-7eb8-4054-8796-12e6af0f3fb9",
+            "recording": {
+              "length": 340000,
+              "genres": [],
+              "disambiguation": "",
+              "title": "In the Morning (Purple Pelican Remix)",
+              "first-release-date": "2017-08-25",
+              "video": false,
+              "id": "a3b54807-7c59-4e47-9ea4-b455c46cd844"
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "asin": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "title": "In the Morning (Remixes)",
+    "country": "GB",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2017-08-25",
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 2,
+      "darkened": false,
+      "back": false
+    },
+    "release-events": [
+      {
+        "date": "2017-08-25",
+        "area": {
+          "type-id": null,
+          "type": null,
+          "name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "disambiguation": "",
+          "sort-name": "United Kingdom"
+        }
+      }
+    ],
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "In the Morning (Remixes)",
+      "disambiguation": "",
+      "genres": [],
+      "first-release-date": "2017-08-25",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "741335b0-4691-4723-a209-f730972e327c"
+    },
+    "id": "c16ee743-26ef-4461-bd2c-20a122296744"
+  },
+  {
+    "id": "c69eb630-7c1d-4281-a094-7ffb7ef0510c",
+    "release-group": {
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f"
+        },
+        {
+          "count": 1,
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+          "name": "tech house",
+          "disambiguation": ""
+        }
+      ],
+      "title": "Pass the Dutch",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "5b2f1503-f763-4104-bfb5-ed045feebc15",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2021-07-02"
+    },
+    "status": null,
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [
+      {
+        "count": 1,
+        "name": "deep house",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "disambiguation": ""
+      },
+      {
+        "disambiguation": "",
+        "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+        "name": "tech house",
+        "count": 1
+      }
+    ],
+    "packaging-id": null,
+    "date": "2021-07-02",
+    "country": "US",
+    "release-events": [
+      {
+        "date": "2021-07-02",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "name": "United States",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false
+    },
+    "media": [
+      {
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "id": "540443ce-f226-4a36-a251-8c7f4d6ce3f8",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Pass the Dutch (extended mix)",
+              "length": 298000,
+              "video": false,
+              "id": "ba6ce135-bc8e-421c-a6fa-7aa399fc86a2",
+              "first-release-date": "2021-07-02"
+            },
+            "position": 1,
+            "title": "Pass the Dutch (extended mix)",
+            "number": "1",
+            "length": 298000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "9a7402b3-e8fb-3ab8-8ba8-f6b2cdb4bf10",
+        "track-count": 1
+      }
+    ],
+    "barcode": null,
+    "status-id": null,
+    "packaging": null,
+    "title": "Pass the Dutch",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null
+  },
+  {
+    "id": "d565d3a5-387e-4763-b2b2-1724da7de283",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Ounces",
+      "genres": [],
+      "disambiguation": "",
+      "first-release-date": "2020-02-19",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "3f7220af-d8fb-409a-b5c1-3804d3df8e5d"
+    },
+    "status": "Official",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "date": "2020-02-19",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "GB",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "type": null,
+          "name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "disambiguation": ""
+        },
+        "date": "2020-02-19"
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "media": [
+      {
+        "track-count": 6,
+        "id": "41d192ae-6568-3be4-a730-7a16e171b21e",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Bounce",
+              "length": 181000,
+              "video": false,
+              "id": "56863db9-609f-41fe-bd66-2d38cc91d6dc",
+              "first-release-date": "2020-02-19"
+            },
+            "id": "46d3ef00-e8f9-4b6a-99e1-95bda8093da9",
+            "length": 181000,
+            "number": "1",
+            "position": 1,
+            "title": "Bounce"
+          },
+          {
+            "id": "f3601117-a706-4e7e-8eb0-b34e2356c600",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Sosa",
+              "length": 223000,
+              "video": false,
+              "id": "fc93e619-5fde-46ca-ade7-2f89afe1bae0",
+              "first-release-date": "2020-02-19"
+            },
+            "position": 2,
+            "title": "Sosa",
+            "number": "2",
+            "length": 223000
+          },
+          {
+            "recording": {
+              "title": "Loco",
+              "genres": [],
+              "disambiguation": "",
+              "length": 234000,
+              "id": "eee6e04c-3a5e-45d2-848b-09b5ad7eab3f",
+              "video": false,
+              "first-release-date": "2020-02-19"
+            },
+            "id": "3bf83e22-9498-4780-885b-6764ebe2e2a2",
+            "length": 234000,
+            "number": "3",
+            "position": 3,
+            "title": "Loco"
+          },
+          {
+            "position": 4,
+            "title": "Bounce (Extended)",
+            "number": "4",
+            "length": 320000,
+            "id": "cc8677d1-95e7-4462-b4bc-e1205b7bbb9b",
+            "recording": {
+              "id": "f4ca9aae-3f60-44a3-a676-b729f677ddbe",
+              "video": false,
+              "first-release-date": "2020-02-19",
+              "title": "Bounce (Extended)",
+              "genres": [],
+              "disambiguation": "",
+              "length": 320000
+            }
+          },
+          {
+            "length": 299000,
+            "position": 5,
+            "title": "Sosa (Extended)",
+            "number": "5",
+            "id": "acfd5b5d-c865-48b9-b43c-94de909ae2d8",
+            "recording": {
+              "video": false,
+              "id": "2818103e-7473-48d4-b74e-27690aa4e0a8",
+              "first-release-date": "2020-02-19",
+              "genres": [],
+              "disambiguation": "",
+              "title": "Sosa (Extended)",
+              "length": 299000
+            }
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "1c7b2cb0-1dfc-460d-ba9f-482ff5af7f9f",
+              "first-release-date": "2020-02-19",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Loco (Extended)",
+              "length": 330000
+            },
+            "id": "5565c843-1caa-4ad2-be49-f13290f00598",
+            "length": 330000,
+            "number": "6",
+            "position": 6,
+            "title": "Loco (Extended)"
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "title": "Ounces",
+    "asin": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    }
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5052075508696",
+    "packaging": "None",
+    "media": [
+      {
+        "track-count": 1,
+        "id": "4c58f810-4138-3f5b-b80d-b3a76c72539c",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "title": "Babylon (extended mix)",
+            "position": 1,
+            "number": "1",
+            "length": 373000,
+            "id": "ef6db2be-3912-4b07-ae8c-2d23a3b82d7d",
+            "recording": {
+              "length": 373000,
+              "title": "Babylon (extended mix)",
+              "genres": [],
+              "disambiguation": "",
+              "first-release-date": "2021-08-06",
+              "id": "0a8b6dbf-98ca-4aba-bdbc-d9119c39a0f2",
+              "video": false
+            }
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "Babylon",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2021-08-06",
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1,
+      "front": true
+    },
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2021-08-06"
+      }
+    ],
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "status": "Official",
+    "release-group": {
+      "id": "852a231c-8a73-4b3c-ac61-be033bead8e8",
+      "first-release-date": "2021-08-06",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "title": "Babylon",
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "id": "dc8dbdf0-a0ae-42b5-bbdd-c9c42c3650c1"
+  },
+  {
+    "status": "Official",
+    "genres": [
+      {
+        "count": 1,
+        "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+        "name": "dance",
+        "disambiguation": ""
+      },
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "electro",
+        "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4"
+      },
+      {
+        "disambiguation": "",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "name": "electronic",
+        "count": 1
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "id": "eb15a9d4-1c9b-4a07-bcbd-92160014f489",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2025-05-15",
+      "id": "1129f5d2-7570-4a71-81cb-1df74eeee1ce",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "title": "Last Time"
+    },
+    "media": [
+      {
+        "track-count": 1,
+        "id": "75ef2fd2-1807-42a7-a9d3-e1293560d423",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "title": "Last Time",
+            "position": 1,
+            "number": "1",
+            "length": 167848,
+            "id": "6df9d8ac-ba69-43c3-bd76-5497f1e4efd1",
+            "recording": {
+              "length": 167848,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Last Time",
+              "first-release-date": "2025-05-15",
+              "video": false,
+              "id": "41e3b677-7747-40b8-8abc-9dbc557f485c"
+            }
+          }
+        ],
+        "track-offset": 0,
+        "title": "",
+        "format": "Digital Media",
+        "position": 1
+      }
+    ],
+    "packaging": "None",
+    "barcode": "810162874391",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "title": "Last Time",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "asin": null,
+    "date": "2025-05-15",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2025-05-15"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1,
+      "front": true
+    }
+  }
+]

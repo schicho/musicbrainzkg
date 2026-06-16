@@ -1,0 +1,1642 @@
+[
+  {
+    "disambiguation": "",
+    "id": "0adce4d8-961a-447e-8cf2-481597a7402f",
+    "release-group": {
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "id": "fb1f8bf5-bdfc-4334-8e01-6848d445dfa6",
+      "genres": [
+        {
+          "name": "deep house",
+          "disambiguation": "",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "82c2ef18-d28a-48fa-992e-793328bcc117",
+          "name": "deep tech",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+          "name": "tech house",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "2021-11-19",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Something Like This"
+    },
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "date": "2021-11-19",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2021-11-19",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "cover-art-archive": {
+      "count": 2,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "media": [
+      {
+        "track-count": 1,
+        "title": "",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "c63e3704-abf3-40ed-bdac-2a4d03f0994b",
+            "position": 1,
+            "length": 343937,
+            "title": "Something Like This",
+            "recording": {
+              "title": "Something Like This",
+              "first-release-date": "2021-11-19",
+              "genres": [],
+              "id": "8a8f7592-4d75-4a10-9173-b546de47662b",
+              "length": 343937,
+              "video": false,
+              "disambiguation": ""
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "e79297ce-4aea-36e0-bc26-0c1d557bda33",
+        "position": 1,
+        "track-offset": 0
+      }
+    ],
+    "quality": "normal",
+    "title": "Something Like This"
+  },
+  {
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2022-01-26",
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "type-id": null
+        }
+      }
+    ],
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "5aeba4c1-b704-4505-92d0-3aa6be5c1e2d",
+            "position": 1,
+            "length": 360000,
+            "recording": {
+              "id": "d05d032a-d7f3-489d-a0dc-9b156ba3f094",
+              "length": 360000,
+              "video": false,
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2022-01-26",
+              "title": "Don't Stop (EZ Mix)"
+            },
+            "title": "Don't Stop (EZ Mix)"
+          },
+          {
+            "title": "Don't Stop (HV Mix)",
+            "recording": {
+              "title": "Don't Stop (HV Mix)",
+              "first-release-date": "2022-01-26",
+              "genres": [],
+              "id": "153e1902-a289-4ee3-8834-71804007717f",
+              "length": 357209,
+              "disambiguation": "",
+              "video": false
+            },
+            "number": "2",
+            "position": 2,
+            "length": 357209,
+            "id": "1dc1ddff-fdb2-4fff-84be-89994509af2e"
+          }
+        ],
+        "title": "",
+        "track-count": 2,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "cbf9a49b-ae99-356e-a40e-ae4e89dc89a4",
+        "position": 1
+      }
+    ],
+    "quality": "normal",
+    "title": "Don't Stop",
+    "disambiguation": "",
+    "id": "249aaba2-6c84-4d33-8d9a-04153b63cbfa",
+    "release-group": {
+      "first-release-date": "2022-01-26",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Don't Stop",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "cf56223e-a269-44b2-920a-1ee0167ea343",
+      "primary-type": "Single",
+      "genres": [
+        {
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "name": "deep house",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "name": "deep tech",
+          "disambiguation": "",
+          "id": "82c2ef18-d28a-48fa-992e-793328bcc117",
+          "count": 1
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "count": 1,
+          "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+          "disambiguation": "",
+          "name": "tech house"
+        }
+      ]
+    },
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "date": "2022-01-26",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    }
+  },
+  {
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "count": 0,
+      "back": false,
+      "darkened": false
+    },
+    "media": [
+      {
+        "track-count": 1,
+        "title": "",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "position": 1,
+            "id": "ecfbd940-f5da-4680-9629-873433edd784",
+            "length": 346046,
+            "recording": {
+              "id": "64bb9f26-3ceb-44bd-849a-0d53c37a4b09",
+              "length": 346046,
+              "disambiguation": "",
+              "video": false,
+              "genres": [],
+              "first-release-date": "2023-01-27",
+              "title": "Let the Bass"
+            },
+            "title": "Let the Bass"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "343fe1f4-ec12-3525-8943-6f5ab2ae8847",
+        "position": 1,
+        "track-offset": 0
+      }
+    ],
+    "quality": "normal",
+    "title": "Let the Bass",
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type-id": null,
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": ""
+        },
+        "date": "2023-01-27"
+      }
+    ],
+    "date": "2023-01-27",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "barcode": "5056685902295",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "release-group": {
+      "primary-type": "Single",
+      "id": "20cf48e3-b5f7-4475-954b-3440153646f2",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "genres": [],
+      "secondary-types": [],
+      "first-release-date": "2023-01-27",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Let the Bass"
+    },
+    "disambiguation": "",
+    "id": "27d3a2b8-7b84-46af-aeab-2dcc6ce63bcb"
+  },
+  {
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "date": "2021-08-01",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "disambiguation": "",
+    "id": "5f6e60e0-eb99-4b63-8018-fb4166032a8c",
+    "release-group": {
+      "genres": [],
+      "primary-type": "Single",
+      "id": "3be418cc-881a-4172-8536-9adbf201a74b",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "title": "How to Love",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2021-08-01",
+      "secondary-types": []
+    },
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "front": true,
+      "artwork": true
+    },
+    "media": [
+      {
+        "track-offset": 0,
+        "id": "6aaccb51-4224-3746-a1d2-ceba34d518f5",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "title": "How to Love",
+            "recording": {
+              "title": "How to Love",
+              "first-release-date": "2021-08-01",
+              "genres": [],
+              "id": "3b0c6bd7-c410-49e9-a9c4-038f43058303",
+              "length": 360930,
+              "disambiguation": "",
+              "video": false
+            },
+            "number": "1",
+            "length": 360930,
+            "position": 1,
+            "id": "bc049e0b-16ed-4fa0-92af-3a3b5d553ff7"
+          }
+        ],
+        "format": "Digital Media",
+        "title": "",
+        "track-count": 1
+      }
+    ],
+    "quality": "normal",
+    "title": "How to Love",
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2021-08-01",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "packaging": "None",
+    "genres": [],
+    "asin": null
+  },
+  {
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "It's My Beat",
+      "secondary-types": [],
+      "first-release-date": "2023-02-24",
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "c658e293-0bea-47a3-b0c9-c02fd4996713",
+      "primary-type": "Single"
+    },
+    "disambiguation": "",
+    "id": "6cc89745-cf31-4e13-b6e4-2e3b7c6b3062",
+    "date": "2023-02-24",
+    "text-representation": {
+      "language": "afr",
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "4251906625217",
+    "country": "XW",
+    "packaging": "None",
+    "asin": null,
+    "genres": [
+      {
+        "name": "deep tech",
+        "disambiguation": "",
+        "id": "82c2ef18-d28a-48fa-992e-793328bcc117",
+        "count": 1
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2023-02-24",
+        "area": {
+          "type-id": null,
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "status": "Official",
+    "media": [
+      {
+        "tracks": [
+          {
+            "recording": {
+              "title": "It's My Beat (extended mix)",
+              "first-release-date": "2023-02-24",
+              "genres": [],
+              "length": 393507,
+              "id": "bfac8f5d-584c-4f97-82f7-3288bbe0bdcb",
+              "video": false,
+              "disambiguation": ""
+            },
+            "title": "It's My Beat (extended mix)",
+            "position": 1,
+            "length": 393507,
+            "id": "d248a963-4601-436b-885f-6559a813aaf0",
+            "number": "1"
+          },
+          {
+            "title": "It's My Beat (radio edit)",
+            "recording": {
+              "first-release-date": "2023-02-24",
+              "title": "It's My Beat (radio edit)",
+              "id": "23f42acc-2fae-4966-bfc1-139ecc9f274e",
+              "length": 231876,
+              "disambiguation": "",
+              "video": false,
+              "genres": []
+            },
+            "number": "2",
+            "position": 2,
+            "id": "c6d33c5c-464a-4c17-a1c8-62cf214b9b07",
+            "length": 231876
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 2,
+        "title": "",
+        "track-offset": 0,
+        "id": "2bc1f0fd-cbfb-4918-9323-9466f3bd3c06",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "front": false
+    },
+    "title": "It's My Beat",
+    "quality": "normal"
+  },
+  {
+    "release-group": {
+      "genres": [],
+      "id": "a674a2dd-fe2c-43da-941c-cc6b73017dd0",
+      "primary-type": null,
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": null,
+      "title": "Bass Jumpin' (Sweat) [Dusky Remix]",
+      "first-release-date": "2025-07-25",
+      "secondary-types": []
+    },
+    "disambiguation": "",
+    "id": "904dc808-b1d8-44f5-a716-8f64a54b69ba",
+    "date": "2025-07-25",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "764656402570",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2025-07-25",
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "type": null
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "artwork": false,
+      "front": false
+    },
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "title": "Bass Jumpin' (Sweat) [Dusky Remix] (Sweat)",
+            "recording": {
+              "video": false,
+              "disambiguation": "",
+              "id": "321d734d-67f1-4fbe-8fa3-00acdaff715a",
+              "length": 309722,
+              "genres": [],
+              "first-release-date": "2025-07-25",
+              "title": "Bass Jumpin' (Sweat) [Dusky Remix] (Sweat)"
+            },
+            "number": "1",
+            "id": "708cfa5c-36c1-4783-99b1-bb8ab2a725d9",
+            "position": 1,
+            "length": 309722
+          },
+          {
+            "number": "2",
+            "id": "dcce1ca5-990e-49fa-9dd4-396245c66df7",
+            "position": 2,
+            "length": 220150,
+            "title": "Bass Jumpin' (Sweat) (Sweat)",
+            "recording": {
+              "first-release-date": "2025-07-25",
+              "title": "Bass Jumpin' (Sweat) (Sweat)",
+              "video": false,
+              "disambiguation": "",
+              "id": "a39d3623-6235-4e9e-a8a5-dd8b96d1e949",
+              "length": 220150,
+              "genres": []
+            }
+          }
+        ],
+        "track-count": 2,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "9be54551-5368-44ad-8d9d-a7e602e3d4b3",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "quality": "normal",
+    "title": "Bass Jumpin' (Sweat) [Dusky Remix]"
+  },
+  {
+    "quality": "normal",
+    "title": "2025 Archive",
+    "cover-art-archive": {
+      "front": false,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "media": [
+      {
+        "tracks": [
+          {
+            "position": 1,
+            "length": 217578,
+            "id": "c0a2f80c-a118-4d9d-8ff0-a2cc378febe0",
+            "number": "1",
+            "recording": {
+              "length": 217578,
+              "id": "207e4186-e5c1-436e-9ebb-a338bda597c0",
+              "video": false,
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2025-12-29",
+              "title": "Find A Way"
+            },
+            "title": "Find A Way"
+          },
+          {
+            "recording": {
+              "genres": [],
+              "video": false,
+              "disambiguation": "",
+              "id": "a407e7a3-6de0-40c9-adbc-7b3ee693d44e",
+              "length": 184000,
+              "title": "EZE DOC",
+              "first-release-date": "2025-12-29"
+            },
+            "title": "EZE DOC",
+            "id": "cefe3813-5bb6-4c82-a8e4-4b2a73261609",
+            "position": 2,
+            "length": 184000,
+            "number": "2"
+          },
+          {
+            "recording": {
+              "length": 240000,
+              "id": "2f5297f0-3ff4-4e12-a6c8-f1fa3e6dd592",
+              "video": false,
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2025-12-29",
+              "title": "Going To London"
+            },
+            "title": "Going To London",
+            "position": 3,
+            "id": "f3f90e90-eed6-444d-bc20-8cb32502b891",
+            "length": 240000,
+            "number": "3"
+          },
+          {
+            "title": "Get Back",
+            "recording": {
+              "video": false,
+              "disambiguation": "",
+              "length": 172000,
+              "id": "6f576d95-ecc0-4685-b36c-279b15747080",
+              "genres": [],
+              "first-release-date": "2025-12-29",
+              "title": "Get Back"
+            },
+            "position": 4,
+            "length": 172000,
+            "id": "35a97fd4-2e18-4d97-b49b-c5eb2eebaf43",
+            "number": "4"
+          },
+          {
+            "recording": {
+              "genres": [],
+              "id": "17b74250-e79f-443c-8d59-24ca61576a52",
+              "length": 226772,
+              "disambiguation": "",
+              "video": false,
+              "title": "Back Again",
+              "first-release-date": "2025-12-29"
+            },
+            "title": "Back Again",
+            "position": 5,
+            "id": "2294ca9b-cf76-4321-bbbb-b9d7fdd81839",
+            "length": 226772,
+            "number": "5"
+          },
+          {
+            "length": 200889,
+            "position": 6,
+            "id": "8da0e3c9-731d-4b63-a8c6-a353d4e7915c",
+            "number": "6",
+            "title": "Who's Ready?",
+            "recording": {
+              "title": "Who's Ready?",
+              "first-release-date": "2025-12-29",
+              "genres": [],
+              "length": 200889,
+              "id": "ed5b4187-504f-4534-b76d-314863cf878d",
+              "disambiguation": "",
+              "video": false
+            }
+          },
+          {
+            "position": 7,
+            "id": "14443c35-4e74-493d-a0f3-b37433d74d55",
+            "length": 232836,
+            "number": "7",
+            "title": "The Awakening",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "a8d99cbf-e0de-4c0f-b6d2-6428d7b0acf5",
+              "length": 232836,
+              "genres": [],
+              "first-release-date": "2025-12-29",
+              "title": "The Awakening"
+            }
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 7,
+        "title": "",
+        "track-offset": 0,
+        "id": "47f0da35-028e-4db4-a41f-0429a757a3f1",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "type": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2025-12-29"
+      }
+    ],
+    "genres": [],
+    "asin": null,
+    "packaging": "None",
+    "country": "XW",
+    "barcode": "5056686414155",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2025-12-29",
+    "id": "ad868692-6cdf-4b0d-9cd2-f6c94912b404",
+    "disambiguation": "",
+    "release-group": {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "2025 Archive",
+      "first-release-date": "2025-12-29",
+      "secondary-types": [],
+      "genres": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "6fac97b7-3cac-4b5e-99ec-aacad0f3a948"
+    }
+  },
+  {
+    "disambiguation": "",
+    "id": "ae1819a8-e53b-40e5-99cb-e3451bd8303a",
+    "release-group": {
+      "title": "Pour the Milk (Joel Corry remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2020-04-03",
+      "secondary-types": [
+        "Remix"
+      ],
+      "genres": [],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "disambiguation": "",
+      "id": "787c2d41-c558-44ba-85d3-96e33bf276de",
+      "primary-type": "Single"
+    },
+    "barcode": "886448378013",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "date": "2020-04-03",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "release-events": [
+      {
+        "date": "2020-04-03",
+        "area": {
+          "type-id": null,
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "id": "47284e82-5613-40d9-802c-2375734bb831",
+        "track-offset": 0,
+        "title": "",
+        "track-count": 2,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "title": "Pour the Milk (Joel Corry remix)",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "disambiguation": "",
+              "id": "fdf5e61e-4485-4b84-b52b-0b5a768b3edc",
+              "length": 165714,
+              "title": "Pour the Milk (Joel Corry remix)",
+              "first-release-date": "2020-04-03"
+            },
+            "length": 165714,
+            "position": 1,
+            "id": "0716e519-fe90-410e-af0e-cf515f6df961",
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "length": 246356,
+            "id": "2be9dd41-c45b-41ab-a953-0fd07c9d37be",
+            "title": "Pour the Milk (Joel Corry remix) [extended mix]",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "video": false,
+              "id": "72e46026-277c-4c30-9155-b97955f7cd48",
+              "length": 246356,
+              "title": "Pour the Milk (Joel Corry remix) [extended mix]",
+              "first-release-date": "2020-04-03"
+            }
+          }
+        ]
+      }
+    ],
+    "quality": "normal",
+    "title": "Pour the Milk (Joel Corry remix)"
+  },
+  {
+    "date": "2023-12-07",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": "",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "release-group": {
+      "first-release-date": "2023-12-07",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "1v1",
+      "id": "0df7c7f6-3e56-448f-b2d0-43452954011b",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "genres": []
+    },
+    "disambiguation": "",
+    "id": "c3dbcade-5c6f-48a6-89a0-70dbeaf0b7f3",
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "media": [
+      {
+        "track-count": 2,
+        "title": "",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "position": 1,
+            "length": 345231,
+            "id": "24c55812-33ad-41d1-933c-bf183543a39e",
+            "number": "1",
+            "recording": {
+              "first-release-date": "2023-12-07",
+              "title": "1v1",
+              "id": "2f89a71e-492a-495a-9de0-83cc19923eae",
+              "length": 345231,
+              "video": false,
+              "disambiguation": "",
+              "genres": []
+            },
+            "title": "1v1"
+          },
+          {
+            "position": 2,
+            "id": "3cf319da-d931-4741-b350-79fe09a4cfec",
+            "length": 338438,
+            "number": "2",
+            "title": "Loose Control",
+            "recording": {
+              "title": "Loose Control",
+              "first-release-date": "2023-12-07",
+              "genres": [],
+              "disambiguation": "",
+              "video": false,
+              "id": "3b4bc81b-fddb-46cd-8b5c-5e1d0a3b9d8f",
+              "length": 338438
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "9e495073-3e27-3e5b-bb6d-dc55dfb825c3",
+        "position": 1
+      }
+    ],
+    "quality": "normal",
+    "title": "1v1",
+    "packaging": "None",
+    "genres": [],
+    "asin": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "type-id": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2023-12-07"
+      }
+    ],
+    "status": "Official"
+  },
+  {
+    "packaging-id": null,
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "2021-06-25",
+        "area": null
+      }
+    ],
+    "packaging": null,
+    "asin": null,
+    "genres": [],
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "02927d72-8c48-4b24-8f84-a25e67371e55",
+        "track-offset": 0,
+        "position": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 335000,
+            "position": 1,
+            "id": "14b7172a-dc1d-4684-85c0-1b000a4e6a80",
+            "title": "Moving Rhythms",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "video": false,
+              "id": "7830d51e-6a37-40e7-aab3-17c439c31f02",
+              "length": 335000,
+              "title": "Moving Rhythms",
+              "first-release-date": "2021-06-25"
+            }
+          },
+          {
+            "recording": {
+              "title": "Small Lane",
+              "first-release-date": "2021-06-25",
+              "genres": [],
+              "disambiguation": "",
+              "video": false,
+              "id": "b2b4f7fa-a837-47ce-a56a-17b285b8062d",
+              "length": 348000
+            },
+            "title": "Small Lane",
+            "number": "2",
+            "id": "e2285d0e-1d6d-4314-92d3-d650f34cb574",
+            "position": 2,
+            "length": 348000
+          },
+          {
+            "number": "3",
+            "position": 3,
+            "length": 352000,
+            "id": "4ab4b76e-9770-49cf-894e-fb63e5675b61",
+            "title": "I Do",
+            "recording": {
+              "title": "I Do",
+              "first-release-date": "2021-06-25",
+              "genres": [],
+              "disambiguation": "",
+              "video": false,
+              "length": 352000,
+              "id": "cdc0441c-6284-47b6-96e1-bc6b31f94fe5"
+            }
+          }
+        ],
+        "track-count": 3,
+        "title": ""
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "count": 0
+    },
+    "title": "Moving Rhythms",
+    "quality": "normal",
+    "disambiguation": "",
+    "id": "e1e90841-78b4-4e06-a598-cd1b2c2b0f77",
+    "release-group": {
+      "first-release-date": "2021-06-25",
+      "secondary-types": [],
+      "title": "Moving Rhythms",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "primary-type": "EP",
+      "id": "7c30985a-4d6d-482f-8bb8-3e9f8205fd7f",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "genres": []
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "country": null,
+    "date": "2021-06-25",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    }
+  },
+  {
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5060682612859",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2019-11-08",
+    "id": "e34f1af3-1dc7-4aab-bf8c-c37171e25cde",
+    "disambiguation": "",
+    "release-group": {
+      "genres": [],
+      "primary-type": "Single",
+      "id": "677e1148-e07b-45a3-b090-6aa57a68f510",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "title": "Pour The Milk",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [],
+      "first-release-date": "2019-11-08"
+    },
+    "title": "Pour The Milk",
+    "quality": "normal",
+    "media": [
+      {
+        "title": "",
+        "track-count": 1,
+        "tracks": [
+          {
+            "number": "1",
+            "id": "49062d36-72d6-41ad-aa58-6b85411b683d",
+            "position": 1,
+            "length": 334458,
+            "recording": {
+              "first-release-date": "2019-11-08",
+              "title": "Pour the Milk (extended mix)",
+              "id": "95cb6934-9353-45a0-9151-18a8a6f8948d",
+              "length": 334458,
+              "disambiguation": "",
+              "video": false,
+              "genres": []
+            },
+            "title": "Pour the Milk (extended mix)"
+          }
+        ],
+        "format": "Digital Media",
+        "track-offset": 0,
+        "id": "cdf18412-bcb2-3a4c-9f3b-37454dc02441",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]"
+        },
+        "date": "2019-11-08"
+      }
+    ],
+    "asin": null,
+    "genres": [
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "electro house",
+        "id": "05247982-e44f-4c58-96f8-a5453be69f5f"
+      }
+    ],
+    "packaging": "None"
+  },
+  {
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "type-id": null,
+          "type": null
+        },
+        "date": "2019-12-13"
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "genres": [],
+    "packaging": "None",
+    "title": "Pour the Milk (Sammy Porter remix)",
+    "quality": "normal",
+    "media": [
+      {
+        "title": "",
+        "track-count": 2,
+        "tracks": [
+          {
+            "title": "Pour the Milk (Sammy Porter remix)",
+            "recording": {
+              "first-release-date": "2019-12-13",
+              "title": "Pour the Milk (Sammy Porter remix)",
+              "length": 188571,
+              "id": "848a98dc-a987-4f64-8905-d08058add1dc",
+              "video": false,
+              "disambiguation": "",
+              "genres": []
+            },
+            "number": "1",
+            "position": 1,
+            "length": 188571,
+            "id": "aae371b8-b3d4-4e0d-b068-135fae6128ae"
+          },
+          {
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "video": false,
+              "id": "28433a31-29e8-41b5-8364-defc6e4dd280",
+              "length": 306667,
+              "title": "Pour the Milk (Sammy Porter remix) (extended mix)",
+              "first-release-date": "2019-12-13"
+            },
+            "title": "Pour the Milk (Sammy Porter remix) (extended mix)",
+            "number": "2",
+            "position": 2,
+            "id": "f0098839-c559-489e-9c53-efad1a833e52",
+            "length": 306667
+          }
+        ],
+        "format": "Digital Media",
+        "position": 1,
+        "id": "ca6b4b28-42d0-4cfd-ba5d-a5443b903f56",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false
+    },
+    "id": "e50bc768-d15c-4057-92a7-836f82096b9a",
+    "disambiguation": "",
+    "release-group": {
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "id": "69616004-915b-4d1e-a176-b8853c416722",
+      "primary-type": "Single",
+      "title": "Pour the Milk (Sammy Porter remix)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [
+        "Remix"
+      ],
+      "first-release-date": "2019-12-13"
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "886448298014",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "2019-12-13"
+  },
+  {
+    "release-group": {
+      "id": "20cf48e3-b5f7-4475-954b-3440153646f2",
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "first-release-date": "2023-01-27",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Let the Bass"
+    },
+    "id": "ed202006-b9bc-46ba-bda1-904c6d0b4691",
+    "disambiguation": "Bandcamp",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2023-01-27",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "asin": null,
+    "genres": [],
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type-id": null,
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]"
+        },
+        "date": "2023-01-27"
+      }
+    ],
+    "title": "Let the Bass",
+    "quality": "normal",
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 346047,
+            "position": 1,
+            "id": "61474754-0c15-42d0-8477-12104d212649",
+            "recording": {
+              "first-release-date": "2023-01-27",
+              "title": "Let the Bass",
+              "disambiguation": "",
+              "video": false,
+              "length": 346046,
+              "id": "64bb9f26-3ceb-44bd-849a-0d53c37a4b09",
+              "genres": []
+            },
+            "title": "Let the Bass"
+          }
+        ],
+        "title": "",
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "f33dbd9c-50f8-40d7-a522-62115cad98a2",
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "front": true,
+      "artwork": true
+    }
+  },
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2023-04-07",
+    "country": "GB",
+    "barcode": "",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-group": {
+      "id": "d9467927-e223-4bf1-a441-82f9e009843c",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "first-release-date": "2023-04-07",
+      "secondary-types": [],
+      "title": "Sick n' Tired",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+    },
+    "id": "f801238d-7956-4b35-a0d1-b5999083d6c0",
+    "disambiguation": "",
+    "quality": "normal",
+    "title": "Sick n' Tired",
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "media": [
+      {
+        "id": "9d0b2aa4-9758-3a71-a0be-6a6d029ca55b",
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "track-count": 4,
+        "title": "",
+        "tracks": [
+          {
+            "id": "8ba3469f-1547-4118-ad53-ea3cf6d025d1",
+            "position": 1,
+            "length": 359192,
+            "number": "A1",
+            "title": "Sick n’ Tired",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "video": false,
+              "id": "c5081de4-3a17-4a5b-863f-4bedcdb043e3",
+              "length": 359192,
+              "title": "Sick n’ Tired",
+              "first-release-date": "2023-04-07"
+            }
+          },
+          {
+            "recording": {
+              "genres": [],
+              "video": false,
+              "disambiguation": "",
+              "id": "91e50f94-b367-4b5b-b1f0-340adb020ee1",
+              "length": 361946,
+              "title": "Two Twenty",
+              "first-release-date": "2023-04-07"
+            },
+            "title": "Two Twenty",
+            "id": "a8f2466e-f060-420d-962e-02cdf0045d74",
+            "position": 2,
+            "length": 361946,
+            "number": "A2"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "3b22b29c-8939-4448-99aa-1cb8fbd05816",
+              "length": 220000,
+              "genres": [],
+              "first-release-date": "2023-04-07",
+              "title": "Dream Of Me"
+            },
+            "title": "Dream Of Me",
+            "id": "25d69d9c-cded-40c6-8545-c793e486dac5",
+            "position": 3,
+            "length": 220000,
+            "number": "B1"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "1d6f06a4-c12e-4349-844c-d8319cb9d0b4",
+              "length": 371600,
+              "genres": [],
+              "first-release-date": "2023-04-07",
+              "title": "Tantrum"
+            },
+            "title": "Tantrum",
+            "length": 371600,
+            "position": 4,
+            "id": "eb12d649-e045-4d58-921d-ef73d070f1db",
+            "number": "B2"
+          }
+        ],
+        "format": "12\" Vinyl"
+      }
+    ],
+    "genres": [],
+    "asin": null,
+    "packaging": "Cardboard/Paper Sleeve",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "type-id": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "name": "United Kingdom"
+        },
+        "date": "2023-04-07"
+      }
+    ]
+  },
+  {
+    "date": "2023-04-07",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "country": "XW",
+    "release-group": {
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "id": "d9467927-e223-4bf1-a441-82f9e009843c",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Sick n' Tired",
+      "secondary-types": [],
+      "first-release-date": "2023-04-07"
+    },
+    "disambiguation": "",
+    "id": "feb0928d-d46f-4969-b94c-8682411c8a34",
+    "media": [
+      {
+        "tracks": [
+          {
+            "position": 1,
+            "length": 359192,
+            "id": "a612064d-5b09-433e-ace4-5ba07db42ed5",
+            "number": "1",
+            "recording": {
+              "title": "Sick n’ Tired",
+              "first-release-date": "2023-04-07",
+              "genres": [],
+              "id": "c5081de4-3a17-4a5b-863f-4bedcdb043e3",
+              "length": 359192,
+              "video": false,
+              "disambiguation": ""
+            },
+            "title": "Sick n’ Tired"
+          },
+          {
+            "id": "e6b5bea1-a3d1-410b-add3-20d7465b1b52",
+            "position": 2,
+            "length": 361946,
+            "number": "2",
+            "title": "Two Twenty",
+            "recording": {
+              "title": "Two Twenty",
+              "first-release-date": "2023-04-07",
+              "genres": [],
+              "id": "91e50f94-b367-4b5b-b1f0-340adb020ee1",
+              "length": 361946,
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "position": 3,
+            "length": 220000,
+            "id": "a28ffe22-21d4-4efc-a321-9700841108ae",
+            "number": "3",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "length": 220000,
+              "id": "3b22b29c-8939-4448-99aa-1cb8fbd05816",
+              "genres": [],
+              "first-release-date": "2023-04-07",
+              "title": "Dream Of Me"
+            },
+            "title": "Dream Of Me"
+          },
+          {
+            "length": 371600,
+            "position": 4,
+            "id": "71cd385a-aa09-4fe6-9265-38af1c48b444",
+            "number": "4",
+            "title": "Tantrum",
+            "recording": {
+              "first-release-date": "2023-04-07",
+              "title": "Tantrum",
+              "video": false,
+              "disambiguation": "",
+              "id": "1d6f06a4-c12e-4349-844c-d8319cb9d0b4",
+              "length": 371600,
+              "genres": []
+            }
+          },
+          {
+            "id": "3bfe008b-83ee-4f05-b854-7b77595e1b3c",
+            "position": 5,
+            "length": 342120,
+            "number": "5",
+            "recording": {
+              "title": "Dream Of Me (Extended Mix)",
+              "first-release-date": "2023-04-07",
+              "genres": [],
+              "id": "5c00475e-954c-4acd-b516-2c513496d13d",
+              "length": 342120,
+              "video": false,
+              "disambiguation": ""
+            },
+            "title": "Dream Of Me (Extended Mix)"
+          }
+        ],
+        "format": "Digital Media",
+        "track-count": 5,
+        "title": "",
+        "id": "16f3befe-4ae0-35b7-b3f9-b8d2e44c3f9d",
+        "track-offset": 0,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "title": "Sick n' Tired",
+    "quality": "normal",
+    "packaging": "None",
+    "asin": null,
+    "genres": [],
+    "status": "Official",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2023-04-07",
+        "area": {
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "type-id": null
+        }
+      }
+    ]
+  }
+]

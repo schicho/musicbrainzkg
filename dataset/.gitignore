@@ -2,3 +2,5 @@
 !.gitignore
 !artists.json
 !genres.json
+!releases/
+!releases/*

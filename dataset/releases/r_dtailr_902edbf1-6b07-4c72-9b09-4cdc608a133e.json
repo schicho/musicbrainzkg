@@ -1,0 +1,100 @@
+[
+  {
+    "media": [
+      {
+        "id": "23522799-dca5-3f24-ab55-d312622daca5",
+        "track-offset": 0,
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 2,
+        "tracks": [
+          {
+            "recording": {
+              "video": false,
+              "disambiguation": "",
+              "title": "Hustle’s Revenge",
+              "id": "4397daaf-6c8c-4573-a274-52f9ccb91040",
+              "genres": [],
+              "first-release-date": "2023-01-19",
+              "length": 133333
+            },
+            "number": "1",
+            "id": "46d1c2f5-5fcf-490c-b209-c9daeda5bd6b",
+            "length": 133333,
+            "position": 1,
+            "title": "Hustle’s Revenge"
+          },
+          {
+            "recording": {
+              "length": 238095,
+              "title": "Hustle’s Revenge - Extendend Mix",
+              "id": "784fefea-09db-4da8-88ac-8b647e0b4deb",
+              "genres": [],
+              "first-release-date": "2023-01-19",
+              "video": false,
+              "disambiguation": ""
+            },
+            "length": 238095,
+            "id": "d518d706-a9e4-4efd-ae28-2b444fe3cdee",
+            "number": "2",
+            "position": 2,
+            "title": "Hustle’s Revenge - Extendend Mix"
+          }
+        ]
+      }
+    ],
+    "disambiguation": "",
+    "asin": null,
+    "id": "85355fe0-59b8-4c71-90bf-a20db6d3b657",
+    "quality": "normal",
+    "barcode": "795397517360",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2023-01-19",
+    "country": "XW",
+    "release-group": {
+      "secondary-types": [],
+      "title": "Hustle’s Revenge",
+      "first-release-date": "2023-01-19",
+      "id": "78762db6-c265-4ae8-acfd-386641288e40",
+      "genres": [],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "genres": [],
+    "status": "Official",
+    "packaging": "None",
+    "title": "Hustle’s Revenge",
+    "release-events": [
+      {
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2023-01-19"
+      }
+    ],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "artwork": false
+    }
+  }
+]

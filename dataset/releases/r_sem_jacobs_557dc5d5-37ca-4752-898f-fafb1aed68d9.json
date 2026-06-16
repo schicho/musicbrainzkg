@@ -1,0 +1,84 @@
+[
+  {
+    "date": "2024-05-16",
+    "genres": [],
+    "id": "512fd5b6-d771-4191-b1b1-e420f703c45d",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": ""
+        },
+        "date": "2024-05-16"
+      }
+    ],
+    "disambiguation": "",
+    "title": "Blue Berries",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-count": 1,
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Blue Berries",
+            "recording": {
+              "title": "Blue Berries",
+              "disambiguation": "",
+              "id": "96f0ec15-cb59-48d5-aa81-792d84dc9515",
+              "genres": [],
+              "length": 170008,
+              "video": false,
+              "first-release-date": "2024-05-16"
+            },
+            "id": "ee67e6a5-bcd2-49cf-9583-b9c80fc0e4c9",
+            "length": 170008,
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "1cbc7197-3f32-32c7-a9ed-72d053642ad3",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "first-release-date": "2024-05-16",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "disambiguation": "",
+      "id": "4740655f-6090-40eb-91a0-492d85729470",
+      "title": "Blue Berries",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "5054288143442",
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW"
+  }
+]

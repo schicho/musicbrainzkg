@@ -1,0 +1,2671 @@
+[
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "1996",
+    "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+    "barcode": "5013929410626",
+    "packaging": "Jewel Case",
+    "id": "02c008fd-d6be-4a7b-81cd-f11811c9fdef",
+    "disambiguation": "",
+    "country": "US",
+    "release-group": {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1996",
+      "title": "End of the World / No Way Out",
+      "genres": [
+        {
+          "name": "heavy metal",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "id": "eb652222-ca15-4a63-af16-e4a48212a931",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album"
+    },
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "name": "United States",
+          "disambiguation": "",
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States"
+        },
+        "date": "1996"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "format": "CD",
+        "tracks": [
+          {
+            "recording": {
+              "length": 229000,
+              "title": "Sweet Dream Maker",
+              "genres": [
+                {
+                  "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+                  "name": "heavy metal",
+                  "disambiguation": "",
+                  "count": 2
+                },
+                {
+                  "id": "cc28f5aa-5e19-487c-88e1-e56b022f1fdd",
+                  "count": 1,
+                  "name": "metal",
+                  "disambiguation": ""
+                },
+                {
+                  "name": "rock",
+                  "disambiguation": "",
+                  "count": 1,
+                  "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+                }
+              ],
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "id": "66eda939-14a9-4a8a-b28f-16b40f53e744",
+              "video": false
+            },
+            "position": 1,
+            "id": "7829d960-846c-436e-98f8-0fb1e55a6b8b",
+            "number": "1",
+            "title": "Sweet Dream Maker",
+            "length": 229000
+          },
+          {
+            "length": 376000,
+            "title": "Victim of the City",
+            "number": "2",
+            "id": "ad303d42-5e39-472e-a4b5-b81022ad43fd",
+            "position": 2,
+            "recording": {
+              "title": "Victim of the City",
+              "length": 376000,
+              "genres": [],
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "video": false,
+              "id": "cd98c14e-832e-4652-9440-257fa4f69704"
+            }
+          },
+          {
+            "length": 327000,
+            "title": "Despiser",
+            "number": "3",
+            "id": "b6aaa22a-f415-4e9f-8d17-7f060843c8f2",
+            "position": 3,
+            "recording": {
+              "genres": [],
+              "title": "Despiser",
+              "length": 327000,
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "id": "40405d56-1558-4d7b-a186-d0c0090630bc",
+              "video": false
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "1981",
+              "length": 268000,
+              "title": "Burning Alive",
+              "genres": [],
+              "id": "e2a32361-b24c-4d8d-8db7-5389ba0f4464",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "ccd0856d-d8c3-43f0-b7fb-1f07e4dbc838",
+            "position": 4,
+            "number": "4",
+            "title": "Burning Alive",
+            "length": 268000
+          },
+          {
+            "number": "5",
+            "length": 106000,
+            "title": "The Day Thou Gavest Lord Hath Ended",
+            "recording": {
+              "length": 106000,
+              "title": "The Day Thou Gavest Lord Hath Ended",
+              "genres": [],
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "video": false,
+              "id": "72cf86a5-1aa7-4dd4-838c-689bc693e345"
+            },
+            "id": "0dd91e14-61d1-4f9b-9780-1ae323c5131f",
+            "position": 5
+          },
+          {
+            "title": "End of the World",
+            "length": 212000,
+            "number": "6",
+            "id": "941d9f73-ce51-4f4c-b367-c6e8f66fb379",
+            "position": 6,
+            "recording": {
+              "disambiguation": "",
+              "id": "ac82a9db-5230-4b2d-b153-863ec91f85cc",
+              "video": false,
+              "genres": [],
+              "length": 212000,
+              "title": "End of the World",
+              "first-release-date": "1981"
+            }
+          },
+          {
+            "number": "7",
+            "title": "On My Way",
+            "length": 188000,
+            "recording": {
+              "video": false,
+              "id": "fe9bb779-5d3d-4583-8557-5ec3f42fc597",
+              "disambiguation": "",
+              "first-release-date": "1981",
+              "genres": [],
+              "length": 188000,
+              "title": "On My Way"
+            },
+            "id": "b5e65ee0-4cad-4732-88c8-e304bc4df5b6",
+            "position": 7
+          },
+          {
+            "number": "8",
+            "title": "Lonely Man",
+            "length": 281000,
+            "recording": {
+              "title": "Lonely Man",
+              "length": 281000,
+              "genres": [],
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "id": "54097620-de02-4235-9b85-c68cc0de2992",
+              "video": false
+            },
+            "id": "ff6abc2e-ad67-44d7-b4b9-cb73570fb705",
+            "position": 8
+          },
+          {
+            "title": "I'm No Fool",
+            "length": 203000,
+            "number": "9",
+            "id": "b20baec8-b6d8-430f-a3d2-00bd0492a14e",
+            "position": 9,
+            "recording": {
+              "first-release-date": "1981",
+              "title": "I’m No Fool",
+              "length": 203000,
+              "genres": [
+                {
+                  "name": "heavy metal",
+                  "disambiguation": "",
+                  "count": 2,
+                  "id": "a6719055-99c4-47eb-beaa-71081f2376f9"
+                },
+                {
+                  "id": "cc28f5aa-5e19-487c-88e1-e56b022f1fdd",
+                  "disambiguation": "",
+                  "name": "metal",
+                  "count": 1
+                },
+                {
+                  "name": "rock",
+                  "disambiguation": "",
+                  "count": 1,
+                  "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+                }
+              ],
+              "id": "cd106c0c-b3ea-4b5f-abcd-5020ca3acac5",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "10",
+            "title": "Handful of Reasons",
+            "length": 420000,
+            "recording": {
+              "id": "28862a01-b383-4a6e-88ff-c6d60cdd262a",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1981",
+              "length": 420000,
+              "title": "Handful of Reasons",
+              "genres": []
+            },
+            "id": "a94fc4b5-0b23-414d-ab24-7f12a9d3fbed",
+            "position": 10
+          },
+          {
+            "title": "Dirty Money",
+            "length": 220000,
+            "number": "11",
+            "id": "7a7905a9-e575-4b23-88fd-3a2dfe7d77fe",
+            "position": 11,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "ca0e9186-0faa-4694-a2d6-e6d3d94806c2",
+              "length": 220000,
+              "title": "Dirty Money",
+              "genres": [],
+              "first-release-date": "1982"
+            }
+          },
+          {
+            "title": "Free Man",
+            "length": 203000,
+            "number": "12",
+            "id": "b061663b-88db-48db-9e47-f8c973bb42c0",
+            "position": 12,
+            "recording": {
+              "video": false,
+              "id": "f4b73d67-5946-4848-af1d-3c00ba515d05",
+              "disambiguation": "",
+              "first-release-date": "1982",
+              "title": "Free Man",
+              "length": 203000,
+              "genres": []
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "1982",
+              "length": 186000,
+              "title": "Just Like a Movie Star",
+              "genres": [],
+              "video": false,
+              "id": "0a162def-58ba-461c-833b-46e3f838714d",
+              "disambiguation": ""
+            },
+            "position": 13,
+            "id": "5156f7c5-6edb-41e0-b760-9f5f8d1a183e",
+            "number": "13",
+            "title": "Just Like a Movie Star",
+            "length": 186000
+          },
+          {
+            "position": 14,
+            "id": "0dedbc7e-cf20-403b-907b-a544012b6571",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "b82ac946-70ea-438b-9617-f7b50f8a3df6",
+              "genres": [
+                {
+                  "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+                  "count": 1,
+                  "disambiguation": "",
+                  "name": "hard rock"
+                },
+                {
+                  "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+                  "count": 1,
+                  "name": "heavy metal",
+                  "disambiguation": ""
+                },
+                {
+                  "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                  "disambiguation": "",
+                  "name": "rock",
+                  "count": 1
+                }
+              ],
+              "length": 233000,
+              "title": "Say Your Last Word",
+              "first-release-date": "1982"
+            },
+            "title": "Say Your Last Word",
+            "length": 233000,
+            "number": "14"
+          },
+          {
+            "number": "15",
+            "length": 231000,
+            "title": "Broken Up",
+            "recording": {
+              "id": "932b31f9-cc73-4efd-a6e2-ec8dbbe0d186",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1982",
+              "title": "Broken Up",
+              "length": 231000,
+              "genres": []
+            },
+            "id": "437d2d6d-cc80-4aa2-8c80-2b26c60d6f2b",
+            "position": 15
+          },
+          {
+            "position": 16,
+            "id": "34d15ea5-7bd8-49d5-a8cf-8925f196158a",
+            "recording": {
+              "disambiguation": "",
+              "id": "c1965fd0-2a78-4d98-9a52-3ecd06285d55",
+              "video": false,
+              "genres": [],
+              "length": 222000,
+              "title": "Ready for Love",
+              "first-release-date": "1982"
+            },
+            "length": 222000,
+            "title": "Ready for Love",
+            "number": "16"
+          },
+          {
+            "recording": {
+              "genres": [],
+              "length": 265000,
+              "title": "Come Back to Me",
+              "first-release-date": "1982",
+              "disambiguation": "",
+              "video": false,
+              "id": "cbf0f381-6fd8-4d21-bde5-cf962965a65f"
+            },
+            "position": 17,
+            "id": "e87220a7-1e19-427e-ab69-41008f29ef99",
+            "number": "17",
+            "length": 265000,
+            "title": "Come Back to Me"
+          },
+          {
+            "number": "18",
+            "title": "High Crime Zone",
+            "length": 165000,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "c57ec333-11b5-4a2d-ab0c-8eaeb855d047",
+              "title": "High Crime Zone",
+              "length": 165000,
+              "genres": [],
+              "first-release-date": "1982"
+            },
+            "position": 18,
+            "id": "45012c22-57d4-4098-b69b-f74fa672edfe"
+          },
+          {
+            "recording": {
+              "id": "ca1cb586-6a45-42ad-8dca-c44b2ec016c1",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1982",
+              "genres": [],
+              "title": "Queen of Flames",
+              "length": 209000
+            },
+            "id": "95395fdf-8c44-4a0d-a8c0-b6f75f79cbd1",
+            "position": 19,
+            "number": "19",
+            "title": "Queen of Flames",
+            "length": 209000
+          },
+          {
+            "number": "20",
+            "length": 200000,
+            "title": "No Way Out",
+            "recording": {
+              "first-release-date": "1982",
+              "genres": [],
+              "title": "No Way Out",
+              "length": 200000,
+              "id": "a9912d4a-1073-488a-94f5-d792aef27b36",
+              "video": false,
+              "disambiguation": ""
+            },
+            "position": 20,
+            "id": "8b6a690c-b21a-4985-bcbb-ac9090945ddf"
+          }
+        ],
+        "id": "470f5c5b-b342-3eb2-9c1a-e94168745ab7",
+        "track-count": 20
+      }
+    ],
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "quality": "normal",
+    "title": "End of the World / No Way Out",
+    "asin": null,
+    "genres": []
+  },
+  {
+    "asin": null,
+    "genres": [],
+    "title": "No Way Out",
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "quality": "normal",
+    "status": null,
+    "media": [
+      {
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "position": 1,
+        "track-count": 15,
+        "format": "CD",
+        "tracks": [
+          {
+            "id": "98ee2bcc-d467-484c-9e5e-db2889011d0e",
+            "position": 1,
+            "recording": {
+              "length": 216240,
+              "title": "Dirty Money",
+              "genres": [],
+              "first-release-date": "2015-10-28",
+              "disambiguation": "",
+              "video": false,
+              "id": "13e501dd-b48b-4e1a-930e-9701ba3b6b93"
+            },
+            "title": "Dirty Money",
+            "length": 216240,
+            "number": "1"
+          },
+          {
+            "id": "4c0d4885-1e21-458f-9649-edf73981804f",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "f7513445-c574-43eb-b436-1e6c7ee55027",
+              "length": 204160,
+              "title": "Free Man",
+              "genres": [],
+              "first-release-date": "2015-10-28"
+            },
+            "title": "Free Man",
+            "length": 204160,
+            "number": "2"
+          },
+          {
+            "recording": {
+              "first-release-date": "2015-10-28",
+              "genres": [],
+              "title": "Just Like a Movie Star",
+              "length": 185587,
+              "id": "71740083-2412-4f59-8fed-0728f3f4a380",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "3c16538d-27b5-47f3-be65-cb2232c8f6f0",
+            "position": 3,
+            "number": "3",
+            "title": "Just Like a Movie Star",
+            "length": 185587
+          },
+          {
+            "number": "4",
+            "length": 231307,
+            "title": "Say Your Last Word",
+            "recording": {
+              "id": "b46abafb-d00d-40d6-9a7f-4f876835ac30",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "2015-10-28",
+              "genres": [],
+              "length": 231307,
+              "title": "Say Your Last Word"
+            },
+            "position": 4,
+            "id": "4524db44-6ba1-4752-b3f4-130ce55a842e"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "2f136449-f6f4-4aaa-839b-4ae2f72f99aa",
+              "genres": [],
+              "length": 231667,
+              "title": "Broken Up",
+              "first-release-date": "2015-10-28"
+            },
+            "position": 5,
+            "id": "4332f36a-cce3-42a2-b7f7-ecf63299deaf",
+            "number": "5",
+            "title": "Broken Up",
+            "length": 231667
+          },
+          {
+            "position": 6,
+            "id": "acaf5f41-7cf6-40e3-a7ca-a6d1b247c73f",
+            "recording": {
+              "length": 222732,
+              "title": "Ready for Love",
+              "genres": [],
+              "first-release-date": "2015-10-28",
+              "disambiguation": "",
+              "id": "b3a419ff-edf9-4555-a93d-2f15220ad1f0",
+              "video": false
+            },
+            "length": 222732,
+            "title": "Ready for Love",
+            "number": "6"
+          },
+          {
+            "number": "7",
+            "length": 267387,
+            "title": "Come Back to Me",
+            "recording": {
+              "length": 267387,
+              "title": "Come Back to Me",
+              "genres": [],
+              "first-release-date": "2015-10-28",
+              "disambiguation": "",
+              "id": "166b537e-ce14-4a84-af0a-06860fb760cd",
+              "video": false
+            },
+            "id": "630e0732-99b0-4a70-b8a3-0f51236a39aa",
+            "position": 7
+          },
+          {
+            "number": "8",
+            "title": "High Crime Zone",
+            "length": 164732,
+            "recording": {
+              "disambiguation": "",
+              "id": "45d1295f-7b18-415b-a58b-64d359c2b7c7",
+              "video": false,
+              "title": "High Crime Zone",
+              "length": 164732,
+              "genres": [],
+              "first-release-date": "2015-10-28"
+            },
+            "id": "8d27a6ce-9778-4d6f-83ff-0e7b2c783ec4",
+            "position": 8
+          },
+          {
+            "id": "423803bd-07c8-460d-8844-74dc60a17d72",
+            "position": 9,
+            "recording": {
+              "video": false,
+              "id": "64155396-99d0-4449-8c6b-d5ea0235dd35",
+              "disambiguation": "",
+              "first-release-date": "2015-10-28",
+              "genres": [],
+              "title": "Queen of Flames",
+              "length": 208093
+            },
+            "title": "Queen of Flames",
+            "length": 208093,
+            "number": "9"
+          },
+          {
+            "id": "7666a54b-7926-4e59-adee-0b31c1b23ad0",
+            "position": 10,
+            "recording": {
+              "first-release-date": "2015-10-28",
+              "length": 202573,
+              "title": "No Way Out",
+              "genres": [],
+              "video": false,
+              "id": "1cd1ed75-4e61-4d7d-b053-a86c938b3d08",
+              "disambiguation": ""
+            },
+            "title": "No Way Out",
+            "length": 202573,
+            "number": "10"
+          },
+          {
+            "length": 218560,
+            "title": "Mony, Mony (single)",
+            "number": "11",
+            "id": "a26334db-8734-4dba-8b2a-a2fcd95f81b8",
+            "position": 11,
+            "recording": {
+              "first-release-date": "2015-10-28",
+              "genres": [],
+              "title": "Mony, Mony (single)",
+              "length": 218560,
+              "video": false,
+              "id": "9e5e1932-41b1-4081-84fd-ea0d1983b64f",
+              "disambiguation": ""
+            }
+          },
+          {
+            "position": 12,
+            "id": "aa2e45b3-b15a-4df5-8833-e21738f95f96",
+            "recording": {
+              "id": "c0eeb7f5-091d-428e-a4da-b1c47ff512dd",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "2015-10-28",
+              "genres": [],
+              "title": "Lay Me Easy (Pre No Way Out demo)",
+              "length": 313826
+            },
+            "title": "Lay Me Easy (Pre No Way Out demo)",
+            "length": 313826,
+            "number": "12"
+          },
+          {
+            "position": 13,
+            "id": "1d957ddc-5034-46ff-a18f-a8b96a0e801e",
+            "recording": {
+              "id": "1bdfa809-20a2-4b70-86e4-301864985180",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "2015-10-28",
+              "title": "Come Back to Me (Pre No Way Out demo)",
+              "length": 221946,
+              "genres": []
+            },
+            "length": 221946,
+            "title": "Come Back to Me (Pre No Way Out demo)",
+            "number": "13"
+          },
+          {
+            "position": 14,
+            "id": "e8a75cb7-37b2-40da-87f2-3ba0c3659c4a",
+            "recording": {
+              "disambiguation": "",
+              "id": "a5f4e66e-7701-41f3-a3dd-f381ef519295",
+              "video": false,
+              "genres": [],
+              "title": "Maybe It’s Goodnight (Pre No Way Out demo)",
+              "length": 226347,
+              "first-release-date": "2015-10-28"
+            },
+            "length": 226347,
+            "title": "Maybe It’s Goodnight (Pre No Way Out demo)",
+            "number": "14"
+          },
+          {
+            "length": 181013,
+            "title": "Bad Reputation (Pre No Way Out demo)",
+            "number": "15",
+            "position": 15,
+            "id": "d47ef610-5ce9-4e87-b36f-528fd00c418f",
+            "recording": {
+              "length": 181013,
+              "title": "Bad Reputation (Pre No Way Out demo)",
+              "genres": [],
+              "first-release-date": "2015-10-28",
+              "disambiguation": "",
+              "video": false,
+              "id": "18d9a2a6-48ac-40a8-a918-2b48d0970690"
+            }
+          }
+        ],
+        "id": "50e261f9-9b77-4da4-909e-d5f3cf530ee8"
+      }
+    ],
+    "release-group": {
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "id": "7ab58725-71c0-36f3-b57b-fa2f675e27dd",
+      "title": "No Way Out",
+      "genres": [
+        {
+          "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+          "name": "hard rock",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "heavy metal",
+          "disambiguation": "",
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock"
+        }
+      ],
+      "first-release-date": "1982",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    "release-events": [
+      {
+        "date": "2015-10-28",
+        "area": null
+      }
+    ],
+    "status-id": null,
+    "disambiguation": "",
+    "country": null,
+    "packaging": null,
+    "id": "09172b1a-ff1b-424f-8ec9-3ce5dc385b5d",
+    "packaging-id": null,
+    "barcode": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "date": "2015-10-28"
+  },
+  {
+    "cover-art-archive": {
+      "darkened": false,
+      "front": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "22fc87c7-f77e-3411-b66b-357845967f13",
+            "recording": {
+              "disambiguation": "",
+              "id": "ca0e9186-0faa-4694-a2d6-e6d3d94806c2",
+              "video": false,
+              "genres": [],
+              "length": 220000,
+              "title": "Dirty Money",
+              "first-release-date": "1982"
+            },
+            "length": 220000,
+            "title": "Dirty Money",
+            "number": "A1"
+          },
+          {
+            "number": "A2",
+            "length": 203000,
+            "title": "Free Man",
+            "recording": {
+              "genres": [],
+              "length": 203000,
+              "title": "Free Man",
+              "first-release-date": "1982",
+              "disambiguation": "",
+              "id": "f4b73d67-5946-4848-af1d-3c00ba515d05",
+              "video": false
+            },
+            "position": 2,
+            "id": "8ac53c54-6c5a-3fba-9a37-6bb06552a110"
+          },
+          {
+            "position": 3,
+            "id": "de83e16d-6b98-3381-ba1c-a094804a440d",
+            "recording": {
+              "first-release-date": "1982",
+              "length": 186000,
+              "title": "Just Like a Movie Star",
+              "genres": [],
+              "id": "0a162def-58ba-461c-833b-46e3f838714d",
+              "video": false,
+              "disambiguation": ""
+            },
+            "title": "Just Like a Movie Star",
+            "length": 186000,
+            "number": "A3"
+          },
+          {
+            "recording": {
+              "title": "Say Your Last Word",
+              "length": 233000,
+              "genres": [
+                {
+                  "count": 1,
+                  "name": "hard rock",
+                  "disambiguation": "",
+                  "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab"
+                },
+                {
+                  "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+                  "name": "heavy metal",
+                  "disambiguation": "",
+                  "count": 1
+                },
+                {
+                  "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                  "name": "rock",
+                  "disambiguation": "",
+                  "count": 1
+                }
+              ],
+              "first-release-date": "1982",
+              "disambiguation": "",
+              "id": "b82ac946-70ea-438b-9617-f7b50f8a3df6",
+              "video": false
+            },
+            "position": 4,
+            "id": "43d0f381-e57e-370d-8315-5d6892bbbf71",
+            "number": "A4",
+            "length": 233000,
+            "title": "Say Your Last Word"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "932b31f9-cc73-4efd-a6e2-ec8dbbe0d186",
+              "disambiguation": "",
+              "first-release-date": "1982",
+              "title": "Broken Up",
+              "length": 231000,
+              "genres": []
+            },
+            "id": "44a48783-6271-397f-8091-52a317385b03",
+            "position": 5,
+            "number": "A5",
+            "title": "Broken Up",
+            "length": 231000
+          },
+          {
+            "title": "Ready for Love",
+            "length": 222000,
+            "number": "B1",
+            "position": 6,
+            "id": "24f355fe-979f-3e1d-a732-0b4b22bdd53d",
+            "recording": {
+              "genres": [],
+              "length": 222000,
+              "title": "Ready for Love",
+              "first-release-date": "1982",
+              "disambiguation": "",
+              "video": false,
+              "id": "c1965fd0-2a78-4d98-9a52-3ecd06285d55"
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "1982",
+              "title": "Come Back to Me",
+              "length": 265000,
+              "genres": [],
+              "id": "cbf0f381-6fd8-4d21-bde5-cf962965a65f",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "970e077c-65ef-3d23-afba-fe745cc6ad71",
+            "position": 7,
+            "number": "B2",
+            "title": "Come Back to Me",
+            "length": 265000
+          },
+          {
+            "id": "3eab1409-eef5-38de-ae3e-0a91eda88055",
+            "position": 8,
+            "recording": {
+              "disambiguation": "",
+              "id": "c57ec333-11b5-4a2d-ab0c-8eaeb855d047",
+              "video": false,
+              "genres": [],
+              "title": "High Crime Zone",
+              "length": 165000,
+              "first-release-date": "1982"
+            },
+            "title": "High Crime Zone",
+            "length": 165000,
+            "number": "B3"
+          },
+          {
+            "length": 209000,
+            "title": "Queen of Flames",
+            "number": "B4",
+            "position": 9,
+            "id": "423f01c5-07d1-3c63-aa80-8d7edc5fbddd",
+            "recording": {
+              "first-release-date": "1982",
+              "genres": [],
+              "length": 209000,
+              "title": "Queen of Flames",
+              "id": "ca1cb586-6a45-42ad-8dca-c44b2ec016c1",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "recording": {
+              "title": "No Way Out",
+              "length": 200000,
+              "genres": [],
+              "first-release-date": "1982",
+              "disambiguation": "",
+              "video": false,
+              "id": "a9912d4a-1073-488a-94f5-d792aef27b36"
+            },
+            "position": 10,
+            "id": "626fc2f6-e7ec-351a-bb63-7073ebcfadb0",
+            "number": "B5",
+            "length": 200000,
+            "title": "No Way Out"
+          }
+        ],
+        "format": "12\" Vinyl",
+        "id": "ed2fb368-ff08-395a-b0f7-1a93d63aad4f",
+        "track-count": 10
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "No Way Out",
+    "packaging": "Cardboard/Paper Sleeve",
+    "id": "09d2c5b5-87f9-460f-ae54-4fca1ca0fb1b",
+    "release-events": [
+      {
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type": null
+        },
+        "date": "1982"
+      }
+    ],
+    "release-group": {
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "hard rock",
+          "count": 1,
+          "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab"
+        },
+        {
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+          "count": 1,
+          "disambiguation": "",
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "rock",
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "title": "No Way Out",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1982",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "id": "7ab58725-71c0-36f3-b57b-fa2f675e27dd"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "GB",
+    "disambiguation": "",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "barcode": "",
+    "date": "1982",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    }
+  },
+  {
+    "packaging-id": null,
+    "barcode": "0751320574350",
+    "date": "2017",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "title": "No Way Out",
+    "asin": null,
+    "genres": [],
+    "status": null,
+    "media": [
+      {
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0,
+        "position": 1,
+        "track-count": 16,
+        "id": "228b6498-111d-48d5-8e13-0af236d61be5",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "5240681c-bd31-4fb1-97d7-93dd39605c2d",
+            "recording": {
+              "video": false,
+              "id": "1434f57e-771f-46f9-9d9b-fa01d2f28a7b",
+              "disambiguation": "",
+              "first-release-date": "2017",
+              "genres": [],
+              "length": null,
+              "title": "Dirty Money"
+            },
+            "length": null,
+            "title": "Dirty Money",
+            "number": "1"
+          },
+          {
+            "length": null,
+            "title": "Free Man",
+            "number": "2",
+            "id": "35962e26-a358-4c04-a097-efeec1902b81",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "id": "217d545b-a776-40df-b9fa-db6d4da8a769",
+              "video": false,
+              "title": "Free Man",
+              "length": null,
+              "genres": [],
+              "first-release-date": "2017"
+            }
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "aecc2bb5-052b-4a40-b650-fc331a3cffa9",
+              "disambiguation": "",
+              "first-release-date": "2017",
+              "title": "Just Like a Movie Star",
+              "length": null,
+              "genres": []
+            },
+            "position": 3,
+            "id": "e99071d7-1add-4e6c-8447-99ad22036f1f",
+            "number": "3",
+            "title": "Just Like a Movie Star",
+            "length": null
+          },
+          {
+            "position": 4,
+            "id": "6f74ee84-8b61-49a0-b7d8-bd459003a8e5",
+            "recording": {
+              "title": "Say Your Last Word",
+              "length": null,
+              "genres": [],
+              "first-release-date": "2017",
+              "disambiguation": "",
+              "video": false,
+              "id": "6cfd1889-6744-4797-b4dc-1300c2171713"
+            },
+            "title": "Say Your Last Word",
+            "length": null,
+            "number": "4"
+          },
+          {
+            "id": "88fdf25b-7cc2-4269-996a-def380873d35",
+            "position": 5,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "a89ea0a6-3efa-4986-9188-b14657c15ca3",
+              "genres": [],
+              "length": null,
+              "title": "Broken Up",
+              "first-release-date": "2017"
+            },
+            "title": "Broken Up",
+            "length": null,
+            "number": "5"
+          },
+          {
+            "number": "6",
+            "title": "Ready for Love",
+            "length": null,
+            "recording": {
+              "genres": [],
+              "title": "Ready for Love",
+              "length": null,
+              "first-release-date": "2017",
+              "disambiguation": "",
+              "video": false,
+              "id": "bfd42e92-bfbb-49e3-b360-734b6ca32457"
+            },
+            "id": "a08b4539-0c2b-48e1-a665-3545e84f4213",
+            "position": 6
+          },
+          {
+            "id": "d185cc0c-420f-4223-bc47-c28c738e0d76",
+            "position": 7,
+            "recording": {
+              "first-release-date": "2017",
+              "title": "Come Back to Me",
+              "length": null,
+              "genres": [],
+              "id": "3d355b91-f33a-48c3-903d-19e419bf8df6",
+              "video": false,
+              "disambiguation": ""
+            },
+            "length": null,
+            "title": "Come Back to Me",
+            "number": "7"
+          },
+          {
+            "position": 8,
+            "id": "746b1c2d-3db7-4843-9ce6-f310a09f0d24",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "8be98f2d-3d64-4a85-9456-a2f1a2f869eb",
+              "genres": [],
+              "title": "High Crime Zone",
+              "length": null,
+              "first-release-date": "2017"
+            },
+            "title": "High Crime Zone",
+            "length": null,
+            "number": "8"
+          },
+          {
+            "title": "Queen of Flames",
+            "length": null,
+            "number": "9",
+            "position": 9,
+            "id": "b0e0b2b5-1783-406a-a7e7-4020a68dabb4",
+            "recording": {
+              "length": null,
+              "title": "Queen of Flames",
+              "genres": [],
+              "first-release-date": "2017",
+              "disambiguation": "",
+              "id": "5230ba58-aa33-4ee6-b74f-1c1f2a188be0",
+              "video": false
+            }
+          },
+          {
+            "number": "10",
+            "title": "No Way Out",
+            "length": null,
+            "recording": {
+              "first-release-date": "2017",
+              "genres": [],
+              "length": null,
+              "title": "No Way Out",
+              "video": false,
+              "id": "ee20acd7-1703-419a-82ec-561dd0f18461",
+              "disambiguation": ""
+            },
+            "position": 10,
+            "id": "a1cd37a2-05bc-4ced-bb22-2e80c034ea0d"
+          },
+          {
+            "length": null,
+            "title": "Mony Mony (single version 1982 \"A\" Side)",
+            "number": "11",
+            "position": 11,
+            "id": "c2a1ab82-91b6-4e21-baf6-083396f7bf6f",
+            "recording": {
+              "first-release-date": "2017",
+              "length": null,
+              "title": "Mony Mony (single version 1982 \"A\" Side)",
+              "genres": [],
+              "video": false,
+              "id": "b269d5bd-967e-4f45-825b-b7eb3dda636f",
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "12",
+            "length": null,
+            "title": "Maybe It's Goodnight (Pre NWO demo session)",
+            "recording": {
+              "disambiguation": "",
+              "id": "d31dbe8f-7bef-4d56-a472-0ab5479c81c5",
+              "video": false,
+              "genres": [],
+              "title": "Maybe It's Goodnight (Pre NWO demo session)",
+              "length": null,
+              "first-release-date": "2017"
+            },
+            "position": 12,
+            "id": "9358e37d-7f9e-45cc-8201-9684f8dd3709"
+          },
+          {
+            "length": null,
+            "title": "Bad Reputation (Pre NWO demo session)",
+            "number": "13",
+            "position": 13,
+            "id": "1b571cda-0134-4747-8b44-9d74dbe4e4f9",
+            "recording": {
+              "first-release-date": "2017",
+              "length": null,
+              "title": "Bad Reputation (Pre NWO demo session)",
+              "genres": [],
+              "id": "120d5670-e04a-461a-a4a2-49c0b67edb48",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "id": "799c55c5-d48a-4db3-b593-98dc91c94978",
+            "position": 14,
+            "recording": {
+              "disambiguation": "",
+              "id": "1a70df34-81d2-4f1b-ba78-646d8d8b542b",
+              "video": false,
+              "length": null,
+              "title": "Lay Me Easy (Pre NWO demo session)",
+              "genres": [],
+              "first-release-date": "2017"
+            },
+            "length": null,
+            "title": "Lay Me Easy (Pre NWO demo session)",
+            "number": "14"
+          },
+          {
+            "title": "Come Back to Me (Pre NWO demo session)",
+            "length": null,
+            "number": "15",
+            "position": 15,
+            "id": "894a0122-fe6b-47cd-8fea-dd9604cbbd64",
+            "recording": {
+              "disambiguation": "",
+              "id": "28577385-0691-4833-87e1-8aa6874d0f0f",
+              "video": false,
+              "length": null,
+              "title": "Come Back to Me (Pre NWO demo session)",
+              "genres": [],
+              "first-release-date": "2017"
+            }
+          },
+          {
+            "title": "That's What Friends Are For (Out take From \"Edge of Madness)",
+            "length": null,
+            "number": "16",
+            "id": "f9b0191f-ea19-4d36-acfd-c2fdf610cca3",
+            "position": 16,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "625d68e1-096b-4766-9384-28d8b35a053f",
+              "genres": [],
+              "length": null,
+              "title": "That's What Friends Are For (Out take From \"Edge of Madness)",
+              "first-release-date": "2017"
+            }
+          }
+        ],
+        "format": "CD"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "front": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "quality": "normal",
+    "disambiguation": "",
+    "country": "BR",
+    "release-events": [
+      {
+        "date": "2017",
+        "area": {
+          "disambiguation": "",
+          "name": "Brazil",
+          "type": null,
+          "iso-3166-1-codes": [
+            "BR"
+          ],
+          "type-id": null,
+          "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+          "sort-name": "Brazil"
+        }
+      }
+    ],
+    "release-group": {
+      "first-release-date": "1982",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [
+        {
+          "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+          "count": 1,
+          "name": "hard rock",
+          "disambiguation": ""
+        },
+        {
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+          "count": 1,
+          "name": "heavy metal",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "title": "No Way Out",
+      "id": "7ab58725-71c0-36f3-b57b-fa2f675e27dd",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": []
+    },
+    "status-id": null,
+    "packaging": null,
+    "id": "11a4b6ca-635a-4b9c-aa6d-b0f84fa5d2ad"
+  },
+  {
+    "release-events": [
+      {
+        "date": "2015-10-28",
+        "area": {
+          "iso-3166-1-codes": [
+            "JP"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "name": "Japan",
+          "type": null,
+          "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+          "sort-name": "Japan"
+        }
+      }
+    ],
+    "release-group": {
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "id": "b9ed0fbb-0e9e-3f4e-9067-7bf82da20114",
+      "title": "End of the World",
+      "genres": [
+        {
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+          "count": 1,
+          "disambiguation": "",
+          "name": "heavy metal"
+        },
+        {
+          "id": "5c7785e6-a0b4-4441-a1e6-4fd4c0066a5f",
+          "disambiguation": "",
+          "name": "progressive metal",
+          "count": 1
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1981"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "JP",
+    "packaging": "Cardboard/Paper Sleeve",
+    "id": "1c5e2093-be88-4e75-b10b-a3b5b3c9318b",
+    "asin": null,
+    "genres": [],
+    "title": "End of the World",
+    "cover-art-archive": {
+      "darkened": false,
+      "front": true,
+      "back": true,
+      "artwork": true,
+      "count": 15
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "track-count": 16,
+        "tracks": [
+          {
+            "position": 1,
+            "id": "613e139a-02dc-4be3-94a1-0043c62f812b",
+            "recording": {
+              "disambiguation": "",
+              "id": "66eda939-14a9-4a8a-b28f-16b40f53e744",
+              "video": false,
+              "genres": [
+                {
+                  "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+                  "count": 2,
+                  "disambiguation": "",
+                  "name": "heavy metal"
+                },
+                {
+                  "id": "cc28f5aa-5e19-487c-88e1-e56b022f1fdd",
+                  "count": 1,
+                  "disambiguation": "",
+                  "name": "metal"
+                },
+                {
+                  "count": 1,
+                  "disambiguation": "",
+                  "name": "rock",
+                  "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+                }
+              ],
+              "title": "Sweet Dream Maker",
+              "length": 229000,
+              "first-release-date": "1981"
+            },
+            "length": 229000,
+            "title": "Sweet Dream Maker",
+            "number": "1"
+          },
+          {
+            "id": "5bc3872a-34b1-4fd3-abe3-17b07817bef5",
+            "position": 2,
+            "recording": {
+              "first-release-date": "1981",
+              "length": 376000,
+              "title": "Victim of the City",
+              "genres": [],
+              "id": "cd98c14e-832e-4652-9440-257fa4f69704",
+              "video": false,
+              "disambiguation": ""
+            },
+            "title": "Victim of the City",
+            "length": 376000,
+            "number": "2"
+          },
+          {
+            "id": "4df463a9-227e-48c2-a149-a635f0e61c5e",
+            "position": 3,
+            "recording": {
+              "first-release-date": "1981",
+              "genres": [],
+              "length": 327000,
+              "title": "Despiser",
+              "video": false,
+              "id": "40405d56-1558-4d7b-a186-d0c0090630bc",
+              "disambiguation": ""
+            },
+            "title": "Despiser",
+            "length": 327000,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "title": "Burning Alive",
+            "length": 268000,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "e2a32361-b24c-4d8d-8db7-5389ba0f4464",
+              "title": "Burning Alive",
+              "length": 268000,
+              "genres": [],
+              "first-release-date": "1981"
+            },
+            "id": "03dfa423-aa6f-46f3-b7fb-84ba531aa16d",
+            "position": 4
+          },
+          {
+            "recording": {
+              "first-release-date": "1981",
+              "length": 106000,
+              "title": "The Day Thou Gavest Lord Hath Ended",
+              "genres": [],
+              "video": false,
+              "id": "72cf86a5-1aa7-4dd4-838c-689bc693e345",
+              "disambiguation": ""
+            },
+            "position": 5,
+            "id": "6a75db04-9cda-4b2b-a962-1cbe84bf273d",
+            "number": "5",
+            "length": 106000,
+            "title": "The Day Thou Gavest Lord Hath Ended"
+          },
+          {
+            "position": 6,
+            "id": "64a98e5d-544e-4efb-8293-66872d85b15b",
+            "recording": {
+              "title": "End of the World",
+              "length": 212000,
+              "genres": [],
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "video": false,
+              "id": "ac82a9db-5230-4b2d-b153-863ec91f85cc"
+            },
+            "title": "End of the World",
+            "length": 212000,
+            "number": "6"
+          },
+          {
+            "length": 188000,
+            "title": "On My Way",
+            "number": "7",
+            "id": "62aa1a65-103f-42be-bc20-f4fdbd6679c6",
+            "position": 7,
+            "recording": {
+              "genres": [],
+              "title": "On My Way",
+              "length": 188000,
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "video": false,
+              "id": "fe9bb779-5d3d-4583-8557-5ec3f42fc597"
+            }
+          },
+          {
+            "length": 281000,
+            "title": "Lonely Man",
+            "number": "8",
+            "position": 8,
+            "id": "134445f4-31d1-40cc-9327-80c70c4e09f6",
+            "recording": {
+              "genres": [],
+              "length": 281000,
+              "title": "Lonely Man",
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "video": false,
+              "id": "54097620-de02-4235-9b85-c68cc0de2992"
+            }
+          },
+          {
+            "id": "87bfec2d-a60a-4707-9234-ad13403aac21",
+            "position": 9,
+            "recording": {
+              "disambiguation": "",
+              "id": "cd106c0c-b3ea-4b5f-abcd-5020ca3acac5",
+              "video": false,
+              "genres": [
+                {
+                  "count": 2,
+                  "disambiguation": "",
+                  "name": "heavy metal",
+                  "id": "a6719055-99c4-47eb-beaa-71081f2376f9"
+                },
+                {
+                  "id": "cc28f5aa-5e19-487c-88e1-e56b022f1fdd",
+                  "name": "metal",
+                  "disambiguation": "",
+                  "count": 1
+                },
+                {
+                  "name": "rock",
+                  "disambiguation": "",
+                  "count": 1,
+                  "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+                }
+              ],
+              "length": 203000,
+              "title": "I’m No Fool",
+              "first-release-date": "1981"
+            },
+            "length": 203000,
+            "title": "I'm No Fool",
+            "number": "9"
+          },
+          {
+            "number": "10",
+            "title": "Handful of Reasons",
+            "length": 420000,
+            "recording": {
+              "id": "28862a01-b383-4a6e-88ff-c6d60cdd262a",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1981",
+              "genres": [],
+              "title": "Handful of Reasons",
+              "length": 420000
+            },
+            "position": 10,
+            "id": "715f5bce-670b-4b6c-8a0e-e2e2adce3156"
+          },
+          {
+            "length": 219000,
+            "title": "I'm No Fool (single version)",
+            "number": "11",
+            "id": "43e81ba6-4d7e-41e8-ba54-8ee5bac3b44b",
+            "position": 11,
+            "recording": {
+              "genres": [],
+              "length": 219000,
+              "title": "I'm No Fool (single version)",
+              "first-release-date": "2015-10-28",
+              "disambiguation": "",
+              "video": false,
+              "id": "14bb98d8-9274-4e74-a349-acd69a015484"
+            }
+          },
+          {
+            "position": 12,
+            "id": "2452f868-1927-4e9d-a783-7849e2681275",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "b6f1a55d-7325-4047-b47e-cc18b2e21543",
+              "genres": [],
+              "title": "Sweet Dream Maker (single version)",
+              "length": 295000,
+              "first-release-date": "2015-10-28"
+            },
+            "title": "Sweet Dream Maker (single version)",
+            "length": 295000,
+            "number": "12"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "749fcd6f-410c-4a3c-9b69-4f735e87caeb",
+              "disambiguation": "",
+              "first-release-date": "2015-10-28",
+              "genres": [],
+              "length": 302000,
+              "title": "Despiser (demo)"
+            },
+            "id": "6c003b82-4ad4-44e5-8496-deae67260a50",
+            "position": 13,
+            "number": "13",
+            "length": 302000,
+            "title": "Despiser (demo)"
+          },
+          {
+            "number": "14",
+            "title": "End of the World (demo)",
+            "length": 209000,
+            "recording": {
+              "video": false,
+              "id": "76d4b4b1-0341-4712-af07-bcca760ea3e5",
+              "disambiguation": "",
+              "first-release-date": "2015-10-28",
+              "genres": [],
+              "title": "End of the World (demo)",
+              "length": 209000
+            },
+            "position": 14,
+            "id": "a05bb68a-0c72-449f-9474-765f64a06a59"
+          },
+          {
+            "number": "15",
+            "length": 223000,
+            "title": "Broken Up (original first recording)",
+            "recording": {
+              "first-release-date": "2015-10-28",
+              "genres": [],
+              "title": "Broken Up (original first recording)",
+              "length": 223000,
+              "video": false,
+              "id": "d0e94be9-2601-4e40-843f-e18f031b8ed1",
+              "disambiguation": ""
+            },
+            "id": "1193a842-e7bf-47b9-b609-85f2bf7b0218",
+            "position": 15
+          },
+          {
+            "title": "Dont Worry About A Thing (original first recording)",
+            "length": 287000,
+            "number": "16",
+            "position": 16,
+            "id": "f4ce382c-8d78-4447-87ff-dc63952d9128",
+            "recording": {
+              "genres": [],
+              "length": 287000,
+              "title": "Dont Worry About A Thing (original first recording)",
+              "first-release-date": "2015-10-28",
+              "disambiguation": "",
+              "video": false,
+              "id": "6691d747-4da3-43a4-9819-3e72b6344cf5"
+            }
+          }
+        ],
+        "format": "SHM-CD",
+        "id": "9a5abb53-2b5a-4e4a-89bd-37058b8e731d",
+        "track-offset": 0,
+        "format-id": "4856b1c6-674d-3f68-a1dd-8ae517e8b566",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "date": "2015-10-28",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "barcode": "4560329805176"
+  },
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2012",
+    "packaging-id": null,
+    "barcode": null,
+    "id": "2b89bf17-0d6b-4f85-86b3-373bc57b4006",
+    "packaging": null,
+    "country": "DE",
+    "disambiguation": "",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "Germany",
+          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "DE"
+          ],
+          "type": null,
+          "disambiguation": "",
+          "name": "Germany"
+        },
+        "date": "2012"
+      }
+    ],
+    "release-group": {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2012",
+      "title": "Edge of Madness",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "hard rock",
+          "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab"
+        },
+        {
+          "disambiguation": "",
+          "name": "heavy metal",
+          "count": 1,
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9"
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "name": "rock",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "id": "ccf5a56c-b5f3-4918-8ba7-635f8eb5b169",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Album"
+    },
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "tracks": [
+          {
+            "number": "A1",
+            "length": 81000,
+            "title": "Just Before Dawn",
+            "recording": {
+              "first-release-date": "2012",
+              "length": 81000,
+              "title": "Just Before Dawn",
+              "genres": [],
+              "video": false,
+              "id": "2d8727db-392f-4f62-8b91-b3f0659852d6",
+              "disambiguation": ""
+            },
+            "id": "8ae01d44-f1b5-4b62-a0cc-ed312c35a0e4",
+            "position": 1
+          },
+          {
+            "number": "A2",
+            "title": "Damnation",
+            "length": 276000,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "607d4c61-6f22-4406-8417-f6c0e1b244c4",
+              "genres": [],
+              "title": "Damnation",
+              "length": 276000,
+              "first-release-date": "2012"
+            },
+            "id": "758bc3d5-6216-41af-95b9-9dadda06fd06",
+            "position": 2
+          },
+          {
+            "number": "A3",
+            "title": "Heart Like Thunder",
+            "length": 269000,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "2e8e8e84-d306-491c-8245-1b1b5b438c75",
+              "length": 269000,
+              "title": "Heart Like Thunder",
+              "genres": [],
+              "first-release-date": "2012"
+            },
+            "position": 3,
+            "id": "24786340-aa0f-47ab-93d9-af360d8fefdd"
+          },
+          {
+            "number": "A4",
+            "title": "Mans’ World",
+            "length": 222000,
+            "recording": {
+              "id": "fae7c238-4154-466b-a64e-bc4d2922a369",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "2012",
+              "length": 222000,
+              "title": "Mans’ World",
+              "genres": []
+            },
+            "position": 4,
+            "id": "3718a5b6-c9ca-483f-afcd-4968962f0ca3"
+          },
+          {
+            "length": 384000,
+            "title": "Wake Up Dead",
+            "number": "A5",
+            "position": 5,
+            "id": "297e0b84-006f-4352-b18c-8d7eafede48c",
+            "recording": {
+              "disambiguation": "",
+              "id": "8def06a3-ba6d-4b76-ac58-e1efd014167a",
+              "video": false,
+              "genres": [],
+              "title": "Wake Up Dead",
+              "length": 384000,
+              "first-release-date": "2012"
+            }
+          },
+          {
+            "number": "B1",
+            "title": "Lost & Lonely",
+            "length": 311000,
+            "recording": {
+              "first-release-date": "2012",
+              "genres": [],
+              "title": "Lost & Lonely",
+              "length": 311000,
+              "video": false,
+              "id": "af619655-d9a8-4abf-9556-de904794cc47",
+              "disambiguation": ""
+            },
+            "id": "55440f32-6921-4d97-97d3-9eaed4c84ebc",
+            "position": 6
+          },
+          {
+            "id": "25bd6874-9fb6-400c-a5de-b291211691c4",
+            "position": 7,
+            "recording": {
+              "disambiguation": "",
+              "id": "3ea0a43b-dd9d-40ed-bb79-37ac06315b6a",
+              "video": false,
+              "title": "The Contract",
+              "length": 338000,
+              "genres": [],
+              "first-release-date": "2012"
+            },
+            "length": 338000,
+            "title": "The Contract",
+            "number": "B2"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "1c1d34e4-1ada-4d5b-a478-de32d588e3bf",
+              "length": 232000,
+              "title": "Bedlam",
+              "genres": [],
+              "first-release-date": "2012"
+            },
+            "id": "783fc6fc-7141-435a-8b08-0b0048ab8bec",
+            "position": 8,
+            "number": "B3",
+            "length": 232000,
+            "title": "Bedlam"
+          },
+          {
+            "number": "B4",
+            "title": "Te amavi",
+            "length": 62000,
+            "recording": {
+              "disambiguation": "",
+              "id": "41967cd7-d653-4d5c-b47d-f62768224a93",
+              "video": false,
+              "genres": [],
+              "length": 62000,
+              "title": "Te amavi",
+              "first-release-date": "2012"
+            },
+            "id": "a6e19d02-e5fe-4db2-94fb-e5909b4dd3bc",
+            "position": 9
+          },
+          {
+            "number": "B5",
+            "title": "Edge of Madness",
+            "length": 388000,
+            "recording": {
+              "length": 388000,
+              "title": "Edge of Madness",
+              "genres": [],
+              "first-release-date": "2012",
+              "disambiguation": "",
+              "id": "0eaa4549-ca41-4eb0-9f03-ea982b247241",
+              "video": false
+            },
+            "position": 10,
+            "id": "9b380cd3-348d-49b4-8c64-3a849ae773c3"
+          }
+        ],
+        "format": "12\" Vinyl",
+        "id": "558ff01e-2492-31f9-82de-0141f37a0007",
+        "track-count": 10
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "front": false,
+      "back": false
+    },
+    "title": "Edge of Madness",
+    "genres": [],
+    "asin": null
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "date": "1981",
+        "area": {
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "release-group": {
+      "id": "b9ed0fbb-0e9e-3f4e-9067-7bf82da20114",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "first-release-date": "1981",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "End of the World",
+      "genres": [
+        {
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+          "name": "heavy metal",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "id": "5c7785e6-a0b4-4441-a1e6-4fd4c0066a5f",
+          "disambiguation": "",
+          "name": "progressive metal",
+          "count": 1
+        },
+        {
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+          "disambiguation": "",
+          "name": "rock",
+          "count": 1
+        }
+      ]
+    },
+    "country": "GB",
+    "disambiguation": "",
+    "id": "68234e17-7869-4ce5-8497-247407a3dcad",
+    "packaging": "Cardboard/Paper Sleeve",
+    "genres": [],
+    "asin": null,
+    "title": "End of the World",
+    "quality": "normal",
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": true,
+      "artwork": true,
+      "count": 2
+    },
+    "media": [
+      {
+        "format": "12\" Vinyl",
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "66eda939-14a9-4a8a-b28f-16b40f53e744",
+              "title": "Sweet Dream Maker",
+              "length": 229000,
+              "genres": [
+                {
+                  "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+                  "disambiguation": "",
+                  "name": "heavy metal",
+                  "count": 2
+                },
+                {
+                  "count": 1,
+                  "disambiguation": "",
+                  "name": "metal",
+                  "id": "cc28f5aa-5e19-487c-88e1-e56b022f1fdd"
+                },
+                {
+                  "name": "rock",
+                  "disambiguation": "",
+                  "count": 1,
+                  "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+                }
+              ],
+              "first-release-date": "1981"
+            },
+            "id": "28001b9c-e531-3237-8555-8b8e443e5363",
+            "position": 1,
+            "number": "A1",
+            "title": "Sweet Dream Maker",
+            "length": 229000
+          },
+          {
+            "id": "5cb4c157-6ebc-3cd1-a816-f3e387bdac47",
+            "position": 2,
+            "recording": {
+              "video": false,
+              "id": "cd98c14e-832e-4652-9440-257fa4f69704",
+              "disambiguation": "",
+              "first-release-date": "1981",
+              "length": 376000,
+              "title": "Victim of the City",
+              "genres": []
+            },
+            "title": "Victim of the City",
+            "length": 376000,
+            "number": "A2"
+          },
+          {
+            "id": "6d56f19d-375c-302b-9071-31258ffc7768",
+            "position": 3,
+            "recording": {
+              "genres": [],
+              "length": 327000,
+              "title": "Despiser",
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "video": false,
+              "id": "40405d56-1558-4d7b-a186-d0c0090630bc"
+            },
+            "length": 327000,
+            "title": "Despiser",
+            "number": "A3"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "e2a32361-b24c-4d8d-8db7-5389ba0f4464",
+              "disambiguation": "",
+              "first-release-date": "1981",
+              "genres": [],
+              "length": 268000,
+              "title": "Burning Alive"
+            },
+            "position": 4,
+            "id": "4dad1ec9-f708-3d30-b419-411121eafd6d",
+            "number": "A4",
+            "title": "Burning Alive",
+            "length": 268000
+          },
+          {
+            "number": "A5",
+            "length": 106000,
+            "title": "The Day Thou Gavest Lord Hath Ended",
+            "recording": {
+              "first-release-date": "1981",
+              "genres": [],
+              "title": "The Day Thou Gavest Lord Hath Ended",
+              "length": 106000,
+              "id": "72cf86a5-1aa7-4dd4-838c-689bc693e345",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "efa7e9ea-4aaf-32bc-b39c-1cf0f7eaa98a",
+            "position": 5
+          },
+          {
+            "length": 212000,
+            "title": "End of the World",
+            "number": "B1",
+            "id": "f03c4990-6049-31a2-a19c-7c86aeadea61",
+            "position": 6,
+            "recording": {
+              "first-release-date": "1981",
+              "genres": [],
+              "title": "End of the World",
+              "length": 212000,
+              "video": false,
+              "id": "ac82a9db-5230-4b2d-b153-863ec91f85cc",
+              "disambiguation": ""
+            }
+          },
+          {
+            "recording": {
+              "genres": [],
+              "title": "On My Way",
+              "length": 188000,
+              "first-release-date": "1981",
+              "disambiguation": "",
+              "video": false,
+              "id": "fe9bb779-5d3d-4583-8557-5ec3f42fc597"
+            },
+            "position": 7,
+            "id": "c47ccf9c-031d-3155-ac7d-411d0ae84762",
+            "number": "B2",
+            "length": 188000,
+            "title": "On My Way"
+          },
+          {
+            "number": "B3",
+            "length": 281000,
+            "title": "Lonely Man",
+            "recording": {
+              "disambiguation": "",
+              "id": "54097620-de02-4235-9b85-c68cc0de2992",
+              "video": false,
+              "genres": [],
+              "length": 281000,
+              "title": "Lonely Man",
+              "first-release-date": "1981"
+            },
+            "id": "af761c48-d946-3038-9412-0c187714d95f",
+            "position": 8
+          },
+          {
+            "recording": {
+              "first-release-date": "1981",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "name": "heavy metal",
+                  "count": 2,
+                  "id": "a6719055-99c4-47eb-beaa-71081f2376f9"
+                },
+                {
+                  "count": 1,
+                  "name": "metal",
+                  "disambiguation": "",
+                  "id": "cc28f5aa-5e19-487c-88e1-e56b022f1fdd"
+                },
+                {
+                  "count": 1,
+                  "disambiguation": "",
+                  "name": "rock",
+                  "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+                }
+              ],
+              "length": 203000,
+              "title": "I’m No Fool",
+              "id": "cd106c0c-b3ea-4b5f-abcd-5020ca3acac5",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "8b6cdf4e-fc6d-3bcb-97ec-e98515723d9c",
+            "position": 9,
+            "number": "B4",
+            "title": "I’m No Fool",
+            "length": 203000
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "id": "28862a01-b383-4a6e-88ff-c6d60cdd262a",
+              "video": false,
+              "genres": [],
+              "title": "Handful of Reasons",
+              "length": 420000,
+              "first-release-date": "1981"
+            },
+            "position": 10,
+            "id": "8916d721-105f-33c9-adbb-31dc1aa26a3f",
+            "number": "B5",
+            "length": 420000,
+            "title": "Handful of Reasons"
+          }
+        ],
+        "id": "db622703-9700-30d3-a475-239c0e7f763d",
+        "track-count": 10,
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+      }
+    ],
+    "status": "Official",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "1981",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "barcode": ""
+  },
+  {
+    "id": "beffd45d-3378-4bac-834b-177b07e92549",
+    "packaging": null,
+    "disambiguation": "",
+    "country": "GB",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "date": "2000",
+        "area": {
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "release-group": {
+      "title": "Stand or Fall",
+      "genres": [
+        {
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+          "name": "heavy metal",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "rock",
+          "count": 1,
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2000",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "id": "18470e33-2a44-41e6-8d82-f207ec464a45"
+    },
+    "media": [
+      {
+        "track-count": 12,
+        "id": "84a028dc-2000-39e0-b191-d02b34237e11",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "cef90101-4a9a-4a06-8f5d-5194cf2dc83d",
+            "recording": {
+              "first-release-date": "2000",
+              "title": "The Man Is Back",
+              "length": 244000,
+              "genres": [],
+              "id": "c1e4d72b-5758-4b45-8cfe-467ecf7d2c97",
+              "video": false,
+              "disambiguation": ""
+            },
+            "length": 244000,
+            "title": "The Man Is Back",
+            "number": "1"
+          },
+          {
+            "title": "Tomorrow Today",
+            "length": 306000,
+            "number": "2",
+            "position": 2,
+            "id": "b5c1c647-1c4a-48db-8215-d42f2f88220a",
+            "recording": {
+              "first-release-date": "2000",
+              "title": "Tomorrow Today",
+              "length": 306000,
+              "genres": [],
+              "video": false,
+              "id": "022da6fc-c4bf-49cb-8908-b1c4298bc277",
+              "disambiguation": ""
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "2000",
+              "length": 303000,
+              "title": "Still Got the Hunger",
+              "genres": [],
+              "id": "4f8b11c3-8984-4d96-a7f8-c821e0931795",
+              "video": false,
+              "disambiguation": ""
+            },
+            "position": 3,
+            "id": "56794a31-755b-4a18-af27-8870712c7b4b",
+            "number": "3",
+            "title": "Still Got the Hunger",
+            "length": 303000
+          },
+          {
+            "length": 226000,
+            "title": "Don’t Talk About Love",
+            "number": "4",
+            "id": "96703f31-261c-49c3-8cb1-656418f1e1c8",
+            "position": 4,
+            "recording": {
+              "first-release-date": "2000",
+              "genres": [],
+              "title": "Don’t Talk About Love",
+              "length": 226000,
+              "video": false,
+              "id": "b836bd9f-3955-4156-b53e-da56078f2b0a",
+              "disambiguation": ""
+            }
+          },
+          {
+            "length": 200000,
+            "title": "City of Lights",
+            "number": "5",
+            "position": 5,
+            "id": "cdf32d07-a560-4559-9966-e816fbd29608",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "ae9acd08-46e4-47bb-b1f0-c44b884d208e",
+              "genres": [],
+              "length": 200000,
+              "title": "City of Lights",
+              "first-release-date": "2000"
+            }
+          },
+          {
+            "recording": {
+              "genres": [],
+              "title": "Only the Brave",
+              "length": 393000,
+              "first-release-date": "2000",
+              "disambiguation": "",
+              "id": "5e33117e-32da-4864-9c18-58926ab01b25",
+              "video": false
+            },
+            "id": "399aa64f-141f-4df4-a4d2-61469f17ca63",
+            "position": 6,
+            "number": "6",
+            "length": 393000,
+            "title": "Only the Brave"
+          },
+          {
+            "title": "Stand or Fall",
+            "length": 233000,
+            "number": "7",
+            "position": 7,
+            "id": "00073bc8-fa9d-43a8-b96c-83467a41d081",
+            "recording": {
+              "genres": [],
+              "length": 233000,
+              "title": "Stand or Fall",
+              "first-release-date": "2000",
+              "disambiguation": "",
+              "video": false,
+              "id": "0545f385-5652-4e78-bd2f-a90c4365da29"
+            }
+          },
+          {
+            "position": 8,
+            "id": "8b27450b-b637-482f-a09b-18f8d4828e78",
+            "recording": {
+              "first-release-date": "2000",
+              "length": 290000,
+              "title": "Breaking My Heart",
+              "genres": [],
+              "id": "cd4d8e4a-6762-4036-9c04-fb21999e4335",
+              "video": false,
+              "disambiguation": ""
+            },
+            "length": 290000,
+            "title": "Breaking My Heart",
+            "number": "8"
+          },
+          {
+            "recording": {
+              "length": 303000,
+              "title": "England My England",
+              "genres": [],
+              "first-release-date": "2000",
+              "disambiguation": "",
+              "id": "f11c31d4-01ab-4fbe-8545-341011083879",
+              "video": false
+            },
+            "id": "1ee65b85-1618-4211-8407-88f16f5dac62",
+            "position": 9,
+            "number": "9",
+            "title": "England My England",
+            "length": 303000
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "a714eacc-9a4d-43f7-9c8c-d5cdcc342101",
+              "length": 226000,
+              "title": "Take ’em Off",
+              "genres": [],
+              "first-release-date": "2000"
+            },
+            "position": 10,
+            "id": "b248da74-f36d-4651-8bae-b78ddd5409a2",
+            "number": "10",
+            "title": "Take ’em Off",
+            "length": 226000
+          },
+          {
+            "recording": {
+              "first-release-date": "2000",
+              "genres": [],
+              "title": "Still in Love",
+              "length": 269000,
+              "video": false,
+              "id": "89cc6c16-ffe4-476a-9637-7cdc8c1dcedd",
+              "disambiguation": ""
+            },
+            "position": 11,
+            "id": "a2673b02-458a-4912-b801-0a8254c29e53",
+            "number": "11",
+            "title": "Still in Love",
+            "length": 269000
+          },
+          {
+            "number": "12",
+            "title": "Why the Gun?",
+            "length": 361000,
+            "recording": {
+              "length": 361000,
+              "title": "Why the Gun?",
+              "genres": [],
+              "first-release-date": "2000",
+              "disambiguation": "",
+              "video": false,
+              "id": "0875d487-f194-4738-8317-fcd00ee558df"
+            },
+            "position": 12,
+            "id": "142efcb4-4493-4a99-b885-546e9d523899"
+          }
+        ],
+        "format": "CD",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "title": "Stand or Fall",
+    "genres": [],
+    "asin": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2000",
+    "packaging-id": null,
+    "barcode": "5019148625629"
+  },
+  {
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1981",
+      "title": "I’m No Fool",
+      "genres": [
+        {
+          "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+          "count": 1,
+          "name": "heavy metal",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "rock",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "id": "7e738df5-3c70-46bc-a0fb-f8dc1d08e174",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Single"
+    },
+    "release-events": [
+      {
+        "date": "1981",
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null
+        }
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "GB",
+    "disambiguation": "",
+    "packaging": "Cardboard/Paper Sleeve",
+    "id": "fd3c2d37-642b-4008-8ded-c477fad4b3c5",
+    "asin": null,
+    "genres": [],
+    "title": "I’m No Fool",
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "format-id": "1d5a48e4-e94a-36dc-84e2-0c5f9f880aa7",
+        "title": "",
+        "track-offset": 0,
+        "position": 1,
+        "track-count": 2,
+        "id": "bb23025e-15b3-3377-a097-5985e60eb34a",
+        "tracks": [
+          {
+            "title": "I’m No Fool",
+            "length": 216000,
+            "number": "A",
+            "position": 1,
+            "id": "604abd51-923b-35f5-ad2f-48cff8d201c2",
+            "recording": {
+              "first-release-date": "1981",
+              "length": 218600,
+              "title": "I'm No Fool",
+              "genres": [],
+              "video": false,
+              "id": "2100c56a-fd96-4658-aece-571b2e0b522b",
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "B",
+            "length": 243000,
+            "title": "Sweet Dream Maker",
+            "recording": {
+              "title": "Sweet Dream Maker",
+              "length": 243000,
+              "genres": [],
+              "first-release-date": "1981",
+              "disambiguation": "single version",
+              "video": false,
+              "id": "2154f6de-c293-4292-ba51-e285f543b359"
+            },
+            "position": 2,
+            "id": "7c129738-ed76-327f-aaa6-d591738ff291"
+          }
+        ],
+        "format": "7\" Vinyl"
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "1981",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "barcode": ""
+  }
+]

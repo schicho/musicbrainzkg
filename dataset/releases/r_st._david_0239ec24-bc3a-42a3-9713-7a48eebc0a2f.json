@@ -1,0 +1,4655 @@
+[
+  {
+    "id": "01b48458-9037-4ac5-8865-9b0d869cdf5e",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "House of Universe",
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f"
+        },
+        {
+          "disambiguation": "",
+          "name": "disco",
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "count": 1
+        },
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1",
+          "name": "garage house"
+        },
+        {
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "count": 2
+        }
+      ],
+      "first-release-date": "2021-02-19",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "7093ebcd-bb83-49c4-bc44-e06bdc8f62d3"
+    },
+    "status": "Official",
+    "genres": [
+      {
+        "disambiguation": "",
+        "name": "deep house",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "name": "electronic",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "disambiguation": ""
+      },
+      {
+        "disambiguation": "",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "name": "house",
+        "count": 1
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "date": "2021-02-19",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2021-02-19",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "length": 301890,
+            "title": "Nites Into Dreams",
+            "position": 1,
+            "number": "1",
+            "id": "805bba92-115b-4096-b728-f21605af36f8",
+            "recording": {
+              "id": "c218c88c-afb1-4389-a119-efaf86ad50c9",
+              "video": false,
+              "first-release-date": "2021-02-19",
+              "title": "Nites Into Dreams",
+              "genres": [],
+              "disambiguation": "",
+              "length": 301890
+            }
+          },
+          {
+            "title": "Interplanetar Solar",
+            "position": 2,
+            "number": "2",
+            "length": 387018,
+            "id": "458ac92e-0593-490a-aacc-a2282d71b1d6",
+            "recording": {
+              "first-release-date": "2021-02-19",
+              "id": "7da28f93-f334-4d55-b7a1-31cdf34d946e",
+              "video": false,
+              "length": 387018,
+              "title": "Interplanetar Solar",
+              "disambiguation": "",
+              "genres": []
+            }
+          },
+          {
+            "id": "955c5cee-4819-45d5-90ac-0bf9cb62fad8",
+            "recording": {
+              "id": "41e386e1-a422-49b1-86f5-51a6fd23e452",
+              "video": false,
+              "first-release-date": "2021-02-19",
+              "title": "Control",
+              "disambiguation": "",
+              "genres": [],
+              "length": 378659
+            },
+            "length": 378659,
+            "position": 3,
+            "title": "Control",
+            "number": "3"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "I Can Feel It",
+              "length": 307755,
+              "video": false,
+              "id": "9cfb74df-b241-4323-b7d3-b8423ec7cbc2",
+              "first-release-date": "2021-02-19"
+            },
+            "id": "6b545ab2-b3a5-48d4-8c2a-f15d4d19dca0",
+            "number": "4",
+            "title": "I Can Feel It",
+            "position": 4,
+            "length": 307755
+          },
+          {
+            "position": 5,
+            "title": "I Can Feel It (Rydm Sectors remix)",
+            "number": "5",
+            "length": 362765,
+            "id": "c29c5a06-6a47-4b01-af79-4093471d982a",
+            "recording": {
+              "first-release-date": "2021-02-19",
+              "video": false,
+              "id": "7a78fd43-0dc9-4224-a292-00dc904b6945",
+              "length": 362765,
+              "disambiguation": "",
+              "genres": [],
+              "title": "I Can Feel It (Rydm Sectors remix)"
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "51d9aa77-4135-4882-8307-10093e7cab45",
+        "track-count": 5
+      }
+    ],
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "3616552266138",
+    "title": "House of Universe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null
+  },
+  {
+    "packaging-id": null,
+    "date": "2023-04",
+    "country": "NL",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "Netherlands",
+          "type": null,
+          "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+          "iso-3166-1-codes": [
+            "NL"
+          ],
+          "disambiguation": "",
+          "sort-name": "Netherlands"
+        },
+        "date": "2023-04"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1,
+      "front": true
+    },
+    "media": [
+      {
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "title": "The Message",
+            "position": 1,
+            "number": "1",
+            "length": null,
+            "id": "7959ebeb-11e6-423b-87bf-4fc5ce824627",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "The Message",
+              "length": null,
+              "video": false,
+              "id": "66635041-0391-42aa-9390-0e92be7adeed",
+              "first-release-date": "2023-04"
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "2023-04",
+              "video": false,
+              "id": "94a8a1f1-2c95-4f9b-ace8-89b2d4f397f6",
+              "length": null,
+              "disambiguation": "",
+              "genres": [],
+              "title": "The Message (Jovonn BND Mix)"
+            },
+            "id": "fda826a3-5ca7-4e15-8b0d-aac7824af613",
+            "number": "2",
+            "position": 2,
+            "title": "The Message (Jovonn BND Mix)",
+            "length": null
+          },
+          {
+            "id": "3bbfcfff-f154-47f5-83eb-085c88751ad4",
+            "recording": {
+              "title": "Wet Dreams",
+              "disambiguation": "",
+              "genres": [],
+              "length": null,
+              "id": "859f0390-28b3-412b-95d0-df09ee6f3738",
+              "video": false,
+              "first-release-date": "2023-04"
+            },
+            "length": null,
+            "title": "Wet Dreams",
+            "position": 3,
+            "number": "3"
+          },
+          {
+            "recording": {
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Wet Dreams (Nu-Cleo Space Funk Remix)",
+              "first-release-date": "2023-04",
+              "video": false,
+              "id": "9c26fee9-8183-4832-9603-dea5380ee76b"
+            },
+            "id": "544bd3a7-b47b-4e93-b931-ea55a28a6714",
+            "number": "4",
+            "title": "Wet Dreams (Nu-Cleo Space Funk Remix)",
+            "position": 4,
+            "length": null
+          }
+        ],
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "12\" Vinyl",
+        "track-count": 4,
+        "id": "e77e9332-5650-34ec-8f33-6459b2f06589"
+      }
+    ],
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "title": "Grand House EP",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null,
+    "id": "08e5a741-953a-45b4-8de7-9561707a91ba",
+    "release-group": {
+      "id": "15906769-13a4-44d3-b966-e5f718afd962",
+      "first-release-date": "2023-04",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "title": "Grand House EP",
+      "genres": [
+        {
+          "count": 1,
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "name": "deep house",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+    },
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [
+      {
+        "name": "deep house",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+      }
+    ]
+  },
+  {
+    "release-group": {
+      "id": "0c8bca56-4c56-4cce-aaf2-98bd20b9b196",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2021-11-09",
+      "disambiguation": "",
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "name": "deep house",
+          "count": 2
+        },
+        {
+          "count": 1,
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "name": "disco",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "funky house",
+          "id": "62e4c7cb-a2b3-462b-8d96-1b0d66ee6cf3"
+        },
+        {
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 2
+        }
+      ],
+      "title": "Poetry & Rhythm EP",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": []
+    },
+    "id": "0bc834bc-a2ec-4469-be0d-199971c9e444",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "status": "Official",
+    "country": "DE",
+    "packaging-id": "bf996342-d111-4d37-b9d6-d759f0787533",
+    "date": "2021-11-09",
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 2,
+      "darkened": false,
+      "back": true
+    },
+    "release-events": [
+      {
+        "date": "2021-11-09",
+        "area": {
+          "type": null,
+          "name": "Germany",
+          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "Germany",
+          "iso-3166-1-codes": [
+            "DE"
+          ]
+        }
+      }
+    ],
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "Plastic Sleeve",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "78ca3e72-51e5-4400-ae03-13e6cf83be04",
+            "recording": {
+              "video": false,
+              "id": "d730ecac-bdd7-4d90-9bcc-2859565e1146",
+              "first-release-date": "2021-11-09",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Housemusiq",
+              "length": null
+            },
+            "length": null,
+            "position": 1,
+            "title": "Housemusiq",
+            "number": "A1"
+          },
+          {
+            "length": null,
+            "position": 2,
+            "title": "Move Your Mind",
+            "number": "A2",
+            "id": "2ba7a72e-3b82-4360-abf7-c742fd27d539",
+            "recording": {
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Move Your Mind",
+              "first-release-date": "2021-11-09",
+              "video": false,
+              "id": "4a7d3ea2-c062-4734-ba8b-e9661b73fc65"
+            }
+          },
+          {
+            "id": "08fc4b94-92e5-4b29-a174-70e39a1ec12a",
+            "recording": {
+              "video": false,
+              "id": "1ca3c5b9-20ae-4c36-b14f-ae77aeba5709",
+              "first-release-date": "2021-11-09",
+              "genres": [],
+              "disambiguation": "",
+              "title": "Dreams Of You",
+              "length": null
+            },
+            "position": 3,
+            "title": "Dreams Of You",
+            "number": "B1",
+            "length": null
+          },
+          {
+            "title": "Inspiration",
+            "position": 4,
+            "number": "B2",
+            "length": null,
+            "id": "aa6717dc-3665-463e-b9bb-ee9542ce7d23",
+            "recording": {
+              "id": "6c6b37e0-89ce-46d4-a926-612a81b60111",
+              "video": false,
+              "first-release-date": "2021-11-09",
+              "title": "Inspiration",
+              "disambiguation": "",
+              "genres": [],
+              "length": null
+            }
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "format": "12\" Vinyl",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 4,
+        "id": "f6cc37a2-14a7-31c4-8042-f3566c5b6b15"
+      }
+    ],
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "asin": null,
+    "title": "Poetry & Rhythm EP"
+  },
+  {
+    "status": "Official",
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "id": "1077640f-db38-408a-8b6d-4659c1ed6c4c",
+    "release-group": {
+      "genres": [
+        {
+          "count": 1,
+          "name": "disco",
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "disambiguation": ""
+        },
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house"
+        }
+      ],
+      "disambiguation": "",
+      "title": "Disco Jam EP",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "id": "7f157047-1173-4b32-aa81-e8ac1ac28cd8",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2019-10-04"
+    },
+    "media": [
+      {
+        "id": "2ad3fee3-decc-4e7c-a382-a034b83c9d15",
+        "track-count": 4,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "title": "Sexy Funk ’98",
+            "position": 1,
+            "number": "1",
+            "length": 524117,
+            "id": "06a51539-7462-491e-bce9-4da141e6d446",
+            "recording": {
+              "id": "9d5ca0e8-d501-4ea5-bacc-94594a724762",
+              "video": false,
+              "first-release-date": "2019-10-04",
+              "title": "Sexy Funk '98",
+              "genres": [],
+              "disambiguation": "",
+              "length": 524117
+            }
+          },
+          {
+            "length": 370555,
+            "number": "2",
+            "title": "I Got the Music",
+            "position": 2,
+            "recording": {
+              "id": "19c78154-59de-4bb1-bd7f-ba48de21715e",
+              "video": false,
+              "first-release-date": "2019-10-04",
+              "title": "I Got The Music",
+              "genres": [],
+              "disambiguation": "",
+              "length": 370555
+            },
+            "id": "9b33954f-5e6d-4205-a144-39dfb13aad2c"
+          },
+          {
+            "recording": {
+              "length": 355727,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Where U Move",
+              "first-release-date": "2019-10-04",
+              "video": false,
+              "id": "8f50f5dc-712a-4ea0-a93f-b5d9323f65a9"
+            },
+            "id": "6183ce97-09c4-4fb3-b2bb-cc48a4828bc0",
+            "length": 355727,
+            "number": "3",
+            "position": 3,
+            "title": "Where U Move"
+          },
+          {
+            "recording": {
+              "length": 392185,
+              "genres": [],
+              "disambiguation": "",
+              "title": "The Connection",
+              "first-release-date": "2019-10-04",
+              "video": false,
+              "id": "17360d46-8eea-4d8e-9094-14364593ce8f"
+            },
+            "id": "7029d65d-ee22-497f-856b-7987d0032743",
+            "length": 392185,
+            "number": "4",
+            "position": 4,
+            "title": "The Connection"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5060731220547",
+    "packaging": "None",
+    "title": "Disco Jam",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2019-10-18",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2019-10-18",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    }
+  },
+  {
+    "id": "116505ee-1c29-4710-8819-826c1528dbf7",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2018-11-23",
+      "id": "90448825-0cc4-4263-8e98-01c235c3d073",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "count": 2
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house"
+        }
+      ],
+      "disambiguation": "",
+      "title": "House Jam EP"
+    },
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [
+      {
+        "name": "deep house",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "name": "electronic",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "count": 1
+      }
+    ],
+    "quality": "normal",
+    "date": "2018-11-23",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "name": "[Worldwide]",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": ""
+        },
+        "date": "2018-11-23"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "media": [
+      {
+        "track-offset": 0,
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "I’m on Beat",
+            "number": "1",
+            "length": 293202,
+            "id": "d7b72a34-630e-4c29-bc1b-47f3c31feb9f",
+            "recording": {
+              "id": "d37d766f-6245-4d73-bb26-e5a4acd67063",
+              "video": false,
+              "first-release-date": "2018-11-23",
+              "title": "I’m on Beat",
+              "genres": [],
+              "disambiguation": "",
+              "length": 293202
+            }
+          },
+          {
+            "title": "Bumpin’ Heat",
+            "position": 2,
+            "number": "2",
+            "length": 309616,
+            "id": "167b43c0-b1d4-4582-a74f-4ef51cf8745d",
+            "recording": {
+              "length": 309616,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Bumpin’ Heat",
+              "first-release-date": "2018-11-23",
+              "video": false,
+              "id": "9e9f25e5-d6b3-4842-84b4-8602c4da7496"
+            }
+          },
+          {
+            "length": 325709,
+            "number": "3",
+            "title": "Jumpin’ Dub",
+            "position": 3,
+            "recording": {
+              "length": 325709,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Jumpin’ Dub",
+              "first-release-date": "2018-11-23",
+              "video": false,
+              "id": "f90b01c5-c01a-4886-ba08-393572a88630"
+            },
+            "id": "67bddb31-a202-47b6-a1b7-9d8f614abca7"
+          }
+        ],
+        "id": "65927c5b-5946-4d71-804e-5fd7d536e864",
+        "track-count": 3
+      }
+    ],
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5060589488656",
+    "title": "House Jam",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null
+  },
+  {
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [
+      {
+        "disambiguation": "",
+        "name": "deep house",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "name": "house",
+        "disambiguation": ""
+      },
+      {
+        "count": 1,
+        "name": "jazz house",
+        "id": "1ece3afe-bbff-4408-8e45-b20ca45fe9ae",
+        "disambiguation": ""
+      }
+    ],
+    "id": "1884ccf4-d72a-439c-b127-39f1df1f0da7",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2023-03-06",
+      "id": "65a72ee1-92b7-4da7-abe4-5db01669ec55",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "title": "Timeless EP"
+    },
+    "media": [
+      {
+        "track-offset": 0,
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "id": "603dba73-313a-4bb5-8b19-a7f8264f8e16",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Set You Free (original version)",
+              "length": 390000,
+              "video": false,
+              "id": "3d02f260-abd5-4151-90ef-39edcdddf572",
+              "first-release-date": "2023-03-06"
+            },
+            "title": "Set You Free (original version)",
+            "position": 1,
+            "number": "A1",
+            "length": 390000
+          },
+          {
+            "recording": {
+              "length": 411000,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Set You Free (34th Floor in Deep mix)",
+              "first-release-date": "2023-03-06",
+              "video": false,
+              "id": "bf1307cc-775f-473f-a2c5-877ecf1d4dd2"
+            },
+            "id": "92849639-8d62-4027-976a-9b27af7187ac",
+            "length": 411000,
+            "number": "A2",
+            "title": "Set You Free (34th Floor in Deep mix)",
+            "position": 2
+          },
+          {
+            "title": "Summertime Jaz' (original version)",
+            "position": 3,
+            "number": "B1",
+            "length": 465000,
+            "id": "f44361e8-c7d8-4b77-ba66-d4d76fc8dfb4",
+            "recording": {
+              "length": 465000,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Summertime Jaz' (original version)",
+              "first-release-date": "2023-03-06",
+              "video": false,
+              "id": "b4dd0cf6-69de-454d-9c85-4d90ad13b38d"
+            }
+          },
+          {
+            "number": "B2",
+            "position": 4,
+            "title": "Summertime Jaz' (R.O.P Sunset mix)",
+            "length": 371000,
+            "recording": {
+              "title": "Summertime Jaz' (R.O.P Sunset mix)",
+              "genres": [],
+              "disambiguation": "",
+              "length": 371000,
+              "id": "42dd676d-c7af-4ebd-bae1-2621080bd00a",
+              "video": false,
+              "first-release-date": "2023-03-06"
+            },
+            "id": "0530ebd6-8331-46ff-a0d8-e74c39cc8337"
+          }
+        ],
+        "id": "b2a44a62-feb4-3d9a-85b4-47ce72862aa7",
+        "track-count": 4
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "packaging": "Plastic Sleeve",
+    "title": "Timeless EP",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "packaging-id": "bf996342-d111-4d37-b9d6-d759f0787533",
+    "date": "2023-03-06",
+    "country": "IT",
+    "release-events": [
+      {
+        "date": "2023-03-06",
+        "area": {
+          "iso-3166-1-codes": [
+            "IT"
+          ],
+          "disambiguation": "",
+          "sort-name": "Italy",
+          "type-id": null,
+          "name": "Italy",
+          "type": null,
+          "id": "c6500277-9a3d-349b-bf30-41afdbf42add"
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": true,
+      "artwork": true,
+      "count": 2
+    }
+  },
+  {
+    "title": "Poetry & Rhythm EP",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "asin": null,
+    "media": [
+      {
+        "id": "90ea4056-d296-3648-a498-bedbf8973dfa",
+        "track-count": 4,
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "number": "A1",
+            "title": "Housemusiq",
+            "position": 1,
+            "length": null,
+            "recording": {
+              "length": null,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Housemusiq",
+              "first-release-date": "2021-11-09",
+              "video": false,
+              "id": "d730ecac-bdd7-4d90-9bcc-2859565e1146"
+            },
+            "id": "7c0950b8-e487-4797-86aa-f563f666f277"
+          },
+          {
+            "number": "A2",
+            "title": "Move Your Mind",
+            "position": 2,
+            "length": null,
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Move Your Mind",
+              "length": null,
+              "video": false,
+              "id": "4a7d3ea2-c062-4734-ba8b-e9661b73fc65",
+              "first-release-date": "2021-11-09"
+            },
+            "id": "4740aa9b-dd83-4b33-9a35-185ad63964bd"
+          },
+          {
+            "length": null,
+            "title": "Dreams Of You",
+            "position": 3,
+            "number": "B1",
+            "id": "b9c565f2-c873-46e1-91a2-0711eed904e3",
+            "recording": {
+              "title": "Dreams Of You",
+              "disambiguation": "",
+              "genres": [],
+              "length": null,
+              "id": "1ca3c5b9-20ae-4c36-b14f-ae77aeba5709",
+              "video": false,
+              "first-release-date": "2021-11-09"
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "2021-11-09",
+              "id": "6c6b37e0-89ce-46d4-a926-612a81b60111",
+              "video": false,
+              "length": null,
+              "title": "Inspiration",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "a90e2978-779f-46af-abfd-320c12e742c4",
+            "length": null,
+            "number": "B2",
+            "position": 4,
+            "title": "Inspiration"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+      }
+    ],
+    "packaging": null,
+    "status-id": null,
+    "barcode": null,
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false
+    },
+    "packaging-id": null,
+    "status": null,
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "id": "1a8d3f34-f9af-40fe-9b30-4b24f46fc599",
+    "release-group": {
+      "title": "Poetry & Rhythm EP",
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "name": "disco",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "name": "funky house",
+          "id": "62e4c7cb-a2b3-462b-8d96-1b0d66ee6cf3",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "count": 2
+        }
+      ],
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "0c8bca56-4c56-4cce-aaf2-98bd20b9b196",
+      "first-release-date": "2021-11-09",
+      "secondary-types": [],
+      "primary-type": "EP"
+    }
+  },
+  {
+    "release-group": {
+      "first-release-date": "2017",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "ab572d2d-e2e6-4f8f-b841-08569616a514",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "80s Movement EP",
+      "genres": [
+        {
+          "count": 1,
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": ""
+        }
+      ],
+      "disambiguation": ""
+    },
+    "id": "1b84fa7d-e5fb-4e4e-84ea-bf6bd6eb6149",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "status": "Official",
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "Italy",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "IT"
+          ],
+          "type": null,
+          "name": "Italy",
+          "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+          "type-id": null
+        },
+        "date": "2017"
+      }
+    ],
+    "country": "IT",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "date": "2017",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "80s Movement EP",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "packaging": "Cardboard/Paper Sleeve",
+    "media": [
+      {
+        "track-count": 4,
+        "id": "61d2f744-4a3b-3457-816c-c9afa684550d",
+        "tracks": [
+          {
+            "length": null,
+            "number": "A1",
+            "position": 1,
+            "title": "80s Movement",
+            "recording": {
+              "title": "80s Movement",
+              "disambiguation": "",
+              "genres": [],
+              "length": null,
+              "id": "ce9df0c9-64a3-4dca-b00f-9d94549f3e24",
+              "video": false,
+              "first-release-date": "2017"
+            },
+            "id": "be65a477-8ca2-43f0-8c36-10e279f06afd"
+          },
+          {
+            "number": "A2",
+            "position": 2,
+            "title": "High Jackin’",
+            "length": null,
+            "recording": {
+              "length": null,
+              "title": "High Jackin’",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2017",
+              "id": "069139f1-e57d-4674-b385-3e959be6d479",
+              "video": false
+            },
+            "id": "9647e1d2-e724-4676-8dd7-54f1b11d542b"
+          },
+          {
+            "number": "B1",
+            "position": 3,
+            "title": "Esotic Pattern",
+            "length": null,
+            "recording": {
+              "video": false,
+              "id": "51d9df9e-f495-4a5f-8e74-355827fd8bd3",
+              "first-release-date": "2017",
+              "genres": [],
+              "disambiguation": "",
+              "title": "Esotic Pattern",
+              "length": null
+            },
+            "id": "8618b6da-4db2-440e-a7bc-f88eacf1a7ce"
+          },
+          {
+            "length": null,
+            "number": "B2",
+            "title": "Basic Side",
+            "position": 4,
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Basic Side",
+              "length": null,
+              "video": false,
+              "id": "bd22b363-0074-487c-a9b6-30a1c0b62a00",
+              "first-release-date": "2017"
+            },
+            "id": "69aad998-a5a2-4e24-9287-b7b2b51979d7"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "position": 1,
+        "title": "",
+        "format": "12\" Vinyl",
+        "track-offset": 0
+      }
+    ]
+  },
+  {
+    "release-group": {
+      "id": "b5c582fd-ac4e-40eb-81ee-cf0adf9358d0",
+      "secondary-types": [],
+      "primary-type": null,
+      "first-release-date": "2026-02-13",
+      "genres": [],
+      "disambiguation": "",
+      "title": "The Freakshow EP",
+      "primary-type-id": null,
+      "secondary-type-ids": []
+    },
+    "id": "1c3e5079-bff3-4abb-ba25-58e05523ca60",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "status": "Official",
+    "country": "XW",
+    "date": "2026-02-13",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "release-events": [
+      {
+        "date": "2026-02-13",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "media": [
+      {
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "title": "Bring the Beat Back",
+              "genres": [],
+              "disambiguation": "",
+              "length": 418185,
+              "id": "121a1f83-86a9-45cc-bfd8-97aa9897e462",
+              "video": false,
+              "first-release-date": "2026-02-13"
+            },
+            "id": "9b838619-688e-41a0-a070-060800ccebea",
+            "number": "1",
+            "title": "Bring the Beat Back",
+            "position": 1,
+            "length": 418185
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "On a Freaky Style",
+              "length": 364421,
+              "video": false,
+              "id": "681e859f-c291-426f-a7b1-1a486e94963d",
+              "first-release-date": "2026-02-13"
+            },
+            "id": "9dbdb982-97c0-47b8-853a-96f070fe3e38",
+            "number": "2",
+            "position": 2,
+            "title": "On a Freaky Style",
+            "length": 364421
+          },
+          {
+            "position": 3,
+            "title": "Rock da Discotech",
+            "number": "3",
+            "length": 332938,
+            "id": "77aa3c53-1131-4570-93ab-a927dfc3e071",
+            "recording": {
+              "first-release-date": "2026-02-13",
+              "id": "056c4f57-832a-4675-aa4a-77bc4f4d0c9f",
+              "video": false,
+              "length": 332938,
+              "title": "Rock da Discotech",
+              "genres": [],
+              "disambiguation": ""
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "2026-02-13",
+              "id": "86e83642-94f1-4ee9-8f6b-49887ab28cc6",
+              "video": false,
+              "length": 309500,
+              "title": "I Am Ready",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "366aab29-fd98-4606-bfe7-75052c92294f",
+            "length": 309500,
+            "number": "4",
+            "position": 4,
+            "title": "I Am Ready"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "6a910f94-d134-49b9-9bcb-7db984cbd410",
+        "track-count": 4
+      }
+    ],
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "The Freakshow EP"
+  },
+  {
+    "media": [
+      {
+        "track-count": 3,
+        "id": "4bf33596-df82-31d1-95ae-6a56726e8918",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "I’m on Beat",
+              "length": 293202,
+              "video": false,
+              "id": "d37d766f-6245-4d73-bb26-e5a4acd67063",
+              "first-release-date": "2018-11-23"
+            },
+            "id": "c15ecfb0-7de5-4927-bd59-29ac5cdc412f",
+            "length": null,
+            "number": "1",
+            "position": 1,
+            "title": "I'm On Beat"
+          },
+          {
+            "recording": {
+              "length": 309616,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Bumpin’ Heat",
+              "first-release-date": "2018-11-23",
+              "video": false,
+              "id": "9e9f25e5-d6b3-4842-84b4-8602c4da7496"
+            },
+            "id": "d6a183ed-f139-44d1-a4d4-0af951dfa59d",
+            "number": "2",
+            "title": "Bumpin' Heat",
+            "position": 2,
+            "length": null
+          },
+          {
+            "recording": {
+              "first-release-date": "2018-11-23",
+              "video": false,
+              "id": "f90b01c5-c01a-4886-ba08-393572a88630",
+              "length": 325709,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Jumpin’ Dub"
+            },
+            "id": "3e3b04ab-be08-45bc-9e68-88e1f8908fc3",
+            "number": "3",
+            "position": 3,
+            "title": "Jumpin' Dub",
+            "length": null
+          }
+        ],
+        "track-offset": 0,
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "packaging": null,
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "title": "House Jam EP",
+    "asin": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "date": "2018-11-23",
+    "packaging-id": null,
+    "country": "US",
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "name": "United States",
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null
+        },
+        "date": "2018-11-23"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 3,
+      "darkened": false,
+      "back": true,
+      "front": true
+    },
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "id": "314d229f-0904-46fd-81a2-694f73d16e73",
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-types": [],
+      "first-release-date": "2018-11-23",
+      "id": "90448825-0cc4-4263-8e98-01c235c3d073",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "name": "deep house",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": ""
+        }
+      ],
+      "title": "House Jam EP"
+    }
+  },
+  {
+    "country": "FR",
+    "date": "2021-05-14",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 2,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "release-events": [
+      {
+        "date": "2021-05-14",
+        "area": {
+          "disambiguation": "",
+          "sort-name": "France",
+          "iso-3166-1-codes": [
+            "FR"
+          ],
+          "id": "08310658-51eb-3801-80de-5a0739207115",
+          "type": null,
+          "name": "France",
+          "type-id": null
+        }
+      }
+    ],
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "media": [
+      {
+        "track-offset": 0,
+        "position": 1,
+        "format": "12\" Vinyl",
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Atmosfear",
+            "position": 1,
+            "length": null,
+            "recording": {
+              "first-release-date": "2021-05-14",
+              "id": "bd444747-48fa-4a8f-a5c1-1b193d679ecf",
+              "video": false,
+              "length": null,
+              "title": "Atmosfear",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "a9eecdf7-d8a0-4dc1-9ff1-f794dbd3c923"
+          },
+          {
+            "id": "560a2f2d-18d2-4c90-abd5-9cdced43576a",
+            "recording": {
+              "first-release-date": "2021-05-14",
+              "video": false,
+              "id": "550be541-89d3-4f97-9498-fbf3b1532bd7",
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "C'Mon, Let Me See"
+            },
+            "title": "C'Mon, Let Me See",
+            "position": 2,
+            "number": "2",
+            "length": null
+          },
+          {
+            "number": "3",
+            "title": "Da Love Feeling (Main Mix)",
+            "position": 3,
+            "length": null,
+            "recording": {
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Da Love Feeling (Main Mix)",
+              "first-release-date": "2021-05-14",
+              "video": false,
+              "id": "4a047378-1e9c-4f47-977d-0fe65334e188"
+            },
+            "id": "ffe18587-da12-40fe-930a-231128c0dd55"
+          },
+          {
+            "number": "4",
+            "position": 4,
+            "title": "Da Love Feeling (4am Underground Dub)",
+            "length": null,
+            "recording": {
+              "first-release-date": "2021-05-14",
+              "id": "e273fc07-3224-4745-ad5b-b9d55bd74cc2",
+              "video": false,
+              "length": null,
+              "title": "Da Love Feeling (4am Underground Dub)",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "61515776-93c3-4858-8c10-7eba120b6351"
+          },
+          {
+            "length": null,
+            "number": "5",
+            "title": "Lungomare (Ambient Reprise)",
+            "position": 5,
+            "recording": {
+              "length": null,
+              "title": "Lungomare (Ambient Reprise)",
+              "genres": [],
+              "disambiguation": "",
+              "first-release-date": "2021-05-14",
+              "id": "b9b83b4b-c388-47e2-b930-6c64431f6c0f",
+              "video": false
+            },
+            "id": "0622f179-df17-4036-bae5-d63b538c42e1"
+          }
+        ],
+        "id": "0f1f624d-3ff2-3989-853e-447a07c2bdff",
+        "track-count": 5
+      }
+    ],
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null,
+    "title": "Atmosfear EP",
+    "release-group": {
+      "title": "Atmosfear EP",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "id": "62e4c7cb-a2b3-462b-8d96-1b0d66ee6cf3",
+          "name": "funky house",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "disambiguation": "",
+          "id": "d5c8b95a-fcf6-4c1d-b98c-a7cb4efb494f",
+          "name": "jackin house",
+          "count": 1
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "d5ecffd3-9772-48cb-874d-e31f4e21d276",
+      "first-release-date": "2021-05-14",
+      "secondary-types": [],
+      "primary-type": "EP"
+    },
+    "id": "3251a862-59aa-4c1e-ae5f-64ef00f29dad",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": "Official"
+  },
+  {
+    "status": null,
+    "quality": "normal",
+    "genres": [
+      {
+        "count": 1,
+        "disambiguation": "",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "name": "deep house"
+      },
+      {
+        "disambiguation": "",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "name": "electronic",
+        "count": 1
+      }
+    ],
+    "disambiguation": "",
+    "id": "4586346a-1dc8-4ce7-a581-c1cc068abbfc",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2019-10-04",
+      "id": "7f157047-1173-4b32-aa81-e8ac1ac28cd8",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "name": "disco",
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": ""
+        }
+      ],
+      "title": "Disco Jam EP"
+    },
+    "title": "Disco Jam EP",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "asin": null,
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "format": "12\" Vinyl",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "length": 524117,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Sexy Funk '98",
+              "first-release-date": "2019-10-04",
+              "video": false,
+              "id": "9d5ca0e8-d501-4ea5-bacc-94594a724762"
+            },
+            "id": "ffe8a441-54e2-45fa-8e20-d23a91985425",
+            "number": "A1",
+            "position": 1,
+            "title": "Sexy Funk '98",
+            "length": null
+          },
+          {
+            "recording": {
+              "first-release-date": "2019-10-04",
+              "video": false,
+              "id": "19c78154-59de-4bb1-bd7f-ba48de21715e",
+              "length": 370555,
+              "genres": [],
+              "disambiguation": "",
+              "title": "I Got The Music"
+            },
+            "id": "e71630a9-8a52-444a-b468-a6b6800a1b63",
+            "number": "A2",
+            "position": 2,
+            "title": "I Got The Music",
+            "length": null
+          },
+          {
+            "length": null,
+            "number": "B1",
+            "title": "Where U Move",
+            "position": 3,
+            "recording": {
+              "title": "Where U Move",
+              "genres": [],
+              "disambiguation": "",
+              "length": 355727,
+              "id": "8f50f5dc-712a-4ea0-a93f-b5d9323f65a9",
+              "video": false,
+              "first-release-date": "2019-10-04"
+            },
+            "id": "6da006fa-2309-4c17-be82-f75070f6e6ef"
+          },
+          {
+            "length": null,
+            "number": "B2",
+            "title": "The Connection",
+            "position": 4,
+            "recording": {
+              "video": false,
+              "id": "17360d46-8eea-4d8e-9094-14364593ce8f",
+              "first-release-date": "2019-10-04",
+              "genres": [],
+              "disambiguation": "",
+              "title": "The Connection",
+              "length": 392185
+            },
+            "id": "c3f67c58-37b8-4e28-a8db-03df18b8cda6"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "id": "8ef990fc-3448-31ab-839d-525f4740e17d",
+        "track-count": 4
+      }
+    ],
+    "status-id": null,
+    "barcode": null,
+    "packaging": "Plastic Sleeve",
+    "release-events": [
+      {
+        "date": "2019-10-04",
+        "area": {
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "sort-name": "United States",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": true,
+      "artwork": true,
+      "count": 2
+    },
+    "packaging-id": "bf996342-d111-4d37-b9d6-d759f0787533",
+    "date": "2019-10-04",
+    "country": "US"
+  },
+  {
+    "country": "GB",
+    "date": "2024-03-14",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "date": "2024-03-14",
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "disambiguation": "",
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "name": "United Kingdom",
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "packaging": null,
+    "barcode": null,
+    "status-id": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "1f8ed355-2f09-4ce6-9a49-0eed774c9730",
+            "recording": {
+              "first-release-date": "2024-03-14",
+              "video": false,
+              "id": "da5195b4-1e84-4836-9d18-715641a4b1ae",
+              "length": 342000,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Essence Of House"
+            },
+            "position": 1,
+            "title": "Essence Of House",
+            "number": "1",
+            "length": 342000
+          },
+          {
+            "length": 440000,
+            "position": 2,
+            "title": "Work The Klubb (Extended Mix)",
+            "number": "2",
+            "id": "72ea9e0d-8924-4c05-b26a-1937741299d4",
+            "recording": {
+              "title": "Work The Klubb (Extended Mix)",
+              "disambiguation": "",
+              "genres": [],
+              "length": 440000,
+              "id": "497040c8-a8e4-4207-92be-357a1e71806e",
+              "video": false,
+              "first-release-date": "2024-03-14"
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "format": "Digital Media",
+        "title": "",
+        "track-offset": 0,
+        "track-count": 2,
+        "id": "bbca63e8-4fec-4ebb-a653-a9b5a770ecfa"
+      }
+    ],
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null,
+    "title": "Housewerk EP",
+    "release-group": {
+      "title": "Housewerk EP",
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "bc5464de-b196-42dc-bdcd-142705819d54",
+      "first-release-date": "2024-03-14",
+      "secondary-types": [],
+      "primary-type": "EP"
+    },
+    "id": "48fc8b86-9d7c-4c6b-9d5a-00591bf70ce1",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": null
+  },
+  {
+    "id": "50bf2928-e796-4eb7-a8a1-cf6a6650a4a2",
+    "release-group": {
+      "id": "c88d1af9-c84a-44d4-b73a-e4060ab82e05",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2017",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": ""
+        }
+      ],
+      "disambiguation": "",
+      "title": "Street Beats EP",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": []
+    },
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "packaging-id": null,
+    "date": "2017",
+    "country": null,
+    "release-events": [
+      {
+        "area": null,
+        "date": "2017"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false
+    },
+    "media": [
+      {
+        "tracks": [
+          {
+            "length": null,
+            "position": 1,
+            "title": "Street Beat",
+            "number": "A1",
+            "id": "21975461-a9d4-4a45-b5ca-24af58808c66",
+            "recording": {
+              "length": null,
+              "title": "Street Beat",
+              "genres": [],
+              "disambiguation": "",
+              "first-release-date": "2017",
+              "id": "5f7322ba-43a6-45b0-8b6d-eb72f954d7c7",
+              "video": false
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "2017",
+              "id": "d6724f9f-e2d5-4555-91f6-54069feb9bc4",
+              "video": false,
+              "length": null,
+              "title": "Funk Ya",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "9d35c57f-caae-4ee2-9782-bbdfdaa5b7b4",
+            "length": null,
+            "number": "A2",
+            "position": 2,
+            "title": "Funk Ya"
+          },
+          {
+            "title": "Pacific Sense",
+            "position": 3,
+            "number": "B1",
+            "length": null,
+            "id": "cb4691a3-5084-46eb-8c3b-5cab222d85aa",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Pacific Sense",
+              "length": null,
+              "video": false,
+              "id": "71f0f6a1-280d-4a8a-bf18-b773527f78f5",
+              "first-release-date": "2017"
+            }
+          },
+          {
+            "length": null,
+            "number": "B2",
+            "position": 4,
+            "title": "Atapi Sequence",
+            "recording": {
+              "id": "c8ed279a-640d-4a92-9f9b-a26a10359b2f",
+              "video": false,
+              "first-release-date": "2017",
+              "title": "Atapi Sequence",
+              "disambiguation": "",
+              "genres": [],
+              "length": null
+            },
+            "id": "b9d96109-0928-488e-9f9e-3c94e6fea610"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 4,
+        "id": "eb54a32c-7803-3009-83a5-517ace1d239c"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "packaging": null,
+    "title": "Street Beats EP",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null
+  },
+  {
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2017-09-01",
+      "id": "16690459-fbce-4d43-93b7-ada779ff18aa",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "name": "deep house",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house"
+        }
+      ],
+      "title": "Fools Jam"
+    },
+    "id": "589aae01-719e-4aa2-9b3e-f8d0c7edded3",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "status": "Official",
+    "country": "US",
+    "date": "2017-09-01",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "release-events": [
+      {
+        "date": "2017-09-01",
+        "area": {
+          "type-id": null,
+          "type": null,
+          "name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "disambiguation": "",
+          "sort-name": "United States"
+        }
+      }
+    ],
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "media": [
+      {
+        "track-count": 4,
+        "id": "74cc73c3-cecc-3842-8d21-4b1467e9ce34",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "id": "a3e3c5b7-d5ac-4c57-88d9-546b3a7bc96c",
+            "recording": {
+              "title": "Fools Jam",
+              "disambiguation": "",
+              "genres": [],
+              "length": 399961,
+              "id": "93548c54-ed41-4c78-99cc-afff0c23463b",
+              "video": false,
+              "first-release-date": "2017-09-01"
+            },
+            "length": null,
+            "title": "Fools Jam",
+            "position": 1,
+            "number": "1"
+          },
+          {
+            "id": "a252fdbf-a72c-47fb-9189-3cf47961560e",
+            "recording": {
+              "video": false,
+              "id": "f5e2b672-d0e5-4aa0-9f93-691e5d12882d",
+              "first-release-date": "2017-09-01",
+              "genres": [],
+              "disambiguation": "",
+              "title": "Night Lovers",
+              "length": 350497
+            },
+            "position": 2,
+            "title": "Night Lovers",
+            "number": "2",
+            "length": null
+          },
+          {
+            "length": null,
+            "number": "3",
+            "position": 3,
+            "title": "Dream It (Emphasi mix)",
+            "recording": {
+              "title": "Dream It (Emphasi mix)",
+              "genres": [],
+              "disambiguation": "",
+              "length": 370094,
+              "id": "282331b6-0f9f-4d49-b673-71345da70df6",
+              "video": false,
+              "first-release-date": "2017-09-01"
+            },
+            "id": "441f1221-349d-43f4-a4b3-6e013fbb0f44"
+          },
+          {
+            "id": "bb141494-dc9f-4992-a8ef-131b68515edc",
+            "recording": {
+              "length": 446525,
+              "title": "La Luna (Spiritual dub)",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2017-09-01",
+              "id": "e153d772-7562-46c7-acc9-a659d49fa8a8",
+              "video": false
+            },
+            "title": "La Luna (Spiritual dub)",
+            "position": 4,
+            "number": "4",
+            "length": null
+          }
+        ],
+        "track-offset": 0,
+        "title": "",
+        "format": "12\" Vinyl",
+        "position": 1
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "Fools Jam"
+  },
+  {
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2017",
+      "id": "335a5e8b-0064-452a-b5f6-d4356798e802",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house"
+        }
+      ],
+      "disambiguation": "",
+      "title": "Fm Diskotek EP"
+    },
+    "id": "5f957bff-1b79-4374-88ff-ebefaae29bb4",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "Fm Diskotek EP",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "packaging": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "length": null,
+            "number": "A1",
+            "position": 1,
+            "title": "The Power Sequence",
+            "recording": {
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "The Power Sequence",
+              "first-release-date": "2017",
+              "video": false,
+              "id": "0c0c2545-7786-4961-884a-7b21a35ea42c"
+            },
+            "id": "b6a1eda4-290f-4370-9d1a-1c8f9467a34e"
+          },
+          {
+            "number": "A2",
+            "position": 2,
+            "title": "Dream Disko Fm",
+            "length": null,
+            "recording": {
+              "first-release-date": "2017",
+              "id": "9cf02d68-1a3d-413c-bd36-40f8ac64ced7",
+              "video": false,
+              "length": null,
+              "title": "Dream Disko Fm",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "afb56c70-d1cf-49f7-8824-d4ec43020925"
+          },
+          {
+            "length": null,
+            "number": "B1",
+            "position": 3,
+            "title": "Shut da Fuk Upp!",
+            "recording": {
+              "title": "Shut da Fuk Upp!",
+              "genres": [],
+              "disambiguation": "",
+              "length": null,
+              "id": "1ece44bc-538e-4906-a444-7ca7980cf76a",
+              "video": false,
+              "first-release-date": "2017"
+            },
+            "id": "da8b8773-4647-4f4d-8c22-4a5340d8a030"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 3,
+        "id": "9499ee8c-93c8-308c-ac88-cae752108d73"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1,
+      "front": true
+    },
+    "release-events": [
+      {
+        "date": "2017",
+        "area": null
+      }
+    ],
+    "country": null,
+    "packaging-id": null,
+    "date": "2017"
+  },
+  {
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "House of Universe",
+    "packaging": "None",
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "tracks": [
+          {
+            "length": 301890,
+            "title": "Nites Into Dreams",
+            "position": 1,
+            "number": "1",
+            "id": "c35ab55c-065f-4172-a2b2-23b0ed59de23",
+            "recording": {
+              "title": "Nites Into Dreams",
+              "genres": [],
+              "disambiguation": "",
+              "length": 301890,
+              "id": "c218c88c-afb1-4389-a119-efaf86ad50c9",
+              "video": false,
+              "first-release-date": "2021-02-19"
+            }
+          },
+          {
+            "length": 387018,
+            "position": 2,
+            "title": "Interplanetar Solar",
+            "number": "2",
+            "id": "4583b4f5-a72b-48f3-9ebe-ed909b6c8856",
+            "recording": {
+              "title": "Interplanetar Solar",
+              "genres": [],
+              "disambiguation": "",
+              "length": 387018,
+              "id": "7da28f93-f334-4d55-b7a1-31cdf34d946e",
+              "video": false,
+              "first-release-date": "2021-02-19"
+            }
+          },
+          {
+            "length": 378659,
+            "title": "Control",
+            "position": 3,
+            "number": "3",
+            "id": "9cfa5b5d-8ade-4709-8ba5-1febdd9af211",
+            "recording": {
+              "title": "Control",
+              "disambiguation": "",
+              "genres": [],
+              "length": 378659,
+              "id": "41e386e1-a422-49b1-86f5-51a6fd23e452",
+              "video": false,
+              "first-release-date": "2021-02-19"
+            }
+          },
+          {
+            "id": "f22d3fa9-4fea-46b4-b665-862f23030598",
+            "recording": {
+              "first-release-date": "2021-02-19",
+              "id": "9cfb74df-b241-4323-b7d3-b8423ec7cbc2",
+              "video": false,
+              "length": 307755,
+              "title": "I Can Feel It",
+              "disambiguation": "",
+              "genres": []
+            },
+            "length": 307755,
+            "position": 4,
+            "title": "I Can Feel It",
+            "number": "4"
+          },
+          {
+            "position": 5,
+            "title": "I Can Feel It (Rydm Sectors remix)",
+            "number": "5",
+            "length": null,
+            "id": "d2b88201-a8b3-4eaa-9801-472b9038e0ad",
+            "recording": {
+              "first-release-date": "2021-02-19",
+              "id": "7a78fd43-0dc9-4224-a292-00dc904b6945",
+              "video": false,
+              "length": 362765,
+              "title": "I Can Feel It (Rydm Sectors remix)",
+              "disambiguation": "",
+              "genres": []
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 5,
+        "id": "857dc283-23d9-3d1f-9a51-2546d3b5b348"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false
+    },
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2021-02-19"
+      }
+    ],
+    "country": "XW",
+    "date": "2021-02-19",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "genres": [
+      {
+        "count": 1,
+        "id": "eb815795-3ac3-4433-b957-b14e7ccf112d",
+        "name": "chicago house",
+        "disambiguation": ""
+      },
+      {
+        "disambiguation": "",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "name": "deep house",
+        "count": 2
+      },
+      {
+        "name": "electronic",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "disambiguation": "",
+        "count": 2
+      },
+      {
+        "id": "092f40b5-9157-41f2-8243-68b704cd0ed1",
+        "name": "garage house",
+        "disambiguation": "",
+        "count": 2
+      },
+      {
+        "count": 2,
+        "disambiguation": "",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "name": "house"
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": "Official",
+    "release-group": {
+      "id": "7093ebcd-bb83-49c4-bc44-e06bdc8f62d3",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2021-02-19",
+      "disambiguation": "",
+      "genres": [
+        {
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "name": "deep house",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "disco",
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea"
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic"
+        },
+        {
+          "name": "garage house",
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "title": "House of Universe",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": []
+    },
+    "id": "67dccf2a-d82f-4592-aaf3-71270d36171a"
+  },
+  {
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "id": "6946509d-c23c-4ca7-adcf-3e3645e61f3e",
+    "release-group": {
+      "id": "c4e572c5-2d09-498c-8247-c10e2cdd8fb4",
+      "primary-type": "EP",
+      "secondary-types": [],
+      "first-release-date": "2020",
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "disambiguation": ""
+        },
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "title": "Mind Power EP",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": []
+    },
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "format": "12\" Vinyl",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "number": "A1",
+            "position": 1,
+            "title": "Mind Power",
+            "length": null,
+            "recording": {
+              "video": false,
+              "id": "700de26b-c9ce-4d7d-b42a-77245d9fd754",
+              "first-release-date": "2020",
+              "genres": [],
+              "disambiguation": "",
+              "title": "Mind Power",
+              "length": null
+            },
+            "id": "ea721a0c-93d4-4a03-a739-229a4469d108"
+          },
+          {
+            "id": "962b02ab-7ec8-430d-8d96-affc2b908b5a",
+            "recording": {
+              "length": null,
+              "title": "Get Deepy",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2020",
+              "id": "48ecb210-29be-4f9c-a8d7-eb0c62280c97",
+              "video": false
+            },
+            "length": null,
+            "position": 2,
+            "title": "Get Deepy",
+            "number": "A2"
+          },
+          {
+            "id": "36acfe09-6197-4e11-af3f-4619220fb463",
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Acid Shuffle",
+              "length": null,
+              "video": false,
+              "id": "50bd4d2a-4127-41d1-9669-b4196c6c3d31",
+              "first-release-date": "2020"
+            },
+            "length": null,
+            "title": "Acid Shuffle",
+            "position": 3,
+            "number": "B1"
+          },
+          {
+            "recording": {
+              "title": "Acid Shuffle (Diego Krause remix)",
+              "disambiguation": "",
+              "genres": [],
+              "length": null,
+              "id": "74493c44-f1f8-446d-8aab-a489049bf831",
+              "video": false,
+              "first-release-date": "2020"
+            },
+            "id": "83134e04-2ef0-45d2-b45c-e7a60054f164",
+            "number": "B2",
+            "title": "Acid Shuffle (Diego Krause remix)",
+            "position": 4,
+            "length": null
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "id": "802cbd63-8664-32f1-92c8-a172eae649ac",
+        "track-count": 4
+      }
+    ],
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "title": "Mind Power EP",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "packaging-id": null,
+    "date": "2020",
+    "country": "FR",
+    "release-events": [
+      {
+        "date": "2020",
+        "area": {
+          "type-id": null,
+          "id": "08310658-51eb-3801-80de-5a0739207115",
+          "name": "France",
+          "type": null,
+          "iso-3166-1-codes": [
+            "FR"
+          ],
+          "sort-name": "France",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    }
+  },
+  {
+    "title": "Atmosfear EP",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "asin": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "9ba85b87-4021-4b40-986c-3a6d3e4f8ad4",
+            "recording": {
+              "title": "Atmosfear",
+              "genres": [],
+              "disambiguation": "",
+              "length": null,
+              "id": "37bed99e-9833-4435-8716-50e3882371cb",
+              "video": false,
+              "first-release-date": "2021-04"
+            },
+            "position": 1,
+            "title": "Atmosfear",
+            "number": "A1",
+            "length": null
+          },
+          {
+            "recording": {
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "C'Mon, Let Me See",
+              "first-release-date": "2021-04",
+              "video": false,
+              "id": "4dfabed6-c4ef-44cd-8cf0-a56b17e8665d"
+            },
+            "id": "44dc1156-30ff-4752-a337-624b5f6b3658",
+            "length": null,
+            "number": "A2",
+            "title": "C'Mon, Let Me See",
+            "position": 2
+          },
+          {
+            "id": "b7f8d7cd-431b-4546-acdd-9f461192ae32",
+            "recording": {
+              "first-release-date": "2021-04",
+              "video": false,
+              "id": "c997651d-24e5-4402-85aa-a6b17fbadcf7",
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Da Love Feeling (Main Mix)"
+            },
+            "title": "Da Love Feeling (Main Mix)",
+            "position": 3,
+            "number": "B1",
+            "length": null
+          },
+          {
+            "recording": {
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Da Love Feeling (4am Underground Dub)",
+              "first-release-date": "2021-04",
+              "video": false,
+              "id": "9ce95a63-3ba5-4794-9dd0-ab003454653d"
+            },
+            "id": "1bc4d043-a69d-460d-85fa-7a5330157a01",
+            "length": null,
+            "number": "B2",
+            "position": 4,
+            "title": "Da Love Feeling (4am Underground Dub)"
+          },
+          {
+            "title": "Lungomare (Ambient Reprise)",
+            "position": 5,
+            "number": "B3",
+            "length": null,
+            "id": "381c34d4-587f-486f-bc2d-5d1ff8d70d2b",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Lungomare (Ambient Reprise)",
+              "length": null,
+              "video": false,
+              "id": "3dcacb25-a301-40f5-b763-76aeae5408c1",
+              "first-release-date": "2021-04"
+            }
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 5,
+        "id": "7494c206-bc85-3325-aa0b-479965f9a792"
+      }
+    ],
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "France",
+          "iso-3166-1-codes": [
+            "FR"
+          ],
+          "name": "France",
+          "type": null,
+          "id": "08310658-51eb-3801-80de-5a0739207115",
+          "type-id": null
+        },
+        "date": "2021-04"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 2,
+      "front": false
+    },
+    "date": "2021-04",
+    "packaging-id": null,
+    "country": "FR",
+    "status": "Official",
+    "genres": [
+      {
+        "name": "chicago house",
+        "id": "eb815795-3ac3-4433-b957-b14e7ccf112d",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "name": "deep house",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": ""
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "id": "6ae4ecab-e5dc-4ee4-92f6-2834d386ee0e",
+    "release-group": {
+      "title": "Atmosfear EP",
+      "disambiguation": "",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "id": "62e4c7cb-a2b3-462b-8d96-1b0d66ee6cf3",
+          "name": "funky house",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "name": "jackin house",
+          "id": "d5c8b95a-fcf6-4c1d-b98c-a7cb4efb494f",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-type-ids": [],
+      "primary-type-id": null,
+      "id": "8d710e09-d8e4-457c-8efd-d4264449514b",
+      "first-release-date": "2021-04",
+      "secondary-types": [],
+      "primary-type": null
+    }
+  },
+  {
+    "status": null,
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "id": "72d61713-eeab-4362-aa9d-0a28d50e14d4",
+    "release-group": {
+      "id": "90448825-0cc4-4263-8e98-01c235c3d073",
+      "first-release-date": "2018-11-23",
+      "primary-type": "EP",
+      "secondary-types": [],
+      "title": "House Jam EP",
+      "genres": [
+        {
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "count": 2,
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "count": 2
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+    },
+    "title": "Deep House Damage EP",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "asin": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "title": "A1. Touch Me (Sexy Dub)",
+            "position": 1,
+            "number": "1",
+            "length": null,
+            "id": "151bb1a3-75ac-4d76-b9f4-df9a39a7f58f",
+            "recording": {
+              "id": "c2b6a44b-d2e5-4abe-ae11-9f8dc34f9971",
+              "video": false,
+              "first-release-date": "2026-02",
+              "title": "A1. Touch Me (Sexy Dub)",
+              "disambiguation": "",
+              "genres": [],
+              "length": null
+            }
+          },
+          {
+            "id": "a38a54af-08e1-4de9-a46f-b13bf8f377cb",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "A2. I Like It Deep’",
+              "length": null,
+              "video": false,
+              "id": "e1b3d066-a4f6-46b2-a837-8b3bf3e22bc6",
+              "first-release-date": "2026-02"
+            },
+            "length": null,
+            "title": "A2. I Like It Deep’",
+            "position": 2,
+            "number": "2"
+          },
+          {
+            "id": "96e58f61-6c85-4b32-915d-95c29ac59d57",
+            "recording": {
+              "title": "B1. Dub Swangin",
+              "disambiguation": "",
+              "genres": [],
+              "length": null,
+              "id": "f711c523-a766-4f4d-af5b-74e91570fe8f",
+              "video": false,
+              "first-release-date": "2026-02"
+            },
+            "position": 3,
+            "title": "B1. Dub Swangin",
+            "number": "3",
+            "length": null
+          },
+          {
+            "number": "4",
+            "title": "B2. Gonna Work It",
+            "position": 4,
+            "length": null,
+            "recording": {
+              "title": "B2. Gonna Work It",
+              "genres": [],
+              "disambiguation": "",
+              "length": null,
+              "id": "9316cf26-6843-4a9f-89e6-c43e1b5d24de",
+              "video": false,
+              "first-release-date": "2026-02"
+            },
+            "id": "1af1bfb1-afcd-46e9-ab63-82d5b39b4eac"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "position": 1,
+        "format": "12\" Vinyl",
+        "title": "",
+        "track-offset": 0,
+        "track-count": 4,
+        "id": "24143394-5fb5-453c-ba27-52cc8df65474"
+      }
+    ],
+    "status-id": null,
+    "barcode": null,
+    "packaging": null,
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "Germany",
+          "type": null,
+          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+          "iso-3166-1-codes": [
+            "DE"
+          ],
+          "disambiguation": "",
+          "sort-name": "Germany"
+        },
+        "date": "2026-02"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "count": 2,
+      "artwork": true,
+      "back": true,
+      "darkened": false
+    },
+    "packaging-id": null,
+    "date": "2026-02",
+    "country": "DE"
+  },
+  {
+    "id": "84e7f304-e936-4049-a8e2-20f47df5fdb2",
+    "release-group": {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "title": "Tributes Ltd Collection Vol. 1",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2025-06-03",
+      "id": "8dc70efb-fc07-4977-a0c2-e92fbabc4879"
+    },
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "date": "2025-06-03",
+    "packaging-id": null,
+    "country": "IT",
+    "release-events": [
+      {
+        "date": "2025-06-03",
+        "area": {
+          "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+          "type": null,
+          "name": "Italy",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "Italy",
+          "iso-3166-1-codes": [
+            "IT"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0,
+      "front": false
+    },
+    "media": [
+      {
+        "track-offset": 0,
+        "position": 1,
+        "format": "12\" Vinyl",
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2025-06-03",
+              "id": "e454759c-5742-41ae-ac38-0306724a8d56",
+              "video": false,
+              "length": null,
+              "title": "Celeda - The Underground (St. David Dark Swing Mix)",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "c26a4ad9-ad9f-479a-b6ec-0bea15d37364",
+            "number": "1",
+            "title": "Celeda - The Underground (St. David Dark Swing Mix)",
+            "position": 1,
+            "length": null
+          },
+          {
+            "number": "2",
+            "title": "Patrice Rushen - Haven't You Heard (St. David Gentle Re-Touch)",
+            "position": 2,
+            "length": null,
+            "recording": {
+              "length": null,
+              "title": "Patrice Rushen - Haven't You Heard (St. David Gentle Re-Touch)",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2025-06-03",
+              "id": "44cf8050-b60d-47bb-86c5-b2de346cb832",
+              "video": false
+            },
+            "id": "b18b84be-2669-4cd9-aec2-d1461bca094a"
+          },
+          {
+            "id": "2b82864e-0fb2-4db2-bf6b-20260e01eda5",
+            "recording": {
+              "first-release-date": "2025-06-03",
+              "id": "d3c5cc57-e40a-404e-9d69-3fc0ec7321b8",
+              "video": false,
+              "length": null,
+              "title": "Armando - 100% Disin' Of You (St. David Club Re-Diss)",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "length": null,
+            "position": 3,
+            "title": "Armando - 100% Disin' Of You (St. David Club Re-Diss)",
+            "number": "3"
+          },
+          {
+            "recording": {
+              "title": "The Salsoul Orchestra - Sun After The Rain (St. David Groovylizer Magic Dub)",
+              "genres": [],
+              "disambiguation": "",
+              "length": null,
+              "id": "3786e69a-d42d-40be-98e4-c36d2fa1f584",
+              "video": false,
+              "first-release-date": "2025-06-03"
+            },
+            "id": "493917d6-500e-4cf2-a2f7-a4fd34b8e362",
+            "length": null,
+            "number": "4",
+            "position": 4,
+            "title": "The Salsoul Orchestra - Sun After The Rain (St. David Groovylizer Magic Dub)"
+          }
+        ],
+        "id": "494dcb66-96a0-4bd7-9354-ac191f4d1bea",
+        "track-count": 4
+      }
+    ],
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "title": "Tributes Ltd Collection Vol. 1",
+    "asin": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    }
+  },
+  {
+    "media": [
+      {
+        "id": "c0033fd9-d86a-4df7-8abc-cc13c9258ae3",
+        "track-count": 3,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "id": "30fec823-e1ea-444a-b7b0-135b200f4677",
+            "recording": {
+              "first-release-date": "2024-10",
+              "video": false,
+              "id": "563d025c-366d-4441-b0e3-3cce4e4f3a52",
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Phonky Beat"
+            },
+            "title": "Phonky Beat",
+            "position": 1,
+            "number": "1",
+            "length": null
+          },
+          {
+            "id": "a374f5ae-eeb0-4f02-8c0d-febc1a00dd0b",
+            "recording": {
+              "first-release-date": "2024-10",
+              "id": "19e3b792-bb2b-408e-bb0c-30b2b93704e3",
+              "video": false,
+              "length": null,
+              "title": "Terrone’s Groove",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "title": "Terrone’s Groove",
+            "position": 2,
+            "number": "2",
+            "length": null
+          },
+          {
+            "number": "3",
+            "position": 3,
+            "title": "It’s Just A Dub",
+            "length": null,
+            "recording": {
+              "first-release-date": "2024-10",
+              "id": "cc2e23ec-b3df-4a1a-b774-8c5475969c3c",
+              "video": false,
+              "length": null,
+              "title": "It’s Just A Dub",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "47b96e01-3383-43ff-9527-d48b42cb2d96"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "packaging": null,
+    "barcode": null,
+    "status-id": null,
+    "title": "4 DJ’s Only EP",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "asin": null,
+    "date": "2024-10",
+    "packaging-id": null,
+    "country": "GB",
+    "release-events": [
+      {
+        "date": "2024-10",
+        "area": {
+          "type-id": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "name": "United Kingdom",
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "disambiguation": "",
+          "sort-name": "United Kingdom"
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "status": null,
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "id": "878495bb-4af9-4db3-b2d6-7f6de1896e08",
+    "release-group": {
+      "title": "4 DJ’s Only EP",
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": null,
+      "id": "1599f4e5-30f8-4804-a349-0a5d327ed2e2",
+      "first-release-date": "2024-10",
+      "primary-type": null,
+      "secondary-types": []
+    }
+  },
+  {
+    "id": "8afdb981-1453-4059-8d86-67a55f05f35b",
+    "release-group": {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "title": "Club Swing EP",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2022-05-31",
+      "id": "27d49f09-a9e8-4184-b138-8dc81774ee21"
+    },
+    "status": "Official",
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+          "type": null,
+          "name": "Italy",
+          "iso-3166-1-codes": [
+            "IT"
+          ],
+          "sort-name": "Italy",
+          "disambiguation": ""
+        },
+        "date": "2022-05-31"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 2,
+      "artwork": true
+    },
+    "packaging-id": null,
+    "date": "2022-05-31",
+    "country": "IT",
+    "title": "Club Swing EP",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null,
+    "media": [
+      {
+        "id": "9988db6f-9937-3156-82a4-66630d34932a",
+        "track-count": 4,
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "12\" Vinyl",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "length": null,
+            "number": "1",
+            "title": "I See U' Movin",
+            "position": 1,
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "I See U' Movin",
+              "length": null,
+              "video": false,
+              "id": "1216b3e0-2c54-403e-941c-d30e496e2cbe",
+              "first-release-date": "2022-05-31"
+            },
+            "id": "175702ee-0d46-441e-837d-d48360cd38d4"
+          },
+          {
+            "id": "7a524982-b468-4b22-85cf-5884e80dab4c",
+            "recording": {
+              "id": "4e863042-4685-4bfe-b14c-1589f29a946a",
+              "video": false,
+              "first-release-date": "2022-05-31",
+              "title": "Blow Damn It !",
+              "genres": [],
+              "disambiguation": "",
+              "length": null
+            },
+            "title": "Blow Damn It !",
+            "position": 2,
+            "number": "2",
+            "length": null
+          },
+          {
+            "length": null,
+            "number": "3",
+            "position": 3,
+            "title": "The House Phreak",
+            "recording": {
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "The House Phreak",
+              "first-release-date": "2022-05-31",
+              "video": false,
+              "id": "14fd9138-2b9f-420c-9846-774635c2e994"
+            },
+            "id": "c31d75fc-96e4-45bc-a3e6-3fb32691d033"
+          },
+          {
+            "recording": {
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Swing It Beat",
+              "first-release-date": "2022-05-31",
+              "video": false,
+              "id": "a44a3bcb-1f68-4687-ac19-4183560bc7bd"
+            },
+            "id": "e72c5b29-06a6-4801-85a7-54c8b9170038",
+            "number": "4",
+            "position": 4,
+            "title": "Swing It Beat",
+            "length": null
+          }
+        ]
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "packaging": null
+  },
+  {
+    "release-group": {
+      "id": "d3068603-d8e7-4375-93e0-9ce40515d957",
+      "first-release-date": "2026-05-08",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "title": "The Message Of Love",
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+    },
+    "id": "8be59045-f95d-4d77-a0d9-17b7b35ed977",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "status": "Official",
+    "country": "XW",
+    "date": "2026-05-08",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "date": "2026-05-08",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "packaging": "None",
+    "barcode": "820200692320",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "d2891dc1-7884-4508-9016-5c0f4677b9b3",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Keep on Reachin'",
+              "length": 357887,
+              "video": false,
+              "id": "63f1a206-3de4-4ce5-9e51-b529cd889f2c",
+              "first-release-date": "2026-05-08"
+            },
+            "length": 357887,
+            "title": "Keep on Reachin'",
+            "position": 1,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "title": "Extortion",
+            "position": 2,
+            "length": 349117,
+            "recording": {
+              "title": "Extortion",
+              "genres": [],
+              "disambiguation": "",
+              "length": 349117,
+              "id": "600d5b14-5ea1-4b4b-b494-683125f9d90b",
+              "video": false,
+              "first-release-date": "2026-05-08"
+            },
+            "id": "f921188a-06c7-42dc-9ed4-3f7567c20995"
+          },
+          {
+            "id": "0e30962c-0143-41f1-b3e8-bc9eb8e9a843",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Message of Love",
+              "length": 307566,
+              "video": false,
+              "id": "f00f9eab-e9f6-49f3-9d5f-24799b973c72",
+              "first-release-date": "2026-05-08"
+            },
+            "length": 307566,
+            "title": "Message of Love",
+            "position": 3,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "position": 4,
+            "title": "Just Like Dat",
+            "length": 327948,
+            "recording": {
+              "length": 327948,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Just Like Dat",
+              "first-release-date": "2026-05-08",
+              "video": false,
+              "id": "fb869216-4889-4f3d-bb77-4cd2a37ad473"
+            },
+            "id": "7bff8a95-1a2b-4f4c-be6d-7c811609d902"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 4,
+        "id": "04e2336d-ba40-4c19-9ec0-c6dc1d689de3"
+      }
+    ],
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "The Message Of Love"
+  },
+  {
+    "id": "8e313d55-0c13-4f96-95c3-dd486877f51e",
+    "release-group": {
+      "disambiguation": "",
+      "genres": [],
+      "title": "A Sample Story EP",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "id": "64292e83-93ff-4e6b-9e31-ad8849e05291",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2023-06"
+    },
+    "status": null,
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "release-events": [
+      {
+        "date": "2023-06",
+        "area": {
+          "iso-3166-1-codes": [
+            "IT"
+          ],
+          "sort-name": "Italy",
+          "disambiguation": "",
+          "type-id": null,
+          "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+          "name": "Italy",
+          "type": null
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": false,
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false
+    },
+    "date": "2023-06",
+    "packaging-id": null,
+    "country": "IT",
+    "title": "A Sample Story EP",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null,
+    "media": [
+      {
+        "id": "e7de68b3-f935-3c2a-9955-e0154ae8ccbb",
+        "track-count": 4,
+        "track-offset": 0,
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "id": "305eb2fa-ba45-4919-bc86-1e4d2455f6bd",
+            "recording": {
+              "video": false,
+              "id": "a999240d-897d-42ca-b00c-0287f6a2be8b",
+              "first-release-date": "2023-06",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Get Fonk !",
+              "length": null
+            },
+            "position": 1,
+            "title": "Get Fonk !",
+            "number": "A1",
+            "length": null
+          },
+          {
+            "id": "cd0fc232-b9d9-4f74-ad1d-960e59ee840b",
+            "recording": {
+              "video": false,
+              "id": "9d66e89e-59e1-41cc-9686-c78aab0ec7cc",
+              "first-release-date": "2023-06",
+              "disambiguation": "",
+              "genres": [],
+              "title": "I Wanna Dance",
+              "length": null
+            },
+            "length": null,
+            "title": "I Wanna Dance",
+            "position": 2,
+            "number": "A2"
+          },
+          {
+            "recording": {
+              "first-release-date": "2023-06",
+              "id": "296437a7-4073-449f-a894-984c53e632c9",
+              "video": false,
+              "length": null,
+              "title": "A Sample Story",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "f933c26c-7973-4ea7-bebe-96cc81e3d57f",
+            "length": null,
+            "number": "B1",
+            "title": "A Sample Story",
+            "position": 3
+          },
+          {
+            "length": null,
+            "number": "B2",
+            "title": "Just 4 Luv'",
+            "position": 4,
+            "recording": {
+              "first-release-date": "2023-06",
+              "video": false,
+              "id": "4ab7b52d-6db4-4c4b-83f7-b7d64b598e6c",
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Just 4 Luv'"
+            },
+            "id": "dd8f6095-e6ac-4ecb-9c55-f2cdcdeb9f47"
+          }
+        ]
+      }
+    ],
+    "packaging": null,
+    "status-id": null,
+    "barcode": null
+  },
+  {
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [
+      {
+        "disambiguation": "",
+        "name": "electronic",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "count": 1
+      },
+      {
+        "disambiguation": "",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "name": "house",
+        "count": 1
+      }
+    ],
+    "quality": "normal",
+    "id": "9c93f146-6a15-4cf5-85a9-317053d778da",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Swaggy Tools EP",
+      "genres": [],
+      "disambiguation": "",
+      "first-release-date": "2025-06-13",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "12cacefb-cce8-4c18-b9cd-cb9df31e4423"
+    },
+    "media": [
+      {
+        "track-offset": 0,
+        "position": 1,
+        "format": "Digital Media",
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "video": false,
+              "id": "8206d896-1bbe-4cd4-804e-798546aa81d2",
+              "first-release-date": "2025-06-13",
+              "genres": [],
+              "disambiguation": "",
+              "title": "Kinky About It",
+              "length": 381639
+            },
+            "id": "8281e78d-70a7-4f4c-a3be-1ab8701bd650",
+            "number": "1",
+            "position": 1,
+            "title": "Kinky About It",
+            "length": 381639
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "title": "Swaggy Tool",
+            "length": 293852,
+            "recording": {
+              "title": "Swaggy Tool",
+              "disambiguation": "",
+              "genres": [],
+              "length": 293852,
+              "id": "b07591c6-8dc4-4a29-bb73-e6b52cbdd1ae",
+              "video": false,
+              "first-release-date": "2025-06-13"
+            },
+            "id": "2a63a0cf-b6fb-4b4d-82f6-ab8ea52b7236"
+          },
+          {
+            "number": "3",
+            "position": 3,
+            "title": "Funkin on U",
+            "length": 370909,
+            "recording": {
+              "length": 370909,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Funkin on U",
+              "first-release-date": "2025-06-13",
+              "video": false,
+              "id": "c11eb176-b3fe-4566-b24d-5602dbb05599"
+            },
+            "id": "bc98bbca-716e-45e0-9483-428ad7ed21d0"
+          },
+          {
+            "id": "43ece4eb-bb7d-4d97-9f48-234269038aa7",
+            "recording": {
+              "length": 340656,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Hit Me",
+              "first-release-date": "2025-06-13",
+              "video": false,
+              "id": "e5f349a9-c4e5-4f87-8f21-fd4ed02eca63"
+            },
+            "position": 4,
+            "title": "Hit Me",
+            "number": "4",
+            "length": 340656
+          }
+        ],
+        "id": "fde60533-657c-4a58-bcc5-eb5be657dc9b",
+        "track-count": 4
+      }
+    ],
+    "packaging": "None",
+    "barcode": "5054289102639",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "title": "Swaggy Tools EP",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "date": "2025-06-13",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "name": "[Worldwide]",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": ""
+        },
+        "date": "2025-06-13"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    }
+  },
+  {
+    "release-group": {
+      "genres": [
+        {
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "disambiguation": "",
+      "title": "A Touch of Deep EP",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "id": "82e6784d-5b48-44b6-8218-912a71ed38b5",
+      "primary-type": "EP",
+      "secondary-types": [],
+      "first-release-date": "2021"
+    },
+    "id": "9e81d580-7635-45c3-a158-33ae8efa905d",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": "Official",
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 2,
+      "artwork": true
+    },
+    "release-events": [
+      {
+        "area": null,
+        "date": "2021"
+      }
+    ],
+    "country": null,
+    "date": "2021",
+    "packaging-id": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "A Touch of Deep EP",
+    "packaging": null,
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "id": "1a66416d-16ce-3b84-87b8-136f42d76075",
+        "track-count": 3,
+        "title": "",
+        "format": "12\" Vinyl",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "id": "25034201-8d1a-4da3-b984-5c083309b390",
+              "video": false,
+              "first-release-date": "2021",
+              "title": "I Wanna Do You (Underground mix)",
+              "disambiguation": "",
+              "genres": [],
+              "length": null
+            },
+            "id": "e6dd7a94-4907-4456-8d16-fd9c93d13c2e",
+            "length": null,
+            "number": "A1",
+            "position": 1,
+            "title": "I Wanna Do You (Underground mix)"
+          },
+          {
+            "length": null,
+            "number": "B1",
+            "position": 2,
+            "title": "A Deep Touch (Afterhours mix)",
+            "recording": {
+              "video": false,
+              "id": "87e6ede0-8a2c-4719-b256-8304781c6633",
+              "first-release-date": "2021",
+              "genres": [],
+              "disambiguation": "",
+              "title": "A Deep Touch (Afterhours mix)",
+              "length": null
+            },
+            "id": "837eb46d-6c12-44c2-8891-7c6843d78982"
+          },
+          {
+            "id": "454d2897-18b9-4561-baa5-d2e5faee6d83",
+            "recording": {
+              "video": false,
+              "id": "1cbf88c4-6756-46a6-8274-2efef0976271",
+              "first-release-date": "2021",
+              "genres": [],
+              "disambiguation": "",
+              "title": "A Deep Trance (2AM mix)",
+              "length": null
+            },
+            "length": null,
+            "title": "A Deep Trance (2AM mix)",
+            "position": 3,
+            "number": "B2"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+      }
+    ]
+  },
+  {
+    "id": "9e8fa8d2-6bfd-46df-a5d4-1cbd192c95ff",
+    "release-group": {
+      "title": "The Groove EP",
+      "genres": [
+        {
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic"
+        },
+        {
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "d923c935-546c-4bb9-b9f0-2690c27b899b",
+      "first-release-date": "2019-04-09",
+      "secondary-types": [],
+      "primary-type": "EP"
+    },
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "release-events": [
+      {
+        "date": "2019-04-09",
+        "area": {
+          "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+          "type": null,
+          "name": "Italy",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "Italy",
+          "iso-3166-1-codes": [
+            "IT"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": true,
+      "artwork": true,
+      "count": 2
+    },
+    "date": "2019-04-09",
+    "packaging-id": null,
+    "country": "IT",
+    "title": "The Groove EP",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "length": null,
+            "number": "A1",
+            "position": 1,
+            "title": "Piano Beat",
+            "recording": {
+              "first-release-date": "2019-04-09",
+              "id": "5f370f48-206c-4282-bba6-115ef4161d08",
+              "video": false,
+              "length": null,
+              "title": "Piano Beat",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "6302116a-3095-4a2a-896b-d18a0818fff5"
+          },
+          {
+            "length": null,
+            "position": 2,
+            "title": "It's You (Bonus Dub)",
+            "number": "A2",
+            "id": "9e4861a7-03a0-43d4-bc3b-d654e27fc95f",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "It's You (Bonus Dub)",
+              "length": null,
+              "video": false,
+              "id": "daae2b6b-089c-4f47-86b2-33df9c29d26e",
+              "first-release-date": "2019-04-09"
+            }
+          },
+          {
+            "recording": {
+              "length": null,
+              "title": "Boucin'",
+              "genres": [],
+              "disambiguation": "",
+              "first-release-date": "2019-04-09",
+              "id": "2d84ecf5-19bd-40b0-a399-60bbea541bb6",
+              "video": false
+            },
+            "id": "b9c0861e-9f05-4bfa-bb27-6d6fd78fee84",
+            "length": null,
+            "number": "B1",
+            "position": 3,
+            "title": "Boucin'"
+          },
+          {
+            "id": "2e0e9dc6-39a2-4bd8-8263-0ced446f5a05",
+            "recording": {
+              "first-release-date": "2019-04-09",
+              "id": "ff825755-3e5f-4fc4-b232-ea33546a1510",
+              "video": false,
+              "length": null,
+              "title": "I Like That!",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "length": null,
+            "title": "I Like That!",
+            "position": 4,
+            "number": "B2"
+          },
+          {
+            "length": null,
+            "title": "Bonus Beat",
+            "position": 5,
+            "number": "B3",
+            "id": "5b236ff4-3cd8-4837-8c25-9ac327026f0a",
+            "recording": {
+              "video": false,
+              "id": "752f754e-f347-48c4-a88d-f61feede84d0",
+              "first-release-date": "2019-04-09",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Bonus Beat",
+              "length": null
+            }
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 5,
+        "id": "a3f88b3b-40b0-31e7-b88b-c9b251ca1e02"
+      }
+    ],
+    "packaging": null,
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+  },
+  {
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "House of Universe",
+    "packaging": "Plastic Sleeve",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "media": [
+      {
+        "format": "12\" Vinyl",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "id": "867c7c0f-ff41-41ad-9820-bce2d902d9f3",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Nites Into Dreams",
+              "length": 301890,
+              "video": false,
+              "id": "c218c88c-afb1-4389-a119-efaf86ad50c9",
+              "first-release-date": "2021-02-19"
+            },
+            "position": 1,
+            "title": "Nites Into Dreams",
+            "number": "A1",
+            "length": null
+          },
+          {
+            "length": null,
+            "position": 2,
+            "title": "Interplanetar Solar",
+            "number": "A2",
+            "id": "e4b04315-7013-48c8-aec6-96844b05f558",
+            "recording": {
+              "video": false,
+              "id": "7da28f93-f334-4d55-b7a1-31cdf34d946e",
+              "first-release-date": "2021-02-19",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Interplanetar Solar",
+              "length": 387018
+            }
+          },
+          {
+            "length": null,
+            "number": "A3",
+            "position": 3,
+            "title": "Control",
+            "recording": {
+              "first-release-date": "2021-02-19",
+              "video": false,
+              "id": "41e386e1-a422-49b1-86f5-51a6fd23e452",
+              "length": 378659,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Control"
+            },
+            "id": "eb8f4e3b-0a11-403b-a13b-98bb23576fa8"
+          },
+          {
+            "length": null,
+            "number": "B1",
+            "position": 4,
+            "title": "I Can Feel It",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "I Can Feel It",
+              "length": 307755,
+              "video": false,
+              "id": "9cfb74df-b241-4323-b7d3-b8423ec7cbc2",
+              "first-release-date": "2021-02-19"
+            },
+            "id": "b93bc674-103a-4f49-81a7-a932013027e2"
+          },
+          {
+            "id": "5dbba4f2-2ac6-462e-93da-0dad42b4dceb",
+            "recording": {
+              "video": false,
+              "id": "7a78fd43-0dc9-4224-a292-00dc904b6945",
+              "first-release-date": "2021-02-19",
+              "disambiguation": "",
+              "genres": [],
+              "title": "I Can Feel It (Rydm Sectors remix)",
+              "length": 362765
+            },
+            "length": null,
+            "title": "I Can Feel It (Rydm Sectors remix)",
+            "position": 5,
+            "number": "B2"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "id": "d2bc69b5-b679-3ae7-912d-4bd18d0f6042",
+        "track-count": 5
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "release-events": [
+      {
+        "date": "2021-02-19",
+        "area": {
+          "type-id": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type": null,
+          "name": "United Kingdom",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "disambiguation": "",
+          "sort-name": "United Kingdom"
+        }
+      }
+    ],
+    "country": "GB",
+    "date": "2021-02-19",
+    "packaging-id": "bf996342-d111-4d37-b9d6-d759f0787533",
+    "genres": [
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "chicago house",
+        "id": "eb815795-3ac3-4433-b957-b14e7ccf112d"
+      },
+      {
+        "count": 1,
+        "name": "deep house",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "disambiguation": ""
+      },
+      {
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "name": "electronic",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "garage house",
+        "id": "092f40b5-9157-41f2-8243-68b704cd0ed1"
+      },
+      {
+        "count": 1,
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "name": "house",
+        "disambiguation": ""
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": "Official",
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-types": [],
+      "first-release-date": "2021-02-19",
+      "id": "7093ebcd-bb83-49c4-bc44-e06bdc8f62d3",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "name": "deep house"
+        },
+        {
+          "id": "a04d680b-b5c5-4f6a-87a3-f9f1ff98e3ea",
+          "name": "disco",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1",
+          "name": "garage house"
+        },
+        {
+          "count": 2,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house"
+        }
+      ],
+      "title": "House of Universe"
+    },
+    "id": "b0dca5b9-e795-4fa2-9ad3-111e09aa685f"
+  },
+  {
+    "packaging": "None",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "5060519686176",
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "position": 1,
+            "title": "Fools Jam",
+            "length": 399961,
+            "recording": {
+              "first-release-date": "2017-09-01",
+              "video": false,
+              "id": "93548c54-ed41-4c78-99cc-afff0c23463b",
+              "length": 399961,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Fools Jam"
+            },
+            "id": "e09157ad-267d-4a17-88ec-2c7d0193b80f"
+          },
+          {
+            "number": "2",
+            "title": "Night Lovers",
+            "position": 2,
+            "length": 350497,
+            "recording": {
+              "length": 350497,
+              "title": "Night Lovers",
+              "genres": [],
+              "disambiguation": "",
+              "first-release-date": "2017-09-01",
+              "id": "f5e2b672-d0e5-4aa0-9f93-691e5d12882d",
+              "video": false
+            },
+            "id": "5b39ee24-5b27-40a0-8cc3-f1f8e315aa60"
+          },
+          {
+            "recording": {
+              "title": "Dream It (Emphasi mix)",
+              "genres": [],
+              "disambiguation": "",
+              "length": 370094,
+              "id": "282331b6-0f9f-4d49-b673-71345da70df6",
+              "video": false,
+              "first-release-date": "2017-09-01"
+            },
+            "id": "ed610a28-6423-48e6-aeda-54be21d24967",
+            "number": "3",
+            "title": "Dream It (Emphasi mix)",
+            "position": 3,
+            "length": 370094
+          },
+          {
+            "length": 446525,
+            "number": "4",
+            "title": "La Luna (Spiritual dub)",
+            "position": 4,
+            "recording": {
+              "first-release-date": "2017-09-01",
+              "video": false,
+              "id": "e153d772-7562-46c7-acc9-a659d49fa8a8",
+              "length": 446525,
+              "genres": [],
+              "disambiguation": "",
+              "title": "La Luna (Spiritual dub)"
+            },
+            "id": "8e022d1b-e594-44d1-9e8b-ad09d769888d"
+          }
+        ],
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-count": 4,
+        "id": "a46fe82d-7e76-4a56-9402-650819909e35"
+      }
+    ],
+    "asin": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "title": "Fools Jam",
+    "country": "XW",
+    "date": "2017-10-06",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null
+        },
+        "date": "2017-10-06"
+      }
+    ],
+    "disambiguation": "",
+    "genres": [
+      {
+        "count": 1,
+        "name": "deep house",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "disambiguation": ""
+      },
+      {
+        "count": 1,
+        "name": "electronic",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "disambiguation": ""
+      },
+      {
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "count": 1
+      }
+    ],
+    "quality": "normal",
+    "status": "Official",
+    "release-group": {
+      "first-release-date": "2017-09-01",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "16690459-fbce-4d43-93b7-ada779ff18aa",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Fools Jam",
+      "disambiguation": "",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "deep house",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "count": 1
+        }
+      ]
+    },
+    "id": "ce3b0f15-96f6-4abb-93e3-1c699e60c61c"
+  },
+  {
+    "genres": [
+      {
+        "disambiguation": "",
+        "name": "deep house",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "count": 1
+      },
+      {
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+        "name": "electronic",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "name": "hard house",
+        "id": "9c5052e0-36ff-4b92-9447-58f44ffdf682",
+        "disambiguation": "",
+        "count": 1
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": "Official",
+    "release-group": {
+      "title": "Bang Traxx EP",
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "eb815795-3ac3-4433-b957-b14e7ccf112d",
+          "name": "chicago house"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "ghetto house",
+          "id": "75ddea23-a5f4-466c-951c-900d45fc352c"
+        },
+        {
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "b4353a31-aa37-4dc2-8d55-bae33d3c1c5c",
+      "first-release-date": "2020-06-20",
+      "primary-type": "EP",
+      "secondary-types": []
+    },
+    "id": "d1d6301c-da1a-4ca2-9d45-698b9421848f",
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "media": [
+      {
+        "title": "",
+        "format": "12\" Vinyl",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2020-06-20",
+              "video": false,
+              "id": "250cb708-cbf5-4d2b-b214-051c55f1b232",
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Bang's Theme"
+            },
+            "id": "74e82010-13fc-4aa0-a3ba-415bfc914732",
+            "length": null,
+            "number": "A1",
+            "title": "Bang's Theme",
+            "position": 1
+          },
+          {
+            "recording": {
+              "first-release-date": "2020-06-20",
+              "id": "c5f9946b-4983-44ed-9617-3b3479fb8849",
+              "video": false,
+              "length": null,
+              "title": "The Wild Theme",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "13623191-e652-4737-b6be-cabefa396602",
+            "length": null,
+            "number": "A2",
+            "position": 2,
+            "title": "The Wild Theme"
+          },
+          {
+            "number": "B1",
+            "position": 3,
+            "title": "Hot Dance '97",
+            "length": null,
+            "recording": {
+              "length": null,
+              "title": "Hot Dance '97",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2020-06-20",
+              "id": "c2e0fdbe-e631-42ab-821f-af9e3dd8600e",
+              "video": false
+            },
+            "id": "ff587893-3d6a-4dac-8e4c-0d93932b80ca"
+          },
+          {
+            "recording": {
+              "first-release-date": "2020-06-20",
+              "id": "a5b7d242-ebc3-4752-9d58-b23271e19679",
+              "video": false,
+              "length": null,
+              "title": "Smokin' Jam",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "c26e271a-a30f-4947-9ebc-00ebe0e8f29e",
+            "number": "B2",
+            "position": 4,
+            "title": "Smokin' Jam",
+            "length": null
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "id": "16686159-6f26-3c70-ab10-0671069d557b",
+        "track-count": 4
+      }
+    ],
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "asin": null,
+    "title": "Bang Traxx EP",
+    "country": "IT",
+    "date": "2020-06-20",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 2,
+      "darkened": false,
+      "back": true
+    },
+    "release-events": [
+      {
+        "date": "2020-06-20",
+        "area": {
+          "disambiguation": "",
+          "sort-name": "Italy",
+          "iso-3166-1-codes": [
+            "IT"
+          ],
+          "name": "Italy",
+          "type": null,
+          "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+          "type-id": null
+        }
+      }
+    ]
+  }
+]

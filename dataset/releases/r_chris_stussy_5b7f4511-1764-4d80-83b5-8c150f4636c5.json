@@ -1,0 +1,5913 @@
+[
+  {
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "13e35750-7aea-3a42-b12f-399154a002f9",
+        "track-offset": 0,
+        "track-count": 1,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 7200000,
+            "title": "2024-10-12: BBC Radio 1 Essential Mix",
+            "recording": {
+              "video": false,
+              "first-release-date": "2024-10-11",
+              "length": 7200000,
+              "genres": [],
+              "disambiguation": "",
+              "id": "4746f3de-5cf6-422c-9d31-63721119466d",
+              "title": "2024-10-12: BBC Radio 1 Essential Mix"
+            },
+            "position": 1,
+            "id": "4eee0824-ef71-4525-9178-737212803c41"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "format": "Digital Media"
+      }
+    ],
+    "title": "2024-10-12: BBC Radio 1 Essential Mix",
+    "id": "01c33be4-0dd1-49a9-83f3-7620b166ac75",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2024-10-11",
+        "area": {
+          "type-id": null,
+          "name": "United Kingdom",
+          "type": null,
+          "disambiguation": "",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "iso-3166-1-codes": [
+            "GB"
+          ]
+        }
+      }
+    ],
+    "date": "2024-10-11",
+    "genres": [],
+    "release-group": {
+      "genres": [],
+      "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+      "first-release-date": "2024-10-11",
+      "title": "2024-10-12: BBC Radio 1 Essential Mix",
+      "id": "dff86cee-6716-4585-8166-ba44c599812d",
+      "disambiguation": "",
+      "secondary-types": [
+        "DJ-mix"
+      ],
+      "secondary-type-ids": [
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+      ],
+      "primary-type": "Broadcast"
+    },
+    "asin": null,
+    "status": "Bootleg",
+    "barcode": null,
+    "packaging": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "country": "GB",
+    "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+    "cover-art-archive": {
+      "count": 2,
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true
+    },
+    "packaging-id": null,
+    "quality": "normal"
+  },
+  {
+    "barcode": null,
+    "packaging": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "cover-art-archive": {
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false
+    },
+    "packaging-id": null,
+    "quality": "normal",
+    "title": "Timewriter",
+    "media": [
+      {
+        "id": "49efec52-8588-30fd-8a46-a320a7449bbb",
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "track-count": 4,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "id": "30cfc184-1d72-44dd-bcad-6d2a75193207",
+              "disambiguation": "",
+              "title": "Timewriter",
+              "length": 379000,
+              "video": false,
+              "first-release-date": "2020-07-10",
+              "genres": []
+            },
+            "position": 1,
+            "title": "Timewriter",
+            "id": "b527e86f-7f95-4398-b0f7-00ea297dbde9",
+            "length": 379000,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "length": 421000,
+            "id": "adf25d0e-ec35-441c-9a55-4453d68cc1b2",
+            "position": 2,
+            "title": "Serendipity",
+            "recording": {
+              "disambiguation": "",
+              "id": "688eb45e-32f3-481e-9e4b-a9c01ae71c43",
+              "title": "Serendipity",
+              "first-release-date": "2020-07-10",
+              "video": false,
+              "length": 421000,
+              "genres": []
+            }
+          },
+          {
+            "length": 418000,
+            "id": "6689d214-787e-42fb-92f4-a0820e8897ee",
+            "recording": {
+              "id": "5051a7fc-df90-4341-810c-c9f454c0cae1",
+              "disambiguation": "",
+              "title": "Zerlon",
+              "length": 418000,
+              "first-release-date": "2020-07-10",
+              "video": false,
+              "genres": []
+            },
+            "position": 3,
+            "title": "Zerlon",
+            "number": "3"
+          },
+          {
+            "position": 4,
+            "title": "Boiling Point",
+            "recording": {
+              "id": "1372cc8d-e5e5-4d15-85c6-0596e3d9d41c",
+              "disambiguation": "",
+              "title": "Boiling Point",
+              "first-release-date": "2020-07-10",
+              "video": false,
+              "length": 421000,
+              "genres": []
+            },
+            "id": "127fa62c-f541-42fd-85e9-aad63d9f6749",
+            "length": 421000,
+            "number": "4"
+          }
+        ],
+        "track-offset": 0
+      }
+    ],
+    "id": "01e04dec-35fd-49b6-b8b8-cc3eb8ff1085",
+    "release-events": [
+      {
+        "date": "2020-07-10",
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "disambiguation": "",
+    "date": "2020-07-10",
+    "genres": [],
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "first-release-date": "2020-07-10",
+      "title": "Timewriter",
+      "id": "395f899f-193e-4008-9d12-7e5eb1531f74",
+      "disambiguation": ""
+    },
+    "asin": null,
+    "status": "Official"
+  },
+  {
+    "title": "Mysteries Of The Universe",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "afae30fb-1755-3974-acfe-c6caf2a86cf9",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 4,
+        "tracks": [
+          {
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2022-06-03",
+              "video": false,
+              "length": 450000,
+              "title": "Mysteries of the Universe",
+              "id": "d6e8d4b4-beee-4654-a392-9c3aae650cf8",
+              "disambiguation": ""
+            },
+            "title": "Mysteries of the Universe",
+            "id": "2c48ee1c-47ef-434c-8055-9d87626ab259",
+            "length": 450000,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "title": "Hundu Boulevard",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "id": "5410bc93-a60d-4e69-ae46-5f65a80451ed",
+              "title": "Hundu Boulevard",
+              "length": 402000,
+              "first-release-date": "2022-06-03",
+              "video": false,
+              "genres": []
+            },
+            "id": "6df9462d-cdac-4b64-9156-d59cdc7f4486",
+            "length": 402000
+          },
+          {
+            "length": 380000,
+            "title": "Can't Escape",
+            "position": 3,
+            "recording": {
+              "id": "f69cffc2-b541-4f0c-b1e6-ecc0d5d91b25",
+              "disambiguation": "",
+              "title": "Can't Escape",
+              "first-release-date": "2022-06-03",
+              "video": false,
+              "length": 380000,
+              "genres": []
+            },
+            "id": "e525acf6-056d-47b8-86cc-b8fcf46988dc",
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 372000,
+            "position": 4,
+            "title": "A Traveler on the Dusty Road",
+            "recording": {
+              "title": "A Traveler on the Dusty Road",
+              "disambiguation": "",
+              "id": "077d0cde-b807-4c2f-96a7-ef834b1e2523",
+              "genres": [],
+              "first-release-date": "2022-06-03",
+              "video": false,
+              "length": 372000
+            },
+            "id": "0d6677d4-bd2a-44a1-ad89-4103e391a1e2"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "id": "03360228-84f1-40fe-ad2a-1ea4e4424879",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+          "disambiguation": "",
+          "sort-name": "Netherlands",
+          "iso-3166-1-codes": [
+            "NL"
+          ],
+          "type-id": null,
+          "name": "Netherlands"
+        },
+        "date": "2022-06-03"
+      }
+    ],
+    "date": "2022-06-03",
+    "genres": [],
+    "release-group": {
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2022-06-03",
+      "title": "Mysteries Of The Universe",
+      "disambiguation": "",
+      "id": "68c26769-7dc9-4bc5-abfb-2ee06a2cd470",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "asin": null,
+    "status": "Official",
+    "barcode": null,
+    "packaging": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "NL",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "packaging-id": null,
+    "quality": "normal"
+  },
+  {
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "8032730232019",
+    "quality": "normal",
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "artwork": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2016-07-22",
+    "genres": [],
+    "id": "03e7463a-0907-4b83-80ad-f9278a6c6446",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2016-07-22",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "position": 1,
+            "title": "The Heat",
+            "recording": {
+              "video": false,
+              "first-release-date": "2016-07-22",
+              "length": 388000,
+              "genres": [],
+              "disambiguation": "",
+              "id": "b02405ea-a792-4a6d-8b64-dbc6bba56aa0",
+              "title": "The Heat"
+            },
+            "id": "cd209f40-37e0-4952-9bf7-f3cd05e22476",
+            "length": 388000
+          },
+          {
+            "number": "2",
+            "length": 388000,
+            "id": "024704e9-371f-413a-aa8f-543243bbd876",
+            "position": 2,
+            "title": "What Ya Doin?",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2016-07-22",
+              "video": false,
+              "length": 388000,
+              "title": "What Ya Doin?",
+              "disambiguation": "",
+              "id": "73487e31-e270-4004-89ac-3b2f909abdc7"
+            }
+          },
+          {
+            "recording": {
+              "length": 406000,
+              "first-release-date": "2016-07-22",
+              "video": false,
+              "genres": [],
+              "id": "d2b9a11f-ae5a-4660-8f09-bd8448073e9b",
+              "disambiguation": "",
+              "title": "No Time"
+            },
+            "position": 3,
+            "title": "No Time",
+            "id": "95ee3368-c474-4191-9746-ef8c87362979",
+            "length": 406000,
+            "number": "3"
+          },
+          {
+            "length": 381000,
+            "id": "087ba27b-5095-475d-92ee-bb8caec6bbc4",
+            "title": "Art of Music",
+            "recording": {
+              "first-release-date": "2016-07-22",
+              "video": false,
+              "length": 381000,
+              "genres": [],
+              "disambiguation": "",
+              "id": "f97d3834-1ffb-44c9-a38e-4ada6981e1d6",
+              "title": "Art of Music"
+            },
+            "position": 4,
+            "number": "4"
+          }
+        ],
+        "track-count": 4,
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "6bc7dfa4-6fa4-48a0-b5a5-374882a3565c",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "title": "The Heat EP",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "title": "The Heat EP",
+      "id": "54c27925-2bdd-4ea6-bb69-920187f71a74",
+      "disambiguation": "",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "first-release-date": "2016-07-22",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    }
+  },
+  {
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "artwork": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "quality": "normal",
+    "barcode": "4251243872848",
+    "packaging": "None",
+    "text-representation": {
+      "language": "hau",
+      "script": "Latn"
+    },
+    "release-group": {
+      "title": "Wanna Dance EP",
+      "disambiguation": "",
+      "id": "3aa5207b-509e-4595-806d-7fd7ba08b8ae",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "first-release-date": "2017-01-13",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP"
+    },
+    "asin": null,
+    "status": "Official",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Wanna Dance",
+            "position": 1,
+            "recording": {
+              "title": "Wanna Dance",
+              "id": "f06a5ed2-6943-4c10-ab91-6bb0c3eede1f",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2017-01-13",
+              "video": false,
+              "length": 401000
+            },
+            "id": "5d01f1e3-5425-4e67-853b-2f73d5a9ff4d",
+            "length": 401000
+          },
+          {
+            "length": 371000,
+            "title": "Wanna Dance (Studioheist remix)",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2017-01-13",
+              "video": false,
+              "length": 371000,
+              "title": "Wanna Dance (Studioheist remix)",
+              "id": "85045e0d-60ef-40cc-bcd0-ceeae1a814e8",
+              "disambiguation": ""
+            },
+            "id": "eafe6b6d-2851-4e66-bb19-926beb7ef748",
+            "number": "2"
+          },
+          {
+            "length": 348000,
+            "id": "05df4421-672c-4aad-ad50-0de46cf1858b",
+            "position": 3,
+            "title": "Way Of Life",
+            "recording": {
+              "genres": [],
+              "length": 348000,
+              "video": false,
+              "first-release-date": "2017-01-13",
+              "title": "Way Of Life",
+              "disambiguation": "",
+              "id": "da8ed20d-9759-40ca-8b1b-408eb6de5ca9"
+            },
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 419000,
+            "id": "67f90848-c93a-4c7b-8855-53fbea91be01",
+            "title": "Rising",
+            "recording": {
+              "id": "2ec3ba43-b7e6-404e-950a-574b20867cd6",
+              "disambiguation": "",
+              "title": "Rising",
+              "first-release-date": "2017-01-13",
+              "video": false,
+              "length": 419000,
+              "genres": []
+            },
+            "position": 4
+          }
+        ],
+        "track-count": 4,
+        "position": 1,
+        "title": "",
+        "id": "6d381b7f-6bc4-4f80-b4dd-1eee2b012d3f"
+      }
+    ],
+    "title": "Wanna Dance EP",
+    "id": "04911b52-7e5f-4d73-8c44-45d5e28dad66",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2017-01-13"
+      }
+    ],
+    "genres": [],
+    "date": "2017-01-13"
+  },
+  {
+    "id": "0b8bcc77-ba1c-4f20-be14-982893169156",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2018-06-08"
+      }
+    ],
+    "disambiguation": "",
+    "title": "Boogie Trippin EP",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "7dfe16c5-0524-38c4-9925-a0609a6b5f0b",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "title": "Boogie Trippin",
+            "recording": {
+              "title": "Boogie Trippin",
+              "disambiguation": "",
+              "id": "5b9c89f6-4127-4f49-8126-fad61dc7c0ff",
+              "genres": [],
+              "length": 373548,
+              "first-release-date": "2018-06-08",
+              "video": false
+            },
+            "position": 1,
+            "id": "307e479a-fe49-4fd4-9dbe-394017b12f2c",
+            "length": 373548,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "length": 420020,
+            "title": "Flow Distinction",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2018-06-08",
+              "length": 420020,
+              "title": "Flow Distinction",
+              "disambiguation": "",
+              "id": "a7d03f62-155c-4195-a75a-f434801c956e"
+            },
+            "id": "7f07310d-6ddb-48de-8c35-797214b60648"
+          },
+          {
+            "number": "3",
+            "length": 375504,
+            "position": 3,
+            "title": "Next to You",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2018-06-08",
+              "length": 375504,
+              "title": "Next to You",
+              "id": "c1f8725f-a11c-44c3-a576-1a33532b9ee0",
+              "disambiguation": ""
+            },
+            "id": "34ddb0fe-cac2-49ff-bd33-fa4a8b5f2d19"
+          },
+          {
+            "recording": {
+              "id": "9b54532c-6c36-4995-aafa-59deae74dbc1",
+              "disambiguation": "",
+              "title": "Selfless State",
+              "first-release-date": "2018-06-08",
+              "video": false,
+              "length": 373573,
+              "genres": []
+            },
+            "position": 4,
+            "title": "Selfless State",
+            "id": "6f13d6da-db73-4d52-855b-78376ddf5435",
+            "length": 373573,
+            "number": "4"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 4,
+        "format": "Digital Media"
+      }
+    ],
+    "date": "2018-06-08",
+    "genres": [],
+    "asin": null,
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "secondary-types": [],
+      "title": "Boogie Trippin EP",
+      "id": "b6cb59d9-1196-4c9b-8b2e-2b82a9f9bfdd",
+      "disambiguation": "",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2018-06-08"
+    },
+    "status": "Official",
+    "barcode": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "front": false,
+      "back": false,
+      "darkened": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal"
+  },
+  {
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "packaging": "None",
+    "barcode": null,
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "genres": [],
+    "date": "2017-09-29",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": ""
+        },
+        "date": "2017-09-29"
+      }
+    ],
+    "id": "0d9db848-f3fa-4104-a6c8-266825a91257",
+    "disambiguation": "",
+    "title": "Nightdriver EP",
+    "media": [
+      {
+        "id": "2daf8f85-b44e-3460-a49f-6ddfa4d6b299",
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "id": "567da840-3b6f-4b94-a819-d16c8b5d2496",
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2017-09-29",
+              "length": 371581,
+              "title": "Nightdriver",
+              "disambiguation": "",
+              "id": "327dc634-266c-4e65-b3ba-16f2478dac6f"
+            },
+            "title": "Nightdriver",
+            "length": 371581,
+            "number": "1"
+          },
+          {
+            "id": "50b2770e-5db9-4556-9f20-34a19fcced06",
+            "title": "Crate Diggin",
+            "recording": {
+              "id": "2c199478-6d60-4705-80b0-565775a5da7f",
+              "disambiguation": "",
+              "title": "Crate Diggin",
+              "length": 391405,
+              "video": false,
+              "first-release-date": "2017-09-29",
+              "genres": []
+            },
+            "position": 2,
+            "length": 391405,
+            "number": "2"
+          },
+          {
+            "number": "3",
+            "id": "d75e13b2-b37c-455e-a6fb-361b8b74d0db",
+            "title": "One Way",
+            "recording": {
+              "length": 374532,
+              "video": false,
+              "first-release-date": "2017-09-29",
+              "genres": [],
+              "id": "2b44d93e-5d85-4726-8bae-233f6567d6b9",
+              "disambiguation": "",
+              "title": "One Way"
+            },
+            "position": 3,
+            "length": 374532
+          },
+          {
+            "id": "eaf08d78-7ad9-495c-a65f-c7945f794ebf",
+            "recording": {
+              "genres": [],
+              "length": 395296,
+              "first-release-date": "2017-09-29",
+              "video": false,
+              "title": "Lonely",
+              "disambiguation": "",
+              "id": "be73d24b-e543-4039-b6f1-6075de3288cd"
+            },
+            "position": 4,
+            "title": "Lonely",
+            "length": 395296,
+            "number": "4"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 4,
+        "track-offset": 0
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "id": "3c228f98-cda4-4996-9e31-7b2ef09b0e7d",
+      "title": "Nightdriver EP",
+      "first-release-date": "2017-09-29",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+    }
+  },
+  {
+    "date": "2019-09-16",
+    "genres": [],
+    "title": "Electro City Moving EP",
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "05a5a241-2c9e-3189-b2e8-acf3ed1041a7",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 369533,
+            "recording": {
+              "title": "Edge of The Mirror",
+              "id": "8364a48c-0257-48a3-a1c3-ee1233eb76cb",
+              "disambiguation": "",
+              "genres": [],
+              "length": 369533,
+              "video": false,
+              "first-release-date": "2019-09-16"
+            },
+            "position": 1,
+            "title": "Edge of The Mirror",
+            "id": "3513c00d-5f61-47d5-9417-f9bb565ea495",
+            "number": "1"
+          },
+          {
+            "length": 407045,
+            "recording": {
+              "genres": [],
+              "length": 407045,
+              "first-release-date": "2019-09-16",
+              "video": false,
+              "title": "Forever Moving",
+              "id": "60bcc14f-c9d7-459b-a62e-c6c6bb5fb18d",
+              "disambiguation": ""
+            },
+            "title": "Forever Moving",
+            "position": 2,
+            "id": "b1f641e6-0610-40df-a9a5-57c80fbd4aa9",
+            "number": "2"
+          },
+          {
+            "title": "Synchronicity",
+            "recording": {
+              "title": "Synchronicity",
+              "id": "0ca8f6e6-c1a8-426e-9c90-62ab950b3506",
+              "disambiguation": "",
+              "genres": [],
+              "length": 364734,
+              "video": false,
+              "first-release-date": "2019-09-16"
+            },
+            "position": 3,
+            "id": "13ed119d-9abf-4012-b68c-d41b919f0b7b",
+            "length": 364734,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 358074,
+            "id": "46ef669d-0c56-41e0-a2bd-e10c59171bfe",
+            "title": "Electrogirl",
+            "position": 4,
+            "recording": {
+              "title": "Electrogirl",
+              "disambiguation": "",
+              "id": "2fcf9dd2-5e3e-4d80-9902-c92cec043d1f",
+              "genres": [],
+              "length": 358074,
+              "first-release-date": "2019-09-16",
+              "video": false
+            }
+          }
+        ],
+        "track-count": 4
+      }
+    ],
+    "release-events": [
+      {
+        "date": "2019-09-16",
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null
+        }
+      }
+    ],
+    "id": "0ed216ac-4d51-4552-837b-9d55a581c7db",
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "disambiguation": "",
+      "id": "c8cf91dd-88c8-417c-ba0a-dd5b4da60a55",
+      "title": "Electro City Moving EP",
+      "first-release-date": "2019-09-16",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": []
+    },
+    "asin": null,
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "5054284511429",
+    "quality": "normal",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "front": true,
+      "back": false,
+      "darkened": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+  },
+  {
+    "date": "2017-01-13",
+    "genres": [],
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "7afc4895-dc96-31b2-b011-b34ed495fcbc",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 3,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "4b0f3a81-4ac1-4c82-8735-5eea36337e68",
+            "position": 1,
+            "title": "Soul Patrol",
+            "recording": {
+              "title": "Soul Patrol",
+              "id": "703e2442-9d11-4c59-a72b-034e07513445",
+              "disambiguation": "",
+              "genres": [],
+              "length": 351851,
+              "first-release-date": "2017-01-13",
+              "video": false
+            },
+            "length": 351851
+          },
+          {
+            "length": 388758,
+            "title": "Never Tell Me",
+            "position": 2,
+            "recording": {
+              "first-release-date": "2017-01-13",
+              "video": false,
+              "length": 388758,
+              "genres": [],
+              "id": "6a6d5a93-7468-48b2-9bc6-edf139a1e505",
+              "disambiguation": "",
+              "title": "Never Tell Me"
+            },
+            "id": "c0d63261-51b7-47bd-adc6-f00642f251fe",
+            "number": "2"
+          },
+          {
+            "title": "Talking Large",
+            "position": 3,
+            "recording": {
+              "length": 348281,
+              "first-release-date": "2017-01-13",
+              "video": false,
+              "genres": [],
+              "id": "15e88b6a-314a-412f-bb78-49acbecae087",
+              "disambiguation": "",
+              "title": "Talking Large"
+            },
+            "id": "43d38de6-009e-48ed-bc2d-1af703c12517",
+            "length": 348281,
+            "number": "3"
+          }
+        ]
+      }
+    ],
+    "title": "Soul Patrol EP",
+    "release-events": [
+      {
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2017-01-13"
+      }
+    ],
+    "id": "1d2c340a-0207-4f26-bb17-9b3bcd994e88",
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "id": "915b6446-113a-481f-8d6b-f6294e2f8cdf",
+      "disambiguation": "",
+      "title": "Soul Patrol EP",
+      "first-release-date": "2017-01-13",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": []
+    },
+    "asin": null,
+    "packaging": "None",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": null,
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "cover-art-archive": {
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+  },
+  {
+    "title": "Won’t Stop (Don’t)",
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "57e828f9-c1bb-3727-8aa9-e0df9342e9e2",
+        "track-offset": 0,
+        "track-count": 4,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "number": "A1",
+            "length": null,
+            "position": 1,
+            "recording": {
+              "first-release-date": "2024-12-09",
+              "video": false,
+              "length": null,
+              "genres": [],
+              "id": "1ffebdcd-3377-4e9d-9af5-fe1b6514d1f6",
+              "disambiguation": "",
+              "title": "Won’t Stop (Don’t)"
+            },
+            "title": "Won’t Stop (Don’t)",
+            "id": "139ef04c-a7da-44d4-8e57-2af1cb2eaa17"
+          },
+          {
+            "number": "A2",
+            "title": "What Are You Waiting For",
+            "recording": {
+              "video": false,
+              "first-release-date": "2024-12-09",
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "id": "2dc19113-0599-474e-99b8-751ec1cbe350",
+              "title": "What Are You Waiting For"
+            },
+            "position": 2,
+            "id": "27edd935-cb56-49c5-887a-c12fb2d2e7e2",
+            "length": null
+          },
+          {
+            "number": "B1",
+            "position": 3,
+            "title": "Tremont St",
+            "recording": {
+              "title": "Tremont St",
+              "id": "03aee68a-4243-4b48-86fd-089a432105d4",
+              "disambiguation": "",
+              "genres": [],
+              "length": null,
+              "first-release-date": "2024-12-09",
+              "video": false
+            },
+            "id": "267be9f9-d618-4064-a386-11999d747d32",
+            "length": null
+          },
+          {
+            "number": "B2",
+            "length": null,
+            "recording": {
+              "id": "78a1cf5f-1913-4966-b8b9-929c3d8256f1",
+              "disambiguation": "",
+              "title": "Lost in Paradise",
+              "video": false,
+              "first-release-date": "2024-12-09",
+              "length": null,
+              "genres": []
+            },
+            "title": "Lost in Paradise",
+            "position": 4,
+            "id": "df99a818-edd9-4c47-9af5-f4ce7ba6a29d"
+          }
+        ],
+        "format": "12\" Vinyl"
+      }
+    ],
+    "release-events": [
+      {
+        "date": "2024-12-09",
+        "area": {
+          "type-id": null,
+          "name": "Netherlands",
+          "type": null,
+          "iso-3166-1-codes": [
+            "NL"
+          ],
+          "sort-name": "Netherlands",
+          "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "id": "2f526b46-179f-4571-9422-46ae050559fc",
+    "disambiguation": "",
+    "date": "2024-12-09",
+    "genres": [
+      {
+        "disambiguation": "",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "count": 1
+      }
+    ],
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "title": "Won't Stop (Don't)",
+      "disambiguation": "",
+      "id": "e996a879-b582-4381-9678-3136e1585371",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2024-11-22"
+    },
+    "asin": null,
+    "status": null,
+    "barcode": null,
+    "packaging": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "status-id": null,
+    "country": "NL",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "count": 0,
+      "artwork": false
+    },
+    "quality": "normal"
+  },
+  {
+    "quality": "normal",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false
+    },
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "barcode": "091012373268",
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "disambiguation": "",
+      "id": "9e284db8-5993-4fdf-885a-51d2e171e4a9",
+      "title": "The Machine",
+      "first-release-date": "2016-01-15",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "asin": null,
+    "genres": [],
+    "date": "2016-01-15",
+    "media": [
+      {
+        "track-count": 1,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 356000,
+            "title": "The Machine (original mix)",
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "length": 356000,
+              "first-release-date": "2016-01-15",
+              "video": false,
+              "title": "The Machine (original mix)",
+              "disambiguation": "",
+              "id": "a47e227f-37a2-4174-861f-a360e50fe7f6"
+            },
+            "id": "a46d701b-3374-434b-8072-a99222352634"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "bc94417a-e80b-4f23-8db6-293710b99faf",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "title": "The Machine",
+    "id": "31a25b37-599a-436d-9176-d218e716b63d",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2016-01-15"
+      }
+    ]
+  },
+  {
+    "asin": null,
+    "release-group": {
+      "id": "9ec61fed-4029-47b0-8561-c3ca4180207a",
+      "disambiguation": "",
+      "title": "Display & Sustain",
+      "first-release-date": "2018-02-02",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": []
+    },
+    "status": "Official",
+    "id": "337e154c-b7cf-4251-bb12-b03dd0ec7074",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null
+        },
+        "date": "2018-02-02"
+      }
+    ],
+    "disambiguation": "",
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "2f0b4714-0d71-485b-80cd-3219000a5df8",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Display",
+            "recording": {
+              "genres": [],
+              "length": 384000,
+              "first-release-date": "2018-02-02",
+              "video": false,
+              "title": "Display",
+              "id": "c4d8cc0d-d111-43ed-aa54-7d259a2dd0e4",
+              "disambiguation": ""
+            },
+            "id": "66be0708-f121-49f2-8fa0-b742ee85b0a5",
+            "length": 384000,
+            "number": "1"
+          },
+          {
+            "id": "3c74e70b-94d4-4ab7-8ecb-a9da45f4faf4",
+            "position": 2,
+            "title": "Sustain",
+            "recording": {
+              "genres": [],
+              "length": 378000,
+              "first-release-date": "2018-02-02",
+              "video": false,
+              "title": "Sustain",
+              "disambiguation": "",
+              "id": "3394480c-62e2-429b-90a5-5465eb263ed1"
+            },
+            "length": 378000,
+            "number": "2"
+          }
+        ],
+        "track-count": 2,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Display & Sustain",
+    "date": "2018-02-02",
+    "genres": [],
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "quality": "normal",
+    "barcode": "8718723099448",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "packaging": "None"
+  },
+  {
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2020-04-17",
+      "title": "Nunchi",
+      "id": "a24eb6d7-668d-406f-ab66-4de2f261367d",
+      "disambiguation": ""
+    },
+    "asin": null,
+    "date": "2020-04-17",
+    "genres": [],
+    "title": "Nunchi",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "84f2174f-7dfc-4599-a84c-27b0f9761d79",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 3,
+        "tracks": [
+          {
+            "number": "1",
+            "id": "0e3063e2-d676-4d81-8fad-d866f586fd57",
+            "recording": {
+              "id": "2c5b9e9a-7676-406a-a594-9b0a868f114a",
+              "disambiguation": "",
+              "title": "Wake Ning",
+              "video": false,
+              "first-release-date": "2020-04-17",
+              "length": 385000,
+              "genres": []
+            },
+            "title": "Wake Ning",
+            "position": 1,
+            "length": 385000
+          },
+          {
+            "length": 371000,
+            "id": "74643186-516a-4ce1-ba59-158143e61fd4",
+            "position": 2,
+            "title": "Nunchi",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2020-04-17",
+              "length": 371000,
+              "title": "Nunchi",
+              "disambiguation": "",
+              "id": "ce794907-2680-4f28-a502-a07498b2ea6f"
+            },
+            "number": "2"
+          },
+          {
+            "number": "3",
+            "id": "5eb85a67-26e2-4ad3-b99a-c5edef19d42f",
+            "position": 3,
+            "title": "Sonaris",
+            "recording": {
+              "genres": [],
+              "length": 428000,
+              "first-release-date": "2020-04-17",
+              "video": false,
+              "title": "Sonaris",
+              "disambiguation": "",
+              "id": "5a67e88f-425c-4bbe-9fca-2415a7de5058"
+            },
+            "length": 428000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "id": "3549c22d-a48c-4e90-a422-64301c22f915",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2020-04-17",
+        "area": {
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        }
+      }
+    ],
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "packaging": "None",
+    "text-representation": {
+      "language": "run",
+      "script": "Latn"
+    },
+    "barcode": "5060731227447"
+  },
+  {
+    "disambiguation": "",
+    "id": "3931b202-8660-4302-b5d4-08b8f3f5b1c3",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type": null
+        },
+        "date": "2020-01-31"
+      }
+    ],
+    "media": [
+      {
+        "id": "e09c731d-253d-3b39-ba26-ddc48a97141b",
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "track-count": 3,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 364749,
+            "id": "3d5b58f6-f287-4172-99c8-dcb8fda327c3",
+            "position": 1,
+            "title": "Torino",
+            "recording": {
+              "title": "Torino",
+              "id": "b2ad9be6-ab65-4f68-b080-2216d5e9be50",
+              "disambiguation": "",
+              "genres": [],
+              "length": 364749,
+              "video": false,
+              "first-release-date": "2020-01-31"
+            }
+          },
+          {
+            "number": "2",
+            "length": 385370,
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "length": 385370,
+              "first-release-date": "2020-01-31",
+              "video": false,
+              "title": "Modiletion",
+              "id": "749f1f01-f9b4-4145-bcbd-91d47a8260cc",
+              "disambiguation": ""
+            },
+            "title": "Modiletion",
+            "id": "0b4b1d86-dc83-402a-9808-9bee1e806179"
+          },
+          {
+            "number": "3",
+            "id": "cf73d99b-d6ea-4a8c-9a3d-bc92d318ac7c",
+            "title": "Never Ending Story",
+            "recording": {
+              "disambiguation": "",
+              "id": "f22c1c0e-d2ac-4473-aabe-a9f9759e335e",
+              "title": "Never Ending Story",
+              "first-release-date": "2020-01-31",
+              "video": false,
+              "length": 379851,
+              "genres": []
+            },
+            "position": 3,
+            "length": 379851
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0
+      }
+    ],
+    "title": "ENDZ032",
+    "date": "2020-01-31",
+    "genres": [],
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2020-01-31",
+      "title": "ENDZ032",
+      "disambiguation": "",
+      "id": "3d911d97-635f-4d51-8c60-23d9ff1a2292"
+    },
+    "status": "Official",
+    "barcode": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal"
+  },
+  {
+    "barcode": "3617397086844",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal",
+    "id": "3cc4d2ae-c393-4352-83c5-60ea4e654f5a",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null
+        },
+        "date": "2025-09-05"
+      }
+    ],
+    "title": "Sakura",
+    "media": [
+      {
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 384000,
+            "position": 1,
+            "title": "Sakura",
+            "recording": {
+              "genres": [],
+              "length": 384000,
+              "first-release-date": "2025-09-05",
+              "video": false,
+              "title": "Sakura",
+              "disambiguation": "",
+              "id": "6b2e413e-37a9-4b74-a3f2-4b4bd785e7be"
+            },
+            "id": "96c5f20b-85c8-446e-b7cd-b3ecc5132f17",
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "id": "5fd632dc-4713-42da-a096-1d838688ddd3",
+            "recording": {
+              "id": "267dbcb6-bd76-46ae-beda-5df27e7a8ffc",
+              "disambiguation": "",
+              "title": "The Funktion",
+              "length": 369000,
+              "first-release-date": "2025-09-05",
+              "video": false,
+              "genres": []
+            },
+            "position": 2,
+            "title": "The Funktion",
+            "length": 369000
+          },
+          {
+            "number": "3",
+            "length": 358000,
+            "recording": {
+              "genres": [],
+              "length": 358000,
+              "video": false,
+              "first-release-date": "2025-09-05",
+              "title": "Rendevouz",
+              "id": "53dfa89e-5556-4ac7-8ae9-79151a89afb9",
+              "disambiguation": ""
+            },
+            "position": 3,
+            "title": "Rendevouz",
+            "id": "bdaac446-8694-456a-bc52-21e4e69d525b"
+          },
+          {
+            "length": 367000,
+            "id": "d0b3e195-a6f8-4b7d-9b5e-063c18b59e48",
+            "title": "Mindtrippin'",
+            "position": 4,
+            "recording": {
+              "length": 367000,
+              "first-release-date": "2025-09-05",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "a8131b1b-6c09-4b34-882e-353f4d4afc4b",
+              "title": "Mindtrippin'"
+            },
+            "number": "4"
+          },
+          {
+            "title": "E-Motion",
+            "position": 5,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2025-09-05",
+              "length": 425000,
+              "title": "E-Motion",
+              "id": "b8504fba-dd25-4113-b18e-bdc93f96cd63",
+              "disambiguation": ""
+            },
+            "id": "3a0efb55-186d-4afb-8ded-ec30d3f14402",
+            "length": 425000,
+            "number": "5"
+          },
+          {
+            "number": "6",
+            "id": "a76cc5ac-ce73-41d6-9afb-9f8186206ee1",
+            "position": 6,
+            "title": "Liquid Rocks",
+            "recording": {
+              "disambiguation": "",
+              "id": "68cf5912-dea3-400a-afd1-ac8361b1e4b8",
+              "title": "Liquid Rocks",
+              "video": false,
+              "first-release-date": "2025-09-05",
+              "length": 348000,
+              "genres": []
+            },
+            "length": 348000
+          },
+          {
+            "number": "7",
+            "length": 314000,
+            "id": "37582a59-d412-4c9d-89d5-034cf82fafea",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2025-09-05",
+              "length": 314000,
+              "title": "A Love Letter…",
+              "disambiguation": "",
+              "id": "d143ca41-aa84-4f05-9b08-116b150ae380"
+            },
+            "position": 7,
+            "title": "A Love Letter…"
+          },
+          {
+            "length": 369000,
+            "recording": {
+              "length": 369000,
+              "video": false,
+              "first-release-date": "2025-09-05",
+              "genres": [],
+              "id": "b3599891-e54a-4fdc-a888-0dd8a65a3af6",
+              "disambiguation": "",
+              "title": "Da Resurrection"
+            },
+            "position": 8,
+            "title": "Da Resurrection",
+            "id": "a9a6944f-ad9b-4099-a95d-b0b6557affaf",
+            "number": "8"
+          }
+        ],
+        "track-count": 8,
+        "track-offset": 0,
+        "id": "6bc01aef-56d7-42e2-9b1e-2bfec34cff52",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "date": "2025-09-05",
+    "genres": [],
+    "asin": null,
+    "release-group": {
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Sakura",
+      "disambiguation": "",
+      "id": "a43f21fe-05c4-441c-af42-5ffdf5a65ac0",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "first-release-date": "2025-09-05"
+    },
+    "status": "Official"
+  },
+  {
+    "packaging": null,
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "barcode": null,
+    "quality": "normal",
+    "country": null,
+    "status-id": null,
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false
+    },
+    "packaging-id": null,
+    "genres": [
+      {
+        "id": "70adb285-e1f7-458a-823f-5cbda5e291c4",
+        "disambiguation": "",
+        "count": 1,
+        "name": "progressive house"
+      },
+      {
+        "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+        "disambiguation": "",
+        "count": 1,
+        "name": "tech house"
+      }
+    ],
+    "date": "2024-11-15",
+    "media": [
+      {
+        "id": "3ce2da60-eb22-39bc-b386-9014add34cf7",
+        "title": "",
+        "position": 1,
+        "tracks": [
+          {
+            "id": "6bde1554-a938-4ab1-9309-3fc78bdb86ac",
+            "title": "Go (extended mix)",
+            "recording": {
+              "genres": [],
+              "length": 375000,
+              "first-release-date": "2024-11-15",
+              "video": false,
+              "title": "Go (extended mix)",
+              "id": "07e7b470-67ef-4fc9-8d84-7db5d893d3db",
+              "disambiguation": ""
+            },
+            "position": 1,
+            "length": 375000,
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Go (extended mix)",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2024-11-15"
+      }
+    ],
+    "id": "3f668e31-2b86-4507-b5b8-503075cc6627",
+    "disambiguation": "",
+    "status": null,
+    "release-group": {
+      "genres": [
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "70adb285-e1f7-458a-823f-5cbda5e291c4",
+          "name": "progressive house"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+          "name": "tech house"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2024-11-01",
+      "title": "Go (extended mix)",
+      "disambiguation": "",
+      "id": "c11e0dca-a3c2-413f-9217-4030f856c7a4",
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "asin": null
+  },
+  {
+    "release-events": [
+      {
+        "date": "2024-11-22",
+        "area": {
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        }
+      }
+    ],
+    "id": "43997888-330c-4bf7-bda6-70725536e20b",
+    "disambiguation": "",
+    "media": [
+      {
+        "id": "fb4892de-0477-3c76-a8fa-802c7a27375e",
+        "position": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Won't Stop (Don't)",
+            "recording": {
+              "first-release-date": "2024-11-22",
+              "video": false,
+              "length": 233306,
+              "genres": [],
+              "id": "850018cd-b6e8-4835-93a4-114a3387d4d4",
+              "disambiguation": "",
+              "title": "Won't Stop (Don't)"
+            },
+            "id": "9d605bef-3b0a-4b8e-8bb3-e2c24da4355a",
+            "length": 233306,
+            "number": "1"
+          }
+        ],
+        "track-count": 1,
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Won't Stop (Don't)",
+    "genres": [],
+    "date": "2024-11-22",
+    "asin": null,
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2024-11-22",
+      "title": "Won't Stop (Don't)",
+      "disambiguation": "",
+      "id": "e996a879-b582-4381-9678-3136e1585371",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": []
+    },
+    "status": "Official",
+    "barcode": "3617664346381",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "quality": "normal"
+  },
+  {
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal",
+    "barcode": "5054286440994",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "asin": null,
+    "release-group": {
+      "id": "8a08a25f-ddbc-4059-8e8f-2e82ca76e2ee",
+      "disambiguation": "",
+      "title": "Angel in the Sky",
+      "first-release-date": "2022-03-07",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [
+        {
+          "name": "deep house",
+          "count": 1,
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "name": "house",
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1
+        }
+      ],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "secondary-types": []
+    },
+    "status": "Official",
+    "id": "4558dadd-61f9-4b74-945d-09316d27cc1d",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2022-03-07",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 4,
+        "tracks": [
+          {
+            "number": "1",
+            "id": "22212ad7-a208-46eb-a45f-c0872c755e3f",
+            "recording": {
+              "disambiguation": "",
+              "id": "bcac49cd-6d2e-4270-8d36-9bd3cc06f576",
+              "title": "Fessor of Dabz",
+              "video": false,
+              "first-release-date": "2022-03-07",
+              "length": 385479,
+              "genres": []
+            },
+            "title": "Fessor of Dabz",
+            "position": 1,
+            "length": 385479
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "recording": {
+              "title": "Questions of Today",
+              "id": "7ccb5a39-9eae-4c06-91f1-842413427f7c",
+              "disambiguation": "",
+              "genres": [],
+              "length": 406220,
+              "first-release-date": "2022-03-07",
+              "video": false
+            },
+            "title": "Questions of Today",
+            "id": "f7d5bffc-c3a1-44e9-8053-c2625e69a823",
+            "length": 406220
+          },
+          {
+            "length": 361160,
+            "title": "Neutral Tones",
+            "position": 3,
+            "recording": {
+              "id": "cd4eec11-81d8-40c5-a9d8-98480fbf109e",
+              "disambiguation": "",
+              "title": "Neutral Tones",
+              "first-release-date": "2022-03-07",
+              "video": false,
+              "length": 361160,
+              "genres": []
+            },
+            "id": "3a830f78-c34a-4c0a-bc0d-ee8b767aee47",
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "position": 4,
+            "title": "Angel in the Sky",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2022-03-07",
+              "video": false,
+              "length": 370057,
+              "title": "Angel in the Sky",
+              "id": "d7af620e-30e4-4984-b964-44e4a0817cd6",
+              "disambiguation": ""
+            },
+            "id": "120c7b26-3c4b-4c87-9c78-04f7dac550eb",
+            "length": 370057
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "title": "",
+        "id": "5aa500bf-7fad-37b0-a4d0-a20a43dfb76e"
+      }
+    ],
+    "title": "Angel in the Sky",
+    "genres": [],
+    "date": "2022-03-07"
+  },
+  {
+    "barcode": "3617667061960",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 0,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "artwork": false
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal",
+    "release-events": [
+      {
+        "date": "2025-01-31",
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "id": "47bc478d-7fff-44bc-a037-3040a7c2f0f0",
+    "disambiguation": "",
+    "title": "It’s About Us",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "cd553ebe-eb89-4fab-a371-196a44a864dd",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "It’s About Us",
+            "recording": {
+              "id": "59556085-e704-4ba7-a906-6e0a1060c456",
+              "disambiguation": "",
+              "title": "It’s About Us",
+              "first-release-date": "2025-01-31",
+              "video": false,
+              "length": 232000,
+              "genres": []
+            },
+            "id": "a4a1d0f6-4b38-47f6-a02b-78e5842e64d7",
+            "length": 232000,
+            "number": "1"
+          }
+        ],
+        "track-count": 1,
+        "format": "Digital Media"
+      }
+    ],
+    "genres": [],
+    "date": "2025-01-31",
+    "asin": null,
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": [],
+      "title": "It’s About Us",
+      "id": "307ed394-5cb6-46c4-b5a9-1c6a90e86b2b",
+      "disambiguation": "",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2025-01-31"
+    },
+    "status": "Official"
+  },
+  {
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "title": "Wide Awake",
+      "disambiguation": "",
+      "id": "13cfd3c2-5ecf-4316-84a4-f769cacb8d08",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2026-03-20"
+    },
+    "status": "Official",
+    "disambiguation": "",
+    "id": "49b43b4a-bc16-43d5-9809-39d61181c992",
+    "release-events": [
+      {
+        "date": "2026-03-20",
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type": null
+        }
+      }
+    ],
+    "title": "Wide Awake",
+    "media": [
+      {
+        "track-count": 1,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 256901,
+            "title": "Wide Awake",
+            "recording": {
+              "id": "486a7b36-df25-4d94-a281-e8112c3f7c7a",
+              "disambiguation": "",
+              "title": "Wide Awake",
+              "first-release-date": "2026-03-20",
+              "video": false,
+              "length": 256901,
+              "genres": []
+            },
+            "position": 1,
+            "id": "8e6cbd43-39df-47ba-bae1-a888bcef498a"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "45a83ee2-09dc-404d-9724-255ab8c845f4",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "genres": [],
+    "date": "2026-03-20",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal",
+    "barcode": "5026854743196",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None"
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "quality": "normal",
+    "barcode": "197190967067",
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "6dc03a07-3c43-4547-913a-d3460e26c37e",
+      "title": "Desire",
+      "first-release-date": "2024-02-09",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": []
+    },
+    "asin": null,
+    "status": "Official",
+    "title": "Desire",
+    "media": [
+      {
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 171953,
+            "title": "Desire",
+            "recording": {
+              "title": "Desire",
+              "id": "9d619150-6b0f-4f14-b038-8503ae4c6c8f",
+              "disambiguation": "",
+              "genres": [],
+              "length": 171953,
+              "video": false,
+              "first-release-date": "2024-02-09"
+            },
+            "position": 1,
+            "id": "0969326b-c182-4027-8810-5eae33953539"
+          }
+        ],
+        "track-count": 1,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "id": "0168950d-ecb5-3d87-a94f-60515cf2cc5e"
+      }
+    ],
+    "disambiguation": "",
+    "id": "4df304a8-3f71-4c7b-b520-b1efc158a177",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        },
+        "date": "2024-02-09"
+      }
+    ],
+    "genres": [],
+    "date": "2024-02-09"
+  },
+  {
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "first-release-date": "2015-12-04",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "disambiguation": "",
+      "id": "e678cdb4-3f75-43a4-8ad6-21d638d52f64",
+      "title": "For The Music"
+    },
+    "asin": null,
+    "status": "Official",
+    "title": "For The Music",
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "length": 399374,
+            "position": 1,
+            "title": "For The Music",
+            "recording": {
+              "video": false,
+              "first-release-date": "2015-12-04",
+              "length": 399374,
+              "genres": [],
+              "id": "8534e489-5fcb-4be6-a24c-a9c332e2db81",
+              "disambiguation": "",
+              "title": "For The Music"
+            },
+            "id": "8809c744-0db3-43bb-adec-1d2aa1a6e862",
+            "number": "1"
+          },
+          {
+            "id": "1283c79f-d213-41a5-83f7-2f8ffcf397fa",
+            "title": "Tear Apart",
+            "position": 2,
+            "recording": {
+              "title": "Tear Apart",
+              "disambiguation": "",
+              "id": "0e1c6174-b2f9-4ed9-a259-c43915ec46f7",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2015-12-04",
+              "length": 377774
+            },
+            "length": 377774,
+            "number": "2"
+          },
+          {
+            "number": "3",
+            "position": 3,
+            "title": "Everybody",
+            "recording": {
+              "length": 379793,
+              "first-release-date": "2015-12-04",
+              "video": false,
+              "genres": [],
+              "id": "f3cf39c0-b45a-4594-8c9b-0f7d824e997f",
+              "disambiguation": "",
+              "title": "Everybody"
+            },
+            "id": "308c62b7-e9c0-4ba7-9963-a172d3aacc5c",
+            "length": 379793
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 3,
+        "track-offset": 0,
+        "id": "fdf849d0-ef85-3c5b-9b15-887372108384",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "id": "512f602d-bab4-438b-8c06-f9db70e1dd6a",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null
+        },
+        "date": "2015-12-04"
+      }
+    ],
+    "date": "2015-12-04",
+    "genres": [],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "quality": "normal",
+    "barcode": null,
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": null
+    }
+  },
+  {
+    "barcode": "820200211811",
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "artwork": true
+    },
+    "quality": "normal",
+    "title": "Darkness",
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "42714548-4639-4d6f-ba8b-3e9596c2d5f3",
+        "track-offset": 0,
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 234558,
+            "title": "Darkness",
+            "position": 1,
+            "recording": {
+              "length": 234558,
+              "first-release-date": "2026-03-13",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "38ce34ed-ebf1-43b6-a804-e153561b2d3e",
+              "title": "Darkness"
+            },
+            "id": "f2b1518c-4b84-41a4-a561-764c4008ab2e"
+          }
+        ],
+        "format": "Digital Media"
+      }
+    ],
+    "id": "56464592-69b9-4ceb-8b58-705e18484f09",
+    "release-events": [
+      {
+        "date": "2026-03-13",
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "disambiguation": "",
+    "genres": [],
+    "date": "2026-03-13",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "title": "Darkness",
+      "id": "3d9b4a1e-8140-4825-9484-b694407ebb96",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2026-03-13"
+    },
+    "asin": null,
+    "status": "Official"
+  },
+  {
+    "barcode": "5055803526047",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal",
+    "disambiguation": "",
+    "id": "59bab07b-a480-4a2f-ad99-16ad22e57a5f",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2017-02-27"
+      }
+    ],
+    "title": "Music On EP",
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "c820d092-626a-49f0-9b2d-629db2259efe",
+        "track-offset": 0,
+        "track-count": 3,
+        "tracks": [
+          {
+            "position": 1,
+            "recording": {
+              "id": "fe03fd87-73e4-4f36-a4af-dae1db99579b",
+              "disambiguation": "",
+              "title": "Music On",
+              "first-release-date": "2017-02-27",
+              "video": false,
+              "length": 509000,
+              "genres": []
+            },
+            "title": "Music On",
+            "id": "179c4bae-8629-4f40-bc5d-189302447220",
+            "length": 509000,
+            "number": "1"
+          },
+          {
+            "length": 449000,
+            "title": "The Truth",
+            "position": 2,
+            "recording": {
+              "length": 449000,
+              "video": false,
+              "first-release-date": "2017-02-27",
+              "genres": [],
+              "disambiguation": "",
+              "id": "90dec19d-69e5-4ad2-97c8-6f89944457ce",
+              "title": "The Truth"
+            },
+            "id": "b523bcee-f766-443b-a1b0-c3af655b8ec6",
+            "number": "2"
+          },
+          {
+            "length": 357000,
+            "id": "fff3b3d2-2749-4475-8e45-04aa9d2d1725",
+            "title": "Feeling",
+            "position": 3,
+            "recording": {
+              "disambiguation": "",
+              "id": "c529c123-fcdc-46ef-8960-8870e27cf5ff",
+              "title": "Feeling",
+              "length": 357000,
+              "first-release-date": "2017-02-27",
+              "video": false,
+              "genres": []
+            },
+            "number": "3"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "format": "Digital Media"
+      }
+    ],
+    "date": "2017-02-27",
+    "genres": [],
+    "asin": null,
+    "release-group": {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "first-release-date": "2017-02-27",
+      "title": "Music On EP",
+      "id": "b0a675c6-28d4-422d-9530-8e9e54931c3b",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP"
+    },
+    "status": "Official"
+  },
+  {
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "first-release-date": "2017-03-03",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "disambiguation": "",
+      "id": "5b619edc-9522-44a7-b440-54508d945ade",
+      "title": "Ladies Night EP",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP"
+    },
+    "date": "2017-03-03",
+    "genres": [],
+    "id": "5b244f38-196d-4f7d-9c23-ec2e23f933df",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2017-03-03",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "title": "Ladies Night EP",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "0984f8e5-79c1-4a3a-b198-6b8b22d4188f",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "number": "1",
+            "id": "c181407a-1b8e-4db4-9f5f-cc8e2b5aaa28",
+            "recording": {
+              "title": "Ladies Night",
+              "disambiguation": "",
+              "id": "9950a61d-db87-4ffb-b142-676ac4ab4d5b",
+              "genres": [],
+              "length": 363000,
+              "video": false,
+              "first-release-date": "2017-03-03"
+            },
+            "position": 1,
+            "title": "Ladies Night",
+            "length": 363000
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "title": "Testing Me",
+            "recording": {
+              "title": "Testing Me",
+              "id": "6c862881-554c-4cce-be65-802346ae59b0",
+              "disambiguation": "",
+              "genres": [],
+              "length": 390000,
+              "video": false,
+              "first-release-date": "2017-03-03"
+            },
+            "id": "4ce1b033-0dbf-4393-a47e-d91b074ba0c4",
+            "length": 390000
+          },
+          {
+            "length": 335000,
+            "id": "9d25cbc9-8469-4794-91cd-a0e5a5391b86",
+            "title": "Funk Alive",
+            "recording": {
+              "id": "e4b2fd63-846f-4013-8815-e59a08c770b0",
+              "disambiguation": "",
+              "title": "Funk Alive",
+              "video": false,
+              "first-release-date": "2017-03-03",
+              "length": 335000,
+              "genres": []
+            },
+            "position": 3,
+            "number": "3"
+          },
+          {
+            "position": 4,
+            "recording": {
+              "title": "Trust Your Game",
+              "id": "08f9d83c-019a-4a2e-a1d5-542f5ebdfb3b",
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2017-03-03",
+              "length": 352000
+            },
+            "title": "Trust Your Game",
+            "id": "371e4f3c-fafd-4ad7-ac7b-822eb383421b",
+            "length": 352000,
+            "number": "4"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 4,
+        "format": "Digital Media"
+      }
+    ],
+    "quality": "normal",
+    "cover-art-archive": {
+      "count": 0,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "artwork": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "packaging": "None",
+    "barcode": "4050486978276"
+  },
+  {
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": null,
+    "quality": "normal",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2021-06-08",
+    "genres": [],
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-count": 4,
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Breather",
+            "recording": {
+              "length": 465323,
+              "first-release-date": "2021-06-08",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "e0ee17b8-17d3-4514-8579-9a1fd127b57f",
+              "title": "Breather"
+            },
+            "id": "406264ee-7f8f-46e3-a225-4fdcab8c8628",
+            "length": 465323,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "id": "e5efeb72-2087-4d74-95cf-96d1779dd909",
+            "recording": {
+              "id": "2745dd06-52ab-41b2-be5f-485203271020",
+              "disambiguation": "",
+              "title": "Spaceship",
+              "video": false,
+              "first-release-date": "2021-06-08",
+              "length": 407040,
+              "genres": []
+            },
+            "position": 2,
+            "title": "Spaceship",
+            "length": 407040
+          },
+          {
+            "number": "3",
+            "length": 433279,
+            "title": "Get Together",
+            "position": 3,
+            "recording": {
+              "title": "Get Together",
+              "id": "bdf9b00e-8deb-429b-a492-7c846a3978aa",
+              "disambiguation": "",
+              "genres": [],
+              "length": 433279,
+              "first-release-date": "2021-06-08",
+              "video": false
+            },
+            "id": "c5e7c959-0b24-49d8-a1d7-b5b10eda5949"
+          },
+          {
+            "position": 4,
+            "title": "Sonic Mana",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2021-06-08",
+              "video": false,
+              "length": 487500,
+              "title": "Sonic Mana",
+              "disambiguation": "",
+              "id": "2486d141-eed9-409d-ab6b-1d6589c3a384"
+            },
+            "id": "fec41b8e-c385-46c6-996c-28a840282ef2",
+            "length": 487500,
+            "number": "4"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "c54f6f36-0609-33f3-89c3-797713f5d78a",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "title": "Get Together",
+    "id": "5bc6e44a-02e4-4499-ab5c-2449c67a1b4f",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]"
+        },
+        "date": "2021-06-08"
+      }
+    ],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "title": "Get Together",
+      "disambiguation": "",
+      "id": "d3bb7439-9a72-4549-bf11-ea893f6a6807",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [
+        {
+          "name": "deep house",
+          "count": 1,
+          "disambiguation": "",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f"
+        },
+        {
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "name": "house",
+          "count": 1,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "first-release-date": "2021-06-08",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP"
+    },
+    "asin": null
+  },
+  {
+    "packaging": "None",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": "197189806988",
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": false,
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "count": 0
+    },
+    "genres": [],
+    "date": "2023-10-06",
+    "title": "Midtown Playground EP",
+    "media": [
+      {
+        "id": "d2cbaa39-4194-4aba-9757-45f70b3b3f68",
+        "title": "",
+        "position": 1,
+        "track-count": 5,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "length": 222000,
+              "video": false,
+              "first-release-date": "2023-10-06",
+              "title": "Midtown Playground",
+              "disambiguation": "",
+              "id": "3f5a92f1-cb14-4865-8979-e330b6f96f32"
+            },
+            "title": "Midtown Playground",
+            "id": "4a259a3d-c28b-47da-b9fb-1f07c6168d2d",
+            "length": 222000,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "id": "eb45d3de-1663-4ce4-bb18-58074695e00f",
+            "recording": {
+              "title": "From The Delicate Mist Of Morning",
+              "disambiguation": "",
+              "id": "9350aa64-2ab6-4511-930a-f2b28a92a1f5",
+              "genres": [],
+              "length": 424000,
+              "first-release-date": "2023-10-06",
+              "video": false
+            },
+            "title": "From The Delicate Mist Of Morning",
+            "position": 2,
+            "length": 424000
+          },
+          {
+            "number": "3",
+            "recording": {
+              "first-release-date": "2023-10-06",
+              "video": false,
+              "length": 234000,
+              "genres": [],
+              "disambiguation": "",
+              "id": "cdada57c-d770-4cf9-99bf-fd7a2eb60890",
+              "title": "Blueprint"
+            },
+            "title": "Blueprint",
+            "position": 3,
+            "id": "3510b056-7974-4703-acea-d640e5ea0ae4",
+            "length": 234000
+          },
+          {
+            "length": 435000,
+            "id": "0eb8c081-c5b7-4a6b-8eb7-af1da6afd56d",
+            "title": "From the Delicate Mist of Morning (Huerta remix)",
+            "recording": {
+              "title": "From the Delicate Mist of Morning (Huerta remix)",
+              "id": "9b254b43-2178-4c64-9bd9-e0dbae471355",
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2023-10-06",
+              "length": 435000
+            },
+            "position": 4,
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "length": 424000,
+            "title": "Mythical Power",
+            "recording": {
+              "length": 424000,
+              "video": false,
+              "first-release-date": "2023-10-06",
+              "genres": [],
+              "id": "c09295f1-4003-44ce-b510-0c91db96c0be",
+              "disambiguation": "",
+              "title": "Mythical Power"
+            },
+            "position": 5,
+            "id": "a7235d73-846a-4e3b-a28a-d5b4afba50cc"
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "disambiguation": "",
+    "id": "5ccb4fc9-f2d6-4b1b-8e68-72754567afe0",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2023-10-06"
+      }
+    ],
+    "status": "Official",
+    "release-group": {
+      "disambiguation": "",
+      "id": "598d9bbd-67e9-4eda-af1e-96a99ea2a6dc",
+      "title": "Midtown Playground EP",
+      "first-release-date": "2023-10-06",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": []
+    },
+    "asin": null
+  },
+  {
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "5054284254449",
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "genres": [],
+    "date": "2019-04-08",
+    "title": "Politics Of Dancing X Chris Stussy & Sun Archive",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-count": 2,
+        "tracks": [
+          {
+            "number": "1",
+            "id": "53e5a721-d1fb-42e1-a4f4-179bed111dc9",
+            "position": 1,
+            "recording": {
+              "id": "3cbe9213-13c7-49ff-9808-d1f14f93563c",
+              "disambiguation": "",
+              "title": "Politics Of Dancing X Chris Stussy",
+              "length": 375000,
+              "video": false,
+              "first-release-date": "2019-04-08",
+              "genres": []
+            },
+            "title": "Politics Of Dancing X Chris Stussy",
+            "length": 375000
+          },
+          {
+            "length": 390000,
+            "id": "64add1f0-2509-42be-8caf-87bd0220e36b",
+            "title": "Politics Of Dancing X Sun Archive",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2019-04-08",
+              "video": false,
+              "length": 390000,
+              "title": "Politics Of Dancing X Sun Archive",
+              "id": "1fceef5b-f9bd-4785-895a-3bebebbec2da",
+              "disambiguation": ""
+            },
+            "number": "2"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "b20b9902-bfea-4797-9815-0ae921c1299d",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": ""
+        },
+        "date": "2019-04-08"
+      }
+    ],
+    "id": "5e823d66-681a-45d8-a293-c02d1cd3528b",
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "disambiguation": "",
+      "id": "7674db4c-f11e-47ef-b174-40ee326875d4",
+      "title": "Politics Of Dancing X Chris Stussy & Sun Archive",
+      "first-release-date": "2019-04-08",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": []
+    },
+    "asin": null
+  },
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "barcode": null,
+    "quality": "normal",
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "count": 0,
+      "artwork": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2019-10-01",
+    "genres": [],
+    "id": "5f29ad17-877c-436a-a5cd-c6e11fcf6ffc",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2019-10-01",
+        "area": {
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        }
+      }
+    ],
+    "title": "Valvetribe",
+    "media": [
+      {
+        "id": "b4b0aa12-f0d9-38da-b95c-2af245d598ec",
+        "title": "",
+        "position": 1,
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 420015,
+            "position": 1,
+            "title": "Valvetribe",
+            "recording": {
+              "length": 420015,
+              "video": false,
+              "first-release-date": "2019-10-01",
+              "genres": [],
+              "disambiguation": "",
+              "id": "640253c0-0a16-46c4-8b79-5033d14cb490",
+              "title": "Valvetribe"
+            },
+            "id": "5a6d3487-d318-4573-bd91-00bd5e3dea56"
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "disambiguation": "",
+      "id": "b6026c7c-6768-41a7-8427-76d450a82de6",
+      "title": "Valvetribe",
+      "first-release-date": "2019-10-01",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    }
+  },
+  {
+    "status": "Official",
+    "release-group": {
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2016-06-20",
+      "title": "Take My Swing",
+      "disambiguation": "",
+      "id": "a71bbd5f-adcb-4b0f-bead-0425adfff74b",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": []
+    },
+    "asin": null,
+    "date": "2016-06-20",
+    "genres": [],
+    "title": "Take My Swing",
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "bc1a5620-c29e-47b7-8d98-fadabfb21312",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "recording": {
+              "length": 395000,
+              "video": false,
+              "first-release-date": "2016-06-20",
+              "genres": [],
+              "disambiguation": "",
+              "id": "e5930d52-57e7-4287-a380-5dadeff0b39c",
+              "title": "Take My Swing (dub mix)"
+            },
+            "title": "Take My Swing (dub mix)",
+            "position": 1,
+            "id": "eccded01-af1e-429e-8faa-6a48296fdd62",
+            "length": 395000
+          },
+          {
+            "number": "2",
+            "length": 393000,
+            "position": 2,
+            "title": "Alright, Let’s Go!",
+            "recording": {
+              "title": "Alright, Let’s Go!",
+              "disambiguation": "",
+              "id": "ea52bd38-81fd-4d5f-bfc5-0e99ec2e48ca",
+              "genres": [],
+              "first-release-date": "2016-06-20",
+              "video": false,
+              "length": 393000
+            },
+            "id": "3b34f0ba-b402-4a74-aa00-a9a428a7f15b"
+          },
+          {
+            "position": 3,
+            "title": "Get Him Up (dub mix)",
+            "recording": {
+              "title": "Get Him Up (dub mix)",
+              "id": "d767ec65-8b20-4f7d-b279-5c32fc0ab814",
+              "disambiguation": "",
+              "genres": [],
+              "length": 380000,
+              "first-release-date": "2016-06-20",
+              "video": false
+            },
+            "id": "1df121df-0ccc-4d42-9829-607838752a69",
+            "length": 380000,
+            "number": "3"
+          }
+        ],
+        "track-count": 3,
+        "format": "Digital Media"
+      }
+    ],
+    "id": "6d1458fd-d666-456d-a938-f7953502d784",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2016-06-20",
+        "area": {
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "quality": "normal",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "artwork": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "barcode": "8718522473180"
+  },
+  {
+    "barcode": "199081172222",
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "quality": "normal",
+    "title": "What U Do EP",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 4,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "a3acdd90-df47-42c4-b242-c770276d3f83",
+            "position": 1,
+            "recording": {
+              "title": "Noir Infusion",
+              "disambiguation": "",
+              "id": "76290acc-bcc3-4634-9d36-1f0b56247429",
+              "genres": [],
+              "length": 401000,
+              "video": false,
+              "first-release-date": "2019-07-05"
+            },
+            "title": "Noir Infusion",
+            "length": 401000,
+            "number": "1"
+          },
+          {
+            "length": 382000,
+            "id": "242eb1ba-1510-4002-9757-560c702c309c",
+            "position": 2,
+            "title": "Mont Blanc",
+            "recording": {
+              "title": "Mont Blanc",
+              "disambiguation": "",
+              "id": "9c70a3ad-6e0b-4f47-815d-a7b5f9c19166",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2019-07-05",
+              "length": 382000
+            },
+            "number": "2"
+          },
+          {
+            "length": 428000,
+            "id": "2b870fe6-c676-40e3-9392-bb1e4d626dc2",
+            "position": 3,
+            "title": "Whatudo",
+            "recording": {
+              "disambiguation": "",
+              "id": "49c1e126-56d0-49e4-a677-334d6838c2e7",
+              "title": "Whatudo",
+              "first-release-date": "2019-07-05",
+              "video": false,
+              "length": 428000,
+              "genres": []
+            },
+            "number": "3"
+          },
+          {
+            "id": "9964dbef-19b2-44e3-8f33-30cb78f92515",
+            "recording": {
+              "title": "Mountain River",
+              "disambiguation": "",
+              "id": "9cfb8c0b-85bd-4830-969f-a6bade2758ad",
+              "genres": [],
+              "length": 434000,
+              "video": false,
+              "first-release-date": "2019-07-05"
+            },
+            "position": 4,
+            "title": "Mountain River",
+            "length": 434000,
+            "number": "4"
+          }
+        ],
+        "position": 1,
+        "title": "",
+        "id": "593ff11b-c7c7-4dc5-8c50-ac7075821abe"
+      }
+    ],
+    "disambiguation": "",
+    "id": "7682b670-9e60-467d-951e-82cc7ea5fc3e",
+    "release-events": [
+      {
+        "date": "2019-07-05",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        }
+      }
+    ],
+    "genres": [],
+    "date": "2019-07-05",
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "title": "What U Do EP",
+      "disambiguation": "",
+      "id": "67c048e6-a16e-41fd-afe1-1ceb03afb19d",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2019-07-05"
+    },
+    "asin": null,
+    "status": "Official"
+  },
+  {
+    "release-group": {
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2019-07-12",
+      "title": "Reminders, Vol. 5",
+      "disambiguation": "",
+      "id": "84a37abb-3411-460d-bb2c-b545bca74a88",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "asin": null,
+    "status": "Official",
+    "media": [
+      {
+        "track-offset": 0,
+        "track-count": 2,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "03b52a34-4605-47f5-aa18-a9ab54db06ff",
+            "position": 1,
+            "title": "Atlas",
+            "recording": {
+              "title": "Atlas",
+              "disambiguation": "",
+              "id": "8611b2f3-3e39-4bfa-9dda-7b91a924e4c7",
+              "genres": [],
+              "length": 368005,
+              "video": false,
+              "first-release-date": "2019-07-12"
+            },
+            "length": 368005,
+            "number": "1"
+          },
+          {
+            "length": 450488,
+            "id": "0c62daeb-f22f-49ce-afbb-c2a868bc8a8f",
+            "position": 2,
+            "title": "Unplugged",
+            "recording": {
+              "id": "4eeaf1fa-c422-461b-903c-fc6d4c8f0192",
+              "disambiguation": "",
+              "title": "Unplugged",
+              "video": false,
+              "first-release-date": "2019-07-12",
+              "length": 450488,
+              "genres": []
+            },
+            "number": "2"
+          }
+        ],
+        "format": "Digital Media",
+        "position": 1,
+        "title": "",
+        "id": "9e2b4644-967a-3775-a4d2-fed9f56b67ed"
+      }
+    ],
+    "title": "Reminders, Vol. 5",
+    "id": "78d2c79c-a126-4537-9300-d60c5be78d3e",
+    "release-events": [
+      {
+        "date": "2019-07-12",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "disambiguation": "",
+    "date": "2019-07-12",
+    "genres": [
+      {
+        "name": "deep house",
+        "disambiguation": "",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "count": 1
+      },
+      {
+        "name": "deep tech",
+        "count": 1,
+        "disambiguation": "",
+        "id": "82c2ef18-d28a-48fa-992e-793328bcc117"
+      }
+    ],
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "6c1b253b-aa08-4d1f-8381-3ee480ed57ab",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "quality": "normal",
+    "barcode": "4058765448427",
+    "packaging": "Digifile",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    }
+  },
+  {
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "packaging": "None",
+    "barcode": "4251243858521",
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "date": "2017-08-25",
+    "genres": [],
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": ""
+        },
+        "date": "2017-08-25"
+      }
+    ],
+    "id": "7af0b61a-4c30-4b83-8dda-cfbb6c1ec32b",
+    "disambiguation": "",
+    "title": "Brooklyn Tears EP",
+    "media": [
+      {
+        "id": "e56add1e-5b3a-40bc-848c-f9f62e0e6b44",
+        "position": 1,
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "acd03026-f40e-4051-9a96-fd1905b6416e",
+            "recording": {
+              "disambiguation": "",
+              "id": "d7a59565-4f22-4894-b5c8-9885599a6001",
+              "title": "Brooklyn Tears",
+              "video": false,
+              "first-release-date": "2017-08-25",
+              "length": 358000,
+              "genres": []
+            },
+            "position": 1,
+            "title": "Brooklyn Tears",
+            "length": 358000
+          },
+          {
+            "number": "2",
+            "title": "Polar",
+            "position": 2,
+            "recording": {
+              "title": "Polar",
+              "id": "9b118e67-1a71-4abe-8b61-caf415e3b56e",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2017-08-25",
+              "video": false,
+              "length": 404000
+            },
+            "id": "65ff412d-c55d-4fe7-be9c-ad5a30074df5",
+            "length": 404000
+          },
+          {
+            "id": "3740e4e7-b6d8-4e34-add7-f6b3cfac0ca4",
+            "position": 3,
+            "title": "Tunnelvision",
+            "recording": {
+              "title": "Tunnelvision",
+              "id": "03c6a046-e962-450f-842d-f1f08802754c",
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2017-08-25",
+              "length": 375000
+            },
+            "length": 375000,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 349000,
+            "title": "That Groove",
+            "recording": {
+              "title": "That Groove",
+              "id": "a7bb3491-db39-4e59-bd55-1134b883d79c",
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2017-08-25",
+              "length": 349000
+            },
+            "position": 4,
+            "id": "f67250bd-2d0c-42ae-9b99-ce862434d28c"
+          }
+        ],
+        "track-count": 4,
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "id": "232e74bb-7e48-45d2-8ee4-448705efa440",
+      "disambiguation": "",
+      "title": "Brooklyn Tears EP",
+      "first-release-date": "2017-08-25",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    }
+  },
+  {
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-count": 1,
+        "tracks": [
+          {
+            "id": "2e6b5c23-05a8-4690-9cbf-ac9a36d8e7b9",
+            "position": 1,
+            "title": "All Night Long (Original Mix)",
+            "recording": {
+              "length": 426128,
+              "first-release-date": "2023-05-26",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "f18e9f5a-a494-4f78-84b3-7c8e6d18299d",
+              "title": "All Night Long (Original Mix)"
+            },
+            "length": 426128,
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "091d766e-22e2-3859-9432-c68c51809b4a",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "title": "All Night Long (Original Mix)",
+    "release-events": [
+      {
+        "date": "2023-05-26",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "id": "7c5a60a8-1cae-40aa-8f0c-7ba2895ed704",
+    "disambiguation": "",
+    "date": "2023-05-26",
+    "genres": [],
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": [],
+      "title": "All Night Long (Original Mix)",
+      "disambiguation": "",
+      "id": "0b7e5599-3815-4fb9-8e99-bd946c5abe62",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2023-05-26"
+    },
+    "asin": null,
+    "status": "Official",
+    "barcode": null,
+    "packaging": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "artwork": false
+    },
+    "quality": "normal"
+  },
+  {
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "first-release-date": "2020-07-10",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "disambiguation": "",
+      "id": "18df4acc-7b7b-43a8-a0ea-6db13ed98492",
+      "title": "Timewriter EP"
+    },
+    "asin": null,
+    "status": "Official",
+    "title": "Timewriter EP",
+    "media": [
+      {
+        "track-offset": 0,
+        "track-count": 4,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "405615bc-e47a-4b6b-a332-931a5fc40060",
+            "recording": {
+              "id": "d08542a6-84e8-4ff4-a8af-a5beea60d812",
+              "disambiguation": "",
+              "title": "Timewriter (Edit)",
+              "first-release-date": "2020-07-10",
+              "video": false,
+              "length": 242000,
+              "genres": []
+            },
+            "position": 1,
+            "title": "Timewriter (Edit)",
+            "length": 242000,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "length": 241000,
+            "id": "f1cd41a6-c612-43b2-91c4-7c865349cb77",
+            "title": "Serendipity (Edit)",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "id": "e7f3eb88-506c-47b4-ac60-9aaab0c81aac",
+              "title": "Serendipity (Edit)",
+              "length": 241000,
+              "first-release-date": "2020-07-10",
+              "video": false,
+              "genres": []
+            }
+          },
+          {
+            "number": "3",
+            "id": "fbb20883-ce5b-4f93-9e68-a1a3d6d8b064",
+            "title": "Zerlon (Edit)",
+            "position": 3,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2020-07-10",
+              "length": 243000,
+              "title": "Zerlon (Edit)",
+              "disambiguation": "",
+              "id": "22c513bd-df3a-47b5-8d8c-325893618a69"
+            },
+            "length": 243000
+          },
+          {
+            "number": "4",
+            "length": 244000,
+            "id": "75d0dbaa-e271-46ee-9e4f-8a19ac27086d",
+            "position": 4,
+            "recording": {
+              "disambiguation": "",
+              "id": "ac62bdb5-9616-47a8-b807-95983b4e153e",
+              "title": "Boiling Point (Edit)",
+              "first-release-date": "2020-07-10",
+              "video": false,
+              "length": 244000,
+              "genres": []
+            },
+            "title": "Boiling Point (Edit)"
+          }
+        ],
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "id": "698ca34e-009f-4025-adce-10682623422c"
+      }
+    ],
+    "disambiguation": "",
+    "id": "8792f3ee-4017-4b52-a833-96b60fd996fe",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2020-07-10"
+      }
+    ],
+    "date": "2020-07-10",
+    "genres": [],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 0,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "artwork": false
+    },
+    "quality": "normal",
+    "barcode": "5060786563408",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    }
+  },
+  {
+    "quality": "normal",
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "820200471147",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "first-release-date": "2026-04-03",
+      "title": "Lost, Found & Forgotten...",
+      "disambiguation": "",
+      "id": "ba02b1d0-4512-47b5-b5da-f2544021c4f4"
+    },
+    "date": "2026-04-03",
+    "genres": [],
+    "id": "8c5aded3-499d-432e-8865-0e33aac686f0",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]"
+        },
+        "date": "2026-04-03"
+      }
+    ],
+    "disambiguation": "",
+    "title": "Lost, Found & Forgotten...",
+    "media": [
+      {
+        "tracks": [
+          {
+            "number": "1",
+            "length": 174748,
+            "id": "48b1335f-b64b-4e69-9548-9d2374907922",
+            "title": "Moonlight",
+            "position": 1,
+            "recording": {
+              "id": "cc5d132d-9423-4a86-b72d-ba193c82bd98",
+              "disambiguation": "",
+              "title": "Moonlight",
+              "length": 174748,
+              "video": false,
+              "first-release-date": "2026-04-03",
+              "genres": []
+            }
+          },
+          {
+            "number": "2",
+            "length": 234598,
+            "position": 2,
+            "title": "Side to Side",
+            "recording": {
+              "genres": [],
+              "length": 234598,
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "title": "Side to Side",
+              "id": "c1f971d3-5d69-4b12-9289-b26f40e90e36",
+              "disambiguation": ""
+            },
+            "id": "d4dd4260-cc2d-428d-a26b-3514cb07de54"
+          },
+          {
+            "length": 259737,
+            "id": "ffe2038f-1319-4d72-8a88-47168c1234c7",
+            "position": 3,
+            "recording": {
+              "genres": [],
+              "length": 259737,
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "title": "Here for the summer",
+              "id": "fb06a0ce-2bac-44ac-ae4b-2911ca8d3106",
+              "disambiguation": ""
+            },
+            "title": "Here for the summer",
+            "number": "3"
+          },
+          {
+            "id": "ef70cb21-f243-4d27-b303-efa76e48bafb",
+            "title": "Tryna find a way",
+            "recording": {
+              "disambiguation": "",
+              "id": "324db48c-fb26-4696-9eb8-4b3eb58e9eb1",
+              "title": "Tryna find a way",
+              "length": 221553,
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "genres": []
+            },
+            "position": 4,
+            "length": 221553,
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "length": 95428,
+            "id": "6fab40a5-17be-4691-ab33-f7fa66ad6f0b",
+            "position": 5,
+            "recording": {
+              "id": "ba218c2d-e05a-4b4b-9b5c-ef07c4a9a6d8",
+              "disambiguation": "",
+              "title": "Linger (Interlude)",
+              "length": 95428,
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "genres": []
+            },
+            "title": "Linger (Interlude)"
+          },
+          {
+            "number": "6",
+            "length": 234558,
+            "title": "Darkness",
+            "recording": {
+              "video": false,
+              "first-release-date": "2026-04-03",
+              "length": 234558,
+              "genres": [],
+              "disambiguation": "",
+              "id": "d1b51d83-e117-46c5-8a88-941ec7f16384",
+              "title": "Darkness"
+            },
+            "position": 6,
+            "id": "812e44cc-e951-48ad-b117-82ec7c473f29"
+          },
+          {
+            "length": 247230,
+            "recording": {
+              "disambiguation": "",
+              "id": "fbb4872b-c795-46a1-b76c-a6e41dfa5112",
+              "title": "Fantasy",
+              "length": 247230,
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "genres": []
+            },
+            "title": "Fantasy",
+            "position": 7,
+            "id": "578fb63e-ab7f-421f-8d19-a37640e95455",
+            "number": "7"
+          },
+          {
+            "length": 286235,
+            "id": "6ab5c41f-50ab-4703-b7f3-9d54fd2d47f3",
+            "title": "Miraflores",
+            "recording": {
+              "id": "e297f897-9c0a-4ae0-a1ef-8860a10b87ab",
+              "disambiguation": "",
+              "title": "Miraflores",
+              "length": 286235,
+              "video": false,
+              "first-release-date": "2026-04-03",
+              "genres": []
+            },
+            "position": 8,
+            "number": "8"
+          },
+          {
+            "number": "9",
+            "id": "84f44396-bac3-4f53-816c-601a9bb7301e",
+            "recording": {
+              "genres": [],
+              "length": 233613,
+              "video": false,
+              "first-release-date": "2026-04-03",
+              "title": "It's time for a change",
+              "disambiguation": "",
+              "id": "93c5eeb6-161f-45aa-a648-a1746803e5cf"
+            },
+            "title": "It's time for a change",
+            "position": 9,
+            "length": 233613
+          },
+          {
+            "number": "10",
+            "length": 114663,
+            "recording": {
+              "disambiguation": "",
+              "id": "f170b0f1-a32b-460e-8253-2fae66ee5904",
+              "title": "Destination (Interlude)",
+              "video": false,
+              "first-release-date": "2026-04-03",
+              "length": 114663,
+              "genres": []
+            },
+            "title": "Destination (Interlude)",
+            "position": 10,
+            "id": "3e724729-2db3-4765-a404-9be9ae7ca315"
+          },
+          {
+            "length": 256901,
+            "position": 11,
+            "title": "Wide Awake",
+            "recording": {
+              "genres": [],
+              "length": 256901,
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "title": "Wide Awake",
+              "disambiguation": "",
+              "id": "96b6565b-a0c8-4180-bc3a-fc70f701b59d"
+            },
+            "id": "e723fe05-8990-4958-9c80-8ac9901d1c43",
+            "number": "11"
+          },
+          {
+            "length": 252947,
+            "id": "35d5af4b-c9a9-4f2d-9083-615bdf630a97",
+            "title": "Distant Within",
+            "position": 12,
+            "recording": {
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "length": 252947,
+              "genres": [],
+              "id": "66342815-6b07-4ebf-bc66-71dd0f36efc4",
+              "disambiguation": "",
+              "title": "Distant Within"
+            },
+            "number": "12"
+          },
+          {
+            "number": "13",
+            "id": "039d9452-7388-4ce1-8005-9cf8cb23c389",
+            "title": "Believe in yourself",
+            "position": 13,
+            "recording": {
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "length": 260010,
+              "genres": [],
+              "disambiguation": "",
+              "id": "0a99826e-3588-40ca-bf1d-ea6e3d7a6166",
+              "title": "Believe in yourself"
+            },
+            "length": 260010
+          },
+          {
+            "length": 186391,
+            "id": "9389c83a-4562-40f3-a812-41ac38c7684d",
+            "title": "It feels natural",
+            "recording": {
+              "disambiguation": "",
+              "id": "5000126e-e56f-4b62-b54b-c1a7f8e86e42",
+              "title": "It feels natural",
+              "video": false,
+              "first-release-date": "2026-04-03",
+              "length": 186391,
+              "genres": []
+            },
+            "position": 14,
+            "number": "14"
+          },
+          {
+            "number": "15",
+            "length": 246447,
+            "id": "7bb21c90-892d-4ce4-bae2-9e15efca06f4",
+            "position": 15,
+            "title": "If you doubt me",
+            "recording": {
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "length": 246447,
+              "genres": [],
+              "disambiguation": "",
+              "id": "d72bb043-05ab-4550-a465-fba5052863a7",
+              "title": "If you doubt me"
+            }
+          },
+          {
+            "number": "16",
+            "length": 260807,
+            "id": "661d37d5-583f-46f2-a523-cbcc7eb747dc",
+            "recording": {
+              "disambiguation": "",
+              "id": "35e48a26-4a64-4197-b885-18ad786e9ca4",
+              "title": "What makes you feel...",
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "length": 260807,
+              "genres": []
+            },
+            "title": "What makes you feel...",
+            "position": 16
+          },
+          {
+            "number": "17",
+            "length": 268928,
+            "id": "a373ae40-78e6-4868-a3cf-9cde1ed3ce71",
+            "recording": {
+              "genres": [],
+              "length": 268928,
+              "first-release-date": "2026-04-03",
+              "video": false,
+              "title": "Mesmerized",
+              "id": "985ef662-d634-4e79-9666-5c139c8cc963",
+              "disambiguation": ""
+            },
+            "position": 17,
+            "title": "Mesmerized"
+          },
+          {
+            "number": "18",
+            "length": 271974,
+            "title": "Set sail on another ship",
+            "position": 18,
+            "recording": {
+              "video": false,
+              "first-release-date": "2026-04-03",
+              "length": 271974,
+              "genres": [],
+              "disambiguation": "",
+              "id": "ec2bbb85-a3fa-4101-847e-a4685f35a4f4",
+              "title": "Set sail on another ship"
+            },
+            "id": "e93341da-82f4-43e7-b75c-bba0f5790e95"
+          },
+          {
+            "number": "19",
+            "length": 298888,
+            "title": "Keepin' me high",
+            "position": 19,
+            "recording": {
+              "disambiguation": "",
+              "id": "56c94d76-0421-44ec-983d-54fa0c9635a8",
+              "title": "Keepin' me high",
+              "video": false,
+              "first-release-date": "2026-04-03",
+              "length": 298888,
+              "genres": []
+            },
+            "id": "5afb194c-deca-4362-a806-47a7cfaec75f"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 19,
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "ead13f22-1645-4484-9608-6afd57ee6691",
+        "position": 1,
+        "title": ""
+      }
+    ]
+  },
+  {
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "front": false,
+      "back": false,
+      "darkened": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "packaging": "None",
+    "barcode": null,
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "first-release-date": "2016-02-15",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "disambiguation": "",
+      "id": "1427ea34-b11d-4a6c-a0c9-84d5691ccfb4",
+      "title": "Creativity EP",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP"
+    },
+    "date": "2016-02-15",
+    "genres": [],
+    "disambiguation": "",
+    "id": "91a43581-c81b-40d4-a57b-716b779885af",
+    "release-events": [
+      {
+        "date": "2016-02-15",
+        "area": {
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "media": [
+      {
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 374592,
+            "id": "572e080e-519d-4459-9653-b49f55e60325",
+            "position": 1,
+            "title": "Creativity",
+            "recording": {
+              "title": "Creativity",
+              "disambiguation": "",
+              "id": "41bf0bbf-4fa1-4820-bd59-38b7aaba5ac6",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2016-02-15",
+              "length": 374592
+            },
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "id": "3c654fa5-ca0a-4edf-94e3-789eb300fc0d",
+            "recording": {
+              "length": 367889,
+              "first-release-date": "2016-02-15",
+              "video": false,
+              "genres": [],
+              "id": "cc1d8f54-dc76-4ca1-ba5b-4219a8834068",
+              "disambiguation": "",
+              "title": "The Road"
+            },
+            "title": "The Road",
+            "position": 2,
+            "length": 367889
+          },
+          {
+            "length": 400045,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2016-02-15",
+              "video": false,
+              "length": 400045,
+              "title": "Be Real",
+              "id": "bbd57044-a8f1-40e1-b253-583b0af80d7d",
+              "disambiguation": ""
+            },
+            "position": 3,
+            "title": "Be Real",
+            "id": "51a2c41d-aefc-48e2-aa39-dc6c2bb5278c",
+            "number": "3"
+          },
+          {
+            "length": 392000,
+            "id": "5c1d92de-f3c9-47f1-8279-e6a2cd7efdb3",
+            "position": 4,
+            "recording": {
+              "genres": [],
+              "length": 392000,
+              "first-release-date": "2016-02-15",
+              "video": false,
+              "title": "Be Real (Edmund Remix)",
+              "id": "e580bded-e9e2-4caf-bd4a-f2326bb4504f",
+              "disambiguation": ""
+            },
+            "title": "Be Real (Edmund Remix)",
+            "number": "4"
+          }
+        ],
+        "track-count": 4,
+        "track-offset": 0,
+        "id": "83351a6f-09b0-3afe-9cd5-a6cc12b79b7d",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "title": "Creativity EP"
+  },
+  {
+    "date": "2016-04-15",
+    "genres": [
+      {
+        "disambiguation": "",
+        "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+        "count": 1,
+        "name": "deep house"
+      },
+      {
+        "name": "electronic",
+        "count": 1,
+        "disambiguation": "",
+        "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+      }
+    ],
+    "id": "a038bc7d-5ba2-4c57-a74e-489baa6fe14a",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2016-04-15",
+        "area": {
+          "type-id": null,
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "sort-name": "United States",
+          "disambiguation": "",
+          "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }
+      }
+    ],
+    "title": "Do It 4 Love EP",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "id": "c867635e-1f95-4d48-8270-ee4cd87a2697",
+            "title": "Why Don't You",
+            "position": 1,
+            "recording": {
+              "id": "4e1045dc-48dd-4be3-b9e7-80cfcf3f0f9a",
+              "disambiguation": "",
+              "title": "Why Don't You",
+              "video": false,
+              "first-release-date": "2016-04-15",
+              "length": 404000,
+              "genres": []
+            },
+            "length": 404000,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "length": 419000,
+            "id": "64f32c05-1576-47a5-b1fb-46c768db3d5f",
+            "title": "Do It 4 Love",
+            "position": 2,
+            "recording": {
+              "video": false,
+              "first-release-date": "2016-04-15",
+              "length": 419000,
+              "genres": [],
+              "id": "0266b64b-cfa0-401a-94c3-ff23e2284387",
+              "disambiguation": "",
+              "title": "Do It 4 Love"
+            }
+          },
+          {
+            "number": "3",
+            "title": "No Turning Back",
+            "recording": {
+              "length": 418000,
+              "video": false,
+              "first-release-date": "2016-04-15",
+              "genres": [],
+              "id": "6cf3b17c-39fe-4b14-81e1-22cc1e10a362",
+              "disambiguation": "",
+              "title": "No Turning Back"
+            },
+            "position": 3,
+            "id": "8229304c-2f6c-4197-98a5-e15c4b76bc04",
+            "length": 418000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 3,
+        "position": 1,
+        "title": "",
+        "id": "4282589d-7f07-342b-b3cb-e1471ed75922"
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "first-release-date": "2016-04-15",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [
+        {
+          "name": "deep house",
+          "count": 1,
+          "disambiguation": "",
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f"
+        },
+        {
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "name": "electronic"
+        }
+      ],
+      "id": "8bdca106-13b7-4c03-96ff-842d560521e8",
+      "disambiguation": "",
+      "title": "Do It 4 Love EP",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "packaging": null,
+    "barcode": null,
+    "quality": "normal",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "count": 1,
+      "artwork": true
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "US"
+  },
+  {
+    "asin": null,
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": [],
+      "title": "Go (extended mix)",
+      "disambiguation": "",
+      "id": "c11e0dca-a3c2-413f-9217-4030f856c7a4",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "name": "progressive house",
+          "disambiguation": "",
+          "id": "70adb285-e1f7-458a-823f-5cbda5e291c4",
+          "count": 1
+        },
+        {
+          "name": "tech house",
+          "count": 1,
+          "disambiguation": "",
+          "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0"
+        }
+      ],
+      "first-release-date": "2024-11-01"
+    },
+    "status": "Official",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2024-11-01"
+      }
+    ],
+    "id": "aea251c0-496c-427a-b609-b0f5a266fdea",
+    "disambiguation": "",
+    "media": [
+      {
+        "track-count": 1,
+        "tracks": [
+          {
+            "length": 196000,
+            "title": "Go",
+            "position": 1,
+            "recording": {
+              "title": "Go",
+              "id": "34817750-32c1-4f8e-90bc-2e1b8cb5491f",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2024-11-01",
+              "video": false,
+              "length": 196000
+            },
+            "id": "44de7f27-89d0-433e-b5d3-fff2500599e8",
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "12badb22-ae6a-42de-b64e-624e69e5abcf",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "title": "Go",
+    "date": "2024-11-01",
+    "genres": [],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 0,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "artwork": false
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "quality": "normal",
+    "barcode": "3617665309569",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging": "None"
+  },
+  {
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "4251490784925",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "secondary-types": [],
+      "disambiguation": "",
+      "id": "09a0b839-ead4-4378-ab1b-d3c6ebc72493",
+      "title": "Across Ocean",
+      "first-release-date": "2020-09-28",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+    },
+    "date": "2020-09-28",
+    "genres": [],
+    "id": "afc3a1fe-bd80-4e8c-97c3-962827a22a71",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2020-09-28"
+      }
+    ],
+    "title": "Across Ocean",
+    "media": [
+      {
+        "track-offset": 0,
+        "tracks": [
+          {
+            "length": 423934,
+            "id": "cbf756c2-f4ec-4531-8c73-9e14027f534b",
+            "position": 1,
+            "title": "Across Ocean (extended version)",
+            "recording": {
+              "disambiguation": "",
+              "id": "81f4cbf5-27ee-4fcc-806f-691c5fa2b9e6",
+              "title": "Across Ocean (extended version)",
+              "length": 423934,
+              "first-release-date": "2020-09-28",
+              "video": false,
+              "genres": []
+            },
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "length": 386557,
+            "id": "a11a4b7d-a633-4018-a22a-8191a323655e",
+            "recording": {
+              "id": "bbb785b4-620a-4b7a-b03a-0c2edeb6b2ee",
+              "disambiguation": "",
+              "title": "Seeing & Believing (extended version)",
+              "first-release-date": "2020-09-28",
+              "video": false,
+              "length": 386557,
+              "genres": []
+            },
+            "position": 2,
+            "title": "Seeing & Believing (extended version)"
+          },
+          {
+            "number": "3",
+            "length": 364746,
+            "title": "Independent Woman (extended version)",
+            "recording": {
+              "title": "Independent Woman (extended version)",
+              "disambiguation": "",
+              "id": "cf9795fb-c3f0-416c-a61f-43df4f540d3d",
+              "genres": [],
+              "first-release-date": "2020-09-28",
+              "video": false,
+              "length": 364746
+            },
+            "position": 3,
+            "id": "09a3f445-9884-42df-bba8-f9b3bb2803be"
+          },
+          {
+            "number": "4",
+            "id": "b36d1114-f501-4a1a-bfb4-45c1c9e884e9",
+            "position": 4,
+            "recording": {
+              "id": "41a0e8f6-1bff-4505-9144-d74499e31381",
+              "disambiguation": "",
+              "title": "Kaizen (extended version)",
+              "length": 410163,
+              "video": false,
+              "first-release-date": "2020-09-28",
+              "genres": []
+            },
+            "title": "Kaizen (extended version)",
+            "length": 410163
+          },
+          {
+            "length": 361878,
+            "recording": {
+              "genres": [],
+              "length": 361878,
+              "first-release-date": "2020-09-28",
+              "video": false,
+              "title": "Seeing & Believing (DJOKO extended remix)",
+              "id": "545c520c-7320-4b3e-b7bb-304beecb7cd0",
+              "disambiguation": ""
+            },
+            "title": "Seeing & Believing (DJOKO extended remix)",
+            "position": 5,
+            "id": "f39b093e-2c64-4c39-9297-1546f7331916",
+            "number": "5"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 5,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "id": "fe287865-f8c6-3f41-afcc-011501fe3aa5"
+      }
+    ]
+  },
+  {
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "packaging": "None",
+    "barcode": null,
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "title": "Shades of Grey EP",
+      "disambiguation": "",
+      "id": "70c10d74-fac9-4aa1-b14b-dd6cedc66c44",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2019-07-19"
+    },
+    "date": "2019-07-19",
+    "genres": [],
+    "id": "b2588a2d-5368-46a1-b05e-75518200f45a",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        },
+        "date": "2019-07-19"
+      }
+    ],
+    "disambiguation": "",
+    "title": "Shades of Grey EP",
+    "media": [
+      {
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 425180,
+            "position": 1,
+            "recording": {
+              "title": "Shades",
+              "disambiguation": "",
+              "id": "579e8c4e-c8c8-4f09-9614-431411ab046a",
+              "genres": [],
+              "length": 425180,
+              "video": false,
+              "first-release-date": "2019-07-19"
+            },
+            "title": "Shades",
+            "id": "0c4afbbf-1910-4995-bdbe-37e590470f2c"
+          },
+          {
+            "length": 401280,
+            "id": "23c33c75-3ec8-4800-81ec-a92bf5f2e454",
+            "title": "Grey",
+            "position": 2,
+            "recording": {
+              "title": "Grey",
+              "id": "b197eb9a-07a6-49f4-a314-5d6a7721af83",
+              "disambiguation": "",
+              "genres": [],
+              "length": 401280,
+              "first-release-date": "2019-07-19",
+              "video": false
+            },
+            "number": "2"
+          },
+          {
+            "id": "313d881a-22c5-451f-8287-74389f1fcd14",
+            "title": "Odorin",
+            "position": 3,
+            "recording": {
+              "genres": [],
+              "length": 404525,
+              "first-release-date": "2019-07-19",
+              "video": false,
+              "title": "Odorin",
+              "disambiguation": "",
+              "id": "f72badab-597b-4b6b-ae5e-c63f0894fba6"
+            },
+            "length": 404525,
+            "number": "3"
+          },
+          {
+            "title": "Nectar",
+            "recording": {
+              "first-release-date": "2019-07-19",
+              "video": false,
+              "length": 402311,
+              "genres": [],
+              "id": "c0a2ba1e-d3f4-4af4-a6a9-583225bca24d",
+              "disambiguation": "",
+              "title": "Nectar"
+            },
+            "position": 4,
+            "id": "f1735938-71ac-4113-84b9-4d1c53bbd221",
+            "length": 402311,
+            "number": "4"
+          }
+        ],
+        "track-count": 4,
+        "track-offset": 0,
+        "id": "71b18859-0223-3caf-b86a-6cdbd1157c3a",
+        "position": 1,
+        "title": ""
+      }
+    ]
+  },
+  {
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "artwork": false
+    },
+    "quality": "normal",
+    "barcode": "3614592825117",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "first-release-date": "2015-06-22",
+      "title": "One Thing I Can",
+      "id": "6aeb2566-659c-43d5-b1f7-90c28bd73a16",
+      "disambiguation": ""
+    },
+    "asin": null,
+    "status": "Official",
+    "title": "One Thing I Can",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "30f8dd8e-0602-4204-999e-a58305c9192b",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 401000,
+            "id": "7be90ce7-68e1-49c3-9b11-20a29b995690",
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2015-06-22",
+              "length": 401000,
+              "title": "One Thing I Can (Roland Nights remix)",
+              "id": "2e138986-9507-4dae-9530-7ac98e9add49",
+              "disambiguation": ""
+            },
+            "title": "One Thing I Can (Roland Nights remix)",
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "id": "76d96e83-4bc6-466f-b7f3-db56b934b93b",
+            "title": "One Thing I Can",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2015-06-22",
+              "length": 376000,
+              "title": "One Thing I Can",
+              "id": "7300e4a5-ccfd-4e15-b00a-01eb412fede8",
+              "disambiguation": ""
+            },
+            "position": 2,
+            "length": 376000
+          },
+          {
+            "number": "3",
+            "position": 3,
+            "title": "Deep Gems",
+            "recording": {
+              "disambiguation": "",
+              "id": "b1d0222a-6113-4bfe-a0ca-ff1c1a5a232b",
+              "title": "Deep Gems",
+              "first-release-date": "2015-06-22",
+              "video": false,
+              "length": 372000,
+              "genres": []
+            },
+            "id": "fb6352ab-118c-4d3e-bf84-c6472f34f7d3",
+            "length": 372000
+          },
+          {
+            "number": "4",
+            "length": 410000,
+            "title": "Jus Playin",
+            "position": 4,
+            "recording": {
+              "title": "Jus Playin",
+              "disambiguation": "",
+              "id": "d9721780-050a-4a9f-9704-8c8c49b9e7d0",
+              "genres": [],
+              "length": 410000,
+              "video": false,
+              "first-release-date": "2015-06-22"
+            },
+            "id": "8c71447e-914a-4901-aa2c-a73c59b76559"
+          }
+        ],
+        "track-count": 4
+      }
+    ],
+    "disambiguation": "",
+    "id": "b913145b-b3cc-44da-bbbd-3c8cedcf3699",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2015-06-22"
+      }
+    ],
+    "genres": [],
+    "date": "2015-06-22"
+  },
+  {
+    "barcode": "5054285604564",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "front": false,
+      "back": false,
+      "darkened": false
+    },
+    "quality": "normal",
+    "title": "Take A Leap Of Faith",
+    "media": [
+      {
+        "track-count": 4,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2021-01-25",
+              "video": false,
+              "length": 398000,
+              "title": "Take A Leap Of Faith",
+              "disambiguation": "",
+              "id": "df37cd64-1d40-4e82-8d39-f7eebbbf9545"
+            },
+            "position": 1,
+            "title": "Take A Leap Of Faith",
+            "id": "cb78cc6f-d075-4a0f-8222-2f1529d0d506",
+            "length": 398000
+          },
+          {
+            "length": 362000,
+            "id": "0bc6cbf5-5c6a-40b6-b396-d09ca03167a8",
+            "position": 2,
+            "title": "Take A Leap Of Faith (Relic remix)",
+            "recording": {
+              "length": 362000,
+              "first-release-date": "2021-01-25",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "917a24ff-d027-4ce8-938b-3f528c038a42",
+              "title": "Take A Leap Of Faith (Relic remix)"
+            },
+            "number": "2"
+          },
+          {
+            "length": 410000,
+            "id": "f661d919-f9ff-4e3f-8405-bbf0d8342ee0",
+            "title": "Point Loma",
+            "position": 3,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2021-01-25",
+              "video": false,
+              "length": 410000,
+              "title": "Point Loma",
+              "disambiguation": "",
+              "id": "0a146e4b-bf30-4c65-ac74-ae2d93ed497e"
+            },
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 390000,
+            "title": "Limerence",
+            "position": 4,
+            "recording": {
+              "id": "70bbb770-9a7b-4b6d-a3f2-3ccf2858261c",
+              "disambiguation": "",
+              "title": "Limerence",
+              "video": false,
+              "first-release-date": "2021-01-25",
+              "length": 390000,
+              "genres": []
+            },
+            "id": "252c2ae7-6335-4590-a3c3-753034305e2b"
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "65602c5b-1077-4f27-9a25-269a0dfb3805",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2021-01-25"
+      }
+    ],
+    "id": "bf803211-5fe9-411b-9ca1-8eac82c67ef9",
+    "disambiguation": "",
+    "date": "2021-01-25",
+    "genres": [],
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "first-release-date": "2021-01-25",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "id": "8a8bbbd3-215a-41d8-9d19-e1e8ab3c8c93",
+      "disambiguation": "",
+      "title": "Take A Leap Of Faith"
+    },
+    "asin": null,
+    "status": "Official"
+  },
+  {
+    "barcode": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "packaging": "None",
+    "cover-art-archive": {
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal",
+    "id": "caaaa944-7d9e-4a3d-8bfc-eb509e884b26",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2014-08-04",
+        "area": {
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        }
+      }
+    ],
+    "title": "Unexpected",
+    "media": [
+      {
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 333678,
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2014-08-04",
+              "length": 333678,
+              "title": "Unexpected",
+              "disambiguation": "",
+              "id": "cc0e0486-70ae-49a1-b7ea-8fafa3f4c5bb"
+            },
+            "title": "Unexpected",
+            "id": "65b60c1a-9014-431a-a16a-43ee18523d36"
+          },
+          {
+            "number": "2",
+            "id": "48affd3a-9150-42e8-99be-4e151f6dd2cc",
+            "title": "Unexpected (Rik Fransens Remix)",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "length": 378300,
+              "first-release-date": "2014-08-04",
+              "video": false,
+              "title": "Unexpected (Rik Fransens Remix)",
+              "disambiguation": "",
+              "id": "7ee377ff-a460-4595-8717-756e1be2bf34"
+            },
+            "length": 378300
+          },
+          {
+            "position": 3,
+            "title": "Respect That",
+            "recording": {
+              "genres": [],
+              "length": 349278,
+              "first-release-date": "2014-08-04",
+              "video": false,
+              "title": "Respect That",
+              "disambiguation": "",
+              "id": "061391fe-72f9-4750-b15b-d93f45f733bf"
+            },
+            "id": "35e4f998-95e0-459c-b234-d31d90f37842",
+            "length": 349278,
+            "number": "3"
+          }
+        ],
+        "track-count": 3,
+        "track-offset": 0,
+        "id": "452c9518-45e1-3eea-97a1-f331c09e9414",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "genres": [],
+    "date": "2014-08-04",
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "id": "271619a7-a936-4095-b613-308f357dd24f",
+      "disambiguation": "",
+      "title": "Unexpected",
+      "first-release-date": "2014-08-04",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": []
+    },
+    "status": "Official"
+  },
+  {
+    "status": "Official",
+    "release-group": {
+      "title": "Positive Mind EP",
+      "id": "457ff307-4110-4035-83c4-2c591dd24ca7",
+      "disambiguation": "",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "first-release-date": "2018-11-19",
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "secondary-types": []
+    },
+    "asin": null,
+    "date": "2018-11-19",
+    "genres": [],
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 401290,
+            "recording": {
+              "length": 401290,
+              "video": false,
+              "first-release-date": "2018-11-19",
+              "genres": [],
+              "disambiguation": "",
+              "id": "0ff0fed3-f3a5-4d00-8e8a-c7465d95bab6",
+              "title": "Positive Mind"
+            },
+            "title": "Positive Mind",
+            "position": 1,
+            "id": "a2f05698-2ece-4b2a-8ebf-adf4f5b37f98"
+          },
+          {
+            "length": 397861,
+            "id": "177bba82-cc75-4561-b84b-8ac52e233b5b",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "length": 397861,
+              "first-release-date": "2018-11-19",
+              "video": false,
+              "title": "Alone In The Dark",
+              "id": "51909fb8-7ead-4462-a6b5-c7f98603c2e4",
+              "disambiguation": ""
+            },
+            "title": "Alone In The Dark",
+            "number": "2"
+          },
+          {
+            "id": "c4c1a8e0-f200-450f-8e1e-1dd6b14b378a",
+            "position": 3,
+            "title": "You & Me, Together",
+            "recording": {
+              "title": "You & Me, Together",
+              "id": "54b33687-f202-4893-911a-3c871906b426",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2018-11-19",
+              "video": false,
+              "length": 364729
+            },
+            "length": 364729,
+            "number": "3"
+          },
+          {
+            "id": "bc4c298f-44ae-4507-bbf8-53feefc2cdb2",
+            "title": "Cabinet Case",
+            "position": 4,
+            "recording": {
+              "genres": [],
+              "length": 441300,
+              "video": false,
+              "first-release-date": "2018-11-19",
+              "title": "Cabinet Case",
+              "disambiguation": "",
+              "id": "66d53333-e698-4aaf-9c15-cddc1593655c"
+            },
+            "length": 441300,
+            "number": "4"
+          }
+        ],
+        "track-count": 4,
+        "title": "",
+        "position": 1,
+        "id": "0e274684-730d-3ad4-ba28-a21a9c511ae6"
+      }
+    ],
+    "title": "Positive Mind EP",
+    "id": "e49bea06-8a6b-4478-bb5f-59ed0a7e98cd",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2018-11-19"
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "barcode": null
+  },
+  {
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "first-release-date": "2021-09-03",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "disambiguation": "",
+      "id": "a62c46c0-41fa-4885-8682-1f3761eae3ac",
+      "title": "A Glimmer of Hope EP"
+    },
+    "asin": null,
+    "status": "Official",
+    "title": "A Glimmer of Hope EP",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "6100a6d9-8529-4e58-b08f-868c0ecaf326",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 388000,
+            "recording": {
+              "length": 388000,
+              "first-release-date": "2021-09-03",
+              "video": false,
+              "genres": [],
+              "id": "802920de-3697-4aaf-a8b7-281ad941b8af",
+              "disambiguation": "",
+              "title": "Central Frenzy"
+            },
+            "position": 1,
+            "title": "Central Frenzy",
+            "id": "8113829a-37f0-4e1b-8600-c21a618643af"
+          },
+          {
+            "number": "2",
+            "title": "Riva De Biasio",
+            "position": 2,
+            "recording": {
+              "title": "Riva De Biasio",
+              "disambiguation": "",
+              "id": "534c88e7-75d5-4f34-90c5-40627401bab2",
+              "genres": [],
+              "length": 390000,
+              "video": false,
+              "first-release-date": "2021-09-03"
+            },
+            "id": "3138d2df-7ba5-4571-8e39-00ef828da2aa",
+            "length": 390000
+          },
+          {
+            "length": 389000,
+            "id": "4d5738e0-fdd3-43a0-9a43-2aee37efb121",
+            "title": "Deviant Shadow",
+            "position": 3,
+            "recording": {
+              "id": "e427b66b-ead3-4d0d-b6e3-8c6f699be832",
+              "disambiguation": "",
+              "title": "Deviant Shadow",
+              "first-release-date": "2021-09-03",
+              "video": false,
+              "length": 389000,
+              "genres": []
+            },
+            "number": "3"
+          },
+          {
+            "id": "c61303ad-a263-4bbf-be0a-640cbf116408",
+            "position": 4,
+            "title": "A Glimmer Of Hope",
+            "recording": {
+              "length": 359000,
+              "first-release-date": "2021-09-03",
+              "video": false,
+              "genres": [],
+              "id": "aad48d20-fbc5-4b73-95c2-b0c19ccf30da",
+              "disambiguation": "",
+              "title": "A Glimmer Of Hope"
+            },
+            "length": 359000,
+            "number": "4"
+          }
+        ],
+        "track-count": 4,
+        "format": "Digital Media"
+      }
+    ],
+    "disambiguation": "",
+    "id": "e751ec44-8619-45e3-aa16-a271916d801d",
+    "release-events": [
+      {
+        "date": "2021-09-03",
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null
+        }
+      }
+    ],
+    "genres": [],
+    "date": "2021-09-03",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "quality": "normal",
+    "barcode": "5054286041580",
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    }
+  },
+  {
+    "date": "2019-07-05",
+    "genres": [],
+    "media": [
+      {
+        "id": "ca40d34c-dffd-3584-9fdd-015e177c0923",
+        "position": 1,
+        "title": "",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 400500,
+            "title": "Noir Infusion",
+            "position": 1,
+            "recording": {
+              "length": 400500,
+              "first-release-date": "2019-07-05",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "1a7deae6-f149-4ead-88da-7497970d6805",
+              "title": "Noir Infusion"
+            },
+            "id": "4ad06cb4-b3fd-4edb-9f0b-8738b67e7a82"
+          },
+          {
+            "number": "2",
+            "id": "a67163e4-760d-45d8-9059-b372035868d0",
+            "title": "Mont Blanc",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "length": 382000,
+              "first-release-date": "2019-07-05",
+              "video": false,
+              "title": "Mont Blanc",
+              "id": "240005af-5fc5-4a82-b802-660a96249c72",
+              "disambiguation": ""
+            },
+            "length": 382000
+          },
+          {
+            "id": "ea129977-25e6-44c5-a65d-221edf5aaf2b",
+            "position": 3,
+            "recording": {
+              "first-release-date": "2019-07-05",
+              "video": false,
+              "length": 427500,
+              "genres": [],
+              "disambiguation": "",
+              "id": "6743a2c5-1819-49fc-8738-725a4711d902",
+              "title": "Whatudo"
+            },
+            "title": "Whatudo",
+            "length": 427500,
+            "number": "3"
+          },
+          {
+            "length": 434000,
+            "id": "646c0744-e761-47da-b09b-fa6bbf71e5b0",
+            "title": "Mountain River",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2019-07-05",
+              "video": false,
+              "length": 434000,
+              "title": "Mountain River",
+              "disambiguation": "",
+              "id": "06f5fdd1-c944-43da-8c91-6f67dba678d2"
+            },
+            "position": 4,
+            "number": "4"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 4,
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Whatudo EP",
+    "id": "ee340ca0-7612-49c2-a07c-e1ec34729a6e",
+    "release-events": [
+      {
+        "date": "2019-07-05",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "first-release-date": "2019-07-05",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "id": "9a18fcc8-882b-4871-957a-4dd07adf5868",
+      "disambiguation": "",
+      "title": "Whatudo EP",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": []
+    },
+    "asin": null,
+    "packaging": "None",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "barcode": null,
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    }
+  },
+  {
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal",
+    "barcode": "197189831287",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "asin": null,
+    "release-group": {
+      "first-release-date": "2023-09-15",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "disambiguation": "",
+      "id": "f099a91b-7d9f-4699-bc5f-13b5c27e7560",
+      "title": "Midtown Playground",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "status": "Official",
+    "id": "efbe6d0e-6adc-45ff-8fe0-28a8f1d9295b",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2023-09-15"
+      }
+    ],
+    "title": "Midtown Playground",
+    "media": [
+      {
+        "track-offset": 0,
+        "tracks": [
+          {
+            "id": "a68b26fd-980b-4778-b7b8-e205e80451d3",
+            "title": "Midtown Playground",
+            "recording": {
+              "title": "Midtown Playground",
+              "id": "45d9b1a0-ac09-42f5-8815-197deaf73041",
+              "disambiguation": "",
+              "genres": [],
+              "length": 222000,
+              "first-release-date": "2023-09-15",
+              "video": false
+            },
+            "position": 1,
+            "length": 222000,
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "id": "62faf62a-591c-48f0-bc7b-dc0087396acf"
+      }
+    ],
+    "genres": [],
+    "date": "2023-09-15"
+  }
+]

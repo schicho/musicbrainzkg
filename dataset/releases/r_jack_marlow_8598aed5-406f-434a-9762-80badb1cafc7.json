@@ -1,0 +1,858 @@
+[
+  {
+    "packaging-id": null,
+    "date": "2022-08-12",
+    "country": null,
+    "release-events": [
+      {
+        "date": "2022-08-12",
+        "area": null
+      }
+    ],
+    "cover-art-archive": {
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    },
+    "media": [
+      {
+        "tracks": [
+          {
+            "recording": {
+              "video": false,
+              "id": "8478f29a-3aae-4779-9496-704d60ebe320",
+              "first-release-date": "2022-08-12",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Old' On",
+              "length": 201247
+            },
+            "id": "fead982e-35f9-474f-a149-ca3d2e0db881",
+            "number": "1",
+            "position": 1,
+            "title": "Old' On",
+            "length": 201247
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "title": "New Th'ang",
+            "length": 225087,
+            "recording": {
+              "length": 225087,
+              "title": "New Th'ang",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2022-08-12",
+              "id": "751b3bc1-410f-4e96-ab93-e3f141a22da7",
+              "video": false
+            },
+            "id": "6649ea0f-15ea-496b-8ad2-613f1ceb5b99"
+          },
+          {
+            "title": "Burnin'",
+            "position": 3,
+            "number": "3",
+            "length": 182857,
+            "id": "2b251924-e0c4-4d46-8339-c8b9d109cf6d",
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Burnin'",
+              "length": 182857,
+              "video": false,
+              "id": "eca4d88d-9de3-4581-b3d4-cbe1c8fbde79",
+              "first-release-date": "2022-08-12"
+            }
+          },
+          {
+            "id": "59816e7e-0daf-4e60-b148-877c65949692",
+            "recording": {
+              "title": "Te Queiro",
+              "disambiguation": "",
+              "genres": [],
+              "length": 196535,
+              "id": "f6e8ac3b-a91a-4fd0-88df-2d3b66fe2317",
+              "video": false,
+              "first-release-date": "2022-08-12"
+            },
+            "position": 4,
+            "title": "Te Queiro",
+            "number": "4",
+            "length": 196535
+          },
+          {
+            "recording": {
+              "first-release-date": "2022-08-12",
+              "video": false,
+              "id": "c936d122-530a-4022-bbd9-0d13b7b79dd7",
+              "length": 219525,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Songs & Cigarettes"
+            },
+            "id": "da1c5298-a8f0-4df3-911f-60a29d34331a",
+            "length": 219525,
+            "number": "5",
+            "title": "Songs & Cigarettes",
+            "position": 5
+          },
+          {
+            "length": 236403,
+            "title": "Ooze This",
+            "position": 6,
+            "number": "6",
+            "id": "c9773713-57fb-4497-9db2-cf7ee70a246d",
+            "recording": {
+              "length": 236403,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Ooze This",
+              "first-release-date": "2022-08-12",
+              "video": false,
+              "id": "18a3a3dd-14d3-4d2f-82be-0ec712bfb4fc"
+            }
+          },
+          {
+            "title": "Tell Me Where Your Heart Is",
+            "position": 7,
+            "number": "7",
+            "length": 212055,
+            "id": "c5093b05-e5d5-4f8d-940e-2b464c2fe4f5",
+            "recording": {
+              "video": false,
+              "id": "6237552f-953a-4b3f-a4ce-f42d50da9e41",
+              "first-release-date": "2022-08-12",
+              "disambiguation": "",
+              "genres": [],
+              "title": "Tell Me Where Your Heart Is",
+              "length": 212055
+            }
+          },
+          {
+            "id": "e0580f18-c541-4408-ade6-4a595a264902",
+            "recording": {
+              "first-release-date": "2022-08-12",
+              "video": false,
+              "id": "ed731c6d-034c-4027-a392-9cb51352b15b",
+              "length": 210593,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Love Drug"
+            },
+            "title": "Love Drug",
+            "position": 8,
+            "number": "8",
+            "length": 210593
+          },
+          {
+            "position": 9,
+            "title": "Euphoria",
+            "number": "9",
+            "length": 179091,
+            "id": "8a7a19fa-7473-4eca-a8e3-1db7a2475a1b",
+            "recording": {
+              "video": false,
+              "id": "f3b5fbed-3572-44f5-b117-7fbee79c815e",
+              "first-release-date": "2022-08-12",
+              "genres": [],
+              "disambiguation": "",
+              "title": "Euphoria",
+              "length": 179091
+            }
+          },
+          {
+            "id": "24b989e2-1d3a-4d57-a374-c3a4c0737eef",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Made Me Turn My Back On You",
+              "length": 196941,
+              "video": false,
+              "id": "51c6d16b-88ca-44b0-8a82-dec53d594912",
+              "first-release-date": "2022-08-12"
+            },
+            "length": 196941,
+            "title": "Made Me Turn My Back On You",
+            "position": 10,
+            "number": "10"
+          },
+          {
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Jungle Fever",
+              "length": 210404,
+              "video": false,
+              "id": "4c51512b-e4b9-450f-bd93-98f15e50d9cd",
+              "first-release-date": "2022-08-12"
+            },
+            "id": "6d6bca04-99ba-4f16-8d0c-184ee01f13cb",
+            "length": 210404,
+            "number": "11",
+            "title": "Jungle Fever",
+            "position": 11
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 11,
+        "id": "a391936c-707a-3d2c-b3df-796d346ed7fb"
+      }
+    ],
+    "barcode": "197084603514",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "title": "Tastes Like The 90s",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "id": "301ded25-a7fb-4b31-ab6d-d5a83599981f",
+    "release-group": {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "genres": [],
+      "disambiguation": "",
+      "title": "Tastes Like The 90s",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "2022-08-12",
+      "id": "a7e59e19-13d5-49da-b9a4-d3da7175b867"
+    },
+    "status": "Official",
+    "quality": "normal",
+    "genres": [
+      {
+        "disambiguation": "",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "name": "house",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "name": "uk garage",
+        "id": "95c57cd7-7fb8-4405-ade1-775c2d27e54e",
+        "disambiguation": ""
+      }
+    ],
+    "disambiguation": ""
+  },
+  {
+    "status": "Official",
+    "genres": [
+      {
+        "disambiguation": "",
+        "name": "uk garage",
+        "id": "95c57cd7-7fb8-4405-ade1-775c2d27e54e",
+        "count": 1
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "id": "345867e0-4f4d-43dc-b25d-1652048fb7c6",
+    "release-group": {
+      "first-release-date": "2024-09-11",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "id": "f63d1a55-7ed9-4baf-8d01-f9e1329d4e87",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "10Ten",
+      "genres": [],
+      "disambiguation": ""
+    },
+    "media": [
+      {
+        "id": "242ffa1d-5f41-4566-a98b-463ef7d5af0f",
+        "track-count": 1,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "id": "44ba9f14-1a08-4da7-b566-c105ed8900fe",
+            "recording": {
+              "video": false,
+              "id": "8d84cddf-f992-40d2-9328-f6a30f7102d1",
+              "first-release-date": "2024-09-11",
+              "disambiguation": "",
+              "genres": [],
+              "title": "10Ten",
+              "length": 174030
+            },
+            "title": "10Ten",
+            "position": 1,
+            "number": "1",
+            "length": 174030
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "packaging": "None",
+    "barcode": "5063549562397",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "title": "10Ten",
+    "asin": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "date": "2024-09-11",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2024-09-11",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false,
+      "front": false
+    }
+  },
+  {
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2023-05-26"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1,
+      "artwork": true
+    },
+    "date": "2023-05-26",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "title": "Stuck in Our Ways",
+    "asin": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "media": [
+      {
+        "track-offset": 0,
+        "position": 1,
+        "format": "Digital Media",
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "49359c41-4723-490f-b327-047eb3cee258",
+            "recording": {
+              "first-release-date": "2023-05-26",
+              "id": "881117a4-8e27-41ac-a754-013384c4bc00",
+              "video": false,
+              "length": 144000,
+              "title": "Stuck In Our Ways",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "position": 1,
+            "title": "Stuck In Our Ways",
+            "number": "1",
+            "length": 144000
+          }
+        ],
+        "id": "4ff7f373-a093-34e8-9432-2893de8be240",
+        "track-count": 1
+      }
+    ],
+    "packaging": "None",
+    "barcode": "5037300047881",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "id": "357aec88-3525-4519-897d-130721e0bfaa",
+    "release-group": {
+      "id": "b0eb196a-746c-4817-8409-3358bc9118a9",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "first-release-date": "2023-05-26",
+      "genres": [],
+      "disambiguation": "",
+      "title": "Stuck in Our Ways",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "status": "Official",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal"
+  },
+  {
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2023-02-20",
+              "video": false,
+              "id": "ef3ad104-3893-4888-80cc-23941c102fb8",
+              "length": 154285,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Peach Squash Sunday"
+            },
+            "id": "3ec7ac2b-fb4d-4b00-9975-d7392f9c8397",
+            "number": "1",
+            "title": "Peach Squash Sunday",
+            "position": 1,
+            "length": 154285
+          }
+        ],
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-count": 1,
+        "id": "5f75308f-21bd-3265-97c8-f21ec8d0cca7"
+      }
+    ],
+    "barcode": "5037300041568",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "title": "Peach Squash Sunday",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2023-02-20",
+    "country": "XW",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2023-02-20"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false
+    },
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "id": "78a8d6fb-15bf-4621-be83-4d2d6c6ee893",
+    "release-group": {
+      "title": "Peach Squash Sunday",
+      "genres": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "01127f4c-bbd1-470f-a4bc-2819dff3d37a",
+      "first-release-date": "2023-02-20",
+      "secondary-types": [],
+      "primary-type": "Single"
+    }
+  },
+  {
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "id": "c672933c-2f70-45a9-a75e-0cfe2e1b66d3",
+    "release-group": {
+      "id": "c182f1b8-7a2c-41f6-8d0c-49b41707fb4b",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "first-release-date": "2021-12-17",
+      "genres": [],
+      "disambiguation": "",
+      "title": "2002",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "title": "2002",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "asin": null,
+    "media": [
+      {
+        "id": "db420c1a-b592-3d1b-a75c-f634507a4a0a",
+        "track-count": 6,
+        "track-offset": 0,
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "59b27742-f166-4dc7-873a-b41c1a544091",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Ethereal",
+              "length": 154453,
+              "video": false,
+              "id": "236a4414-17ad-43e3-965e-97235c66c093",
+              "first-release-date": "2021-12-17"
+            },
+            "length": 154453,
+            "title": "Ethereal",
+            "position": 1,
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "title": "Runnin’ That Shit",
+            "length": 199707,
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Runnin’ That Shit",
+              "length": 199707,
+              "video": false,
+              "id": "6e2477cd-5648-4c73-9c9d-1ba846d05b15",
+              "first-release-date": "2021-12-17"
+            },
+            "id": "552316b6-936f-478c-836d-d75bbd6fb0ff"
+          },
+          {
+            "length": 233695,
+            "position": 3,
+            "title": "Power Down",
+            "number": "3",
+            "id": "26972d29-1941-4875-ae45-bca97b937269",
+            "recording": {
+              "length": 233695,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Power Down",
+              "first-release-date": "2021-12-17",
+              "video": false,
+              "id": "24bde83a-ed43-4f8d-b77f-8781185b869d"
+            }
+          },
+          {
+            "number": "4",
+            "title": "Nvr Stp",
+            "position": 4,
+            "length": 197099,
+            "recording": {
+              "title": "Nvr Stp",
+              "disambiguation": "",
+              "genres": [],
+              "length": 197099,
+              "id": "eb7c2cba-6890-48a6-9b5d-8aec62aed7f4",
+              "video": false,
+              "first-release-date": "2021-12-17"
+            },
+            "id": "cac64d8e-27c0-4978-bb35-6cc04f5842e9"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Dancefloor",
+              "length": 214664,
+              "video": false,
+              "id": "4fc7ad0f-c626-4bef-bb6a-c34f6694e1ed",
+              "first-release-date": "2021-12-17"
+            },
+            "id": "fcc03cf1-d52b-4d60-a763-48e06adf7d9d",
+            "length": 214664,
+            "number": "5",
+            "position": 5,
+            "title": "Dancefloor"
+          },
+          {
+            "number": "6",
+            "title": "It’s Been Awhile Since I Saw Your Face",
+            "position": 6,
+            "length": 205150,
+            "recording": {
+              "video": false,
+              "id": "77aa9a94-d1be-4907-8a30-19283decf6c1",
+              "first-release-date": "2021-12-17",
+              "genres": [],
+              "disambiguation": "",
+              "title": "It’s Been Awhile Since I Saw Your Face",
+              "length": 205150
+            },
+            "id": "0e7f52c7-6bb1-4554-b5ad-a60490e72feb"
+          }
+        ]
+      }
+    ],
+    "barcode": "5059950176469",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "None",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2021-12-17"
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2021-12-17",
+    "country": "XW"
+  },
+  {
+    "id": "f8d8b352-f050-4256-a510-33434b572ecd",
+    "release-group": {
+      "id": "05fe9b1e-41ab-443a-aec5-6eed7b547f8f",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2025-02-28",
+      "disambiguation": "",
+      "genres": [],
+      "title": "Who do u?",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "status": "Official",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "date": "2025-02-28",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2025-02-28",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "media": [
+      {
+        "track-offset": 0,
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "length": 196874,
+              "title": "Who do u?",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2025-02-28",
+              "id": "a03fd106-d787-4844-8423-70ba811bb664",
+              "video": false
+            },
+            "id": "7058f260-4034-4590-8985-b26bd0d85562",
+            "number": "1",
+            "position": 1,
+            "title": "Who do u?",
+            "length": 196874
+          }
+        ],
+        "id": "1968c3f5-fb59-4dab-94d1-36b245ccee9e",
+        "track-count": 1
+      }
+    ],
+    "packaging": "None",
+    "barcode": "199079941021",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "title": "Who do u?",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null
+  },
+  {
+    "id": "f9464aef-459a-417d-a4e9-3310a3da3610",
+    "release-group": {
+      "id": "4a2620f8-7e49-4a94-8132-35d4d083a617",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "first-release-date": "2024-11-07",
+      "genres": [],
+      "disambiguation": "",
+      "title": "hat-trick",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "status": "Official",
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "release-events": [
+      {
+        "date": "2024-11-07",
+        "area": {
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2024-11-07",
+    "country": "XW",
+    "title": "hat-trick",
+    "asin": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "media": [
+      {
+        "tracks": [
+          {
+            "title": "Pressure FM (is your boss being a prick at work?)",
+            "position": 1,
+            "number": "1",
+            "length": 218360,
+            "id": "deba4927-92c8-4923-bcf6-7497d64e76c0",
+            "recording": {
+              "first-release-date": "2024-11-07",
+              "id": "a5fc2851-5e29-4a00-95fb-24200b82d9ed",
+              "video": false,
+              "length": 218360,
+              "title": "Pressure FM (is your boss being a prick at work?)",
+              "genres": [],
+              "disambiguation": ""
+            }
+          },
+          {
+            "id": "6a630f56-281c-4d0e-8223-601de2d72a7a",
+            "recording": {
+              "length": 236444,
+              "genres": [],
+              "disambiguation": "",
+              "title": "GML",
+              "first-release-date": "2024-11-07",
+              "video": false,
+              "id": "d02c1bbb-0e29-4783-b3cb-59940b33a8ab"
+            },
+            "position": 2,
+            "title": "GML",
+            "number": "2",
+            "length": 236444
+          },
+          {
+            "number": "3",
+            "title": "DEEJAY",
+            "position": 3,
+            "length": 289286,
+            "recording": {
+              "title": "DEEJAY",
+              "disambiguation": "",
+              "genres": [],
+              "length": 289286,
+              "id": "315fbc5e-967f-473a-9a82-9f992b7597d4",
+              "video": false,
+              "first-release-date": "2024-11-07"
+            },
+            "id": "816b271f-fcc8-424b-8e2f-d1b2a95b49b6"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "title": "",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 3,
+        "id": "c42241e6-0ff1-4483-9c18-6476be865321"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "199734900400",
+    "packaging": "None"
+  }
+]

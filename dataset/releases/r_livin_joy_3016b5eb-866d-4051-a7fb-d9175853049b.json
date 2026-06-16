@@ -1,0 +1,5159 @@
+[
+  {
+    "genres": [],
+    "date": "1996",
+    "asin": null,
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "8c83fe43-ead4-3791-a40b-8a242168b183",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "disambiguation": "",
+          "name": "euro house",
+          "count": 1
+        }
+      ],
+      "first-release-date": "1996-06-03",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Don’t Stop Movin’",
+      "primary-type": "Single"
+    },
+    "disambiguation": "",
+    "country": "AU",
+    "release-events": [
+      {
+        "date": "1996",
+        "area": {
+          "iso-3166-1-codes": [
+            "AU"
+          ],
+          "type-id": null,
+          "type": null,
+          "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+          "disambiguation": "",
+          "name": "Australia",
+          "sort-name": "Australia"
+        }
+      }
+    ],
+    "quality": "normal",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": "600574004123",
+    "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+    "status": "Official",
+    "id": "001a29d6-1e1c-42ee-8894-a484f31c6fa1",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 0,
+      "front": false,
+      "artwork": false
+    },
+    "packaging": "Slim Jewel Case",
+    "title": "Don't Stop Movin'",
+    "media": [
+      {
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "tracks": [
+          {
+            "length": 214560,
+            "id": "b7fc3527-dd9a-402a-9365-f6f4c883975c",
+            "recording": {
+              "length": 214560,
+              "id": "99b3e97d-4bb5-45c9-89ff-d1336981a7f1",
+              "genres": [
+                {
+                  "count": 2,
+                  "name": "club",
+                  "disambiguation": "",
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b"
+                },
+                {
+                  "disambiguation": "",
+                  "count": 2,
+                  "name": "dance",
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33"
+                },
+                {
+                  "count": 1,
+                  "name": "electronic",
+                  "disambiguation": "",
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "euro house"
+                },
+                {
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612",
+                  "name": "eurodance",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "count": 2,
+                  "name": "house",
+                  "disambiguation": "",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-06-03",
+              "title": "Don't Stop Movin' (radio mix)",
+              "disambiguation": ""
+            },
+            "number": "1",
+            "title": "Don't Stop Movin' (radio mix)",
+            "position": 1
+          },
+          {
+            "position": 2,
+            "title": "Don't Stop Movin' (original version)",
+            "number": "2",
+            "length": 317106,
+            "recording": {
+              "title": "Don't Stop Movin' (original version)",
+              "disambiguation": "",
+              "length": 317106,
+              "genres": [],
+              "first-release-date": "1996-06-03",
+              "video": false,
+              "id": "56c5be78-21ab-4c09-ab4d-3aa7d42e6ebd"
+            },
+            "id": "d68d8bf0-12c3-40e0-9244-26e91677f88d"
+          },
+          {
+            "length": 361893,
+            "recording": {
+              "length": 361893,
+              "id": "40750b3e-daa5-4129-a644-cbcba2c43bc7",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996-06-03",
+              "title": "Don’t Stop Movin’ (Want‐Will H‐Mix)",
+              "disambiguation": ""
+            },
+            "id": "7e5c5929-3c60-4cee-acbd-3bfd405de60f",
+            "position": 3,
+            "title": "Don't Stop Movin' (Want-Will H-mix)",
+            "number": "3"
+          },
+          {
+            "length": 348000,
+            "id": "1b4d9724-c64e-4028-b36f-f20163a006eb",
+            "recording": {
+              "length": 348000,
+              "id": "b7375918-f73f-4978-9cda-5f81ca224a06",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1996-06-03",
+              "title": "Don’t Stop Movin’ (A‐Mannetta Mix)",
+              "disambiguation": ""
+            },
+            "title": "Don't Stop Movin' (A-Manetta mix)",
+            "number": "4",
+            "position": 4
+          },
+          {
+            "length": 326866,
+            "recording": {
+              "length": 326866,
+              "id": "fe8b5898-8ab2-4aac-826f-b6903107e31d",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996-06-03",
+              "title": "Don't Stop Movin' (Gettin' Right mix)",
+              "disambiguation": ""
+            },
+            "id": "1e16ea93-78fb-4b12-9e30-600431bf2cdc",
+            "position": 5,
+            "number": "5",
+            "title": "Don't Stop Movin' (Gettin' Right mix)"
+          },
+          {
+            "recording": {
+              "length": 252574,
+              "first-release-date": "1996-06-03",
+              "genres": [],
+              "video": false,
+              "id": "09b91792-04c5-410e-a494-18f191675cbc",
+              "title": "Don't Stop Movin' (Gettin' Right reprise)",
+              "disambiguation": ""
+            },
+            "id": "f679dfff-eadc-4631-956b-f4f2443f35bd",
+            "length": 252574,
+            "position": 6,
+            "title": "Don't Stop Movin' (Gettin' Right reprise)",
+            "number": "6"
+          }
+        ],
+        "track-count": 6,
+        "title": "",
+        "format": "CD",
+        "id": "03a90da3-b407-4ab4-bb26-796048d33670",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+  },
+  {
+    "country": "GB",
+    "disambiguation": "",
+    "barcode": "600574008121",
+    "packaging-id": null,
+    "quality": "normal",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "sort-name": "United Kingdom"
+        },
+        "date": "1996"
+      }
+    ],
+    "asin": null,
+    "release-group": {
+      "title": "Follow the Rules",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "3d49a858-820c-36e6-9c1f-8f95cd2b2c2e",
+      "first-release-date": "1996",
+      "genres": [],
+      "secondary-types": []
+    },
+    "date": "1996",
+    "genres": [],
+    "title": "Follow the Rules",
+    "packaging": null,
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false,
+      "front": false
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "format": "CD",
+        "id": "aa87529b-c5bf-3816-9c7f-f0b00f44f10c",
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "track-count": 6,
+        "tracks": [
+          {
+            "title": "Follow the Rules (radio mix)",
+            "number": "1",
+            "position": 1,
+            "id": "1b5bc5b6-ec65-380f-b137-5ccb9b3c0b6f",
+            "recording": {
+              "disambiguation": "",
+              "title": "Follow the Rules (radio mix)",
+              "id": "61ed855f-7913-4781-b9e7-b52d03a0fe4b",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1996",
+              "length": 186000
+            },
+            "length": 186000
+          },
+          {
+            "position": 2,
+            "title": "Follow the Rules (original mix)",
+            "number": "2",
+            "recording": {
+              "length": 221253,
+              "id": "3c2046bc-ef53-411c-951f-e9c30ba1df10",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1996",
+              "title": "Follow the Rules (original mix)",
+              "disambiguation": ""
+            },
+            "id": "2e10f392-4b65-3209-b354-f65d04c928da",
+            "length": 231000
+          },
+          {
+            "position": 3,
+            "title": "Follow the Rules (Transatlantic club mix)",
+            "number": "3",
+            "recording": {
+              "disambiguation": "",
+              "title": "Follow the Rules (Transatlantic club mix)",
+              "first-release-date": "1996",
+              "genres": [],
+              "video": false,
+              "id": "e29dc6f4-ac4a-4ee1-bdd2-a7b119a61c14",
+              "length": 576000
+            },
+            "id": "00a123ae-27f9-331c-b1a1-513b33994df0",
+            "length": 576000
+          },
+          {
+            "recording": {
+              "video": false,
+              "genres": [],
+              "first-release-date": "1996",
+              "id": "06d0fdc5-4009-47a7-b5b9-60e593a8a507",
+              "length": 347000,
+              "disambiguation": "",
+              "title": "Follow the Rules (extended under mix)"
+            },
+            "id": "8a4fcae9-f267-3689-9f5f-49be397b98c0",
+            "length": 347000,
+            "position": 4,
+            "number": "4",
+            "title": "Follow the Rules (extended under mix)"
+          },
+          {
+            "length": 333000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Follow the Rules (Do the Right mix)",
+              "first-release-date": "1996",
+              "genres": [],
+              "video": false,
+              "id": "3799448a-8d6d-4bfd-9197-d26ba351d97f",
+              "length": 333000
+            },
+            "id": "3b83fda5-cbb6-34bf-8df7-f9b7eddc5668",
+            "position": 5,
+            "title": "Follow the Rules (Do the Right mix)",
+            "number": "5"
+          },
+          {
+            "position": 6,
+            "title": "Follow the Rules (Light Piano mix)",
+            "number": "6",
+            "recording": {
+              "video": false,
+              "genres": [],
+              "first-release-date": "1996",
+              "id": "32468687-13f0-4b29-9143-2739808fed3e",
+              "length": 194746,
+              "disambiguation": "",
+              "title": "Follow the Rules (Light Piano mix)"
+            },
+            "id": "e49febfd-3036-3a9e-a79b-7db198c55bab",
+            "length": 195000
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+      }
+    ],
+    "status": "Official",
+    "id": "01453294-9285-49db-8a9f-ce2d69d1d77c"
+  },
+  {
+    "disambiguation": "",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2016-01-22",
+        "area": {
+          "disambiguation": "",
+          "name": "[Worldwide]",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null
+        }
+      }
+    ],
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "quality": "normal",
+    "barcode": "5027805051155",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "genres": [],
+    "date": "2016-01-22",
+    "asin": null,
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "count": 2,
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "name": "euro house",
+          "disambiguation": "",
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "count": 3,
+          "name": "house"
+        }
+      ],
+      "first-release-date": "1994-09-27",
+      "secondary-types": [],
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "disambiguation": "",
+      "title": "Dreamer",
+      "primary-type": "Single"
+    },
+    "cover-art-archive": {
+      "front": false,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "packaging": "None",
+    "title": "Dreamer",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "5504d6d6-384f-4c47-b28c-d5ef3d0e3c73",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer - Michael Andre & SMB MIX",
+              "video": false,
+              "genres": [],
+              "first-release-date": "2016-01-22",
+              "id": "3e384a1c-abc5-4542-a7c0-6eadeca68dd5",
+              "length": 274838
+            },
+            "length": 274838,
+            "title": "Dreamer - Michael Andre & SMB MIX",
+            "number": "1",
+            "position": 1
+          },
+          {
+            "length": 259354,
+            "id": "861c1022-cc4d-4d1a-8f09-a7d82538085b",
+            "recording": {
+              "title": "Dreamer - Michael Andre & SMB Dub",
+              "disambiguation": "",
+              "length": 259354,
+              "video": false,
+              "genres": [],
+              "first-release-date": "2016-01-22",
+              "id": "2eb4f887-1a3c-4a6d-aa7e-740b1f9b39fd"
+            },
+            "title": "Dreamer - Michael Andre & SMB Dub",
+            "number": "2",
+            "position": 2
+          },
+          {
+            "recording": {
+              "title": "Dreamer - Paul Morrell (remix)",
+              "disambiguation": "",
+              "length": 284307,
+              "genres": [],
+              "first-release-date": "2016-01-22",
+              "video": false,
+              "id": "88018bad-4ff6-424d-a630-a9ae337d9491"
+            },
+            "id": "b44fa07b-e2e5-4443-91ab-4c2e801fad19",
+            "length": 284307,
+            "position": 3,
+            "title": "Dreamer - Paul Morrell (remix)",
+            "number": "3"
+          },
+          {
+            "title": "Dreamer - Sensualdeep 90",
+            "number": "4",
+            "position": 4,
+            "id": "007d4dee-1d64-416c-97fb-2c508ffc87b6",
+            "recording": {
+              "id": "2281711d-24e5-4786-a089-f7cea3f9bb46",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2016-01-22",
+              "length": 290731,
+              "disambiguation": "",
+              "title": "Dreamer - Sensualdeep 90"
+            },
+            "length": 290731
+          },
+          {
+            "length": 340573,
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer - Re‐ (original club mix)",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2016-01-22",
+              "id": "8b86d111-adfe-4106-a2f6-5191519cfcfb",
+              "length": 340573
+            },
+            "id": "82284f89-044f-4b20-8cbd-81735752824e",
+            "position": 5,
+            "number": "5",
+            "title": "Dreamer - Re‐ (original club mix)"
+          },
+          {
+            "position": 6,
+            "title": "Dreamer - Re‐Original 7-Inch MIX",
+            "number": "6",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2016-01-22",
+              "id": "989ad928-6910-46db-a58f-d30dec8fb8d1",
+              "length": 225733,
+              "disambiguation": "",
+              "title": "Dreamer - Re‐Original 7-Inch MIX"
+            },
+            "id": "c0d1dbfe-74bd-4c64-8f3f-3e847eb0c9b3",
+            "length": 225733
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 6,
+        "title": "",
+        "id": "31d2be9f-cb62-340b-994c-a16d093952ae",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "id": "0b8d2acc-19e4-4b8d-9060-7423f0ac8f4b"
+  },
+  {
+    "packaging": null,
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "title": "Where Can I Find Love",
+    "media": [
+      {
+        "track-count": 6,
+        "title": "",
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Where Can I Find Love (Radio Mix)",
+            "number": "1",
+            "recording": {
+              "disambiguation": "",
+              "title": "Where Can I Find Love (Radio Mix)",
+              "id": "1081af2c-141f-4aba-a53c-e5a62c67ae5a",
+              "first-release-date": "1997-06",
+              "genres": [],
+              "video": false,
+              "length": 230000
+            },
+            "id": "c0509bc3-30ce-4d52-adef-87738810162a",
+            "length": 230000
+          },
+          {
+            "number": "2",
+            "title": "Where Can I Find Love (Mark!s Hutch Vocal)",
+            "position": 2,
+            "id": "25885db4-e10a-4b2f-9179-f57a02c6da79",
+            "recording": {
+              "length": 547000,
+              "id": "2a11f1bf-6d99-42d7-8f70-c38a60fb2907",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1997",
+              "title": "Where Can I Find Love (Mark!s Hutch Vocal)",
+              "disambiguation": ""
+            },
+            "length": 547000
+          },
+          {
+            "recording": {
+              "length": 311000,
+              "id": "2d0b27d9-008e-4aa1-b78d-cf4b775e3214",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1997",
+              "title": "Where Can I Find Love (Original Extended Mix)",
+              "disambiguation": ""
+            },
+            "id": "298c4551-9e8a-429c-be93-acf90ef7fbbd",
+            "length": 311000,
+            "position": 3,
+            "number": "3",
+            "title": "Where Can I Find Love (Original Extended Mix)"
+          },
+          {
+            "position": 4,
+            "title": "Where Can I Find Love (Mark!s Anybody Dub)",
+            "number": "4",
+            "length": 580000,
+            "recording": {
+              "id": "7ad40ff4-945f-438e-8ba0-45cebf4a5216",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1997",
+              "length": 580000,
+              "disambiguation": "",
+              "title": "Where Can I Find Love (Mark!s Anybody Dub)"
+            },
+            "id": "2c618ae1-5af2-45a2-a2a8-71b356418fcb"
+          },
+          {
+            "position": 5,
+            "title": "Where Can I Find Love (G. Piano Mix)",
+            "number": "5",
+            "length": 186000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Where Can I Find Love (G. Piano Mix)",
+              "id": "19304abe-53a6-4e2d-bc85-80689f5d0155",
+              "genres": [],
+              "first-release-date": "1997",
+              "video": false,
+              "length": 186000
+            },
+            "id": "003b1bc3-4775-49c9-9e9d-2bebdeb78109"
+          },
+          {
+            "length": 366000,
+            "recording": {
+              "genres": [],
+              "first-release-date": "1997",
+              "video": false,
+              "id": "4c390096-48a3-4c0e-8e80-13dc49208f0f",
+              "length": 366000,
+              "disambiguation": "",
+              "title": "Where Can I Find Love (A-Manetta Club Mix)"
+            },
+            "id": "98fcf9d1-4797-4b52-aeb9-e8db1f31c7ba",
+            "position": 6,
+            "title": "Where Can I Find Love (A-Manetta Club Mix)",
+            "number": "6"
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "format": "CD",
+        "id": "48ae0b6f-f4e7-3cce-b3c0-353bcb25a603",
+        "position": 1,
+        "track-offset": 0
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "id": "23713bd8-e0e0-43c6-bad1-fcea5198e55f",
+    "disambiguation": "",
+    "country": "GB",
+    "release-events": [
+      {
+        "date": "1997",
+        "area": {
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "name": "United Kingdom"
+        }
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "quality": "normal",
+    "packaging-id": null,
+    "barcode": "600574010827",
+    "genres": [],
+    "date": "1997",
+    "asin": null,
+    "release-group": {
+      "primary-type": "Single",
+      "title": "Where Can I Find Love",
+      "disambiguation": "",
+      "secondary-types": [],
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "disambiguation": "",
+          "name": "euro house",
+          "count": 1
+        },
+        {
+          "name": "garage house",
+          "count": 1,
+          "disambiguation": "",
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1"
+        },
+        {
+          "count": 1,
+          "name": "house",
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "first-release-date": "1997",
+      "id": "4eb6cb19-9e9d-4249-a299-d36dd7dae724",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    }
+  },
+  {
+    "release-group": {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Don’t Stop Movin’",
+      "id": "7a5aa9cf-537f-3734-84cb-1bf1b566e2cd",
+      "first-release-date": "1996-11-04",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    "asin": null,
+    "date": "1996",
+    "genres": [],
+    "packaging-id": null,
+    "barcode": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "quality": "normal",
+    "release-events": [
+      {
+        "area": {
+          "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+          "type": null,
+          "iso-3166-1-codes": [
+            "CA"
+          ],
+          "type-id": null,
+          "sort-name": "Canada",
+          "disambiguation": "",
+          "name": "Canada"
+        },
+        "date": "1996"
+      }
+    ],
+    "country": "CA",
+    "disambiguation": "",
+    "id": "25ab8adb-ecdd-392a-848f-026bf3d2f5e2",
+    "status": "Official",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "format": "Cassette",
+        "id": "6a4c5058-4205-3caa-9a38-4f83b132d477",
+        "track-offset": 0,
+        "position": 1,
+        "tracks": [
+          {
+            "position": 1,
+            "number": "A1",
+            "title": "Don't Stop Movin'",
+            "recording": {
+              "video": false,
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "id": "91121aa3-5c57-4f39-a127-7382c931528f",
+              "length": 318973,
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’"
+            },
+            "id": "00a6c3cd-65f1-3c6c-974f-94f50a5639e4",
+            "length": 316000
+          },
+          {
+            "length": 231000,
+            "id": "7c80bba4-8a68-3c8b-8f6d-6b0f4e5409f1",
+            "recording": {
+              "title": "Follow the Rules",
+              "disambiguation": "",
+              "length": 233000,
+              "id": "6ad2db04-3869-494c-9432-92d0a9aaa3ee",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "name": "diva house",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04"
+            },
+            "title": "Follow the Rules",
+            "number": "A2",
+            "position": 2
+          },
+          {
+            "title": "Deep in You",
+            "number": "A3",
+            "position": 3,
+            "id": "f51e5efc-0cd3-31cc-8e58-e7ebacc5cf89",
+            "recording": {
+              "length": 268000,
+              "id": "ca68d1b7-f8fa-43f6-98a9-b1bd44485e1e",
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "title": "Deep in You",
+              "disambiguation": ""
+            },
+            "length": 267000
+          },
+          {
+            "length": 344000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "count": 1,
+                  "name": "diva house",
+                  "disambiguation": ""
+                },
+                {
+                  "disambiguation": "",
+                  "name": "euro house",
+                  "count": 1,
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "id": "dbbaf6b8-7172-4f18-96db-fd79cf34e5c8",
+              "length": 344000
+            },
+            "id": "a46d2c3f-4d8d-342e-aae6-6f9f1eb4eef5",
+            "position": 4,
+            "title": "Dreamer",
+            "number": "A4"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "title": "Pick Up the Phone",
+              "id": "90298234-67b6-4ded-a208-93561c97babc",
+              "genres": [
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "length": 270000
+            },
+            "id": "69d5f768-10cb-37f1-aff9-de778313d45c",
+            "length": 267000,
+            "position": 5,
+            "number": "A5",
+            "title": "Pick Up the Phone"
+          },
+          {
+            "title": "Be Original",
+            "number": "A6",
+            "position": 6,
+            "length": 274000,
+            "id": "ca6ad7b4-6ded-305c-a168-580ca9f681e2",
+            "recording": {
+              "length": 276933,
+              "id": "8281d081-539a-436f-816a-75de166a8b27",
+              "video": false,
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "title": "Be Original",
+              "disambiguation": ""
+            }
+          },
+          {
+            "length": 234000,
+            "id": "e080206d-f38b-3c0b-aea0-feacafe76fe4",
+            "recording": {
+              "disambiguation": "",
+              "title": "Where Can I Find Love",
+              "id": "cae51035-4e3f-479d-bf76-c5736261ba56",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "name": "euro house",
+                  "count": 1
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "length": 234000
+            },
+            "number": "B1",
+            "title": "Where Can I Find Love",
+            "position": 7
+          },
+          {
+            "number": "B2",
+            "title": "Don't Cha Wanna",
+            "position": 8,
+            "id": "e5adaa8e-e729-321d-a8dc-59ce91acd0da",
+            "recording": {
+              "title": "Don’t Cha Wanna",
+              "disambiguation": "",
+              "length": 263000,
+              "id": "d01b6d69-05da-4a87-984b-a71fa1cf49b5",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "name": "diva house",
+                  "count": 1,
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "disambiguation": "",
+                  "name": "euro house",
+                  "count": 1,
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04"
+            },
+            "length": 259000
+          },
+          {
+            "length": 260000,
+            "recording": {
+              "id": "27a1b036-2bb5-41fd-9c6e-bee86fb6c355",
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "euro house"
+                }
+              ],
+              "video": false,
+              "length": 264000,
+              "disambiguation": "",
+              "title": "Whenever You’re Lonely"
+            },
+            "id": "21079700-2a22-3164-8ef0-e91db19fcc9e",
+            "position": 9,
+            "title": "Whenever You're Lonely",
+            "number": "B3"
+          },
+          {
+            "position": 10,
+            "number": "B4",
+            "title": "Let Me Love You",
+            "recording": {
+              "video": false,
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "name": "pop soul",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "64e0bd76-822f-4549-a6fe-9858561282d1"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "id": "8866a472-002b-4b0e-924b-60d8b50ccd3f",
+              "length": 256000,
+              "disambiguation": "",
+              "title": "Let Me Love You"
+            },
+            "id": "470638a2-68f5-3d2f-8995-62df3b2d7176",
+            "length": 254000
+          },
+          {
+            "position": 11,
+            "number": "B5",
+            "title": "Don't Stop Movin' (A. Manetta mix) / Dreamer (original vocal)",
+            "length": 528000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Rollo’s Big mix)",
+              "id": "7971d4c9-f765-4692-ae29-ed9835516720",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996",
+              "length": 528000
+            },
+            "id": "4ca20bfa-7099-3603-972c-1c6e46e7cdeb"
+          }
+        ],
+        "format-id": "f5e6e254-8f39-331c-936b-9c69d686dc47",
+        "track-count": 11,
+        "title": ""
+      }
+    ],
+    "title": "Don't Stop Movin'",
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "packaging": null
+  },
+  {
+    "id": "2d3e0398-33c1-4116-84f4-226d9bdbce8b",
+    "status": "Official",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "d4a87125-0374-3dc4-a878-797692261d48",
+            "recording": {
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house"
+                }
+              ],
+              "video": false,
+              "id": "91121aa3-5c57-4f39-a127-7382c931528f",
+              "length": 318973,
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’"
+            },
+            "length": 316000,
+            "title": "Don't Stop Movin'",
+            "number": "1",
+            "position": 1
+          },
+          {
+            "title": "Follow the Rules",
+            "number": "2",
+            "position": 2,
+            "length": 231000,
+            "id": "ecba1472-515a-3ec6-9526-50764c91b9e7",
+            "recording": {
+              "length": 233000,
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "name": "diva house",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "id": "6ad2db04-3869-494c-9432-92d0a9aaa3ee",
+              "title": "Follow the Rules",
+              "disambiguation": ""
+            }
+          },
+          {
+            "position": 3,
+            "title": "Deep in You",
+            "number": "3",
+            "length": 267000,
+            "recording": {
+              "length": 268000,
+              "id": "ca68d1b7-f8fa-43f6-98a9-b1bd44485e1e",
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "title": "Deep in You",
+              "disambiguation": ""
+            },
+            "id": "8bfc4e27-3758-377d-80b8-973f41fefb6c"
+          },
+          {
+            "position": 4,
+            "number": "4",
+            "title": "Dreamer",
+            "length": 344000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer",
+              "id": "dbbaf6b8-7172-4f18-96db-fd79cf34e5c8",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "disambiguation": "",
+                  "name": "diva house",
+                  "count": 1
+                },
+                {
+                  "disambiguation": "",
+                  "name": "euro house",
+                  "count": 1,
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "length": 344000
+            },
+            "id": "99815487-7e39-3136-8e94-759f85b23e13"
+          },
+          {
+            "recording": {
+              "title": "Pick Up the Phone",
+              "disambiguation": "",
+              "length": 270000,
+              "id": "90298234-67b6-4ded-a208-93561c97babc",
+              "genres": [
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "name": "euro house",
+                  "count": 1
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false
+            },
+            "id": "0242de92-9936-3f26-8fe7-d430523ec5ad",
+            "length": 267000,
+            "position": 5,
+            "title": "Pick Up the Phone",
+            "number": "5"
+          },
+          {
+            "length": 274000,
+            "id": "86fa4d6b-b52f-3376-8d23-b6544dc550d7",
+            "recording": {
+              "disambiguation": "",
+              "title": "Be Original",
+              "id": "8281d081-539a-436f-816a-75de166a8b27",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0"
+                },
+                {
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "length": 276933
+            },
+            "title": "Be Original",
+            "number": "6",
+            "position": 6
+          },
+          {
+            "title": "Where Can I Find Love",
+            "number": "7",
+            "position": 7,
+            "id": "36b37771-4794-391c-88c9-f3a94bc229c1",
+            "recording": {
+              "id": "cae51035-4e3f-479d-bf76-c5736261ba56",
+              "video": false,
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "disambiguation": "",
+                  "name": "diva house",
+                  "count": 1
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "length": 234000,
+              "disambiguation": "",
+              "title": "Where Can I Find Love"
+            },
+            "length": 234000
+          },
+          {
+            "position": 8,
+            "title": "Don't Cha Wanna",
+            "number": "8",
+            "recording": {
+              "disambiguation": "",
+              "title": "Don’t Cha Wanna",
+              "id": "d01b6d69-05da-4a87-984b-a71fa1cf49b5",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "euro house"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "length": 263000
+            },
+            "id": "f49d7867-47c3-3a9d-a977-8938bd5e479a",
+            "length": 259000
+          },
+          {
+            "title": "Whenever You're Lonely",
+            "number": "9",
+            "position": 9,
+            "length": 260000,
+            "id": "fbd2576c-08b0-349a-b4e0-4a8cb9e579f2",
+            "recording": {
+              "length": 264000,
+              "id": "27a1b036-2bb5-41fd-9c6e-bee86fb6c355",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "euro house"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "title": "Whenever You’re Lonely",
+              "disambiguation": ""
+            }
+          },
+          {
+            "recording": {
+              "length": 256000,
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "disambiguation": "",
+                  "name": "contemporary r&b",
+                  "count": 1
+                },
+                {
+                  "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+                  "name": "pop soul",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "id": "8866a472-002b-4b0e-924b-60d8b50ccd3f",
+              "title": "Let Me Love You",
+              "disambiguation": ""
+            },
+            "id": "de9ceaf2-cda8-361b-9f01-1a38edb6269c",
+            "length": 254000,
+            "position": 10,
+            "number": "10",
+            "title": "Let Me Love You"
+          },
+          {
+            "length": 528000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Rollo’s Big mix)",
+              "id": "7971d4c9-f765-4692-ae29-ed9835516720",
+              "first-release-date": "1996",
+              "genres": [],
+              "video": false,
+              "length": 528000
+            },
+            "id": "d797ca84-80fc-3104-94e6-e05914e3084a",
+            "position": 11,
+            "number": "11",
+            "title": "Don't Stop Movin' (A. Manetta mix) / Dreamer (original vocal)"
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "track-count": 11,
+        "title": "",
+        "id": "13b8148d-8b30-3af8-8c15-6dee6acb8d8d",
+        "format": "CD",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "count": 0,
+      "darkened": false,
+      "back": false
+    },
+    "title": "Don't Stop Movin'",
+    "genres": [],
+    "date": "1996",
+    "release-group": {
+      "disambiguation": "",
+      "title": "Don’t Stop Movin’",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "first-release-date": "1996-11-04",
+      "genres": [
+        {
+          "name": "electronic",
+          "count": 1,
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "name": "house",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "id": "7a5aa9cf-537f-3734-84cb-1bf1b566e2cd"
+    },
+    "asin": null,
+    "release-events": [
+      {
+        "date": "1996",
+        "area": {
+          "sort-name": "Canada",
+          "name": "Canada",
+          "disambiguation": "",
+          "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+          "type": null,
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "CA"
+          ]
+        }
+      }
+    ],
+    "quality": "normal",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": null,
+    "barcode": null,
+    "disambiguation": "",
+    "country": "CA"
+  },
+  {
+    "media": [
+      {
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Radio Mix)",
+              "id": "4b81d9bd-ec07-4d92-a45d-0ee5c5f14d9a",
+              "genres": [
+                {
+                  "name": "house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1994",
+              "length": 221266
+            },
+            "id": "cbad9cc2-0519-436a-9929-1ea1e1b4de90",
+            "length": 221266,
+            "position": 1,
+            "title": "Dreamer (Radio Mix)",
+            "number": "1"
+          },
+          {
+            "position": 2,
+            "title": "Dreamer (2\" Deep Pan Mix)",
+            "number": "2",
+            "recording": {
+              "length": 338973,
+              "genres": [],
+              "video": false,
+              "first-release-date": "1994",
+              "id": "58f16bea-d5d7-405a-b329-8603a39228be",
+              "title": "Dreamer (2\" Deep Pan Mix)",
+              "disambiguation": ""
+            },
+            "id": "a1da5024-839d-4ca6-afa1-fedbff536ee4",
+            "length": 338973
+          },
+          {
+            "id": "c69b2218-acf2-4670-be49-48a9ab21397e",
+            "recording": {
+              "length": 341933,
+              "id": "ad851870-ecfd-44de-863d-ccd5d566e2ac",
+              "genres": [],
+              "first-release-date": "1994",
+              "video": false,
+              "title": "Dreamer (Original Mix)",
+              "disambiguation": ""
+            },
+            "length": 341933,
+            "number": "3",
+            "title": "Dreamer (Original Mix)",
+            "position": 3
+          },
+          {
+            "number": "4",
+            "title": "Dreamer (Slo Moshun Mix)",
+            "position": 4,
+            "id": "17282e09-3e4c-4b3f-865a-831f4c7c0f5b",
+            "recording": {
+              "first-release-date": "1994",
+              "genres": [],
+              "video": false,
+              "id": "45ed1f03-c49c-4488-9f5c-827f68d998d4",
+              "length": 650160,
+              "disambiguation": "",
+              "title": "Dreamer (Slo Moshun Mix)"
+            },
+            "length": 650160
+          },
+          {
+            "position": 5,
+            "title": "Dreamer (Luvdup Mix)",
+            "number": "5",
+            "length": 311706,
+            "recording": {
+              "id": "b9abb751-bbb4-485e-8231-6cb6489bcd4b",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1994",
+              "length": 311706,
+              "disambiguation": "",
+              "title": "Dreamer (Luvdup Mix)"
+            },
+            "id": "489fc751-32ff-4727-8951-9a235f3287fd"
+          },
+          {
+            "position": 6,
+            "number": "6",
+            "title": "Dreamer (Swing 52 Dub)",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Swing 52 Dub)",
+              "genres": [],
+              "first-release-date": "1994",
+              "video": false,
+              "id": "b31b8891-7e1d-44f0-bb3d-a58a7dc21770",
+              "length": 471960
+            },
+            "id": "fc41562e-eabf-4e63-9ad5-2e14b03e0f67",
+            "length": 471960
+          }
+        ],
+        "title": "",
+        "track-count": 6,
+        "id": "e34fa26b-cf11-332e-9c70-700f25534333",
+        "format": "CD",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "front": false
+    },
+    "packaging": "Slim Jewel Case",
+    "title": "Dreamer",
+    "id": "2dcf5295-26fb-4b2f-98c6-184c5894eba3",
+    "status": "Official",
+    "release-events": [
+      {
+        "date": "1994",
+        "area": {
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null
+        }
+      }
+    ],
+    "quality": "normal",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+    "barcode": "5011781199321",
+    "disambiguation": "",
+    "country": "GB",
+    "genres": [],
+    "date": "1994",
+    "release-group": {
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Dreamer",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 2
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "name": "euro house",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "name": "house",
+          "count": 3
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "1994-09-27",
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "asin": "B000057IZP"
+  },
+  {
+    "id": "3469b672-ff85-459d-a852-f68dedd8ee50",
+    "status": "Official",
+    "media": [
+      {
+        "title": "",
+        "track-count": 6,
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don't Stop Movin' (radio mix)",
+            "position": 1,
+            "id": "176ca5c7-7ef0-4215-853d-c8d49d3d7987",
+            "recording": {
+              "disambiguation": "",
+              "title": "Don't Stop Movin' (radio mix)",
+              "first-release-date": "1996-06-03",
+              "genres": [
+                {
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b",
+                  "disambiguation": "",
+                  "name": "club",
+                  "count": 2
+                },
+                {
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+                  "disambiguation": "",
+                  "count": 2,
+                  "name": "dance"
+                },
+                {
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                  "disambiguation": "",
+                  "name": "electronic",
+                  "count": 1
+                },
+                {
+                  "disambiguation": "",
+                  "name": "euro house",
+                  "count": 1,
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                },
+                {
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612",
+                  "disambiguation": "",
+                  "name": "eurodance",
+                  "count": 1
+                },
+                {
+                  "disambiguation": "",
+                  "count": 2,
+                  "name": "house",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+                }
+              ],
+              "video": false,
+              "id": "99b3e97d-4bb5-45c9-89ff-d1336981a7f1",
+              "length": 214560
+            },
+            "length": 214560
+          },
+          {
+            "position": 2,
+            "title": "Don't Stop Movin' (original version)",
+            "number": "2",
+            "recording": {
+              "title": "Don't Stop Movin' (original version)",
+              "disambiguation": "",
+              "length": 317106,
+              "id": "56c5be78-21ab-4c09-ab4d-3aa7d42e6ebd",
+              "first-release-date": "1996-06-03",
+              "genres": [],
+              "video": false
+            },
+            "id": "a10f9dd0-4ece-44bf-98cc-59f72e97f6cc",
+            "length": 317106
+          },
+          {
+            "length": 361893,
+            "id": "f3faa5f2-b1ae-4fda-8905-5fd5b31ff3c9",
+            "recording": {
+              "title": "Don’t Stop Movin’ (Want‐Will H‐Mix)",
+              "disambiguation": "",
+              "length": 361893,
+              "id": "40750b3e-daa5-4129-a644-cbcba2c43bc7",
+              "first-release-date": "1996-06-03",
+              "genres": [],
+              "video": false
+            },
+            "number": "3",
+            "title": "Don't Stop Movin' (Want-Will H-mix)",
+            "position": 3
+          },
+          {
+            "recording": {
+              "genres": [],
+              "first-release-date": "1996-06-03",
+              "video": false,
+              "id": "b7375918-f73f-4978-9cda-5f81ca224a06",
+              "length": 348000,
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’ (A‐Mannetta Mix)"
+            },
+            "id": "09976e2a-2669-4f7f-a0fc-607ea09ed320",
+            "length": 348000,
+            "position": 4,
+            "number": "4",
+            "title": "Don't Stop Movin' (A-Manetta mix)"
+          },
+          {
+            "length": 326866,
+            "recording": {
+              "title": "Don't Stop Movin' (Gettin' Right mix)",
+              "disambiguation": "",
+              "length": 326866,
+              "id": "fe8b5898-8ab2-4aac-826f-b6903107e31d",
+              "first-release-date": "1996-06-03",
+              "genres": [],
+              "video": false
+            },
+            "id": "498873bd-4a9a-419a-8eba-0dfe78912031",
+            "position": 5,
+            "number": "5",
+            "title": "Don't Stop Movin' (Gettin' Right mix)"
+          },
+          {
+            "length": 252574,
+            "id": "5bd4eba8-9c4b-4ac7-8bc7-6d4aec2a60dc",
+            "recording": {
+              "title": "Don't Stop Movin' (Gettin' Right reprise)",
+              "disambiguation": "",
+              "length": 252574,
+              "id": "09b91792-04c5-410e-a494-18f191675cbc",
+              "genres": [],
+              "first-release-date": "1996-06-03",
+              "video": false
+            },
+            "title": "Don't Stop Movin' (Gettin' Right reprise)",
+            "number": "6",
+            "position": 6
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "format": "CD",
+        "id": "05f60e1e-1f27-456f-813b-96f34397ac22",
+        "position": 1,
+        "track-offset": 0
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "title": "Don’t Stop Movin’",
+    "packaging": "Slim Jewel Case",
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "count": 3,
+      "back": true,
+      "darkened": false
+    },
+    "date": "1996-06-03",
+    "genres": [],
+    "release-group": {
+      "genres": [
+        {
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "name": "euro house",
+          "disambiguation": "",
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+        }
+      ],
+      "first-release-date": "1996-06-03",
+      "secondary-types": [],
+      "id": "8c83fe43-ead4-3791-a40b-8a242168b183",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Don’t Stop Movin’"
+    },
+    "asin": null,
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "name": "United Kingdom"
+        },
+        "date": "1996-06-03"
+      }
+    ],
+    "barcode": "600574004123",
+    "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+    "quality": "normal",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "disambiguation": "",
+    "country": "GB"
+  },
+  {
+    "status": "Official",
+    "id": "48007149-957f-48c8-a174-2b892358f894",
+    "title": "Don’t Stop Movin’",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 2,
+      "darkened": false,
+      "back": true
+    },
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "id": "6382e4c2-8e48-386b-9557-0d8725978d75",
+        "format": "CD",
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "track-count": 4,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "tracks": [
+          {
+            "length": 316000,
+            "recording": {
+              "title": "Don’t Stop Movin’ (Original Version)",
+              "disambiguation": "",
+              "length": 316000,
+              "id": "b8a77ef5-ecaf-4383-90d6-ba656e667097",
+              "genres": [],
+              "first-release-date": "1996-12-17",
+              "video": false
+            },
+            "id": "ed0efad6-bc0b-4035-a82b-925ef22b91b8",
+            "position": 1,
+            "title": "Don’t Stop Movin’ (Original Version)",
+            "number": "1"
+          },
+          {
+            "title": "Don’t Stop Movin’ (Junior’s Arena Anthem Mix)",
+            "number": "2",
+            "position": 2,
+            "length": 563000,
+            "id": "faa36a03-a24d-4778-8fa2-1dd2eb172939",
+            "recording": {
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’ (Junior’s Arena Anthem Mix)",
+              "id": "c6b11439-67cb-465d-aefe-e39d0845bb28",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996-12-17",
+              "length": 563000
+            }
+          },
+          {
+            "number": "3",
+            "title": "Don’t Stop Movin’ (A‐Mannetta Mix)",
+            "position": 3,
+            "length": 346000,
+            "id": "86353a2b-3929-4047-a34e-a38fd2e5716c",
+            "recording": {
+              "length": 348000,
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996-06-03",
+              "id": "b7375918-f73f-4978-9cda-5f81ca224a06",
+              "title": "Don’t Stop Movin’ (A‐Mannetta Mix)",
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "4",
+            "title": "Don’t Stop Movin’ (Want‐Will H‐Mix)",
+            "position": 4,
+            "length": 359000,
+            "id": "6e912eba-fd63-4970-bdc1-db621875ba3e",
+            "recording": {
+              "title": "Don’t Stop Movin’ (Want‐Will H‐Mix)",
+              "disambiguation": "",
+              "length": 361893,
+              "id": "40750b3e-daa5-4129-a644-cbcba2c43bc7",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1996-06-03"
+            }
+          }
+        ]
+      }
+    ],
+    "release-group": {
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "disambiguation": "",
+          "count": 1,
+          "name": "euro house"
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "1996-06-03",
+      "id": "8c83fe43-ead4-3791-a40b-8a242168b183",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Don’t Stop Movin’"
+    },
+    "asin": null,
+    "date": "1996-12-17",
+    "genres": [],
+    "country": "US",
+    "disambiguation": "",
+    "packaging-id": null,
+    "barcode": "008815530125",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "quality": "normal",
+    "release-events": [
+      {
+        "area": {
+          "name": "United States",
+          "disambiguation": "",
+          "sort-name": "United States",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98"
+        },
+        "date": "1996-12-17"
+      }
+    ]
+  },
+  {
+    "title": "Dreamer (Jakob Carrison remix)",
+    "cover-art-archive": {
+      "front": false,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "count": 0
+    },
+    "packaging": null,
+    "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+    "media": [
+      {
+        "format": "12\" Vinyl",
+        "id": "52d93e6f-878a-3c3b-be19-aab8e5f67235",
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "track-count": 1,
+        "tracks": [
+          {
+            "length": null,
+            "recording": {
+              "title": "Dreamer (Jakob Carrison remix)",
+              "disambiguation": "",
+              "length": null,
+              "first-release-date": "2008",
+              "genres": [],
+              "video": false,
+              "id": "b116176d-e3ee-4cdd-9edb-03d7a972e884"
+            },
+            "id": "c15a0406-ae16-46c7-8e87-6b10d73d92d1",
+            "position": 1,
+            "number": "A",
+            "title": "Dreamer (Jakob Carrison remix)"
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+      }
+    ],
+    "status": "Bootleg",
+    "id": "63ae63b3-ee2c-4b31-a458-960d1a73fb8c",
+    "country": "GB",
+    "disambiguation": "",
+    "packaging-id": null,
+    "barcode": null,
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "quality": "normal",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "name": "United Kingdom",
+          "disambiguation": ""
+        },
+        "date": "2008"
+      }
+    ],
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "genres": [
+        {
+          "disambiguation": "",
+          "count": 2,
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "name": "euro house",
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "count": 3,
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "1994-09-27",
+      "disambiguation": "",
+      "title": "Dreamer",
+      "primary-type": "Single"
+    },
+    "asin": null,
+    "date": "2008",
+    "genres": [
+      {
+        "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+        "count": 1,
+        "name": "electro",
+        "disambiguation": ""
+      },
+      {
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "name": "house",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "quality": "normal",
+    "packaging-id": null,
+    "barcode": "5011781205626",
+    "release-events": [
+      {
+        "area": {
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type": null
+        },
+        "date": "1995"
+      }
+    ],
+    "country": "GB",
+    "disambiguation": "",
+    "release-group": {
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "secondary-types": [],
+      "genres": [
+        {
+          "count": 2,
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "disambiguation": "",
+          "name": "euro house",
+          "count": 1,
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "count": 3,
+          "name": "house"
+        }
+      ],
+      "first-release-date": "1994-09-27",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Dreamer"
+    },
+    "asin": "B0000070DC",
+    "genres": [],
+    "date": "1995",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "tracks": [
+          {
+            "title": "Dreamer (7\" mix)",
+            "number": "1",
+            "position": 1,
+            "length": 225733,
+            "id": "4f62531f-71a9-331f-9006-0f495f56e4c8",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (7″ mix)",
+              "genres": [
+                {
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "club"
+                },
+                {
+                  "name": "dance",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33"
+                },
+                {
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612",
+                  "disambiguation": "",
+                  "name": "eurodance",
+                  "count": 1
+                },
+                {
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "house"
+                },
+                {
+                  "disambiguation": "",
+                  "name": "pop",
+                  "count": 2,
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+                },
+                {
+                  "count": 1,
+                  "name": "pop rock",
+                  "disambiguation": "",
+                  "id": "797e2e85-5ffd-495c-a757-8b4079052f0e"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1994",
+              "id": "100aa057-8042-4fc3-b1a5-e01b42fb7fc2",
+              "length": 221480
+            }
+          },
+          {
+            "title": "Dreamer (original club mix)",
+            "number": "2",
+            "position": 2,
+            "id": "aa178add-8da8-3864-9dd0-3026eb87289b",
+            "recording": {
+              "length": 340573,
+              "video": false,
+              "genres": [
+                {
+                  "count": 1,
+                  "name": "club",
+                  "disambiguation": "",
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b"
+                },
+                {
+                  "count": 2,
+                  "name": "dance",
+                  "disambiguation": "",
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33"
+                },
+                {
+                  "name": "electronic",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                },
+                {
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "eurodance"
+                },
+                {
+                  "disambiguation": "",
+                  "count": 2,
+                  "name": "house",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+                },
+                {
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+                  "disambiguation": "",
+                  "name": "pop",
+                  "count": 1
+                }
+              ],
+              "first-release-date": "1994-09-27",
+              "id": "ff1eab7d-be3a-48e6-af80-304bf1784228",
+              "title": "Dreamer (original club mix)",
+              "disambiguation": ""
+            },
+            "length": 340573
+          },
+          {
+            "recording": {
+              "length": 518333,
+              "genres": [],
+              "video": false,
+              "first-release-date": "1995-05-05",
+              "id": "7f4291ed-6ea9-4b98-94fe-50d271a684eb",
+              "title": "Dreamer (Rollo's Big mix)",
+              "disambiguation": ""
+            },
+            "id": "f58580bf-bd7b-3b98-9019-b28cd78fe6e7",
+            "length": 518333,
+            "position": 3,
+            "number": "3",
+            "title": "Dreamer (Rollo's Big mix)"
+          },
+          {
+            "number": "4",
+            "title": "Dreamer (Loveland's Viva Tenerife mix)",
+            "position": 4,
+            "length": 414800,
+            "id": "46879286-5e3b-3d42-8869-e131d5d9e218",
+            "recording": {
+              "title": "Dreamer (Loveland's Viva Tenerife mix)",
+              "disambiguation": "",
+              "length": 414800,
+              "first-release-date": "1995-05-05",
+              "genres": [],
+              "video": false,
+              "id": "ecf28706-db53-4433-8320-5d52526458dc"
+            }
+          },
+          {
+            "recording": {
+              "length": 537960,
+              "id": "046a3a04-9647-44da-b9fc-a280d2feac44",
+              "first-release-date": "1995-05-05",
+              "genres": [],
+              "video": false,
+              "title": "Dreamer (Junior Vasquez Sound Factory mix)",
+              "disambiguation": ""
+            },
+            "id": "5e541c2c-7969-39c9-978b-5877b6fe19a9",
+            "length": 537960,
+            "position": 5,
+            "number": "5",
+            "title": "Dreamer (Junior Vasquez Sound Factory mix)"
+          },
+          {
+            "length": 361800,
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Jupiter 12\" Collision mix)",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1995-05-05",
+              "id": "528a9611-be20-44d5-b87d-664c7ae8c33e",
+              "length": 361800
+            },
+            "id": "abdaf118-a46b-377d-b0ba-6007eb1fe9f1",
+            "position": 6,
+            "number": "6",
+            "title": "Dreamer (Jupiter 12\" Collision mix)"
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-count": 6,
+        "id": "2290698f-14e4-3db8-a523-7a746950a9ed",
+        "format": "CD",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "artwork": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "packaging": null,
+    "title": "Dreamer",
+    "id": "64828cd9-4716-38d4-8a62-baf6f7df8556",
+    "status": "Official"
+  },
+  {
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "name": "Europe",
+          "sort-name": "Europe",
+          "iso-3166-1-codes": [
+            "XE"
+          ],
+          "type-id": null,
+          "type": null,
+          "id": "89a675c2-3e37-3518-b83c-418bad59a85a"
+        },
+        "date": "1998"
+      },
+      {
+        "date": "1998",
+        "area": {
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "quality": "normal",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+    "barcode": "",
+    "disambiguation": "",
+    "country": "XE",
+    "genres": [],
+    "date": "1998",
+    "release-group": {
+      "genres": [],
+      "first-release-date": "1998",
+      "secondary-types": [],
+      "id": "36296a17-f378-439c-aa85-455a622a5d21",
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Just for the Sex of It"
+    },
+    "asin": null,
+    "media": [
+      {
+        "track-count": 3,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "tracks": [
+          {
+            "length": 230000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Just for the Sex of It (radio mix)",
+              "first-release-date": "1998",
+              "genres": [],
+              "video": false,
+              "id": "12198e0a-3e43-4d21-955a-20dce6722fa9",
+              "length": 229851
+            },
+            "id": "e7dc90a9-78ab-4b48-b0a7-cd804f5087b3",
+            "position": 1,
+            "number": "1",
+            "title": "Just for the Sex of It (radio mix)"
+          },
+          {
+            "position": 2,
+            "number": "2",
+            "title": "Just for the Sex of It (Livin club mix)",
+            "length": 420000,
+            "recording": {
+              "id": "9a17aa82-4c02-4c7e-a2bc-c7cab2ad3fbe",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1998",
+              "length": 420000,
+              "disambiguation": "",
+              "title": "Just for the Sex of It (Livin club mix)"
+            },
+            "id": "b3b8840a-7790-4082-90cd-4a9b1886d319"
+          },
+          {
+            "number": "3",
+            "title": "Just for the Sex of It (The Bunker dub)",
+            "position": 3,
+            "length": 462000,
+            "id": "b055c843-acf2-4bd8-a63f-67c24a43bfb2",
+            "recording": {
+              "length": 462000,
+              "first-release-date": "1998",
+              "genres": [],
+              "video": false,
+              "id": "2fac0a63-069b-48ac-942a-c9c814e16138",
+              "title": "Just for the Sex of It (The Bunker dub)",
+              "disambiguation": ""
+            }
+          }
+        ],
+        "id": "ad259714-f3f3-3dee-ab60-af734215eb53",
+        "format": "CD",
+        "position": 1,
+        "track-offset": 0
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "Slim Jewel Case",
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "count": 0,
+      "back": false,
+      "darkened": false
+    },
+    "title": "Just for the Sex of It",
+    "id": "7b2e815c-578b-477b-9ed2-3b6b0d1e3084",
+    "status": "Official"
+  },
+  {
+    "disambiguation": "",
+    "country": "GB",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "name": "United Kingdom"
+        },
+        "date": "1996-11-04"
+      }
+    ],
+    "quality": "normal",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "600406003324",
+    "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+    "genres": [],
+    "date": "1996-11-04",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7a5aa9cf-537f-3734-84cb-1bf1b566e2cd",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "name": "house",
+          "count": 1,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "first-release-date": "1996-11-04",
+      "secondary-types": [],
+      "title": "Don’t Stop Movin’",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    "asin": "B000024OEX",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "packaging": "Jewel Case",
+    "title": "Don’t Stop Movin’",
+    "media": [
+      {
+        "title": "",
+        "track-count": 11,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "tracks": [
+          {
+            "position": 1,
+            "number": "1",
+            "title": "Don’t Stop Movin’",
+            "length": 319866,
+            "recording": {
+              "id": "91121aa3-5c57-4f39-a127-7382c931528f",
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                }
+              ],
+              "video": false,
+              "length": 318973,
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’"
+            },
+            "id": "dc9db7a0-cb54-3cc1-97be-a0d581cefa62"
+          },
+          {
+            "title": "Follow the Rules",
+            "number": "2",
+            "position": 2,
+            "length": 233333,
+            "id": "e0c96549-a1d5-3212-a417-dd6a4840ae43",
+            "recording": {
+              "title": "Follow the Rules",
+              "disambiguation": "",
+              "length": 233000,
+              "id": "6ad2db04-3869-494c-9432-92d0a9aaa3ee",
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house"
+                },
+                {
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false
+            }
+          },
+          {
+            "id": "5302f16c-e70f-338b-8212-b23654728d65",
+            "recording": {
+              "title": "Deep in You",
+              "disambiguation": "",
+              "length": 268000,
+              "video": false,
+              "genres": [
+                {
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "id": "ca68d1b7-f8fa-43f6-98a9-b1bd44485e1e"
+            },
+            "length": 271360,
+            "number": "3",
+            "title": "Deep in You",
+            "position": 3
+          },
+          {
+            "recording": {
+              "title": "Dreamer",
+              "disambiguation": "",
+              "length": 344000,
+              "id": "dbbaf6b8-7172-4f18-96db-fd79cf34e5c8",
+              "video": false,
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "count": 1,
+                  "name": "diva house",
+                  "disambiguation": ""
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1996-11-04"
+            },
+            "id": "380714e3-7a78-30b4-8fd8-789623913011",
+            "length": 347506,
+            "position": 4,
+            "title": "Dreamer",
+            "number": "4"
+          },
+          {
+            "recording": {
+              "title": "Pick Up the Phone",
+              "disambiguation": "",
+              "length": 270000,
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "id": "90298234-67b6-4ded-a208-93561c97babc"
+            },
+            "id": "811ec0d9-4b51-3f4d-b1e1-e47abc410610",
+            "length": 270760,
+            "position": 5,
+            "title": "Pick Up the Phone",
+            "number": "5"
+          },
+          {
+            "position": 6,
+            "title": "Be Original",
+            "number": "6",
+            "length": 277000,
+            "recording": {
+              "title": "Be Original",
+              "disambiguation": "",
+              "length": 276933,
+              "id": "8281d081-539a-436f-816a-75de166a8b27",
+              "genres": [
+                {
+                  "count": 1,
+                  "name": "contemporary r&b",
+                  "disambiguation": "",
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0"
+                },
+                {
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false
+            },
+            "id": "695536bc-1c68-3155-8e76-3bf9bed4ff78"
+          },
+          {
+            "title": "Where Can I Find Love",
+            "number": "7",
+            "position": 7,
+            "id": "069c92ec-2059-3c9b-babd-cdd05cb052bb",
+            "recording": {
+              "genres": [
+                {
+                  "count": 1,
+                  "name": "diva house",
+                  "disambiguation": "",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "name": "euro house",
+                  "count": 1
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "id": "cae51035-4e3f-479d-bf76-c5736261ba56",
+              "length": 234000,
+              "disambiguation": "",
+              "title": "Where Can I Find Love"
+            },
+            "length": 236373
+          },
+          {
+            "title": "Don’t Cha’ Wanna",
+            "number": "8",
+            "position": 8,
+            "id": "e66da4be-8012-3177-a5cb-b2a17216bb97",
+            "recording": {
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "name": "diva house",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "id": "d01b6d69-05da-4a87-984b-a71fa1cf49b5",
+              "length": 263000,
+              "disambiguation": "",
+              "title": "Don’t Cha Wanna"
+            },
+            "length": 263800
+          },
+          {
+            "number": "9",
+            "title": "Whenever You’re Lonely",
+            "position": 9,
+            "length": 264226,
+            "id": "abdefb37-966e-314e-96b4-8e60a2dcc22f",
+            "recording": {
+              "title": "Whenever You’re Lonely",
+              "disambiguation": "",
+              "length": 264000,
+              "id": "27a1b036-2bb5-41fd-9c6e-bee86fb6c355",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "name": "diva house",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "euro house"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04"
+            }
+          },
+          {
+            "length": 256906,
+            "recording": {
+              "id": "8866a472-002b-4b0e-924b-60d8b50ccd3f",
+              "video": false,
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "disambiguation": "",
+                  "name": "contemporary r&b",
+                  "count": 1
+                },
+                {
+                  "id": "64e0bd76-822f-4549-a6fe-9858561282d1",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "pop soul"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "length": 256000,
+              "disambiguation": "",
+              "title": "Let Me Love You"
+            },
+            "id": "ac937fd2-f2cc-3c18-ba6b-fc75c960bf59",
+            "position": 10,
+            "number": "10",
+            "title": "Let Me Love You"
+          },
+          {
+            "position": 11,
+            "number": "11",
+            "title": "Don’t Stop Movin’ (A. Mannetta mix) / Don’t Stop Movin’ (Rollo’s Big mix)",
+            "recording": {
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’ (A. Mannetta mix) / Don’t Stop Movin’ (Rollo’s Big mix)",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house"
+                },
+                {
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "id": "de474e65-b331-4d59-a21c-1ce35052c616",
+              "length": 810160
+            },
+            "id": "3bc94060-c67a-39d9-af70-f078e322a746",
+            "length": 810160
+          }
+        ],
+        "position": 1,
+        "track-offset": 0,
+        "id": "20d1cdd6-680f-35e4-87b3-5abcd431c276",
+        "format": "CD"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "id": "8cb2c1d7-34d1-42f5-bcd0-2803d95f029c"
+  },
+  {
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "DE"
+          ],
+          "type-id": null,
+          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+          "type": null,
+          "disambiguation": "",
+          "name": "Germany",
+          "sort-name": "Germany"
+        },
+        "date": "1994"
+      }
+    ],
+    "quality": "normal",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": null,
+    "barcode": "008813225528",
+    "disambiguation": "",
+    "country": "DE",
+    "genres": [],
+    "date": "1994",
+    "release-group": {
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Dreamer",
+      "genres": [
+        {
+          "name": "electronic",
+          "count": 2,
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "name": "euro house",
+          "disambiguation": "",
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+        },
+        {
+          "name": "house",
+          "count": 3,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "first-release-date": "1994-09-27",
+      "secondary-types": [],
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "asin": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "694ad3e2-fbda-397a-969a-eda39662e3f1",
+            "recording": {
+              "video": false,
+              "genres": [
+                {
+                  "name": "club",
+                  "count": 2,
+                  "disambiguation": "",
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b"
+                },
+                {
+                  "name": "dance",
+                  "count": 3,
+                  "disambiguation": "",
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33"
+                },
+                {
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612",
+                  "disambiguation": "",
+                  "name": "eurodance",
+                  "count": 2
+                },
+                {
+                  "disambiguation": "",
+                  "name": "house",
+                  "count": 1,
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+                },
+                {
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+                  "name": "pop",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "name": "trance",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "2afc2320-384f-43a4-a71e-1b763c485045"
+                }
+              ],
+              "first-release-date": "1994-11",
+              "id": "060d5181-c927-4c67-9c03-6a758064dbdd",
+              "length": 221533,
+              "disambiguation": "radio mix",
+              "title": "Dreamer"
+            },
+            "length": 221306,
+            "number": "1",
+            "title": "Dreamer (radio mix)",
+            "position": 1
+          },
+          {
+            "number": "2",
+            "title": "Dreamer (2\" Deep Pan mix)",
+            "position": 2,
+            "id": "75c09b20-efb4-369b-8e72-61abea785b3f",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (2\" Deep Pan mix)",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1994",
+              "id": "aaf70abf-ab9a-44b1-9add-f8ef3686e2ee",
+              "length": 337760
+            },
+            "length": 337760
+          },
+          {
+            "length": 310773,
+            "recording": {
+              "title": "Dreamer (Luvdup mix)",
+              "disambiguation": "",
+              "length": 310773,
+              "first-release-date": "1994",
+              "genres": [],
+              "video": false,
+              "id": "7c077581-6978-4f0f-8689-9e38c56f6b6a"
+            },
+            "id": "918cdb51-4171-3ef2-a398-f42d12ff188e",
+            "position": 3,
+            "title": "Dreamer (Luvdup mix)",
+            "number": "3"
+          },
+          {
+            "recording": {
+              "length": 339000,
+              "video": false,
+              "genres": [],
+              "first-release-date": "1994",
+              "id": "a7205c04-1311-4b94-809b-bd0ef4998132",
+              "title": "Dreamer (original mix)",
+              "disambiguation": ""
+            },
+            "id": "845fabe2-90d4-358e-8c7a-cf4f81f32ea4",
+            "length": 339933,
+            "position": 4,
+            "title": "Dreamer (original mix)",
+            "number": "4"
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-count": 4,
+        "id": "1b577b06-7c4f-3d6e-bc13-9e4e3d7dbb57",
+        "format": "CD",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 0,
+      "front": false,
+      "artwork": false
+    },
+    "title": "Dreamer",
+    "id": "a01a3e8c-80d5-4ccc-ab0b-a14015055a5f",
+    "status": "Official"
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "title": "",
+        "track-count": 12,
+        "tracks": [
+          {
+            "title": "Don't Stop Movin'",
+            "number": "1",
+            "position": 1,
+            "length": 319000,
+            "id": "042bbe34-0164-4770-a34b-be5b46af3b19",
+            "recording": {
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’",
+              "genres": [
+                {
+                  "count": 1,
+                  "name": "diva house",
+                  "disambiguation": "",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "id": "91121aa3-5c57-4f39-a127-7382c931528f",
+              "length": 318973
+            }
+          },
+          {
+            "title": "Follow the Rules",
+            "number": "2",
+            "position": 2,
+            "id": "dce5a299-5876-4cb4-9e6a-a464399d507a",
+            "recording": {
+              "title": "Follow the Rules",
+              "disambiguation": "",
+              "length": 233000,
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "disambiguation": "",
+                  "name": "diva house",
+                  "count": 1
+                },
+                {
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false,
+              "id": "6ad2db04-3869-494c-9432-92d0a9aaa3ee"
+            },
+            "length": 233000
+          },
+          {
+            "position": 3,
+            "number": "3",
+            "title": "Deep in You",
+            "recording": {
+              "id": "ca68d1b7-f8fa-43f6-98a9-b1bd44485e1e",
+              "genres": [
+                {
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "length": 268000,
+              "disambiguation": "",
+              "title": "Deep in You"
+            },
+            "id": "07e150ab-888a-4579-93bc-eb16dc790b53",
+            "length": 271000
+          },
+          {
+            "length": 347000,
+            "id": "6082c2a1-18cd-4918-8d4b-3fa68b568bb2",
+            "recording": {
+              "title": "Dreamer (original club mix)",
+              "disambiguation": "",
+              "length": 340573,
+              "id": "ff1eab7d-be3a-48e6-af80-304bf1784228",
+              "video": false,
+              "genres": [
+                {
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b",
+                  "disambiguation": "",
+                  "name": "club",
+                  "count": 1
+                },
+                {
+                  "disambiguation": "",
+                  "count": 2,
+                  "name": "dance",
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33"
+                },
+                {
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                  "count": 1,
+                  "name": "electronic",
+                  "disambiguation": ""
+                },
+                {
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612",
+                  "count": 1,
+                  "name": "eurodance",
+                  "disambiguation": ""
+                },
+                {
+                  "disambiguation": "",
+                  "count": 2,
+                  "name": "house",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+                },
+                {
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "pop"
+                }
+              ],
+              "first-release-date": "1994-09-27"
+            },
+            "title": "Dreamer",
+            "number": "4",
+            "position": 4
+          },
+          {
+            "length": 270000,
+            "id": "7e2421e0-832d-4706-ba8c-1d7aea9ca781",
+            "recording": {
+              "length": 270000,
+              "genres": [
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "id": "90298234-67b6-4ded-a208-93561c97babc",
+              "title": "Pick Up the Phone",
+              "disambiguation": ""
+            },
+            "number": "5",
+            "title": "Pick Up the Phone",
+            "position": 5
+          },
+          {
+            "length": 277000,
+            "id": "6d5ad4da-8351-4d62-9cf0-a501203a80f0",
+            "recording": {
+              "disambiguation": "",
+              "title": "Be Original",
+              "id": "8281d081-539a-436f-816a-75de166a8b27",
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "length": 276933
+            },
+            "title": "Be Original",
+            "number": "6",
+            "position": 6
+          },
+          {
+            "title": "Where Can I Find Love",
+            "number": "7",
+            "position": 7,
+            "length": 234000,
+            "id": "84752860-f80c-43e2-b267-e911a63a88bf",
+            "recording": {
+              "disambiguation": "",
+              "title": "Where Can I Find Love",
+              "id": "cae51035-4e3f-479d-bf76-c5736261ba56",
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "name": "diva house",
+                  "count": 1,
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "length": 234000
+            }
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "title": "Don’t Cha Wanna",
+              "video": false,
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house"
+                },
+                {
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "id": "d01b6d69-05da-4a87-984b-a71fa1cf49b5",
+              "length": 263000
+            },
+            "id": "2ad8a2bb-543d-4965-8237-7958c5502b32",
+            "length": 263000,
+            "position": 8,
+            "title": "Don't Cha' Wanna",
+            "number": "8"
+          },
+          {
+            "length": 264000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Whenever You’re Lonely",
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "name": "diva house",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "id": "27a1b036-2bb5-41fd-9c6e-bee86fb6c355",
+              "length": 264000
+            },
+            "id": "29197dc0-85b5-4eff-a494-7cfe7a2f6b3a",
+            "position": 9,
+            "title": "Whenever You're Lonely",
+            "number": "9"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "title": "Let Me Love You",
+              "id": "8866a472-002b-4b0e-924b-60d8b50ccd3f",
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "count": 1,
+                  "name": "pop soul",
+                  "disambiguation": "",
+                  "id": "64e0bd76-822f-4549-a6fe-9858561282d1"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "length": 256000
+            },
+            "id": "d58ad45b-65fd-4b6c-8424-84eaa274cd17",
+            "length": 256000,
+            "position": 10,
+            "title": "Let Me Love You",
+            "number": "10"
+          },
+          {
+            "length": 347000,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996-06-03",
+              "id": "b7375918-f73f-4978-9cda-5f81ca224a06",
+              "length": 348000,
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’ (A‐Mannetta Mix)"
+            },
+            "id": "7ac59756-3b37-4d30-a3d4-e5845cbeb82f",
+            "position": 11,
+            "title": "Don't Stop Movin' (A. Manetta mix)",
+            "number": "11"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Janice Robinson vocal)",
+              "id": "3892cd91-cae9-4e95-ba90-addd2a732ed9",
+              "video": false,
+              "genres": [
+                {
+                  "id": "b739a895-85ed-4ad3-8717-4e9ef5387dd8",
+                  "disambiguation": "",
+                  "name": "dance-pop",
+                  "count": 1
+                },
+                {
+                  "name": "diva house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                }
+              ],
+              "first-release-date": "2018-03-30",
+              "length": 223535
+            },
+            "id": "dd5b34c2-6f61-473f-8121-6fa89f29373f",
+            "length": 223000,
+            "position": 12,
+            "title": "Dreamer (Janice Robinson vocal)",
+            "number": "12"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "id": "92f67403-867e-3247-9e31-0fb7eed5cdb3",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0
+      },
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "length": 214560,
+              "first-release-date": "1996-06-03",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "name": "club",
+                  "count": 2,
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b"
+                },
+                {
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+                  "disambiguation": "",
+                  "count": 2,
+                  "name": "dance"
+                },
+                {
+                  "disambiguation": "",
+                  "name": "electronic",
+                  "count": 1,
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "euro house"
+                },
+                {
+                  "count": 1,
+                  "name": "eurodance",
+                  "disambiguation": "",
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612"
+                },
+                {
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "count": 2,
+                  "name": "house",
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "id": "99b3e97d-4bb5-45c9-89ff-d1336981a7f1",
+              "title": "Don't Stop Movin' (radio mix)",
+              "disambiguation": ""
+            },
+            "id": "80af325b-c765-4e1f-bf1f-ea62d07d6c22",
+            "length": 215000,
+            "position": 1,
+            "number": "1",
+            "title": "Don't Stop Movin' (radio mix)"
+          },
+          {
+            "number": "2",
+            "title": "Follow the Rules (radio mix)",
+            "position": 2,
+            "id": "444c73fa-247b-49e1-b76f-5a9387ecd19d",
+            "recording": {
+              "title": "Follow the Rules (radio mix)",
+              "disambiguation": "",
+              "length": 196000,
+              "id": "b38f46dd-ffd2-4fe3-a89e-324f00e8790d",
+              "video": false,
+              "genres": [],
+              "first-release-date": "2018-03-30"
+            },
+            "length": 196000
+          },
+          {
+            "position": 3,
+            "title": "Deep in You (Cutfather & Joe remix)",
+            "number": "3",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2018-03-30",
+              "id": "c03af093-3919-428f-b17b-f074d2246201",
+              "length": 223000,
+              "disambiguation": "",
+              "title": "Deep in You (Cutfather & Joe remix)"
+            },
+            "id": "91c775b7-658a-4510-90c9-500790f45d03",
+            "length": 223000
+          },
+          {
+            "title": "Just for the Sex of It (radio mix)",
+            "number": "4",
+            "position": 4,
+            "id": "a21cbced-99da-4d89-8690-e5de897384e3",
+            "recording": {
+              "disambiguation": "",
+              "title": "Just for the Sex of It (radio mix)",
+              "first-release-date": "2018-03-30",
+              "genres": [],
+              "video": false,
+              "id": "391a10be-ffff-4417-80ca-01a385f706ef",
+              "length": 232000
+            },
+            "length": 232000
+          }
+        ],
+        "title": "",
+        "track-count": 4,
+        "id": "55718773-1162-4e0c-98a2-355b25c17762",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "position": 2
+      }
+    ],
+    "packaging": "None",
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "title": "Don’t Stop Movin'",
+    "id": "a42e2e6a-a46c-4669-aced-00cb007a8bc8",
+    "status": "Official",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "quality": "normal",
+    "barcode": "602567492511",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2018-03-30",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "country": "XW",
+    "disambiguation": "",
+    "release-group": {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "id": "7a5aa9cf-537f-3734-84cb-1bf1b566e2cd",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "name": "house",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "1996-11-04",
+      "title": "Don’t Stop Movin’",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    "asin": null,
+    "genres": [],
+    "date": "2018-03-30"
+  },
+  {
+    "release-group": {
+      "primary-type": "Single",
+      "title": "Dreamer",
+      "disambiguation": "",
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 2,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "name": "euro house",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "name": "house",
+          "count": 3
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "1994-09-27",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "asin": "B000002PVG",
+    "date": "1994-09-27",
+    "genres": [],
+    "packaging-id": null,
+    "barcode": "008815492225",
+    "quality": "normal",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "release-events": [
+      {
+        "date": "1994-09-27",
+        "area": {
+          "sort-name": "United States",
+          "name": "United States",
+          "disambiguation": "",
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        }
+      }
+    ],
+    "country": "US",
+    "disambiguation": "",
+    "id": "b82e1671-4888-46db-b422-0d93cb0a56a4",
+    "status": "Official",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "track-offset": 0,
+        "position": 1,
+        "id": "3e6d068d-f622-3de4-90c4-e8aaa9f2ac5b",
+        "format": "CD",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "tracks": [
+          {
+            "id": "8b9c084a-291a-332b-834e-bb4739a4bf6f",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (original club mix)",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "name": "club",
+                  "count": 1,
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b"
+                },
+                {
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+                  "disambiguation": "",
+                  "count": 2,
+                  "name": "dance"
+                },
+                {
+                  "disambiguation": "",
+                  "name": "electronic",
+                  "count": 1,
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                },
+                {
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612",
+                  "count": 1,
+                  "name": "eurodance",
+                  "disambiguation": ""
+                },
+                {
+                  "count": 2,
+                  "name": "house",
+                  "disambiguation": "",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+                },
+                {
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+                  "name": "pop",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1994-09-27",
+              "video": false,
+              "id": "ff1eab7d-be3a-48e6-af80-304bf1784228",
+              "length": 340573
+            },
+            "length": 338973,
+            "title": "Dreamer (original club mix)",
+            "number": "1",
+            "position": 1
+          },
+          {
+            "position": 2,
+            "title": "Dreamer (Slo Moshun mix)",
+            "number": "2",
+            "length": 637760,
+            "recording": {
+              "length": 637760,
+              "id": "46d663ad-c284-4ef9-985d-f72d3bc4a3ae",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1994-09-27",
+              "title": "Dreamer (Slo Moshun mix)",
+              "disambiguation": ""
+            },
+            "id": "865f1440-4531-3e52-a248-c76b5e81d77e"
+          },
+          {
+            "length": 588440,
+            "recording": {
+              "id": "409cb637-bb9f-4406-a8e9-4af0ca16e73d",
+              "genres": [],
+              "first-release-date": "1994-09-27",
+              "video": false,
+              "length": 588440,
+              "disambiguation": "",
+              "title": "Dreamer (Junior's Sound Factory mix)"
+            },
+            "id": "a0559967-2871-35fe-b84b-da1bc4607624",
+            "position": 3,
+            "number": "3",
+            "title": "Dreamer (Junior's Sound Factory mix)"
+          },
+          {
+            "number": "4",
+            "title": "Dreamer (Factory dub)",
+            "position": 4,
+            "id": "a743fbcf-fbd4-3832-abf5-aed3bf2acd55",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Factory dub)",
+              "first-release-date": "1994-09-27",
+              "genres": [],
+              "video": false,
+              "id": "76c394d8-af46-4b0f-9db0-328907fa2838",
+              "length": 427333
+            },
+            "length": 427333
+          },
+          {
+            "id": "3dc5447b-19c3-3a46-b668-bd95fcfbcc43",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "1994-09-27",
+              "id": "006bc0a2-4bb6-4a71-84c2-e938cfc1cb9c",
+              "length": 586026,
+              "disambiguation": "",
+              "title": "Dreamer (Junior's instrumental)"
+            },
+            "length": 586026,
+            "title": "Dreamer (Junior's instrumental)",
+            "number": "5",
+            "position": 5
+          },
+          {
+            "position": 6,
+            "number": "6",
+            "title": "Dreamer (radio mix)",
+            "recording": {
+              "length": 217467,
+              "genres": [],
+              "video": false,
+              "first-release-date": "1994-09-27",
+              "id": "99f584df-9157-41f1-b39f-c9f3b783c5a2",
+              "title": "Dreamer (radio mix)",
+              "disambiguation": ""
+            },
+            "id": "3c6c5349-3c90-365b-80d1-20c4903576da",
+            "length": 217467
+          }
+        ],
+        "title": "",
+        "track-count": 6
+      }
+    ],
+    "title": "Dreamer",
+    "packaging": null,
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 0,
+      "artwork": false,
+      "front": false
+    }
+  },
+  {
+    "status": "Official",
+    "id": "c8aaaf62-c691-4c18-b5c9-74733b710e09",
+    "title": "Dreamer",
+    "packaging": null,
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 0,
+      "front": false,
+      "artwork": false
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "track-count": 5,
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (original club mix)",
+              "id": "364cd2fe-711b-4331-9ac9-635612f885d8",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1995",
+              "length": 339000
+            },
+            "id": "755121c2-a8c2-382b-b222-0429324ac0c5",
+            "length": 339000,
+            "position": 1,
+            "title": "Dreamer (original club mix)",
+            "number": "A1"
+          },
+          {
+            "title": "Dreamer (Junior Vasquez Sound Factory mix)",
+            "number": "A2",
+            "position": 2,
+            "id": "ef8207a5-54c3-3b89-a324-77b774d76875",
+            "recording": {
+              "id": "1c98d6d4-15fc-433f-9f56-23dbe9b1743b",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1995",
+              "length": 587000,
+              "disambiguation": "",
+              "title": "Dreamer (Junior Vasquez Sound Factory mix)"
+            },
+            "length": 587000
+          },
+          {
+            "length": 516000,
+            "id": "63625c8d-301d-392f-ba51-879c73302fc2",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Rollo's Big mix)",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1995",
+              "id": "ccfe3262-cda9-4a5e-87c8-7cd6526c97cc",
+              "length": 516000
+            },
+            "title": "Dreamer (Rollo's Big mix)",
+            "number": "B1",
+            "position": 3
+          },
+          {
+            "recording": {
+              "title": "Dreamer (Loveland's Viva Tenerife mix)",
+              "disambiguation": "",
+              "length": 413000,
+              "video": false,
+              "genres": [],
+              "first-release-date": "1995",
+              "id": "2be679fe-6f32-4282-a3b6-240bdbd436eb"
+            },
+            "id": "0d5c943d-262c-3896-ba2e-cf89928746fa",
+            "length": 413000,
+            "position": 4,
+            "title": "Dreamer (Loveland's Viva Tenerife mix)",
+            "number": "B2"
+          },
+          {
+            "title": "Dreamer (Alex Party Underground mix)",
+            "number": "B3",
+            "position": 5,
+            "length": 320000,
+            "id": "4a2c7423-c7a0-3424-a61a-4daa24bb9ecc",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Alex Party Underground mix)",
+              "id": "b6d0bbd6-1ee8-4b28-b6f7-b79fb11551df",
+              "genres": [],
+              "first-release-date": "1995",
+              "video": false,
+              "length": 320000
+            }
+          }
+        ],
+        "position": 1,
+        "track-offset": 0,
+        "format": "12\" Vinyl",
+        "id": "4ea6a160-d722-35c0-93c0-3bdf391be5ba"
+      }
+    ],
+    "release-group": {
+      "title": "Dreamer",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 2,
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "disambiguation": "",
+          "count": 1,
+          "name": "euro house"
+        },
+        {
+          "disambiguation": "",
+          "count": 3,
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "1994-09-27"
+    },
+    "asin": null,
+    "date": "1995",
+    "genres": [],
+    "country": "DE",
+    "disambiguation": "",
+    "barcode": null,
+    "packaging-id": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "quality": "normal",
+    "release-events": [
+      {
+        "date": "1995",
+        "area": {
+          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+          "type": null,
+          "iso-3166-1-codes": [
+            "DE"
+          ],
+          "type-id": null,
+          "sort-name": "Germany",
+          "disambiguation": "",
+          "name": "Germany"
+        }
+      }
+    ]
+  },
+  {
+    "id": "d5eb3d60-2e2d-4455-8750-dacb6c33552e",
+    "status": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "recording": {
+              "disambiguation": "",
+              "title": "Deep In You (Cutfather & Joe Remix)",
+              "genres": [],
+              "first-release-date": "1997",
+              "video": false,
+              "id": "947276f4-26fc-4ef5-bcb3-f2c45d352fb2",
+              "length": 220000
+            },
+            "id": "0d3a477b-95f4-4857-9cbe-b3b32e96f9c9",
+            "length": 220000,
+            "position": 1,
+            "title": "Deep In You (Cutfather & Joe Remix)",
+            "number": "1"
+          },
+          {
+            "length": 269000,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "1997",
+              "id": "5fe6233b-f25b-4bf0-ad6e-773a4c3ede9d",
+              "length": 269000,
+              "disambiguation": "",
+              "title": "Deep In You (Original Mix)"
+            },
+            "id": "67edd308-a535-489a-a28b-b72fbbbbce70",
+            "position": 2,
+            "title": "Deep In You (Original Mix)",
+            "number": "2"
+          },
+          {
+            "id": "64cce575-a84b-46a6-bacb-c0f472cf98d2",
+            "recording": {
+              "title": "Deep In You (Deep Zone Club Mix)",
+              "disambiguation": "",
+              "length": 411000,
+              "video": false,
+              "genres": [],
+              "first-release-date": "1997",
+              "id": "00d01cb1-5bef-496a-b8c0-cbf81b7365c9"
+            },
+            "length": 411000,
+            "title": "Deep In You (Deep Zone Club Mix)",
+            "number": "3",
+            "position": 3
+          },
+          {
+            "length": 412000,
+            "recording": {
+              "length": 412000,
+              "id": "8229f27e-6ffd-481f-9e75-5b678ff0cd51",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1997",
+              "title": "Deep In You (Deep Dub)",
+              "disambiguation": ""
+            },
+            "id": "4e144e49-7502-451f-8142-d3c4d309126f",
+            "position": 4,
+            "number": "4",
+            "title": "Deep In You (Deep Dub)"
+          },
+          {
+            "position": 5,
+            "number": "5",
+            "title": "Deep In You (Pizzicato Remix)",
+            "recording": {
+              "title": "Deep In You (Pizzicato Remix)",
+              "disambiguation": "",
+              "length": 426000,
+              "genres": [],
+              "video": false,
+              "first-release-date": "1997",
+              "id": "fa2bec86-a754-4c21-8e9b-335f466fe5a8"
+            },
+            "id": "018e04dd-129c-4728-8585-61d1492a506b",
+            "length": 426000
+          },
+          {
+            "title": "Deep In You (Marc Kulak Remix)",
+            "number": "6",
+            "position": 6,
+            "length": 460000,
+            "id": "eea4f53d-6c98-4150-8c98-156bf1e7542a",
+            "recording": {
+              "disambiguation": "",
+              "title": "Deep In You (Marc Kulak Remix)",
+              "id": "1052215f-c61b-464b-92ab-f3fdae6048f7",
+              "genres": [],
+              "first-release-date": "1997",
+              "video": false,
+              "length": 460000
+            }
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-count": 6,
+        "track-offset": 0,
+        "position": 1,
+        "format": "CD",
+        "id": "b17854d6-8c3c-323a-b224-4373e02828b1"
+      }
+    ],
+    "status-id": null,
+    "packaging": null,
+    "cover-art-archive": {
+      "front": false,
+      "artwork": false,
+      "count": 0,
+      "back": false,
+      "darkened": false
+    },
+    "title": "Deep In You",
+    "genres": [],
+    "date": "1997",
+    "asin": null,
+    "release-group": {
+      "id": "bdea2879-e704-4cae-b5c1-fd6a20e54da8",
+      "first-release-date": "1997",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "name": "euro house",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "name": "europop",
+          "disambiguation": "",
+          "id": "50e3ff0e-1abb-4577-9bf3-95d5c539ce2d"
+        },
+        {
+          "disambiguation": "",
+          "name": "garage house",
+          "count": 1,
+          "id": "092f40b5-9157-41f2-8243-68b704cd0ed1"
+        },
+        {
+          "count": 1,
+          "name": "hip hop",
+          "disambiguation": "",
+          "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c"
+        },
+        {
+          "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+          "disambiguation": "",
+          "count": 1,
+          "name": "pop"
+        }
+      ],
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "title": "Deep In You",
+      "disambiguation": ""
+    },
+    "release-events": [
+      {
+        "date": "1997",
+        "area": {
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "quality": "normal",
+    "barcode": "600574013620",
+    "packaging-id": null,
+    "disambiguation": "",
+    "country": "GB"
+  },
+  {
+    "disambiguation": "",
+    "country": "DE",
+    "release-events": [
+      {
+        "date": "1995-05-05",
+        "area": {
+          "sort-name": "Germany",
+          "name": "Germany",
+          "disambiguation": "",
+          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+          "type": null,
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "DE"
+          ]
+        }
+      }
+    ],
+    "packaging-id": null,
+    "barcode": "008813284624",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "quality": "normal",
+    "date": "1995-05-05",
+    "genres": [],
+    "release-group": {
+      "disambiguation": "",
+      "title": "Dreamer",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 2,
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "name": "euro house",
+          "count": 1,
+          "disambiguation": "",
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+        },
+        {
+          "disambiguation": "",
+          "count": 3,
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "first-release-date": "1994-09-27",
+      "secondary-types": []
+    },
+    "asin": "B000091BDC",
+    "title": "Dreamer",
+    "cover-art-archive": {
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "front": false
+    },
+    "packaging": null,
+    "media": [
+      {
+        "format": "CD",
+        "id": "8228ee0f-21e3-329b-a543-aa3b5ff4764a",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 6,
+        "title": "",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Dreamer (7\" mix)",
+            "position": 1,
+            "id": "55653102-fde5-302d-b1a2-645b2a11cd3c",
+            "recording": {
+              "genres": [
+                {
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b",
+                  "name": "club",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+                  "count": 1,
+                  "name": "dance",
+                  "disambiguation": ""
+                },
+                {
+                  "disambiguation": "",
+                  "name": "eurodance",
+                  "count": 1,
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612"
+                },
+                {
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "disambiguation": "",
+                  "name": "house",
+                  "count": 1
+                },
+                {
+                  "disambiguation": "",
+                  "name": "pop",
+                  "count": 2,
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+                },
+                {
+                  "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+                  "name": "pop rock",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "first-release-date": "1994",
+              "id": "100aa057-8042-4fc3-b1a5-e01b42fb7fc2",
+              "length": 221480,
+              "disambiguation": "",
+              "title": "Dreamer (7″ mix)"
+            },
+            "length": 225733
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (original club mix)",
+              "id": "ff1eab7d-be3a-48e6-af80-304bf1784228",
+              "first-release-date": "1994-09-27",
+              "genres": [
+                {
+                  "name": "club",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b"
+                },
+                {
+                  "count": 2,
+                  "name": "dance",
+                  "disambiguation": "",
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33"
+                },
+                {
+                  "name": "electronic",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                },
+                {
+                  "count": 1,
+                  "name": "eurodance",
+                  "disambiguation": "",
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612"
+                },
+                {
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "name": "house",
+                  "count": 2,
+                  "disambiguation": ""
+                },
+                {
+                  "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+                  "name": "pop",
+                  "count": 1,
+                  "disambiguation": ""
+                }
+              ],
+              "video": false,
+              "length": 340573
+            },
+            "id": "5878a3a4-7dcf-32d9-b583-980216d649ee",
+            "length": 340573,
+            "position": 2,
+            "number": "2",
+            "title": "Dreamer (original club mix)"
+          },
+          {
+            "recording": {
+              "title": "Dreamer (Rollo's Big mix)",
+              "disambiguation": "",
+              "length": 518333,
+              "id": "7f4291ed-6ea9-4b98-94fe-50d271a684eb",
+              "genres": [],
+              "first-release-date": "1995-05-05",
+              "video": false
+            },
+            "id": "46d1ff83-9c42-3625-9d24-ef7314fefa26",
+            "length": 518333,
+            "position": 3,
+            "title": "Dreamer (Rollo's Big mix)",
+            "number": "3"
+          },
+          {
+            "length": 414800,
+            "id": "73aafdfb-0922-3e5c-b582-b98db2ee28cf",
+            "recording": {
+              "disambiguation": "",
+              "title": "Dreamer (Loveland's Viva Tenerife mix)",
+              "id": "ecf28706-db53-4433-8320-5d52526458dc",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1995-05-05",
+              "length": 414800
+            },
+            "number": "4",
+            "title": "Dreamer (Loveland's Viva Tenerife mix)",
+            "position": 4
+          },
+          {
+            "position": 5,
+            "title": "Dreamer (Junior Vasquez Sound Factory mix)",
+            "number": "5",
+            "recording": {
+              "length": 537960,
+              "id": "046a3a04-9647-44da-b9fc-a280d2feac44",
+              "first-release-date": "1995-05-05",
+              "genres": [],
+              "video": false,
+              "title": "Dreamer (Junior Vasquez Sound Factory mix)",
+              "disambiguation": ""
+            },
+            "id": "fcae947f-4d99-37c5-a340-8db6ce511809",
+            "length": 537960
+          },
+          {
+            "title": "Dreamer (Jupiter 12\" Collision mix)",
+            "number": "6",
+            "position": 6,
+            "length": 361800,
+            "id": "a2bf8f97-1b56-3577-9850-20b3456342ef",
+            "recording": {
+              "first-release-date": "1995-05-05",
+              "genres": [],
+              "video": false,
+              "id": "528a9611-be20-44d5-b87d-664c7ae8c33e",
+              "length": 361800,
+              "disambiguation": "",
+              "title": "Dreamer (Jupiter 12\" Collision mix)"
+            }
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official",
+    "id": "dde808ee-352d-4d03-adf0-ffa5998bc6cf"
+  },
+  {
+    "asin": null,
+    "release-group": {
+      "disambiguation": "",
+      "title": "Don’t Stop Movin’",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7a5aa9cf-537f-3734-84cb-1bf1b566e2cd",
+      "secondary-types": [],
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "name": "house",
+          "count": 1,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        }
+      ],
+      "first-release-date": "1996-11-04"
+    },
+    "genres": [],
+    "date": "1996",
+    "country": "AU",
+    "disambiguation": "",
+    "quality": "normal",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "600406002327",
+    "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+    "release-events": [
+      {
+        "date": "1996",
+        "area": {
+          "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+          "type": null,
+          "iso-3166-1-codes": [
+            "AU"
+          ],
+          "type-id": null,
+          "sort-name": "Australia",
+          "disambiguation": "",
+          "name": "Australia"
+        }
+      }
+    ],
+    "status": "Official",
+    "id": "e1eacee6-6ae4-4a80-9215-98c9dc5a6138",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 1,
+      "darkened": false,
+      "back": false
+    },
+    "packaging": "Jewel Case",
+    "title": "Don’t Stop Movin’",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "tracks": [
+          {
+            "id": "7c290abf-c3a4-309e-be8a-6d6d61d07c67",
+            "recording": {
+              "length": 318973,
+              "id": "91121aa3-5c57-4f39-a127-7382c931528f",
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                }
+              ],
+              "video": false,
+              "title": "Don’t Stop Movin’",
+              "disambiguation": ""
+            },
+            "length": 318826,
+            "number": "1",
+            "title": "Don’t Stop Movin’",
+            "position": 1
+          },
+          {
+            "length": 233333,
+            "id": "ead5c26b-d79d-3ef9-b673-6f5fab83f287",
+            "recording": {
+              "length": 233000,
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "id": "6ad2db04-3869-494c-9432-92d0a9aaa3ee",
+              "title": "Follow the Rules",
+              "disambiguation": ""
+            },
+            "title": "Follow the Rules",
+            "number": "2",
+            "position": 2
+          },
+          {
+            "number": "3",
+            "title": "Deep in You",
+            "position": 3,
+            "length": 271400,
+            "id": "22bcd716-2055-3770-bf76-6981f3f655e3",
+            "recording": {
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "contemporary r&b",
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0"
+                }
+              ],
+              "video": false,
+              "id": "ca68d1b7-f8fa-43f6-98a9-b1bd44485e1e",
+              "length": 268000,
+              "disambiguation": "",
+              "title": "Deep in You"
+            }
+          },
+          {
+            "position": 4,
+            "title": "Dreamer",
+            "number": "4",
+            "length": 347440,
+            "recording": {
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house"
+                },
+                {
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "id": "dbbaf6b8-7172-4f18-96db-fd79cf34e5c8",
+              "length": 344000,
+              "disambiguation": "",
+              "title": "Dreamer"
+            },
+            "id": "6e1b173d-a143-3645-9b61-263c99b85236"
+          },
+          {
+            "length": 271493,
+            "recording": {
+              "disambiguation": "",
+              "title": "Pick Up the Phone",
+              "id": "90298234-67b6-4ded-a208-93561c97babc",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "euro house",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "length": 270000
+            },
+            "id": "cf387058-a25e-3f37-8fad-d92c60b14a0b",
+            "position": 5,
+            "number": "5",
+            "title": "Pick Up the Phone"
+          },
+          {
+            "number": "6",
+            "title": "Be Original",
+            "position": 6,
+            "id": "0e5da788-995a-3dbf-b223-441fa3bc7574",
+            "recording": {
+              "title": "Be Original",
+              "disambiguation": "",
+              "length": 276933,
+              "id": "8281d081-539a-436f-816a-75de166a8b27",
+              "genres": [
+                {
+                  "count": 1,
+                  "name": "contemporary r&b",
+                  "disambiguation": "",
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0"
+                },
+                {
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "euro house"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false
+            },
+            "length": 276933
+          },
+          {
+            "position": 7,
+            "title": "Where Can I Find Love",
+            "number": "7",
+            "recording": {
+              "length": 234000,
+              "id": "cae51035-4e3f-479d-bf76-c5736261ba56",
+              "video": false,
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "diva house",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "name": "euro house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "title": "Where Can I Find Love",
+              "disambiguation": ""
+            },
+            "id": "bdee1860-7443-3a9e-938d-378aea4c83eb",
+            "length": 236333
+          },
+          {
+            "position": 8,
+            "title": "Don’t Cha Wanna",
+            "number": "8",
+            "recording": {
+              "length": 263000,
+              "genres": [
+                {
+                  "name": "diva house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2"
+                },
+                {
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "video": false,
+              "first-release-date": "1996-11-04",
+              "id": "d01b6d69-05da-4a87-984b-a71fa1cf49b5",
+              "title": "Don’t Cha Wanna",
+              "disambiguation": ""
+            },
+            "id": "262e365f-a1fa-3d48-be3a-e22c8b64955e",
+            "length": 263773
+          },
+          {
+            "id": "a7c0f533-6426-3994-b6b6-b30902b60efc",
+            "recording": {
+              "length": 264000,
+              "genres": [
+                {
+                  "id": "a6e22eba-5f6f-4042-befa-a6c881eec0e2",
+                  "name": "diva house",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                }
+              ],
+              "first-release-date": "1996-11-04",
+              "video": false,
+              "id": "27a1b036-2bb5-41fd-9c6e-bee86fb6c355",
+              "title": "Whenever You’re Lonely",
+              "disambiguation": ""
+            },
+            "length": 264533,
+            "number": "9",
+            "title": "Whenever You’re Lonely",
+            "position": 9
+          },
+          {
+            "number": "10",
+            "title": "Let Me Love You",
+            "position": 10,
+            "id": "c457e12b-48af-3d17-b2a7-47529460ebcb",
+            "recording": {
+              "title": "Let Me Love You",
+              "disambiguation": "",
+              "length": 256000,
+              "first-release-date": "1996-11-04",
+              "genres": [
+                {
+                  "id": "4bb4043a-0ee5-4b84-93fa-6ba4567a6ba0",
+                  "name": "contemporary r&b",
+                  "count": 1,
+                  "disambiguation": ""
+                },
+                {
+                  "name": "pop soul",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "64e0bd76-822f-4549-a6fe-9858561282d1"
+                }
+              ],
+              "video": false,
+              "id": "8866a472-002b-4b0e-924b-60d8b50ccd3f"
+            },
+            "length": 256733
+          },
+          {
+            "length": 519866,
+            "recording": {
+              "title": "Dreamer (Rollo’s Big mix)",
+              "disambiguation": "",
+              "length": 528000,
+              "id": "7971d4c9-f765-4692-ae29-ed9835516720",
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996"
+            },
+            "id": "fe6fccb3-5269-3c3f-9e02-aa48d5b7e202",
+            "position": 11,
+            "title": "Dreamer (Rollo’s Big mix)",
+            "number": "11"
+          },
+          {
+            "recording": {
+              "length": 825026,
+              "genres": [],
+              "first-release-date": "1996",
+              "video": false,
+              "id": "bf115e0f-8d51-4b9f-bc5d-bc0767fe09d6",
+              "title": "Don’t Stop Movin’ (A. Manetta mix) / Dreamer (radio mix)",
+              "disambiguation": ""
+            },
+            "id": "4bd1ec08-d78f-364f-9c6c-299469669be0",
+            "length": 825026,
+            "position": 12,
+            "number": "12",
+            "title": "Don’t Stop Movin’ (A. Manetta mix) / Dreamer (radio mix)"
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "track-count": 12,
+        "title": "",
+        "track-offset": 0,
+        "position": 1,
+        "format": "CD",
+        "id": "5b8741d8-e293-3d26-b2be-f966e872621e"
+      }
+    ]
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "title": "",
+        "track-count": 6,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Don't Stop Movin' (radio mix)",
+            "position": 1,
+            "id": "6be5ad8d-aa9f-3f8c-bd77-c5d5b58b974e",
+            "recording": {
+              "title": "Don't Stop Movin' (radio mix)",
+              "disambiguation": "",
+              "length": 214560,
+              "id": "99b3e97d-4bb5-45c9-89ff-d1336981a7f1",
+              "video": false,
+              "genres": [
+                {
+                  "id": "bab69b07-8bb9-4415-b666-c37609cef80b",
+                  "name": "club",
+                  "count": 2,
+                  "disambiguation": ""
+                },
+                {
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+                  "count": 2,
+                  "name": "dance",
+                  "disambiguation": ""
+                },
+                {
+                  "disambiguation": "",
+                  "count": 1,
+                  "name": "electronic",
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                },
+                {
+                  "count": 1,
+                  "name": "euro house",
+                  "disambiguation": "",
+                  "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+                },
+                {
+                  "disambiguation": "",
+                  "name": "eurodance",
+                  "count": 1,
+                  "id": "e9a67960-9b49-4967-a1c9-c26360e9c612"
+                },
+                {
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "disambiguation": "",
+                  "name": "house",
+                  "count": 2
+                }
+              ],
+              "first-release-date": "1996-06-03"
+            },
+            "length": 214560
+          },
+          {
+            "length": 317106,
+            "id": "d7a7b0f6-d94d-35ab-9d21-4b39ae2fd339",
+            "recording": {
+              "length": 317106,
+              "id": "56c5be78-21ab-4c09-ab4d-3aa7d42e6ebd",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1996-06-03",
+              "title": "Don't Stop Movin' (original version)",
+              "disambiguation": ""
+            },
+            "number": "2",
+            "title": "Don't Stop Movin' (original version)",
+            "position": 2
+          },
+          {
+            "id": "aefe5bc3-a4c2-3088-ae87-abb1e79b32f4",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996-06-03",
+              "id": "40750b3e-daa5-4129-a644-cbcba2c43bc7",
+              "length": 361893,
+              "disambiguation": "",
+              "title": "Don’t Stop Movin’ (Want‐Will H‐Mix)"
+            },
+            "length": 361893,
+            "number": "3",
+            "title": "Don't Stop Movin' (Want-Will H-mix)",
+            "position": 3
+          },
+          {
+            "title": "Don't Stop Movin' (A-Manetta mix)",
+            "number": "4",
+            "position": 4,
+            "id": "bbb9caef-b64e-3c8f-9d46-e86ddb46d06b",
+            "recording": {
+              "length": 348000,
+              "id": "b7375918-f73f-4978-9cda-5f81ca224a06",
+              "video": false,
+              "genres": [],
+              "first-release-date": "1996-06-03",
+              "title": "Don’t Stop Movin’ (A‐Mannetta Mix)",
+              "disambiguation": ""
+            },
+            "length": 348000
+          },
+          {
+            "position": 5,
+            "number": "5",
+            "title": "Don't Stop Movin' (Gettin' Right mix)",
+            "length": 326866,
+            "recording": {
+              "length": 326866,
+              "genres": [],
+              "video": false,
+              "first-release-date": "1996-06-03",
+              "id": "fe8b5898-8ab2-4aac-826f-b6903107e31d",
+              "title": "Don't Stop Movin' (Gettin' Right mix)",
+              "disambiguation": ""
+            },
+            "id": "a88b097c-4a7d-3791-9b6a-de287bbc810c"
+          },
+          {
+            "title": "Don't Stop Movin' (Gettin' Right reprise)",
+            "number": "6",
+            "position": 6,
+            "id": "aa51b994-71d6-3895-aef6-6e3f3825c245",
+            "recording": {
+              "disambiguation": "",
+              "title": "Don't Stop Movin' (Gettin' Right reprise)",
+              "id": "09b91792-04c5-410e-a494-18f191675cbc",
+              "genres": [],
+              "first-release-date": "1996-06-03",
+              "video": false,
+              "length": 252574
+            },
+            "length": 252574
+          }
+        ],
+        "id": "3f174ff4-802c-31b2-a7f5-320a3cb7ee9e",
+        "format": "CD",
+        "position": 1,
+        "track-offset": 0
+      }
+    ],
+    "packaging": null,
+    "cover-art-archive": {
+      "count": 7,
+      "darkened": false,
+      "back": true,
+      "artwork": true,
+      "front": true
+    },
+    "title": "Don't Stop Movin'",
+    "id": "f14fa328-0ff9-42cd-9fe5-fcf8bc71581b",
+    "status": "Official",
+    "quality": "normal",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": "600574004123",
+    "packaging-id": null,
+    "release-events": [
+      {
+        "date": "1996-06-03",
+        "area": {
+          "type": null,
+          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "DE"
+          ],
+          "sort-name": "Germany",
+          "name": "Germany",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "country": "DE",
+    "disambiguation": "",
+    "release-group": {
+      "first-release-date": "1996-06-03",
+      "genres": [
+        {
+          "name": "electronic",
+          "count": 1,
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "name": "euro house",
+          "count": 1,
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "id": "8c83fe43-ead4-3791-a40b-8a242168b183",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "disambiguation": "",
+      "title": "Don’t Stop Movin’"
+    },
+    "asin": "B0000071MX",
+    "genres": [
+      {
+        "disambiguation": "",
+        "count": 1,
+        "name": "euro house",
+        "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60"
+      },
+      {
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "count": 1,
+        "name": "house"
+      }
+    ],
+    "date": "1996-06-03"
+  },
+  {
+    "country": null,
+    "disambiguation": "",
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "quality": "normal",
+    "barcode": null,
+    "packaging-id": null,
+    "release-events": [
+      {
+        "date": "2011-12-21",
+        "area": null
+      }
+    ],
+    "asin": null,
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "id": "8f8cbcde-3948-4be5-8bf0-8073f13e4b60",
+          "name": "euro house",
+          "count": 1,
+          "disambiguation": ""
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 3,
+          "name": "house",
+          "disambiguation": ""
+        }
+      ],
+      "secondary-types": [],
+      "first-release-date": "1994-09-27",
+      "id": "1d9cc81a-6c97-303d-9ed4-2bb715e5a49e",
+      "disambiguation": "",
+      "title": "Dreamer",
+      "primary-type": "Single"
+    },
+    "genres": [
+      {
+        "disambiguation": "",
+        "count": 1,
+        "name": "hard house",
+        "id": "9c5052e0-36ff-4b92-9447-58f44ffdf682"
+      }
+    ],
+    "date": "2011-12-21",
+    "packaging": null,
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 0,
+      "front": false,
+      "artwork": false
+    },
+    "title": "Dreamer (Tom Parr's Warm Up mix)",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "format": "Digital Media",
+        "id": "c6a9236e-a075-4ce3-a27f-c8f1fc22760f",
+        "track-offset": 0,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "2d768bca-c968-4ddb-9d49-79e8a60e4eee",
+            "recording": {
+              "video": false,
+              "genres": [],
+              "first-release-date": "2011-12-21",
+              "id": "d522185e-c4e0-45fe-8b93-4fce6e9124e3",
+              "length": 463000,
+              "disambiguation": "",
+              "title": "Dreamer (Tom Parr's Warm Up mix)"
+            },
+            "length": 463000,
+            "title": "Dreamer (Tom Parr's Warm Up mix)",
+            "number": "1",
+            "position": 1
+          }
+        ],
+        "title": "",
+        "track-count": 1
+      }
+    ],
+    "status": "Official",
+    "id": "fad69f31-201d-4d26-8c70-507d176b7890"
+  }
+]

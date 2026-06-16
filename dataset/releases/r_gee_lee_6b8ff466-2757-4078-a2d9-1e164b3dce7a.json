@@ -1,0 +1,535 @@
+[
+  {
+    "id": "100a1ac4-1ac0-46fb-97c5-450184c83fc6",
+    "status": "Official",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "6ee52a74-6cfb-3ebc-8fbd-edc03e460a70",
+        "title": "",
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 172631,
+            "recording": {
+              "disambiguation": "",
+              "title": "Slow Down",
+              "id": "8ec76d40-0959-4b5d-9351-b69372feeb8f",
+              "video": false,
+              "genres": [],
+              "first-release-date": "2021-12-13",
+              "length": 172631
+            },
+            "id": "cc4bc7e0-97ae-48a5-8a29-869bbd0d6410",
+            "position": 1,
+            "title": "Slow Down",
+            "number": "1"
+          }
+        ]
+      }
+    ],
+    "packaging": "None",
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "count": 0
+    },
+    "title": "Slow Down",
+    "asin": null,
+    "release-group": {
+      "disambiguation": "",
+      "title": "Slow Down",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "first-release-date": "2021-12-13",
+      "genres": [],
+      "secondary-types": [],
+      "id": "fa0cebc5-cfac-4c4d-ac2f-797cfb8fe5de"
+    },
+    "genres": [],
+    "date": "2021-12-13",
+    "quality": "normal",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "barcode": "196623792269",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2021-12-13",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "disambiguation": "",
+          "name": "[Worldwide]",
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "country": "XW",
+    "disambiguation": ""
+  },
+  {
+    "asin": null,
+    "release-group": {
+      "title": "Fake ID (Coke & Rum Remix)",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "genres": [
+        {
+          "id": "7fa479e7-3d35-40d1-96f7-b619a5ca9d9f",
+          "count": 1,
+          "name": "deep house",
+          "disambiguation": ""
+        }
+      ],
+      "first-release-date": "2022-12-15",
+      "secondary-types": [
+        "Remix"
+      ],
+      "id": "95b9e57d-705c-457a-9d76-dac8f3a41777"
+    },
+    "genres": [],
+    "date": "2022-12-15",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "quality": "normal",
+    "barcode": "",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "area": {
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        },
+        "date": "2022-12-15"
+      }
+    ],
+    "country": "XW",
+    "disambiguation": "Explicit",
+    "id": "49856674-06af-4551-9d63-444dcaf852b6",
+    "status": "Official",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "format": "Digital Media",
+        "id": "9c94eb7b-e2b7-3cb3-bb8c-0c1565968210",
+        "track-offset": 0,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 126000,
+            "id": "5204c44b-5e7f-4998-a525-c23a6c73c550",
+            "recording": {
+              "title": "Fake ID (Coke & Rum remix)",
+              "disambiguation": "",
+              "length": 126000,
+              "id": "95c133b4-13e1-4d95-bc47-d52f5b60edf3",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2022-12-15"
+            },
+            "title": "Fake ID (Coke & Rum remix)",
+            "number": "1",
+            "position": 1
+          }
+        ],
+        "title": "",
+        "track-count": 1
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 1,
+      "back": false,
+      "darkened": false
+    },
+    "packaging": "None",
+    "title": "Fake ID (Coke & Rum Remix)"
+  },
+  {
+    "release-group": {
+      "disambiguation": "",
+      "title": "Nights That Never Happened",
+      "primary-type": "EP",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "id": "3d1a6194-f68e-4050-a3f4-8ad7d823a3c7",
+      "first-release-date": "2022-02-15",
+      "genres": [],
+      "secondary-types": []
+    },
+    "asin": null,
+    "date": "2022-02-15",
+    "genres": [],
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": "196777167739",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "quality": "normal",
+    "release-events": [
+      {
+        "date": "2022-02-15",
+        "area": {
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "name": "[Worldwide]",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "country": "XW",
+    "disambiguation": "",
+    "id": "4c104f34-72a7-4bd8-ac99-8d78e42f203f",
+    "status": "Official",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "format": "Digital Media",
+        "id": "912564b6-4a3d-3a1e-b7d3-74f2681c6042",
+        "track-offset": 0,
+        "position": 1,
+        "tracks": [
+          {
+            "position": 1,
+            "number": "1",
+            "title": "Sub Cloda",
+            "length": 152000,
+            "recording": {
+              "title": "Sub Cloda",
+              "disambiguation": "",
+              "length": 152000,
+              "genres": [],
+              "first-release-date": "2022-02-15",
+              "video": false,
+              "id": "8fa1f1a3-ebaf-466f-bc24-e4ed0924d807"
+            },
+            "id": "b66590e7-3ea9-409a-bdad-ac4bc3c41719"
+          },
+          {
+            "position": 2,
+            "number": "2",
+            "title": "JAY GEE",
+            "recording": {
+              "title": "JAY GEE",
+              "disambiguation": "",
+              "length": 87000,
+              "first-release-date": "2022-02-15",
+              "genres": [],
+              "video": false,
+              "id": "3f543819-e021-4d9f-b80f-eb705df2a2b0"
+            },
+            "id": "e7fe7be3-3f7c-4a66-8b70-a6cbfb797d08",
+            "length": 87000
+          },
+          {
+            "length": 184000,
+            "recording": {
+              "disambiguation": "",
+              "title": "Moody Strutt",
+              "id": "1e20e413-2a63-4dcb-ba0a-f6bf56c94d4c",
+              "genres": [],
+              "first-release-date": "2022-02-15",
+              "video": false,
+              "length": 184000
+            },
+            "id": "52bb722b-f4d0-4200-a0ca-71fe03eccaad",
+            "position": 3,
+            "number": "3",
+            "title": "Moody Strutt"
+          },
+          {
+            "id": "f729de32-c75a-4251-abe6-1593e033efa4",
+            "recording": {
+              "disambiguation": "",
+              "title": "Celestial Tastemaker",
+              "id": "fb465b56-a2bd-4f7f-8f70-2ec5349d09c8",
+              "genres": [],
+              "first-release-date": "2022-02-15",
+              "video": false,
+              "length": 144000
+            },
+            "length": 144000,
+            "title": "Celestial Tastemaker",
+            "number": "4",
+            "position": 4
+          },
+          {
+            "recording": {
+              "title": "Sconnie Rots",
+              "disambiguation": "",
+              "length": 256000,
+              "id": "a5b529eb-4859-49a8-ba4a-5f3fd4c822b6",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2022-02-15"
+            },
+            "id": "b89197a7-59ae-4af0-a289-cdc4c5dbf61b",
+            "length": 256000,
+            "position": 5,
+            "title": "Sconnie Rots",
+            "number": "5"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 5,
+        "title": ""
+      }
+    ],
+    "title": "Nights That Never Happened",
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 1,
+      "artwork": true,
+      "front": true
+    },
+    "packaging": "None"
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "id": "c6dd06cb-e495-35bc-bce3-4a7243d7874b",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 141120,
+            "recording": {
+              "id": "62073f86-e563-417c-bc2d-2cf54e5b226b",
+              "genres": [],
+              "first-release-date": "2023-01-25",
+              "video": false,
+              "length": 141120,
+              "disambiguation": "",
+              "title": "Fast Life"
+            },
+            "id": "2b9a78a5-ed9d-48bf-8eac-49850402db48",
+            "position": 1,
+            "number": "1",
+            "title": "Fast Life"
+          },
+          {
+            "title": "Fast Life Amapiano Edition - JayMea Remix",
+            "number": "2",
+            "position": 2,
+            "length": 382317,
+            "id": "0ee0f62e-3c31-429c-b63f-73f5a9076fbc",
+            "recording": {
+              "title": "Fast Life Amapiano Edition - JayMea Remix",
+              "disambiguation": "",
+              "length": 382317,
+              "id": "132195ea-f0f9-4083-866f-908ab60c6ad2",
+              "genres": [],
+              "first-release-date": "2023-01-25",
+              "video": false
+            }
+          }
+        ],
+        "track-count": 2,
+        "title": ""
+      }
+    ],
+    "packaging": "None",
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "count": 0,
+      "artwork": false,
+      "front": false
+    },
+    "title": "Fast Life",
+    "id": "a33af514-f5c0-438a-8cc8-857e604ba93b",
+    "status": "Official",
+    "quality": "normal",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "barcode": "197546713706",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "release-events": [
+      {
+        "date": "2023-01-25",
+        "area": {
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null
+        }
+      }
+    ],
+    "country": "XW",
+    "disambiguation": "",
+    "asin": null,
+    "release-group": {
+      "id": "98976625-7c99-49f3-acaf-fa76becaa551",
+      "genres": [],
+      "first-release-date": "2023-01-25",
+      "secondary-types": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "title": "Fast Life",
+      "disambiguation": ""
+    },
+    "genres": [],
+    "date": "2023-01-25"
+  },
+  {
+    "date": "2025-09-12",
+    "genres": [],
+    "asin": null,
+    "release-group": {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "id": "90778c76-ee03-4645-abca-309fbc4ac44e",
+      "secondary-types": [],
+      "genres": [],
+      "first-release-date": "2025-09-12",
+      "title": "The Moment I Dance",
+      "disambiguation": "",
+      "primary-type": "EP"
+    },
+    "disambiguation": "",
+    "country": "XW",
+    "release-events": [
+      {
+        "date": "2025-09-12",
+        "area": {
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "barcode": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "quality": "normal",
+    "status": "Official",
+    "id": "eda8ad64-9da4-478f-bcd5-6213c352655f",
+    "title": "The Moment I Dance",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "front": true
+    },
+    "packaging": "None",
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "057e3c8f-a45e-47f7-89b7-899137cf5946",
+        "title": "",
+        "track-count": 3,
+        "tracks": [
+          {
+            "length": 259170,
+            "id": "57e0e6f5-a8e9-4abc-b440-11a27b531750",
+            "recording": {
+              "title": "The Moment I Dance (Extended Mix)",
+              "disambiguation": "",
+              "length": 259170,
+              "id": "fa0f4fcc-cc67-4b14-93dc-8a02b4257e2b",
+              "first-release-date": "2025-09-12",
+              "genres": [],
+              "video": false
+            },
+            "title": "The Moment I Dance (Extended Mix)",
+            "number": "1",
+            "position": 1
+          },
+          {
+            "title": "The Moment I Dance (Radio Edit)",
+            "number": "2",
+            "position": 2,
+            "length": 158581,
+            "id": "e44251b0-a68e-41ed-84e6-d40828d7cd64",
+            "recording": {
+              "length": 158581,
+              "genres": [],
+              "first-release-date": "2025-09-12",
+              "video": false,
+              "id": "a158ca56-5f85-4311-8834-165f41a10cde",
+              "title": "The Moment I Dance (Radio Edit)",
+              "disambiguation": ""
+            }
+          },
+          {
+            "length": 220444,
+            "id": "67e69495-c19b-4329-ae72-7d3c63a9f386",
+            "recording": {
+              "disambiguation": "",
+              "title": "Odyssey",
+              "video": false,
+              "genres": [],
+              "first-release-date": "2025-09-12",
+              "id": "ab4544e5-0a17-452f-b917-8b59301bd620",
+              "length": 220444
+            },
+            "title": "Odyssey",
+            "number": "3",
+            "position": 3
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+  }
+]

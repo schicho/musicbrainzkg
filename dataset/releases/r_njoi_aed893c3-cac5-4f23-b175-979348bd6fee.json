@@ -1,0 +1,3251 @@
+[
+  {
+    "id": "0206bbf0-39ae-4160-8f2a-78e9fc8a3a83",
+    "packaging": null,
+    "country": "US",
+    "disambiguation": "",
+    "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "disambiguation": "",
+          "name": "United States",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "date": "1992"
+      }
+    ],
+    "release-group": {
+      "genres": [],
+      "title": "Mindflux",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1992",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "7f682044-8dc7-45c7-864e-24ab490a5996"
+    },
+    "media": [
+      {
+        "track-offset": 0,
+        "format-id": null,
+        "title": "",
+        "position": 1,
+        "track-count": 2,
+        "tracks": [
+          {
+            "length": 227000,
+            "title": "Mindflux (Hot Mind edit)",
+            "number": "1",
+            "position": 1,
+            "id": "996d9169-5381-382b-aada-6d9d8958950b",
+            "recording": {
+              "first-release-date": "1992",
+              "genres": [],
+              "title": "Mindflux (Hot Mind edit)",
+              "length": 227000,
+              "video": false,
+              "id": "4c77dbff-feb3-4b11-a524-0e0f58745617",
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "2",
+            "length": 401000,
+            "title": "Mindflux (full length version)",
+            "recording": {
+              "genres": [],
+              "length": 401000,
+              "title": "Mindflux (full length version)",
+              "first-release-date": "1992",
+              "disambiguation": "",
+              "id": "73d61bb4-b147-44cb-9e51-65110a36918e",
+              "video": false
+            },
+            "id": "ef305f38-672c-3cd1-a96f-8a799bd4419f",
+            "position": 2
+          }
+        ],
+        "format": null,
+        "id": "78174cfa-9d2b-335b-82d8-72d8cf89460a"
+      }
+    ],
+    "status": "Promotion",
+    "quality": "normal",
+    "cover-art-archive": {
+      "back": false,
+      "front": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    },
+    "title": "Mindflux",
+    "genres": [],
+    "asin": null,
+    "date": "1992",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": null,
+    "packaging-id": null
+  },
+  {
+    "date": "1996",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": "795915903422",
+    "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+    "packaging": "Jewel Case",
+    "id": "0602c612-080b-4a1c-a7b3-609cfbad671e",
+    "release-events": [
+      {
+        "date": "1996",
+        "area": {
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "name": "United States",
+          "disambiguation": "",
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }
+      }
+    ],
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1996",
+      "title": "The New Anthem",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "name": "house",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "name": "techno",
+          "disambiguation": "",
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+        }
+      ],
+      "id": "e7392e1a-d591-49e4-9eb8-f1fa19d20214",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "status-id": null,
+    "disambiguation": "",
+    "country": "US",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "quality": "normal",
+    "status": null,
+    "media": [
+      {
+        "tracks": [
+          {
+            "recording": {
+              "genres": [],
+              "title": "Anthem (Spike club mix)",
+              "length": 481706,
+              "first-release-date": "1996",
+              "disambiguation": "",
+              "id": "ceeee3d6-d169-455f-94f5-bec5a983a9d3",
+              "video": false
+            },
+            "id": "47209c38-8140-4cb0-81ff-56ee97eb780e",
+            "position": 1,
+            "number": "1",
+            "title": "Anthem (Spike club mix)",
+            "length": 481706
+          },
+          {
+            "id": "4208e76e-e991-43af-9d41-53c96a6cbc82",
+            "position": 2,
+            "recording": {
+              "id": "9f331bd3-8ec6-400c-b28d-b87461ad9cf0",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1990",
+              "genres": [],
+              "title": "Anthem (original mix)",
+              "length": 259360
+            },
+            "length": 262000,
+            "title": "Anthem (original mix)",
+            "number": "2"
+          },
+          {
+            "recording": {
+              "title": "Anthem (Vission Lorimer love acid!)",
+              "length": 444800,
+              "genres": [],
+              "first-release-date": "1996",
+              "disambiguation": "",
+              "video": false,
+              "id": "a6f904f9-4319-415b-88fc-2df7990c3fde"
+            },
+            "position": 3,
+            "id": "5c82c1b0-136f-4c8d-8bd5-61f9806d9e79",
+            "number": "3",
+            "length": 444800,
+            "title": "Anthem (Vission Lorimer love acid!)"
+          },
+          {
+            "length": 292733,
+            "title": "Anthem (the Mafia mix)",
+            "number": "4",
+            "position": 4,
+            "id": "99834575-3764-4f36-9eef-b84f1b305b9e",
+            "recording": {
+              "first-release-date": "1996",
+              "length": 292733,
+              "title": "Anthem (the Mafia mix)",
+              "genres": [],
+              "video": false,
+              "id": "6e70c24e-bfd6-4245-b55f-5b8c385530b8",
+              "disambiguation": ""
+            }
+          },
+          {
+            "length": 268493,
+            "title": "Anthem (the six day nightmare mix)",
+            "number": "5",
+            "id": "64b02e8f-f024-4775-b422-a9b9025c955d",
+            "position": 5,
+            "recording": {
+              "length": 268493,
+              "title": "Anthem (the six day nightmare mix)",
+              "genres": [],
+              "first-release-date": "1996",
+              "disambiguation": "",
+              "id": "fd4ddf69-e149-4843-9ceb-5efce92e0359",
+              "video": false
+            }
+          }
+        ],
+        "format": "CD",
+        "id": "431675a0-b141-3ae7-ad25-635adf6f8b7f",
+        "track-count": 5,
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": ""
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "The New Anthem"
+  },
+  {
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "date": "2006",
+    "packaging-id": null,
+    "barcode": null,
+    "country": "GB",
+    "disambiguation": "",
+    "release-group": {
+      "first-release-date": "1990",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Anthem",
+      "genres": [
+        {
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "name": "house",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "disambiguation": "",
+          "name": "techno",
+          "count": 1
+        }
+      ],
+      "id": "3c9eb2e6-dd4e-49ea-af88-dfb9a03e0bc7",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": ""
+        },
+        "date": "2006"
+      }
+    ],
+    "status-id": null,
+    "packaging": null,
+    "id": "1d77cfe3-7998-435d-9c08-5034cc2de7ab",
+    "title": "Anthem (2006 Mixes)",
+    "asin": null,
+    "genres": [
+      {
+        "count": 1,
+        "disambiguation": "",
+        "name": "house",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+      }
+    ],
+    "status": null,
+    "media": [
+      {
+        "id": "2e550c8f-9f3f-312e-b3ab-d3e4b34eb201",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2006-10-04",
+              "length": 408000,
+              "title": "Anthem (Hoxton Whores mix)",
+              "genres": [],
+              "video": false,
+              "id": "befa6391-fb21-4f0c-80b4-7f83c0074efb",
+              "disambiguation": ""
+            },
+            "id": "8faf45eb-022b-44af-8396-0fb2512deaf2",
+            "position": 1,
+            "number": "1",
+            "title": "Anthem (Hoxton Whores 12\" mix)",
+            "length": null
+          },
+          {
+            "number": "2",
+            "title": "Anthem (Paulo Mojo club mix)",
+            "length": null,
+            "recording": {
+              "id": "03c1033a-2e26-4d1a-bad9-4e082cc2fd03",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "2006",
+              "genres": [],
+              "length": null,
+              "title": "Anthem (Paulo Mojo club mix)"
+            },
+            "id": "8d54f9b1-088a-4d56-8f6f-36f29a419218",
+            "position": 2
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "cfccfe36-1cc0-4e4a-864f-bea99d99d0e1",
+              "disambiguation": "",
+              "first-release-date": "2006",
+              "title": "Anthem (Paulo Mojo Classic mix)",
+              "length": null,
+              "genres": []
+            },
+            "position": 3,
+            "id": "343f4cd3-c147-4d34-becc-abcb1e9cd2a1",
+            "number": "3",
+            "length": null,
+            "title": "Anthem (Paulo Mojo Classic mix)"
+          },
+          {
+            "number": "4",
+            "length": null,
+            "title": "Anthem (J-Me Satori Brakes mix)",
+            "recording": {
+              "id": "76273fe7-e5b3-4f3d-a1f9-10e1de5bbb33",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "2006",
+              "genres": [],
+              "title": "Anthem (J-Me Satori Brakes mix)",
+              "length": null
+            },
+            "position": 4,
+            "id": "7ec4135b-7473-4bb8-b817-e2dc29bd88e2"
+          },
+          {
+            "number": "5",
+            "length": null,
+            "title": "Anthem (Njoi's Beach mix)",
+            "recording": {
+              "genres": [],
+              "title": "Anthem (Njoi's Beach mix)",
+              "length": null,
+              "first-release-date": "2006",
+              "disambiguation": "",
+              "id": "b7264f78-4c49-4f20-9e02-bd2fb316a1b8",
+              "video": false
+            },
+            "position": 5,
+            "id": "8df81590-9f67-482c-b5ea-14521e7cfb70"
+          },
+          {
+            "position": 6,
+            "id": "b2e1310c-d49e-4b93-8be8-128fc31491d2",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "6b7bdccf-9f26-4c3a-a39b-2384e8c10a28",
+              "title": "Anthem (Njoi's Drum and Bass mix)",
+              "length": null,
+              "genres": [],
+              "first-release-date": "2006"
+            },
+            "title": "Anthem (Njoi's Drum and Bass mix)",
+            "length": null,
+            "number": "6"
+          }
+        ],
+        "format": "CD",
+        "track-count": 6,
+        "position": 1,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0
+      }
+    ],
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "front": false,
+      "darkened": false
+    },
+    "quality": "normal"
+  },
+  {
+    "disambiguation": "",
+    "country": "US",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-group": {
+      "first-release-date": "1995",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Bad Things",
+      "genres": [],
+      "id": "1f428c73-df37-3b99-abad-4af23a3f13e8",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States"
+        },
+        "date": "1995"
+      }
+    ],
+    "id": "1e242175-8320-44d1-9cfd-2799260a6cb7",
+    "packaging": "Jewel Case",
+    "title": "Bad Things",
+    "genres": [],
+    "asin": null,
+    "media": [
+      {
+        "position": 1,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0,
+        "id": "d8e9b946-9367-39ca-b758-b0413dd812fc",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "1995",
+              "title": "Bad Things (original mix)",
+              "length": 408000,
+              "genres": [],
+              "video": false,
+              "id": "888e349d-b166-46e3-84f2-e1aba50f647e",
+              "disambiguation": ""
+            },
+            "id": "74d330e5-f727-3a57-9753-3a58d78ca962",
+            "position": 1,
+            "number": "1",
+            "title": "Bad Things (original mix)",
+            "length": 408000
+          },
+          {
+            "number": "2",
+            "length": 457000,
+            "title": "Bad Things (Vocal-Ish version)",
+            "recording": {
+              "length": 457000,
+              "title": "Bad Things (Vocal-Ish version)",
+              "genres": [],
+              "first-release-date": "1995",
+              "disambiguation": "",
+              "video": false,
+              "id": "e46660cb-a6d7-4d34-b730-a574330b93ed"
+            },
+            "id": "cf9b63f5-7479-3d29-be71-489d274b2664",
+            "position": 2
+          },
+          {
+            "position": 3,
+            "id": "3dea8d43-2abf-391b-8f09-f0affd9997ba",
+            "recording": {
+              "id": "411b8d79-9806-45b5-ada9-f33106d7a5f9",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995",
+              "genres": [],
+              "length": 541000,
+              "title": "Bad Things (Wink's Stabbed Filled Acid dub)"
+            },
+            "title": "Bad Things (Wink's Stabbed Filled Acid dub)",
+            "length": 541000,
+            "number": "3"
+          }
+        ],
+        "format": "CD",
+        "track-count": 3
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "back": true,
+      "darkened": false,
+      "front": true,
+      "count": 4,
+      "artwork": true
+    },
+    "date": "1995",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "795915902128",
+    "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a"
+  },
+  {
+    "packaging-id": null,
+    "barcode": null,
+    "date": "1994",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "title": "Earquake",
+    "asin": null,
+    "genres": [],
+    "status": "Promotion",
+    "media": [
+      {
+        "track-offset": 0,
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "position": 1,
+        "track-count": 4,
+        "format": "12\" Vinyl",
+        "tracks": [
+          {
+            "recording": {
+              "id": "abd5cee5-6e3d-45d0-aa87-d703546c3604",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1994",
+              "length": null,
+              "title": "Pappillion",
+              "genres": []
+            },
+            "id": "3a3d3fd9-74a2-3294-a177-f0e75e9743db",
+            "position": 1,
+            "number": "A1",
+            "length": null,
+            "title": "Pappillion"
+          },
+          {
+            "length": null,
+            "title": "Trauma",
+            "number": "A2",
+            "id": "e51f4b1d-043c-3060-9d90-37b4e030b7c8",
+            "position": 2,
+            "recording": {
+              "first-release-date": "1994",
+              "genres": [],
+              "length": 405306,
+              "title": "Trauma",
+              "video": false,
+              "id": "1e6a5c86-b441-4c20-9dd4-9e594577ca60",
+              "disambiguation": ""
+            }
+          },
+          {
+            "position": 3,
+            "id": "33b2a45d-237b-3836-9557-577bdf989aee",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "5f91c34c-815d-477d-a1b5-9ba8be3bb372",
+              "genres": [],
+              "length": null,
+              "title": "Never Let You Go",
+              "first-release-date": "1994"
+            },
+            "length": null,
+            "title": "Never Let You Go",
+            "number": "B1"
+          },
+          {
+            "recording": {
+              "genres": [],
+              "title": "Chaser",
+              "length": null,
+              "first-release-date": "1994",
+              "disambiguation": "",
+              "video": false,
+              "id": "d9c72b2a-f842-4d92-93a3-e437701c8153"
+            },
+            "id": "1a474893-ade6-38b4-b281-5745491de031",
+            "position": 4,
+            "number": "B2",
+            "title": "Chaser",
+            "length": null
+          }
+        ],
+        "id": "d8600fce-4add-3cc9-8ed7-2bedbf18f141"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "front": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "quality": "normal",
+    "country": "GB",
+    "disambiguation": "",
+    "release-group": {
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 2
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "name": "progressive house",
+          "count": 1,
+          "id": "70adb285-e1f7-458a-823f-5cbda5e291c4"
+        },
+        {
+          "disambiguation": "",
+          "name": "techno",
+          "count": 2,
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+        }
+      ],
+      "title": "Earquake",
+      "first-release-date": "1994",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "id": "3057370b-dc3a-3816-be83-e56ff4e0a829"
+    },
+    "release-events": [
+      {
+        "date": "1994",
+        "area": {
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+    "packaging": null,
+    "id": "3c25d6c1-43ea-441f-9354-db621bcc4b49"
+  },
+  {
+    "cover-art-archive": {
+      "darkened": false,
+      "front": true,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "quality": "normal",
+    "status": null,
+    "media": [
+      {
+        "track-count": 2,
+        "format": "12\" Vinyl",
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2004-01-01",
+              "title": "Anthem (Original 12\" Mix)",
+              "length": 243000,
+              "genres": [],
+              "id": "5a427c1b-929e-4c71-85f5-c5a055f2b35a",
+              "video": false,
+              "disambiguation": ""
+            },
+            "position": 1,
+            "id": "39205bcd-9373-4396-99d2-3f83044066fa",
+            "number": "A",
+            "title": "Anthem (Original 12\" Mix)",
+            "length": 243000
+          },
+          {
+            "id": "f7c3114f-afdc-4596-8bed-1095a26ab71c",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "c439de2e-47b8-4ad2-ad03-be59f3ba7d23",
+              "genres": [],
+              "title": "Anthem (The 6 Day Nightmare Remix)",
+              "length": 270000,
+              "first-release-date": "2004"
+            },
+            "length": 270000,
+            "title": "Anthem (The 6 Day Nightmare Remix)",
+            "number": "B"
+          }
+        ],
+        "id": "d96a9002-0351-3dc8-a556-751b48b99d7a",
+        "track-offset": 0,
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "position": 1
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "Anthem",
+    "packaging": null,
+    "id": "3ddfb17d-57fd-4164-9064-d735e3690cc3",
+    "release-events": [
+      {
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null
+        },
+        "date": "2004"
+      }
+    ],
+    "release-group": {
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "disambiguation": "",
+          "name": "house"
+        },
+        {
+          "name": "techno",
+          "disambiguation": "",
+          "count": 1,
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+        }
+      ],
+      "title": "Anthem",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1990",
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "3c9eb2e6-dd4e-49ea-af88-dfb9a03e0bc7"
+    },
+    "status-id": null,
+    "disambiguation": "",
+    "country": "GB",
+    "packaging-id": null,
+    "barcode": null,
+    "date": "2004",
+    "text-representation": {
+      "language": null,
+      "script": null
+    }
+  },
+  {
+    "title": "Inside Out",
+    "asin": "B0000072GI",
+    "genres": [],
+    "status": "Official",
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "format": "CD",
+        "tracks": [
+          {
+            "recording": {
+              "id": "283ecc11-d002-456c-9394-ebbe86f733f2",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995-08-03",
+              "genres": [],
+              "title": "Inception",
+              "length": 362026
+            },
+            "position": 1,
+            "id": "8e0d0630-b155-370d-9397-a564553da940",
+            "number": "1",
+            "length": 362026,
+            "title": "Inception"
+          },
+          {
+            "length": 405306,
+            "title": "Trauma",
+            "number": "2",
+            "position": 2,
+            "id": "50e5a692-0e5f-3171-9e7b-659f523af850",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "1e6a5c86-b441-4c20-9dd4-9e594577ca60",
+              "genres": [],
+              "title": "Trauma",
+              "length": 405306,
+              "first-release-date": "1994"
+            }
+          },
+          {
+            "number": "3",
+            "title": "Never Let U Go",
+            "length": 524600,
+            "recording": {
+              "video": false,
+              "id": "46974373-755d-4565-b417-13abe0f51403",
+              "disambiguation": "",
+              "first-release-date": "1995-08-03",
+              "genres": [],
+              "title": "Never Let U Go",
+              "length": 524600
+            },
+            "id": "367bd2ff-5b8b-3744-8c08-b1a70e5a2e1b",
+            "position": 3
+          },
+          {
+            "length": 488560,
+            "title": "Kalash",
+            "number": "4",
+            "id": "08c396a9-32fc-3a27-9f0e-982ac5a7128c",
+            "position": 4,
+            "recording": {
+              "id": "adc19f44-7268-499d-8f45-e7cdafece489",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1995-08-03",
+              "genres": [],
+              "title": "Kalash",
+              "length": 488560
+            }
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "8d5d4d99-2071-4f20-addb-e8b574666c4a",
+              "disambiguation": "",
+              "first-release-date": "1995-08-03",
+              "length": 357333,
+              "title": "A Mother World",
+              "genres": []
+            },
+            "id": "e04e4c86-e066-3d07-ac10-f269ba190718",
+            "position": 5,
+            "number": "5",
+            "title": "A Mother World",
+            "length": 357333
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "id": "0e0c8265-192e-413a-8289-355f23d136eb",
+              "video": false,
+              "length": 361400,
+              "title": "Chaser",
+              "genres": [],
+              "first-release-date": "1995-08-03"
+            },
+            "position": 6,
+            "id": "4ae53f7a-d77e-314a-9e22-358c6c155866",
+            "number": "6",
+            "length": 361400,
+            "title": "Chaser"
+          },
+          {
+            "number": "7",
+            "title": "Zeus (Thunderbolt mix)",
+            "length": 355906,
+            "recording": {
+              "title": "Zeus (Thunderbolt mix)",
+              "length": 355906,
+              "genres": [],
+              "first-release-date": "1995-08-03",
+              "disambiguation": "",
+              "video": false,
+              "id": "a9cbf937-1175-457b-a1a8-6fee49c136c0"
+            },
+            "position": 7,
+            "id": "6fc76f09-b9a2-3977-af52-cacad646cad8"
+          },
+          {
+            "number": "8",
+            "title": "Bad Things",
+            "length": 405200,
+            "recording": {
+              "video": false,
+              "id": "398cc122-234b-4f37-b60a-98d1107bcf48",
+              "disambiguation": "",
+              "first-release-date": "1995-08-03",
+              "length": 405200,
+              "title": "Bad Things",
+              "genres": []
+            },
+            "id": "65b4dc50-26f4-31fd-bf5a-6332191e6d7a",
+            "position": 8
+          },
+          {
+            "number": "9",
+            "title": "Games",
+            "length": 250493,
+            "recording": {
+              "video": false,
+              "id": "d4350596-9751-4788-93d7-7ea7f347fd6a",
+              "disambiguation": "",
+              "first-release-date": "1995-08-03",
+              "title": "Games",
+              "length": 250493,
+              "genres": []
+            },
+            "id": "798e88ac-6f56-3eaf-b118-841d14b0e1b5",
+            "position": 9
+          },
+          {
+            "number": "10",
+            "title": "Papillon (original mix)",
+            "length": 386066,
+            "recording": {
+              "video": false,
+              "id": "d631b060-197d-4ed3-b5ab-e5fbd1fadb96",
+              "disambiguation": "",
+              "first-release-date": "1995-08-03",
+              "length": 386066,
+              "title": "Papillon (original mix)",
+              "genres": []
+            },
+            "id": "37bb5959-7334-38d7-b21d-14f3472d9570",
+            "position": 10
+          },
+          {
+            "length": 241506,
+            "title": "Rotating Weaver",
+            "number": "11",
+            "id": "f27dfdf1-c948-360f-ae5e-f2470ec05e8a",
+            "position": 11,
+            "recording": {
+              "genres": [],
+              "length": 241506,
+              "title": "Rotating Weaver",
+              "first-release-date": "1995-08-03",
+              "disambiguation": "",
+              "video": false,
+              "id": "127ae6ff-74e0-451b-8c71-9e9b9a4e898e"
+            }
+          },
+          {
+            "number": "12",
+            "length": 258426,
+            "title": "Anthem",
+            "recording": {
+              "video": false,
+              "id": "50601f43-14ef-44f1-83e2-6953e507fc47",
+              "disambiguation": "",
+              "first-release-date": "1990",
+              "genres": [],
+              "title": "Anthem",
+              "length": 257000
+            },
+            "position": 12,
+            "id": "dcd61e76-360d-33f4-8094-f87df54da573"
+          }
+        ],
+        "id": "fe999228-32be-3903-8c90-f35a7819ea03",
+        "track-count": 12
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "front": true,
+      "back": false
+    },
+    "quality": "normal",
+    "country": "GB",
+    "disambiguation": "",
+    "release-group": {
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "disambiguation": "",
+          "name": "tech house",
+          "count": 1,
+          "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0"
+        }
+      ],
+      "title": "Inside Out",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1995-08-03",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "id": "2719ff5f-487a-311b-bfa4-a4682f92fd75"
+    },
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom"
+        },
+        "date": "1995-08-03"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "id": "3f1d1f62-8e68-431a-9f7e-870c135e8bc0",
+    "packaging-id": null,
+    "barcode": null,
+    "date": "1995-08-03",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    }
+  },
+  {
+    "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+    "barcode": "5012394434403",
+    "date": "1991",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "status": "Official",
+    "media": [
+      {
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0,
+        "position": 1,
+        "track-count": 4,
+        "id": "86a39518-f7f8-3ecf-adc9-fc62988c1811",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Adrenalin",
+            "length": 227000,
+            "recording": {
+              "id": "a558e92c-ecc5-4195-b048-8a01bf6d2af9",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1991",
+              "genres": [],
+              "length": 227000,
+              "title": "Adrenalin"
+            },
+            "id": "7e678743-fa45-4aa0-8b0f-2c5bcffc7581",
+            "position": 1
+          },
+          {
+            "number": "2",
+            "title": "The Kraken",
+            "length": 254000,
+            "recording": {
+              "disambiguation": "",
+              "id": "6c5992e8-c76f-47da-93d9-7f4d0ea09901",
+              "video": false,
+              "genres": [],
+              "title": "The Kraken",
+              "length": 254000,
+              "first-release-date": "1991"
+            },
+            "id": "93cecd7d-5e67-4f40-8880-ddf9dbb2bca1",
+            "position": 2
+          },
+          {
+            "id": "f36ddfb1-d2af-4c99-9651-3a40ad042f2d",
+            "position": 3,
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "d84c513b-ddcc-4428-a957-5f6f9e577358",
+              "title": "Rhythm Zone",
+              "length": 282000,
+              "genres": [],
+              "first-release-date": "1991"
+            },
+            "length": 282000,
+            "title": "Rhythm Zone",
+            "number": "3"
+          },
+          {
+            "id": "40899f33-6ae1-4741-843f-6ca8bd58ab43",
+            "position": 4,
+            "recording": {
+              "length": 140000,
+              "title": "Phoenix",
+              "genres": [],
+              "first-release-date": "1991",
+              "disambiguation": "",
+              "id": "a2f87796-b584-4241-b0ae-42e65b1ecafa",
+              "video": false
+            },
+            "length": 140000,
+            "title": "Phoenix",
+            "number": "4"
+          }
+        ],
+        "format": "CD"
+      }
+    ],
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "quality": "normal",
+    "title": "Adrenaline EP",
+    "asin": null,
+    "genres": [],
+    "packaging": "Slim Jewel Case",
+    "id": "48679430-235e-45af-95fc-257bef332bca",
+    "disambiguation": "",
+    "country": "GB",
+    "release-group": {
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "EP",
+      "id": "05e61664-20a0-39a5-9c86-0eede5da129c",
+      "title": "Adrenalin EP",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 2
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "count": 2,
+          "name": "techno",
+          "disambiguation": ""
+        }
+      ],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "1991"
+    },
+    "release-events": [
+      {
+        "date": "1991",
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null
+        }
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+  },
+  {
+    "date": "1992",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+    "barcode": "5012394525224",
+    "disambiguation": "",
+    "country": "XE",
+    "release-events": [
+      {
+        "date": "1992",
+        "area": {
+          "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+          "sort-name": "Europe",
+          "iso-3166-1-codes": [
+            "XE"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "name": "Europe",
+          "type": null
+        }
+      }
+    ],
+    "release-group": {
+      "primary-type-id": null,
+      "first-release-date": "1992",
+      "genres": [
+        {
+          "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
+          "count": 1,
+          "disambiguation": "",
+          "name": "breakbeat"
+        },
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "count": 1,
+          "disambiguation": "",
+          "name": "techno"
+        }
+      ],
+      "title": "Live in Manchester",
+      "id": "b17a0653-8bac-3093-a4ed-e5825272f0e5",
+      "primary-type": null,
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": []
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": "Slim Jewel Case",
+    "id": "60735539-4cb5-4111-9803-a32bca245740",
+    "title": "Live in Manchester",
+    "asin": null,
+    "genres": [],
+    "status": "Official",
+    "media": [
+      {
+        "track-count": 2,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 830933,
+            "title": "Live in Manchester (Part 1)",
+            "recording": {
+              "title": "Part 1",
+              "length": 821960,
+              "genres": [],
+              "first-release-date": "1992",
+              "disambiguation": "",
+              "video": false,
+              "id": "0cbc545e-8969-4d13-903c-8fe1dd2910b7"
+            },
+            "position": 1,
+            "id": "cbecd896-9294-43d5-bfc9-6524ed471626"
+          },
+          {
+            "title": "Live in Manchester (Part 2)",
+            "length": 900066,
+            "number": "2",
+            "position": 2,
+            "id": "3a0bb043-bea0-4733-9e2d-a25128e5e371",
+            "recording": {
+              "first-release-date": "1992",
+              "length": 894040,
+              "title": "Part 2",
+              "genres": [],
+              "video": false,
+              "id": "09b58004-04b0-4f41-91a1-8269cb123ef9",
+              "disambiguation": ""
+            }
+          }
+        ],
+        "format": "CD",
+        "id": "413e9c4f-9d17-3d6c-9806-dc8f4b9e648c",
+        "track-offset": 0,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "count": 5,
+      "artwork": true,
+      "back": true,
+      "front": true,
+      "darkened": false
+    },
+    "quality": "normal"
+  },
+  {
+    "disambiguation": "",
+    "country": "US",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "date": "1991",
+        "area": {
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "name": "United States",
+          "disambiguation": ""
+        }
+      }
+    ],
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "c2787b99-7b19-3d20-a678-a4ae7395cc12",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 2,
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "disambiguation": "",
+          "name": "techno",
+          "count": 2
+        }
+      ],
+      "title": "Mindflux",
+      "first-release-date": "1991",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+    },
+    "id": "97c39c16-081f-4cb2-b1f0-102398448c73",
+    "packaging": null,
+    "title": "Mindflux",
+    "genres": [],
+    "asin": null,
+    "media": [
+      {
+        "track-count": 4,
+        "id": "3a09d290-45e3-3ee1-a3f6-2e9e77cb703a",
+        "format": "CD",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "5684cc23-fa03-3a49-9ad2-07d6d8419072",
+            "recording": {
+              "first-release-date": "1991",
+              "genres": [],
+              "title": "Mindflux",
+              "length": 405200,
+              "video": false,
+              "id": "f64d34d6-f5a6-4ca1-ab2a-673ae749e97d",
+              "disambiguation": ""
+            },
+            "length": 405200,
+            "title": "Mindflux",
+            "number": "1"
+          },
+          {
+            "recording": {
+              "id": "ddbf8883-f44f-4ec8-aeee-ae87ee5dc072",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1991",
+              "title": "Manlfunction",
+              "length": 262466,
+              "genres": []
+            },
+            "position": 2,
+            "id": "c74b44af-d9e4-3b37-b54a-561a9fd8d4d7",
+            "number": "2",
+            "title": "Manlfunction",
+            "length": 262466
+          },
+          {
+            "id": "627050f2-d8bd-3caf-83b9-d7bc5e99c142",
+            "position": 3,
+            "recording": {
+              "id": "6618f0da-b218-4a8f-b28f-55d152d2b5fe",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1991",
+              "genres": [],
+              "length": 292960,
+              "title": "Phoenix"
+            },
+            "length": 292960,
+            "title": "Phoenix",
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 326374,
+            "title": "Rhythm Zone",
+            "recording": {
+              "disambiguation": "",
+              "id": "119dba25-639e-4de5-b138-0eb508444a54",
+              "video": false,
+              "length": 326374,
+              "title": "Rhythm Zone",
+              "genres": [],
+              "first-release-date": "1991"
+            },
+            "id": "5bdf7220-a6d4-368d-8bb6-f355eda85ed5",
+            "position": 4
+          }
+        ],
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "date": "1991",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": null,
+    "packaging-id": null
+  },
+  {
+    "media": [
+      {
+        "track-count": 1,
+        "id": "f3b136ec-ecdc-44cb-ac21-ac990289aea9",
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 243827,
+            "title": "Anthem",
+            "recording": {
+              "first-release-date": "2004-01-01",
+              "genres": [],
+              "title": "Anthem (Original 12\" Mix)",
+              "length": 243000,
+              "video": false,
+              "id": "5a427c1b-929e-4c71-85f5-c5a055f2b35a",
+              "disambiguation": ""
+            },
+            "id": "ae495681-9a17-41fe-b8b8-4f09722d5d8f",
+            "position": 1
+          }
+        ],
+        "title": "",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "front": true,
+      "darkened": false
+    },
+    "title": "Anthem",
+    "genres": [],
+    "asin": null,
+    "id": "9b7a9666-69cd-4909-b982-2ccccaba2651",
+    "packaging": "None",
+    "disambiguation": "",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "name": "[Worldwide]",
+          "disambiguation": "",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        },
+        "date": "2004-01-01"
+      }
+    ],
+    "release-group": {
+      "id": "3c9eb2e6-dd4e-49ea-af88-dfb9a03e0bc7",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1990",
+      "genres": [
+        {
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "name": "house",
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "name": "techno",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "title": "Anthem"
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": "886444383370",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "2004-01-01"
+  },
+  {
+    "release-events": [
+      {
+        "date": "1990",
+        "area": {
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "disambiguation": "",
+          "name": "United States",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        }
+      }
+    ],
+    "release-group": {
+      "id": "3c9eb2e6-dd4e-49ea-af88-dfb9a03e0bc7",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "1990",
+      "title": "Anthem",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": ""
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "name": "techno",
+          "disambiguation": "",
+          "count": 1
+        }
+      ]
+    },
+    "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+    "disambiguation": "",
+    "country": "US",
+    "packaging": null,
+    "id": "a1b251e9-cad2-4bc0-b612-b83304b61855",
+    "asin": null,
+    "genres": [],
+    "title": "Anthem",
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "quality": "normal",
+    "status": "Promotion",
+    "media": [
+      {
+        "id": "139d0811-06a4-3c48-aa3b-2e6038a22c8b",
+        "tracks": [
+          {
+            "recording": {
+              "length": 311000,
+              "title": "Anthem (N-Joi R Dub Mix)",
+              "genres": [],
+              "first-release-date": "1990",
+              "disambiguation": "",
+              "id": "2a49778d-ce87-4829-901b-1883f6217fe5",
+              "video": false
+            },
+            "id": "e68b225e-7f82-40e9-aa0c-b786e776450e",
+            "position": 1,
+            "number": "A1",
+            "length": 311000,
+            "title": "Anthem (N-Joi R Dub Mix)"
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "id": "2341922a-779e-483f-9bd7-2bfe50815778",
+              "video": false,
+              "genres": [],
+              "length": 320000,
+              "title": "Anthem (N-Joi R Dance Mix)",
+              "first-release-date": "1990"
+            },
+            "position": 2,
+            "id": "288b4edc-d753-4618-beec-16d2916d838d",
+            "number": "A2",
+            "title": "Anthem (N-Joi R Dance Mix)",
+            "length": 320000
+          },
+          {
+            "length": 247000,
+            "title": "Anthem (N-Joi R Deepstrumental)",
+            "number": "A3",
+            "id": "99321eb6-6d55-4f4d-9d5f-ae6ee24e9cb2",
+            "position": 3,
+            "recording": {
+              "first-release-date": "1990",
+              "length": 247000,
+              "title": "Anthem (N-Joi R Deepstrumental)",
+              "genres": [],
+              "id": "b114f53d-3e97-48d2-8061-68d6e926d6ff",
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "title": "Anthem (Distant Run Mix)",
+            "length": 255000,
+            "number": "B1",
+            "position": 4,
+            "id": "8f38e950-f2b4-4082-82e5-acd52fe930d2",
+            "recording": {
+              "genres": [],
+              "title": "Anthem (Distant Run Mix)",
+              "length": 255000,
+              "first-release-date": "1990",
+              "disambiguation": "",
+              "video": false,
+              "id": "1823c904-e400-4b6e-801a-503260fe1bc0"
+            }
+          },
+          {
+            "title": "Anthem (Original Mix Edit)",
+            "length": 260000,
+            "number": "B2",
+            "position": 5,
+            "id": "28f15583-f74d-4547-a904-4fd450461f5e",
+            "recording": {
+              "length": 259360,
+              "title": "Anthem (original mix)",
+              "genres": [],
+              "first-release-date": "1990",
+              "disambiguation": "",
+              "id": "9f331bd3-8ec6-400c-b28d-b87461ad9cf0",
+              "video": false
+            }
+          }
+        ],
+        "format": "12\" Vinyl",
+        "track-count": 5,
+        "position": 1,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "track-offset": 0
+      }
+    ],
+    "date": "1990",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": null,
+    "barcode": null
+  },
+  {
+    "id": "a26f4346-fbbf-46c9-a491-9a14973c5e22",
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "area": {
+          "disambiguation": "",
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States"
+        },
+        "date": "1990"
+      }
+    ],
+    "release-group": {
+      "genres": [
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "disambiguation": "",
+          "name": "house",
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "count": 1,
+          "disambiguation": "",
+          "name": "techno"
+        }
+      ],
+      "title": "Music From a State of Mind",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "1990-10-15",
+      "primary-type": "EP",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "63c1ba3c-c427-496d-ab14-16fd5856a874"
+    },
+    "country": "US",
+    "disambiguation": "",
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 4,
+      "darkened": false,
+      "front": true,
+      "back": true
+    },
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "de77d797-7c17-464c-8fa0-d141bfc61061",
+            "recording": {
+              "genres": [],
+              "title": "Anthem",
+              "length": 244000,
+              "first-release-date": "1990-10-15",
+              "disambiguation": "",
+              "id": "e38d263c-b906-4a3b-84c6-82087598981f",
+              "video": false
+            },
+            "length": 243000,
+            "title": "Anthem",
+            "number": "A"
+          },
+          {
+            "number": "B1",
+            "length": 157000,
+            "title": "Manic",
+            "recording": {
+              "genres": [],
+              "length": 157000,
+              "title": "Manic",
+              "first-release-date": "1990",
+              "disambiguation": "",
+              "id": "d531c530-69de-4035-af9d-aa28758a1670",
+              "video": false
+            },
+            "position": 2,
+            "id": "4835bc0a-ff9e-400c-96be-2e94ca7c54f4"
+          },
+          {
+            "number": "B2",
+            "length": 213000,
+            "title": "Techno Gangsters",
+            "recording": {
+              "video": false,
+              "id": "bc1d3a75-697d-44f7-9698-2e13044911d0",
+              "disambiguation": "",
+              "first-release-date": "1990-10-15",
+              "genres": [],
+              "length": 213000,
+              "title": "Techno Gangsters"
+            },
+            "position": 3,
+            "id": "bb833794-88dd-41b6-84bb-ebd97066db0a"
+          }
+        ],
+        "format": "12\" Vinyl",
+        "id": "58226811-0daa-3e1a-85b4-70dbeae3d89a",
+        "track-count": 3
+      }
+    ],
+    "status": "Official",
+    "genres": [],
+    "asin": null,
+    "title": "Music From A State Of Mind",
+    "date": "1990",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": null,
+    "barcode": null
+  },
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "1993-07-05",
+    "packaging-id": null,
+    "barcode": "743211548328",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "date": "1993-07-05",
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "release-group": {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "1993-07-05",
+      "title": "The Drumstruck E.P.",
+      "genres": [
+        {
+          "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
+          "count": 1,
+          "disambiguation": "",
+          "name": "breakbeat"
+        },
+        {
+          "count": 1,
+          "name": "electronic",
+          "disambiguation": "",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "techno",
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+        }
+      ],
+      "id": "0b03893f-2977-4ac7-bcb4-b2cd538c571a",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type": "EP"
+    },
+    "disambiguation": "",
+    "country": "GB",
+    "id": "a6a724f3-f136-4490-b352-44351205e577",
+    "packaging": null,
+    "genres": [],
+    "asin": null,
+    "title": "The Drumstruck E.P.",
+    "quality": "normal",
+    "cover-art-archive": {
+      "back": false,
+      "front": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    },
+    "media": [
+      {
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0,
+        "position": 1,
+        "track-count": 3,
+        "id": "4246a7f7-c53b-36c5-a7d9-1c993bf90afb",
+        "tracks": [
+          {
+            "id": "389c0230-7ef1-4143-a012-9f1888822aae",
+            "position": 1,
+            "recording": {
+              "length": 252466,
+              "title": "The Void",
+              "genres": [],
+              "first-release-date": "1992",
+              "disambiguation": "",
+              "video": false,
+              "id": "4b19410d-0fcc-41b8-959e-2be3dbba5393"
+            },
+            "title": "The Void",
+            "length": 255000,
+            "number": "1"
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "cdc8c6dc-baf3-4ae2-83b2-3fe14b211cee",
+              "disambiguation": "",
+              "first-release-date": "1993-07-05",
+              "genres": [],
+              "length": 365000,
+              "title": "Boom Bass"
+            },
+            "position": 2,
+            "id": "a2603930-2059-48c6-a649-fc9e88460e1e",
+            "number": "2",
+            "title": "Boom Bass",
+            "length": 365000
+          },
+          {
+            "title": "Drumstruck",
+            "length": 323000,
+            "number": "3",
+            "position": 3,
+            "id": "5946e970-917e-4950-bfb8-c0acb83d81f8",
+            "recording": {
+              "id": "20ebf9b2-59a5-4461-9fee-b899e7a37213",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1993-07-05",
+              "genres": [],
+              "title": "Drumstruck",
+              "length": 323000
+            }
+          }
+        ],
+        "format": "CD"
+      }
+    ],
+    "status": "Official"
+  },
+  {
+    "date": "1992",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": null,
+    "barcode": "5012394525224",
+    "disambiguation": "",
+    "country": "GB",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "release-events": [
+      {
+        "date": "1992",
+        "area": {
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom"
+        }
+      }
+    ],
+    "release-group": {
+      "id": "b17a0653-8bac-3093-a4ed-e5825272f0e5",
+      "primary-type": null,
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": null,
+      "first-release-date": "1992",
+      "genres": [
+        {
+          "id": "3b8f3f65-6caa-47c8-b076-fa59dfb69c43",
+          "name": "breakbeat",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "disambiguation": "",
+          "name": "techno",
+          "count": 1
+        }
+      ],
+      "title": "Live in Manchester"
+    },
+    "id": "a77089b5-199a-441c-a8b5-b72d75d6c755",
+    "packaging": null,
+    "title": "Live in Manchester",
+    "genres": [],
+    "asin": null,
+    "media": [
+      {
+        "title": "",
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "track-offset": 0,
+        "position": 1,
+        "track-count": 2,
+        "id": "db230063-0b2d-309d-9116-c49b254c6d2a",
+        "format": "CD",
+        "tracks": [
+          {
+            "title": "Part 1",
+            "length": 821960,
+            "number": "1",
+            "position": 1,
+            "id": "1965c0ad-c9e8-3205-b754-04f3e18991c4",
+            "recording": {
+              "first-release-date": "1992",
+              "genres": [],
+              "length": 821960,
+              "title": "Part 1",
+              "video": false,
+              "id": "0cbc545e-8969-4d13-903c-8fe1dd2910b7",
+              "disambiguation": ""
+            }
+          },
+          {
+            "recording": {
+              "video": false,
+              "id": "09b58004-04b0-4f41-91a1-8269cb123ef9",
+              "disambiguation": "",
+              "first-release-date": "1992",
+              "title": "Part 2",
+              "length": 894040,
+              "genres": []
+            },
+            "position": 2,
+            "id": "5a2da5f9-df34-31bb-9d1f-93adf2aef773",
+            "number": "2",
+            "length": 894040,
+            "title": "Part 2"
+          }
+        ]
+      }
+    ],
+    "status": "Official",
+    "quality": "normal",
+    "cover-art-archive": {
+      "back": false,
+      "front": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    }
+  },
+  {
+    "barcode": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2020",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "cover-art-archive": {
+      "count": 1,
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "track-count": 6,
+        "id": "1fe81206-d21b-3e14-9ecd-ccd16b090733",
+        "tracks": [
+          {
+            "id": "b0aaed80-e45e-447a-a9ad-6b7fb32f9c9c",
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "title": "Anthem",
+              "length": 257000,
+              "first-release-date": "1990",
+              "disambiguation": "",
+              "video": false,
+              "id": "50601f43-14ef-44f1-83e2-6953e507fc47"
+            },
+            "title": "Anthem",
+            "length": 263000,
+            "number": "1"
+          },
+          {
+            "title": "Manic",
+            "length": 161000,
+            "number": "2",
+            "position": 2,
+            "id": "91935994-8ec9-4d60-9245-d0c0e3e9efa1",
+            "recording": {
+              "genres": [],
+              "length": 161000,
+              "title": "Manic",
+              "first-release-date": "2020",
+              "disambiguation": "",
+              "id": "ad9c7987-ffda-49c8-b787-3093e5acdd76",
+              "video": false
+            }
+          },
+          {
+            "recording": {
+              "title": "We Bass It",
+              "length": 242000,
+              "genres": [],
+              "first-release-date": "1990",
+              "disambiguation": "",
+              "id": "120af216-914e-4235-9889-c938d3313b30",
+              "video": false
+            },
+            "position": 3,
+            "id": "5cb538a3-ee8a-4f19-8d1c-5b4877e7a1ec",
+            "number": "3",
+            "title": "We Bass It",
+            "length": 242000
+          },
+          {
+            "id": "96087c12-82b3-49aa-9d58-f21c508fdaea",
+            "position": 4,
+            "recording": {
+              "id": "130e9b7f-d6ae-44f0-b096-0f9922c12e49",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1990",
+              "length": 432000,
+              "title": "Jah Heaven",
+              "genres": []
+            },
+            "title": "Jah Heaven",
+            "length": 432000,
+            "number": "4"
+          },
+          {
+            "length": 186000,
+            "title": "Jupiter Dawn",
+            "number": "5",
+            "id": "5f6a6155-35d4-4ce0-b31a-73440bc947ac",
+            "position": 5,
+            "recording": {
+              "first-release-date": "1990",
+              "length": 185000,
+              "title": "Jupiter Dawn",
+              "genres": [],
+              "video": false,
+              "id": "5d0be1da-55fb-46df-9020-8e4aedaa9ed0",
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "6",
+            "length": 216000,
+            "title": "Techno Gangsters",
+            "recording": {
+              "id": "bc1d3a75-697d-44f7-9698-2e13044911d0",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1990-10-15",
+              "length": 213000,
+              "title": "Techno Gangsters",
+              "genres": []
+            },
+            "id": "5b692ac7-579f-4c57-986f-e3169c19bc58",
+            "position": 6
+          }
+        ],
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "Music From a State of Mind",
+    "packaging": "None",
+    "id": "b6cb628f-4f2b-4314-805d-fde72f919212",
+    "release-group": {
+      "title": "Music From a State of Mind",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "disambiguation": "",
+          "name": "techno",
+          "count": 1
+        }
+      ],
+      "first-release-date": "1990-10-15",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "id": "63c1ba3c-c427-496d-ab14-16fd5856a874"
+    },
+    "release-events": [
+      {
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type": null
+        },
+        "date": "2020"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "GB"
+  },
+  {
+    "cover-art-archive": {
+      "back": true,
+      "darkened": false,
+      "front": true,
+      "count": 4,
+      "artwork": true
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "tracks": [
+          {
+            "title": "Anthem",
+            "length": 244000,
+            "number": "A",
+            "id": "11422eb1-41c4-4238-a05e-6af2b3e12583",
+            "position": 1,
+            "recording": {
+              "disambiguation": "",
+              "id": "e38d263c-b906-4a3b-84c6-82087598981f",
+              "video": false,
+              "genres": [],
+              "title": "Anthem",
+              "length": 244000,
+              "first-release-date": "1990-10-15"
+            }
+          },
+          {
+            "id": "9edef910-a0af-4fcb-88d5-ac70242c61bd",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "title": "Manic",
+              "length": 157000,
+              "first-release-date": "1990-10-15",
+              "disambiguation": "",
+              "video": false,
+              "id": "84358647-1030-47da-94b9-7a552938faad"
+            },
+            "title": "Manic",
+            "length": 157000,
+            "number": "B1"
+          },
+          {
+            "title": "Techno Gangsters",
+            "length": 210000,
+            "number": "B2",
+            "position": 3,
+            "id": "4451257a-ffd8-40ac-a100-468a19f2b07f",
+            "recording": {
+              "first-release-date": "1990-10-15",
+              "length": 213000,
+              "title": "Techno Gangsters",
+              "genres": [],
+              "id": "bc1d3a75-697d-44f7-9698-2e13044911d0",
+              "video": false,
+              "disambiguation": ""
+            }
+          }
+        ],
+        "format": "12\" Vinyl",
+        "id": "a9ab13be-6404-39b7-9bbe-6af469ea0b30",
+        "track-count": 3
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "Music From a State of Mind",
+    "packaging": "Cardboard/Paper Sleeve",
+    "id": "cda8cfd7-7192-4b75-9dc0-1fd441768953",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom"
+        },
+        "date": "1990-10-15"
+      }
+    ],
+    "release-group": {
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "house",
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "count": 1,
+          "name": "techno",
+          "disambiguation": "",
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+        }
+      ],
+      "title": "Music From a State of Mind",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "1990-10-15",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "63c1ba3c-c427-496d-ab14-16fd5856a874"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "GB",
+    "disambiguation": "",
+    "barcode": "5012394404260",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "date": "1990-10-15",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    }
+  },
+  {
+    "asin": null,
+    "genres": [],
+    "title": "Adrenalin EP",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "front": true,
+      "back": false
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "tracks": [
+          {
+            "position": 1,
+            "id": "784c4a84-2356-4c9d-bc89-da4bba3538c4",
+            "recording": {
+              "first-release-date": "1991",
+              "genres": [],
+              "length": 227000,
+              "title": "Adrenalin",
+              "id": "a558e92c-ecc5-4195-b048-8a01bf6d2af9",
+              "video": false,
+              "disambiguation": ""
+            },
+            "length": 227000,
+            "title": "Adrenalin",
+            "number": "1"
+          },
+          {
+            "id": "2439e16e-c0e1-4ddf-9500-a285ec338da4",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "id": "6c5992e8-c76f-47da-93d9-7f4d0ea09901",
+              "video": false,
+              "genres": [],
+              "title": "The Kraken",
+              "length": 254000,
+              "first-release-date": "1991"
+            },
+            "title": "The Kraken",
+            "length": 254000,
+            "number": "2"
+          },
+          {
+            "number": "3",
+            "title": "Rhythm Zone",
+            "length": 282000,
+            "recording": {
+              "id": "d84c513b-ddcc-4428-a957-5f6f9e577358",
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1991",
+              "genres": [],
+              "title": "Rhythm Zone",
+              "length": 282000
+            },
+            "id": "777071e8-f3df-491a-87a3-e333322c9d27",
+            "position": 3
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "id": "a2f87796-b584-4241-b0ae-42e65b1ecafa",
+              "video": false,
+              "genres": [],
+              "title": "Phoenix",
+              "length": 140000,
+              "first-release-date": "1991"
+            },
+            "id": "898636f7-cc5d-40cc-b19c-5318b2dd426d",
+            "position": 4,
+            "number": "4",
+            "title": "Phoenix",
+            "length": 140000
+          },
+          {
+            "recording": {
+              "genres": [],
+              "title": "Jupiter Re-Dawn",
+              "length": 150000,
+              "first-release-date": "2020",
+              "disambiguation": "",
+              "id": "652473b7-8dc6-42c1-a738-4e4864123df6",
+              "video": false
+            },
+            "position": 5,
+            "id": "8b7bc496-d9e6-4e02-a96c-7ab7ae228535",
+            "number": "5",
+            "length": 150000,
+            "title": "Jupiter Re-Dawn"
+          }
+        ],
+        "format": "Digital Media",
+        "id": "2ad3e823-df9d-3f30-9f5c-f64bd3c0ace0",
+        "track-count": 5,
+        "position": 1,
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": ""
+      }
+    ],
+    "release-group": {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "1991",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 2,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "count": 2,
+          "disambiguation": "",
+          "name": "techno"
+        }
+      ],
+      "title": "Adrenalin EP",
+      "id": "05e61664-20a0-39a5-9c86-0eede5da129c",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": []
+    },
+    "release-events": [
+      {
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null
+        },
+        "date": "2020"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "GB",
+    "packaging": "None",
+    "id": "cdd15402-927a-4b32-96e0-fff71c69b774",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "barcode": null,
+    "date": "2020",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    }
+  },
+  {
+    "date": "1991",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": null,
+    "barcode": null,
+    "packaging": null,
+    "id": "cfb0f989-2e4d-4371-9589-f04b7698a2a8",
+    "release-group": {
+      "primary-type": "EP",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "05e61664-20a0-39a5-9c86-0eede5da129c",
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 2,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+          "count": 2,
+          "disambiguation": "",
+          "name": "techno"
+        }
+      ],
+      "title": "Adrenalin EP",
+      "first-release-date": "1991",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf"
+    },
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type": null,
+          "name": "United Kingdom",
+          "disambiguation": "",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ]
+        },
+        "date": "1991"
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "GB",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "count": 1,
+      "artwork": true
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "track-count": 4,
+        "id": "f801a728-82bb-3ace-9b5c-0395936a3556",
+        "format": "12\" Vinyl",
+        "tracks": [
+          {
+            "title": "Adrenalin",
+            "length": 316960,
+            "number": "A1",
+            "position": 1,
+            "id": "a3252b23-d913-3b71-92a2-00bfb6cd4173",
+            "recording": {
+              "disambiguation": "",
+              "id": "8343deee-9a6b-4ec8-8dde-f91f3c6c9573",
+              "video": false,
+              "length": 316960,
+              "title": "Adrenalin",
+              "genres": [
+                {
+                  "count": 1,
+                  "disambiguation": "",
+                  "name": "electronic",
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                },
+                {
+                  "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+                  "count": 1,
+                  "name": "techno",
+                  "disambiguation": ""
+                }
+              ],
+              "first-release-date": "1991"
+            }
+          },
+          {
+            "number": "A2",
+            "title": "The Kraken",
+            "length": 253373,
+            "recording": {
+              "first-release-date": "1991",
+              "genres": [],
+              "length": 254000,
+              "title": "The Kraken",
+              "id": "6c5992e8-c76f-47da-93d9-7f4d0ea09901",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "092206b5-4618-37be-a594-ed6c1d151563",
+            "position": 2
+          },
+          {
+            "title": "Rhythm Zone",
+            "length": 328400,
+            "number": "B1",
+            "position": 3,
+            "id": "5dc79a23-bf3d-35e0-ae0c-9a73e061cb2f",
+            "recording": {
+              "disambiguation": "",
+              "video": false,
+              "id": "463a1799-1bd5-44f7-8d8b-09660072a6d0",
+              "title": "Rhythm Zone",
+              "length": 328400,
+              "genres": [],
+              "first-release-date": "1991"
+            }
+          },
+          {
+            "number": "B2",
+            "title": "Phoenix",
+            "length": 289267,
+            "recording": {
+              "first-release-date": "1991",
+              "title": "Phoenix",
+              "length": 289267,
+              "genres": [],
+              "video": false,
+              "id": "97c9a341-4171-43d7-99e3-1b1ce3c45c0c",
+              "disambiguation": ""
+            },
+            "position": 4,
+            "id": "c42480f2-aa43-373a-a5ad-a99ba68e6e30"
+          }
+        ],
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "track-offset": 0,
+        "position": 1
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "Adrenalin EP"
+  },
+  {
+    "packaging-id": "36327bc2-f691-3d66-80e5-bd03cec6060a",
+    "barcode": "5012394444624",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "date": "1991",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false
+    },
+    "quality": "normal",
+    "status": "Official",
+    "media": [
+      {
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "track-offset": 0,
+        "position": 1,
+        "track-count": 4,
+        "id": "43a2c4d3-a151-3062-8f59-791ff1430535",
+        "tracks": [
+          {
+            "position": 1,
+            "id": "05010c55-2acf-30f2-b7ca-c5c88deafa46",
+            "recording": {
+              "title": "Anthem (the original mix)",
+              "length": 247000,
+              "genres": [],
+              "first-release-date": "1991",
+              "disambiguation": "",
+              "id": "04ebd300-9d0b-4cfd-898c-d07b591179ef",
+              "video": false
+            },
+            "length": 247000,
+            "title": "Anthem (the original mix)",
+            "number": "1"
+          },
+          {
+            "recording": {
+              "length": 291000,
+              "title": "Anthem (the Mafia mix)",
+              "genres": [],
+              "first-release-date": "1991",
+              "disambiguation": "",
+              "id": "4404c986-bddf-489c-ab90-706ffd800e9c",
+              "video": false
+            },
+            "position": 2,
+            "id": "22c1ef4b-a6cd-3d7c-ae05-e4bcd88389b2",
+            "number": "2",
+            "title": "Anthem (the Mafia mix)",
+            "length": 291000
+          },
+          {
+            "number": "3",
+            "length": 271000,
+            "title": "Anthem (the Six Day Nightmare mix)",
+            "recording": {
+              "first-release-date": "1991",
+              "genres": [],
+              "title": "Anthem (the Six Day Nightmare mix)",
+              "length": 271000,
+              "id": "6a857000-4a58-45af-adcb-017bf85e289e",
+              "video": false,
+              "disambiguation": ""
+            },
+            "id": "b63c581d-f428-33c2-9703-e1eada5d67e0",
+            "position": 3
+          },
+          {
+            "recording": {
+              "title": "Malfunction",
+              "length": 260000,
+              "genres": [],
+              "first-release-date": "1991",
+              "disambiguation": "",
+              "video": false,
+              "id": "a08b81b8-919a-4098-82e7-88b0d06810f6"
+            },
+            "position": 4,
+            "id": "9d7ad9dd-dcae-3557-9ac0-cebccf335acb",
+            "number": "4",
+            "length": 259000,
+            "title": "Malfunction"
+          }
+        ],
+        "format": "CD"
+      }
+    ],
+    "asin": null,
+    "genres": [],
+    "title": "Anthem",
+    "packaging": "Slim Jewel Case",
+    "id": "ea75204d-32a7-4039-95c4-95004949fd70",
+    "release-events": [
+      {
+        "date": "1991",
+        "area": {
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        }
+      }
+    ],
+    "release-group": {
+      "genres": [
+        {
+          "disambiguation": "",
+          "name": "electronic",
+          "count": 1,
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "name": "house",
+          "disambiguation": ""
+        },
+        {
+          "name": "techno",
+          "disambiguation": "",
+          "count": 1,
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+        }
+      ],
+      "title": "Anthem",
+      "first-release-date": "1990",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "3c9eb2e6-dd4e-49ea-af88-dfb9a03e0bc7"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "disambiguation": "",
+    "country": "GB"
+  },
+  {
+    "packaging-id": null,
+    "barcode": null,
+    "date": "",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "status": "Official",
+    "media": [
+      {
+        "track-count": 3,
+        "tracks": [
+          {
+            "title": "Papillon",
+            "length": 391000,
+            "number": "1",
+            "position": 1,
+            "id": "dd93d616-55fd-33eb-b40e-dd57d8c2121c",
+            "recording": {
+              "id": "6f64ce93-edf2-40d2-b184-72eec4286230",
+              "video": false,
+              "length": 391000,
+              "disambiguation": "",
+              "title": "Papillon",
+              "genres": []
+            }
+          },
+          {
+            "number": "2",
+            "title": "Never Let You Go",
+            "length": 508000,
+            "recording": {
+              "length": 508000,
+              "title": "Never Let You Go",
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "id": "0a50584c-8ab8-4e03-bb0e-b903c74cadd4"
+            },
+            "position": 2,
+            "id": "03518eca-9d5a-3b98-8e23-7b73a04456fc"
+          },
+          {
+            "title": "Papillon (Pump Panel Remix)",
+            "length": 597000,
+            "number": "3",
+            "id": "cbfde17e-d512-31f6-8d6e-71a5f124c7f7",
+            "position": 3,
+            "recording": {
+              "title": "Papillon (Pump Panel Remix)",
+              "length": 597000,
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "id": "dacc6a77-229b-4817-a4d7-05f08b1901ec"
+            }
+          }
+        ],
+        "format": "CD",
+        "id": "5ac293bc-a422-3624-8b82-9a5e42d3cfe2",
+        "track-offset": 0,
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "cover-art-archive": {
+      "count": 0,
+      "artwork": false,
+      "back": false,
+      "darkened": false,
+      "front": false
+    },
+    "quality": "normal",
+    "title": "Papillon",
+    "asin": null,
+    "genres": [],
+    "packaging": null,
+    "id": "f7b9eedb-9dfd-4518-bc8a-f3e9d5303457",
+    "disambiguation": "",
+    "country": "GB",
+    "release-events": [
+      {
+        "date": "",
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "sort-name": "United Kingdom",
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "type": null
+        }
+      }
+    ],
+    "release-group": {
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "id": "86b6529f-e756-4e77-b971-fe8847295684",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "name": "electronic",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "house",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "name": "techno",
+          "disambiguation": "",
+          "count": 1,
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+        }
+      ],
+      "title": "Papillon",
+      "first-release-date": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+  },
+  {
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "date": "1990",
+    "barcode": null,
+    "packaging-id": null,
+    "id": "fcfd7099-126f-4938-8b2e-89fe64172029",
+    "packaging": null,
+    "country": "GB",
+    "disambiguation": "",
+    "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+    "release-events": [
+      {
+        "date": "1990",
+        "area": {
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "disambiguation": "",
+          "name": "United Kingdom"
+        }
+      }
+    ],
+    "release-group": {
+      "title": "Music From a State of Mind",
+      "genres": [
+        {
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic"
+        },
+        {
+          "name": "house",
+          "disambiguation": "",
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+        },
+        {
+          "name": "techno",
+          "disambiguation": "",
+          "count": 1,
+          "id": "41fe3260-fcc1-450b-bd5a-803886c56912"
+        }
+      ],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "1990-10-15",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "EP",
+      "id": "63c1ba3c-c427-496d-ab14-16fd5856a874"
+    },
+    "media": [
+      {
+        "track-count": 6,
+        "tracks": [
+          {
+            "recording": {
+              "length": 432000,
+              "title": "Jah Heaven",
+              "genres": [],
+              "first-release-date": "1990",
+              "disambiguation": "",
+              "id": "130e9b7f-d6ae-44f0-b096-0f9922c12e49",
+              "video": false
+            },
+            "id": "750e2f99-6e31-4c71-abf3-6f73546c796f",
+            "position": 1,
+            "number": "A1",
+            "length": 434000,
+            "title": "Jah Heaven"
+          },
+          {
+            "number": "A2",
+            "length": 185000,
+            "title": "Jupiter Dawn",
+            "recording": {
+              "video": false,
+              "id": "5d0be1da-55fb-46df-9020-8e4aedaa9ed0",
+              "disambiguation": "",
+              "first-release-date": "1990",
+              "genres": [],
+              "length": 185000,
+              "title": "Jupiter Dawn"
+            },
+            "id": "d6b80525-f73a-4c0e-b453-39d2ba45c917",
+            "position": 2
+          },
+          {
+            "title": "Techno Gangsters",
+            "length": 211000,
+            "number": "A3",
+            "position": 3,
+            "id": "7312d55e-caa4-498b-a80d-a3c7a18d1420",
+            "recording": {
+              "genres": [],
+              "length": 213000,
+              "title": "Techno Gangsters",
+              "first-release-date": "1990-10-15",
+              "disambiguation": "",
+              "id": "bc1d3a75-697d-44f7-9698-2e13044911d0",
+              "video": false
+            }
+          },
+          {
+            "position": 4,
+            "id": "b5e2e5f9-cba5-491d-9830-63a6146e951b",
+            "recording": {
+              "title": "Anthem",
+              "length": 257000,
+              "genres": [],
+              "first-release-date": "1990",
+              "disambiguation": "",
+              "id": "50601f43-14ef-44f1-83e2-6953e507fc47",
+              "video": false
+            },
+            "length": 260000,
+            "title": "Anthem",
+            "number": "B1"
+          },
+          {
+            "id": "12dc62b8-2f6b-4909-a388-f2526d9cbf5e",
+            "position": 5,
+            "recording": {
+              "disambiguation": "",
+              "id": "84358647-1030-47da-94b9-7a552938faad",
+              "video": false,
+              "length": 157000,
+              "title": "Manic",
+              "genres": [],
+              "first-release-date": "1990-10-15"
+            },
+            "length": 157000,
+            "title": "Manic",
+            "number": "B2"
+          },
+          {
+            "id": "cf7fef82-e2d5-42b7-9033-08e61269e87e",
+            "position": 6,
+            "recording": {
+              "disambiguation": "",
+              "id": "120af216-914e-4235-9889-c938d3313b30",
+              "video": false,
+              "genres": [],
+              "length": 242000,
+              "title": "We Bass It",
+              "first-release-date": "1990"
+            },
+            "length": 255000,
+            "title": "We Bass It",
+            "number": "B3"
+          }
+        ],
+        "format": "12\" Vinyl",
+        "id": "5a2a6104-8955-479e-9fc5-535eedf65ed5",
+        "track-offset": 0,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "status": "Promotion",
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "front": false,
+      "darkened": false,
+      "back": false
+    },
+    "title": "Music Is A State Of Mind E.P.",
+    "genres": [],
+    "asin": null
+  }
+]

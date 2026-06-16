@@ -1,0 +1,2912 @@
+[
+  {
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "5db06843-0a3e-4e26-acc0-e6b27027ff59",
+      "title": "Da Fonk",
+      "first-release-date": "2022-07-01",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": []
+    },
+    "asin": null,
+    "status": "Official",
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "length": 366141,
+            "recording": {
+              "title": "Da Fonk (original mix)",
+              "disambiguation": "",
+              "id": "6de7f450-ced2-4cfb-9af2-8a832bddd22b",
+              "genres": [],
+              "first-release-date": "2022-07-01",
+              "video": false,
+              "length": 366000
+            },
+            "title": "Da Fonk",
+            "position": 1,
+            "id": "78485318-fe1b-4ce5-8f46-12e9256f3e60",
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "length": 351496,
+            "id": "45b0c26f-35c9-467b-b739-bb7a8e5e8fbd",
+            "position": 2,
+            "title": "Da Fonk (dub)",
+            "recording": {
+              "genres": [],
+              "length": 351000,
+              "first-release-date": "2022-07-01",
+              "video": false,
+              "title": "Da Fonk (dub)",
+              "id": "1779d4c7-9bcc-42e5-ac7b-452562136ccf",
+              "disambiguation": ""
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 2,
+        "track-offset": 0,
+        "id": "1ef8326f-dd03-35f3-b085-6a6c6adbd4db",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "title": "Da Fonk",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2022-07-01"
+      }
+    ],
+    "id": "028a76e2-73bc-485c-953b-f51213d13c48",
+    "disambiguation": "",
+    "date": "2022-07-01",
+    "genres": [],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "quality": "normal",
+    "barcode": "091012552663",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    }
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": null,
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true
+    },
+    "quality": "normal",
+    "barcode": "5059449282732",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "release-group": {
+      "secondary-types": [
+        "Live",
+        "DJ-mix"
+      ],
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+      ],
+      "id": "6fffd695-ac0c-49c1-95d6-edb1cc3e7134",
+      "disambiguation": "",
+      "title": "The Jealous Mix Live from DC‐10, Aug 7, 2023",
+      "first-release-date": "2023-10-20",
+      "genres": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    "asin": null,
+    "status": "Official",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 26,
+        "tracks": [
+          {
+            "position": 1,
+            "title": "Ma quale idea (remix)",
+            "recording": {
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "53e6d2bd-a993-4008-a617-b603bc70b358",
+              "title": "Ma quale idea (remix)",
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 293000,
+              "genres": []
+            },
+            "id": "45f505cd-9725-4c20-95e2-5a60c48e4219",
+            "length": 293000,
+            "number": "1"
+          },
+          {
+            "length": 383000,
+            "position": 2,
+            "title": "Pade e Cachaça (Nik Ros, Rods Novaes remix)",
+            "recording": {
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "2594dcf4-82a6-4743-bd18-cb1121c91d7d",
+              "title": "Pade e Cachaça (Nik Ros, Rods Novaes remix)",
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 383000,
+              "genres": []
+            },
+            "id": "5fb2e060-3c13-4a45-92f1-6c6e64ee2595",
+            "number": "2"
+          },
+          {
+            "number": "3",
+            "length": 301000,
+            "id": "f7c730b4-f425-45f6-adc5-f34ddaf08131",
+            "recording": {
+              "genres": [],
+              "length": 301000,
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "title": "Who? (124bpm)",
+              "id": "c6b5abd0-85b2-4a76-8c25-56af579ea1b1",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix"
+            },
+            "position": 3,
+            "title": "Who? (124bpm)"
+          },
+          {
+            "id": "412ad96e-84ec-4ebc-9543-546966a87a9e",
+            "position": 4,
+            "title": "World Around",
+            "recording": {
+              "id": "0326e6ac-6a75-415e-9e40-6f91a0748865",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "title": "World Around",
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 263000,
+              "genres": []
+            },
+            "length": 263000,
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "title": "Wan Sugar Lady",
+            "position": 5,
+            "recording": {
+              "length": 135000,
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "genres": [],
+              "id": "0774c66b-191b-41be-847b-33747ddfbed2",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "title": "Wan Sugar Lady"
+            },
+            "id": "6c8d0f0c-beec-43c6-bb0b-3cedc348aa95",
+            "length": 135000
+          },
+          {
+            "length": 316000,
+            "position": 6,
+            "recording": {
+              "id": "c625d0b5-6c1b-46b9-9dab-b59326e72df4",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "title": "Tropicália (remix)",
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 316000,
+              "genres": []
+            },
+            "title": "Tropicália (remix)",
+            "id": "690bef26-b7d6-4fda-b73b-dbd03a7827af",
+            "number": "6"
+          },
+          {
+            "length": 375000,
+            "title": "Definition (Nic Fanciulli remix)",
+            "position": 7,
+            "recording": {
+              "id": "2d80c259-85f8-4db9-81ef-4a670c8b3813",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "title": "Definition (Nic Fanciulli remix)",
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 375000,
+              "genres": []
+            },
+            "id": "de0fd617-3bb4-4347-81d0-bd4ad9390934",
+            "number": "7"
+          },
+          {
+            "number": "8",
+            "id": "5b2fbe52-c6fe-47d6-8228-44f6dfc71f06",
+            "position": 8,
+            "title": "[unknown]",
+            "recording": {
+              "title": "[unknown]",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "22bf9ef2-af83-4bb0-afe5-ae2cbca18661",
+              "genres": [],
+              "length": 243000,
+              "video": false,
+              "first-release-date": "2023-10-20"
+            },
+            "length": 243000
+          },
+          {
+            "title": "French Desire",
+            "position": 9,
+            "recording": {
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "length": 236000,
+              "genres": [],
+              "id": "0825ce7f-3a57-49f8-9a71-396238927b7e",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "title": "French Desire"
+            },
+            "id": "c8245fd0-b9a3-485f-a251-12b6140325e7",
+            "length": 236000,
+            "number": "9"
+          },
+          {
+            "number": "10",
+            "length": 240000,
+            "id": "2d6699dd-ee7a-4fe8-8bd7-501e241282ea",
+            "position": 10,
+            "recording": {
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "fd3c9a35-1b5a-45c0-acd4-428e76f6ca8f",
+              "title": "[unknown]",
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "length": 240000,
+              "genres": []
+            },
+            "title": "[unknown]"
+          },
+          {
+            "number": "11",
+            "id": "fc1cc79d-29fa-4598-a035-e89ea642f36e",
+            "position": 11,
+            "recording": {
+              "title": "Now and Forever (remix)",
+              "id": "3de0986f-b424-408a-a013-1c394697bad7",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "genres": [],
+              "length": 305000,
+              "video": false,
+              "first-release-date": "2023-10-20"
+            },
+            "title": "Now and Forever (remix)",
+            "length": 305000
+          },
+          {
+            "length": 187000,
+            "position": 12,
+            "recording": {
+              "genres": [],
+              "length": 187000,
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "title": "Melondrop (Chicago mix)",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "c64ff447-5cf6-4447-8daf-d70d77931bdd"
+            },
+            "title": "Melondrop (Chicago mix)",
+            "id": "be625e3c-7835-421c-a9eb-a046b3928a36",
+            "number": "12"
+          },
+          {
+            "number": "13",
+            "recording": {
+              "title": "Jealous",
+              "id": "554bb8ba-5773-4051-a5af-23a32e46176d",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "genres": [],
+              "length": 246000,
+              "video": false,
+              "first-release-date": "2023-10-20"
+            },
+            "position": 13,
+            "title": "Jealous",
+            "id": "1a6db9bd-4d3b-4178-8da1-28ca44b301bc",
+            "length": 246000
+          },
+          {
+            "id": "4ffde896-b299-41ae-8d6e-f3cff7558b6c",
+            "position": 14,
+            "title": "[unknown]",
+            "recording": {
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 367000,
+              "genres": [],
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "4f42269b-620b-4bcf-a74b-d711c13b1fad",
+              "title": "[unknown]"
+            },
+            "length": 367000,
+            "number": "14"
+          },
+          {
+            "length": 243000,
+            "id": "aed044d7-a501-4fdb-b11f-61cad246d198",
+            "title": "Crash Goes Love (Blackchild remix)",
+            "recording": {
+              "id": "f132a7c3-521e-46c6-9201-55cbe0125887",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "title": "Crash Goes Love (Blackchild remix)",
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 243000,
+              "genres": []
+            },
+            "position": 15,
+            "number": "15"
+          },
+          {
+            "number": "16",
+            "title": "Rizzla (Mochakk remix)",
+            "position": 16,
+            "recording": {
+              "genres": [],
+              "length": 271000,
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "title": "Rizzla (Mochakk remix)",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "ee250c3b-212e-41ba-bf41-4e17601a3cf9"
+            },
+            "id": "fc8d6262-a1b1-4bb0-8691-3215d6e47e86",
+            "length": 271000
+          },
+          {
+            "position": 17,
+            "title": "[unknown]",
+            "recording": {
+              "genres": [],
+              "length": 293000,
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "title": "[unknown]",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "c3ff8a95-7e62-4ae6-990a-3377606f9574"
+            },
+            "id": "83c601d2-d0cc-46cc-9538-7045945a302f",
+            "length": 293000,
+            "number": "17"
+          },
+          {
+            "number": "18",
+            "length": 237000,
+            "recording": {
+              "genres": [],
+              "length": 237000,
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "title": "[unknown]",
+              "id": "b2093425-14f7-4297-a8b2-554c7c6b38b5",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix"
+            },
+            "title": "[unknown]",
+            "position": 18,
+            "id": "b50d2698-a252-4708-908f-042864a059f1"
+          },
+          {
+            "number": "19",
+            "length": 195000,
+            "id": "8a5647e5-d58b-4b86-95fe-78c26ea0db84",
+            "title": "Fever",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 195000,
+              "title": "Fever",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "9b77d603-d13a-4d9d-9b49-acf46dab4048"
+            },
+            "position": 19
+          },
+          {
+            "number": "20",
+            "position": 20,
+            "recording": {
+              "title": "[unknown]",
+              "id": "d60a8909-708f-4671-8bb3-13878f8bb071",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "genres": [],
+              "length": 194000,
+              "first-release-date": "2023-10-20",
+              "video": false
+            },
+            "title": "[unknown]",
+            "id": "10d549d5-adbb-43fa-bb3f-e620b8bf579f",
+            "length": 194000
+          },
+          {
+            "number": "21",
+            "id": "69f42254-59ef-4866-839e-51aaa76a92aa",
+            "title": "Respirando / Respiration",
+            "position": 21,
+            "recording": {
+              "id": "daea9aa7-1405-4a4e-a40d-cb7bd12ad3be",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "title": "Respirando / Respiration",
+              "length": 316000,
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "genres": []
+            },
+            "length": 316000
+          },
+          {
+            "length": 164000,
+            "title": "[unknown]",
+            "position": 22,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "length": 164000,
+              "title": "[unknown]",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "615cb25c-859d-4c14-a84b-05fd05188d58"
+            },
+            "id": "68831737-85e1-4329-9cfb-1f4f39f2874e",
+            "number": "22"
+          },
+          {
+            "number": "23",
+            "recording": {
+              "genres": [],
+              "length": 305000,
+              "first-release-date": "2023-10-20",
+              "video": false,
+              "title": "NO8DO (Plaza edit)",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "f933a0da-6dff-4060-a8b3-bc34044ed20d"
+            },
+            "position": 23,
+            "title": "NO8DO (Plaza edit)",
+            "id": "cb6d7248-3626-40b7-9df2-c223c3e945e8",
+            "length": 305000
+          },
+          {
+            "id": "49244a73-a635-40f0-a676-195785d5695c",
+            "title": "Culpa da Suene (remix)",
+            "position": 24,
+            "recording": {
+              "length": 277000,
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "genres": [],
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "id": "351b029f-c985-4d6e-b820-124c9f6064c7",
+              "title": "Culpa da Suene (remix)"
+            },
+            "length": 277000,
+            "number": "24"
+          },
+          {
+            "id": "c35d9961-0fbb-4d72-84ed-6e2da772e811",
+            "title": "[unknown]",
+            "recording": {
+              "length": 284000,
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "genres": [],
+              "id": "2434e135-515a-48c1-afa6-2f30ac262bef",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "title": "[unknown]"
+            },
+            "position": 25,
+            "length": 284000,
+            "number": "25"
+          },
+          {
+            "number": "26",
+            "recording": {
+              "title": "[unknown]",
+              "id": "19588836-8d0e-4e8f-b61a-27a7640abcd4",
+              "disambiguation": "part of “The Jealous Mix Live from DC‐10, Aug 7, 2023” DJ‐mix",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2023-10-20",
+              "length": 314000
+            },
+            "position": 26,
+            "title": "[unknown]",
+            "id": "551c8c0b-9049-4a7c-8be4-8cdc836740ac",
+            "length": 314000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "position": 1,
+        "id": "d41df3d1-4193-328d-8c7a-9a9fa76d233b"
+      }
+    ],
+    "title": "The Jealous Mix Live from DC‐10, Aug 7, 2023",
+    "id": "09298a20-6c2a-4c70-ac77-034d3267ef34",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2023-10-20",
+        "area": null
+      }
+    ],
+    "genres": [],
+    "date": "2023-10-20"
+  },
+  {
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "first-release-date": "2021-12-24",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "disambiguation": "",
+      "id": "25439bb8-d9a4-4798-a985-24018d2ae060",
+      "title": "Xxxmas Goodies EP"
+    },
+    "asin": null,
+    "genres": [],
+    "date": "2021-12-24",
+    "title": "Xxxmas Goodies EP",
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 236000,
+            "id": "6e81cf81-d35e-4859-922f-6d0b2a8b8a38",
+            "recording": {
+              "genres": [],
+              "length": 236000,
+              "video": false,
+              "first-release-date": "2021-12-24",
+              "title": "Game Changer",
+              "id": "f9b2c4bf-b671-45e4-b2e9-8cea38090806",
+              "disambiguation": ""
+            },
+            "position": 1,
+            "title": "Game Changer",
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "recording": {
+              "genres": [],
+              "length": 285000,
+              "first-release-date": "2021-12-24",
+              "video": false,
+              "title": "What’s Yo Numba",
+              "id": "d912f031-4d04-45e1-98bd-1e2605e7e9dc",
+              "disambiguation": ""
+            },
+            "position": 2,
+            "title": "What’s Yo Numba",
+            "id": "8bd1f712-8a7f-4d07-aef2-93c52ba843b5",
+            "length": 285000
+          },
+          {
+            "length": 247750,
+            "id": "76fa4be5-8345-4887-9827-ee3aaf17afee",
+            "title": "Wow",
+            "position": 3,
+            "recording": {
+              "id": "9edd12a6-fe69-445d-a901-91cea41bbf20",
+              "disambiguation": "",
+              "title": "Wow",
+              "first-release-date": "2021-12-24",
+              "video": false,
+              "length": 247750,
+              "genres": []
+            },
+            "number": "3"
+          },
+          {
+            "length": 268500,
+            "recording": {
+              "id": "652a9e70-8ccc-45bc-b779-3e74a7fbb9a6",
+              "disambiguation": "",
+              "title": "Early Synths",
+              "first-release-date": "2021-12-24",
+              "video": false,
+              "length": 268500,
+              "genres": []
+            },
+            "title": "Early Synths",
+            "position": 4,
+            "id": "6b01e256-29f2-4f81-a274-c158851ad05f",
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "length": 267000,
+            "id": "922d1b64-3ed6-45a6-8aac-57d7a05e4fb8",
+            "position": 5,
+            "recording": {
+              "genres": [],
+              "length": 267000,
+              "first-release-date": "2021-12-24",
+              "video": false,
+              "title": "Inflación",
+              "id": "ea130c5f-fc49-473b-8f16-67fc4801f839",
+              "disambiguation": ""
+            },
+            "title": "Inflación"
+          }
+        ],
+        "track-count": 5,
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "052fff0d-d347-484c-8a9c-69678df2189d",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "disambiguation": "",
+    "id": "2c55743e-8f91-4a47-ac3e-3760056bcff7",
+    "release-events": [
+      {
+        "date": "2021-12-24",
+        "area": {
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "artwork": true
+    },
+    "packaging": "None",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": "659506668827"
+  },
+  {
+    "cover-art-archive": {
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "artwork": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "quality": "normal",
+    "barcode": "5054285990544",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "asin": null,
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "2021-07-02",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "disambiguation": "",
+      "id": "7966c815-7223-4119-b211-1b38922285b6",
+      "title": "Organo-Cyberdelia"
+    },
+    "status": "Official",
+    "id": "3286e69f-b6ce-4df4-8714-90ff626cc007",
+    "release-events": [
+      {
+        "date": "2021-07-02",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "disambiguation": "",
+    "media": [
+      {
+        "id": "d45214a8-6922-38a0-bf39-b2d6df33b9a5",
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "track-count": 3,
+        "tracks": [
+          {
+            "number": "1",
+            "id": "89f59564-0450-48f2-889c-f219dc64dc56",
+            "title": "Lucid Dream",
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "length": 360480,
+              "video": false,
+              "first-release-date": "2021-07-02",
+              "title": "Lucid Dream",
+              "disambiguation": "",
+              "id": "11412ddc-b2f8-4920-8ff9-4b45521c2534"
+            },
+            "length": 360480
+          },
+          {
+            "number": "2",
+            "length": 344516,
+            "id": "a45356a1-378d-48f0-a1e2-f4a769765a56",
+            "recording": {
+              "title": "Nobody Else",
+              "id": "7d3b891c-184d-4eac-85f3-e40ede0a98f2",
+              "disambiguation": "",
+              "genres": [],
+              "length": 344516,
+              "first-release-date": "2021-07-02",
+              "video": false
+            },
+            "title": "Nobody Else",
+            "position": 2
+          },
+          {
+            "title": "Cirque de La Lune",
+            "position": 3,
+            "recording": {
+              "id": "e7cbcefd-8d57-424f-9fae-91b18875d63e",
+              "disambiguation": "",
+              "title": "Cirque de La Lune",
+              "first-release-date": "2021-07-02",
+              "video": false,
+              "length": 340157,
+              "genres": []
+            },
+            "id": "25ec11eb-17d4-4a4e-b42e-c73e057dbccb",
+            "length": 340157,
+            "number": "3"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0
+      }
+    ],
+    "title": "Organo-Cyberdelia",
+    "date": "2021-07-02",
+    "genres": [
+      {
+        "name": "bass house",
+        "disambiguation": "",
+        "id": "2d5cd6af-6195-4d12-9788-9a9b03ac0a12",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "3f814d91-b57c-40df-ad43-3c3d3ce75032",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2024-09-06"
+      }
+    ],
+    "disambiguation": "",
+    "title": "Locomotiva Ibiza 2099 II",
+    "media": [
+      {
+        "id": "a6db78cf-da9b-3a2b-af2f-ac044b36429c",
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "44743e81-fbd6-4176-a8b0-80130ec7a358",
+            "recording": {
+              "id": "9f43d8ee-f083-4085-a2ef-0d2078184ca2",
+              "disambiguation": "",
+              "title": "No Boys Allowed (OG house mix)",
+              "video": false,
+              "first-release-date": "2024-09-06",
+              "length": 352500,
+              "genres": []
+            },
+            "title": "No Boys Allowed (OG house mix)",
+            "position": 1,
+            "length": 352500
+          },
+          {
+            "number": "2",
+            "id": "3bd8a56b-e463-4eec-b977-502e2d8c1f8b",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2024-09-06",
+              "length": 303230,
+              "title": "Estribeira",
+              "id": "f682fc6e-62aa-4ac0-b390-57cb8f47ff46",
+              "disambiguation": ""
+            },
+            "title": "Estribeira",
+            "length": 303230
+          },
+          {
+            "length": 238153,
+            "title": "No Boys Allowed (street mix)",
+            "position": 3,
+            "recording": {
+              "genres": [],
+              "length": 238153,
+              "first-release-date": "2024-09-06",
+              "video": false,
+              "title": "No Boys Allowed (street mix)",
+              "id": "27179c23-f0f8-4051-b032-bce8cf320ea4",
+              "disambiguation": ""
+            },
+            "id": "68fcd074-6ce6-45fc-bb9f-efe8b43bc733",
+            "number": "3"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 3,
+        "track-offset": 0
+      }
+    ],
+    "date": "2024-09-06",
+    "genres": [],
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2024-09-06",
+      "title": "Locomotiva Ibiza 2099 II",
+      "id": "eee131cb-029f-442f-b561-a2887fa9cc6b",
+      "disambiguation": ""
+    },
+    "status": "Official",
+    "barcode": "198588515945",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal"
+  },
+  {
+    "media": [
+      {
+        "id": "72fc9c49-af30-3500-8e60-aa15011161c3",
+        "position": 1,
+        "title": "",
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Disclosure b2b Mochakk at Cercle Festival 2024 (A380 Stage)",
+            "position": 1,
+            "recording": {
+              "title": "Disclosure b2b Mochakk at Cercle Festival 2024 (A380 Stage)",
+              "disambiguation": "",
+              "id": "819e52ed-acbb-448d-91b5-4ce944472f3b",
+              "genres": [],
+              "video": true,
+              "first-release-date": "2024-07-08",
+              "length": 8846000
+            },
+            "id": "6b04d6b6-fa8e-4553-9e01-8de7c036162e",
+            "length": 8846000
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Disclosure b2b Mochakk at Cercle Festival 2024 (A380 Stage)",
+    "id": "568efb23-4b72-4645-83a1-29bbc16f14bc",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]"
+        },
+        "date": "2024-07-08"
+      }
+    ],
+    "disambiguation": "video",
+    "date": "2024-07-08",
+    "genres": [],
+    "release-group": {
+      "secondary-types": [
+        "Live",
+        "DJ-mix"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "a2b01942-e9f2-4baa-8a17-b8c2218815af",
+      "title": "Disclosure b2b Mochakk at Cercle Festival 2024",
+      "first-release-date": "2024-05-25",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": []
+    },
+    "asin": null,
+    "status": "Official",
+    "barcode": "",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": true,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "count": 1
+    },
+    "quality": "normal"
+  },
+  {
+    "packaging": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": null,
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": null,
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "genres": [
+      {
+        "name": "dance",
+        "count": 1,
+        "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+        "disambiguation": ""
+      }
+    ],
+    "date": "2022-07-01",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-count": 2,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 366000,
+            "position": 1,
+            "title": "Da Fonk (original mix)",
+            "recording": {
+              "genres": [],
+              "length": 366000,
+              "first-release-date": "2022-07-01",
+              "video": false,
+              "title": "Da Fonk (original mix)",
+              "id": "6de7f450-ced2-4cfb-9af2-8a832bddd22b",
+              "disambiguation": ""
+            },
+            "id": "4d394e74-f677-49f9-8468-b08d11ba4463"
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "title": "Da Fonk (dub)",
+            "recording": {
+              "video": false,
+              "first-release-date": "2022-07-01",
+              "length": 351000,
+              "genres": [],
+              "disambiguation": "",
+              "id": "1779d4c7-9bcc-42e5-ac7b-452562136ccf",
+              "title": "Da Fonk (dub)"
+            },
+            "id": "f7c1faaa-aa02-4b8a-992d-d148f052b4ce",
+            "length": 351000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0,
+        "id": "827a196a-a9df-39b1-bb88-2ba06eb07d78",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "title": "Da Fonk",
+    "id": "5af3a441-a37c-434d-9e33-57d2326bd08b",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2022-07-01"
+      }
+    ],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2022-07-01",
+      "title": "Da Fonk",
+      "disambiguation": "",
+      "id": "5db06843-0a3e-4e26-acc0-e6b27027ff59",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": []
+    },
+    "asin": null
+  },
+  {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "barcode": "5059449532592",
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "date": "2024-05-25",
+    "genres": [],
+    "id": "6ba073a7-50f1-4d72-9354-ecd2e81ed2e0",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": ""
+        },
+        "date": "2024-05-25"
+      }
+    ],
+    "disambiguation": "",
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "1002035e-76f4-357b-a931-95efd4875ac1",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "number": "1",
+            "id": "8cca5601-20b3-4507-aac8-723993afde09",
+            "title": "Paris Fried Chicken (J Paul Getto remix)",
+            "recording": {
+              "title": "Paris Fried Chicken (J Paul Getto remix)",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "d48a48dd-8d21-4ef0-9848-a531db907cdd",
+              "genres": [],
+              "length": 293000,
+              "video": false,
+              "first-release-date": "2024-05-25"
+            },
+            "position": 1,
+            "length": 293000
+          },
+          {
+            "number": "2",
+            "id": "983c1803-dc96-46f7-8826-6d33acdba423",
+            "title": "Straight From the Underground",
+            "recording": {
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "length": 179000,
+              "genres": [],
+              "id": "8864e2c4-69ac-48bc-b855-71e34c2c26cc",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "title": "Straight From the Underground"
+            },
+            "position": 2,
+            "length": 179000
+          },
+          {
+            "number": "3",
+            "length": 298000,
+            "id": "d3c0df92-d018-4b5f-8663-2ae86e9e0207",
+            "title": "Undergound",
+            "recording": {
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "0e0076b0-95f6-4266-b4ae-f9c67a29089a",
+              "title": "Undergound",
+              "length": 298000,
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "genres": []
+            },
+            "position": 3
+          },
+          {
+            "title": "A Vida Em Seus Métodos Diz Calma (remix)",
+            "recording": {
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 246000,
+              "genres": [],
+              "id": "7eef3111-efaa-48d5-bb4c-6b1e8395c103",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "title": "A Vida Em Seus Métodos Diz Calma (remix)"
+            },
+            "position": 4,
+            "id": "2640118b-5cfc-4aee-a4b7-fdc14d3c5478",
+            "length": 246000,
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "length": 231000,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 231000,
+              "title": "Flower Power",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "a906c2b0-5785-49d0-bbf4-f3334c452f9a"
+            },
+            "title": "Flower Power",
+            "position": 5,
+            "id": "0d7537bb-714f-454c-b21e-f8999c93a917"
+          },
+          {
+            "length": 214000,
+            "id": "bc561a71-a7f0-44c5-b500-a73794f745f2",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "length": 214000,
+              "title": "Wanna Be With U",
+              "id": "7192e971-f653-4a75-92d8-aa02031b1a43",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix"
+            },
+            "position": 6,
+            "title": "Wanna Be With U",
+            "number": "6"
+          },
+          {
+            "number": "7",
+            "id": "e8425c90-be30-4880-b100-c7aa67ca3a7f",
+            "position": 7,
+            "title": "Come Together",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 329000,
+              "title": "Come Together",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "94d5aceb-c114-4c3c-a53a-b86d289fa630"
+            },
+            "length": 329000
+          },
+          {
+            "id": "256e013f-2f73-41dd-8b4d-6593310da2d5",
+            "position": 8,
+            "recording": {
+              "title": "[unknown]",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "9bb70607-8350-46fd-9d0e-5e53e84929f4",
+              "genres": [],
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 290000
+            },
+            "title": "[unknown]",
+            "length": 290000,
+            "number": "8"
+          },
+          {
+            "number": "9",
+            "id": "596deb61-74c7-44ce-a76e-b23eda8f47f4",
+            "title": "J.A.W.S.",
+            "position": 9,
+            "recording": {
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "length": 227000,
+              "genres": [],
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "e13dd1f3-c79c-45e8-ac0e-c3b518a44d3f",
+              "title": "J.A.W.S."
+            },
+            "length": 227000
+          },
+          {
+            "number": "10",
+            "id": "b606b2b0-7b50-4bcf-91c8-d5909aceff0a",
+            "title": "Tell Me",
+            "recording": {
+              "id": "cdbcb952-543e-43e4-8665-685c2bb7477d",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "title": "Tell Me",
+              "length": 225000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "genres": []
+            },
+            "position": 10,
+            "length": 225000
+          },
+          {
+            "number": "11",
+            "recording": {
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "e9296ce3-7b58-4e1a-99fc-76b7698d6053",
+              "title": "Hardwire",
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "length": 357000,
+              "genres": []
+            },
+            "title": "Hardwire",
+            "position": 11,
+            "id": "d1258981-0954-43ff-8c24-b408d46a74e6",
+            "length": 357000
+          },
+          {
+            "position": 12,
+            "title": "Da Fonk",
+            "recording": {
+              "genres": [],
+              "length": 313000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "title": "Da Fonk",
+              "id": "51d3d5f2-bf98-4b66-90f9-68b2c5126830",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix"
+            },
+            "id": "ebf6aea3-2679-4307-8ffe-92dbabb2e175",
+            "length": 313000,
+            "number": "12"
+          },
+          {
+            "id": "bbe2eda7-098f-4086-ad56-7dee03a48eda",
+            "position": 13,
+            "title": "[unknown]",
+            "recording": {
+              "id": "3029cca2-8e2e-4e3d-9721-01190135440b",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "title": "[unknown]",
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "length": 208000,
+              "genres": []
+            },
+            "length": 208000,
+            "number": "13"
+          },
+          {
+            "recording": {
+              "genres": [],
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 223000,
+              "title": "Bang the Box",
+              "id": "464bcedf-288b-4020-a5ef-dcbccb58381c",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix"
+            },
+            "position": 14,
+            "title": "Bang the Box",
+            "id": "8313bd03-41bf-4e0f-8e5d-e3edc888e98d",
+            "length": 223000,
+            "number": "14"
+          },
+          {
+            "id": "1fadb3c9-bd92-492c-bfe0-f839756f5616",
+            "title": "Lost City",
+            "recording": {
+              "genres": [],
+              "length": 303000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "title": "Lost City",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "4bd734ef-0f27-4a60-98b6-585dc4f13572"
+            },
+            "position": 15,
+            "length": 303000,
+            "number": "15"
+          },
+          {
+            "number": "16",
+            "length": 269000,
+            "id": "d970f1d1-6f96-46f2-943e-09e0dde4a8a6",
+            "recording": {
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "e7960f8c-82e6-4973-a100-76fca112bdbf",
+              "title": "Down With Tha",
+              "length": 269000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "genres": []
+            },
+            "position": 16,
+            "title": "Down With Tha"
+          },
+          {
+            "number": "17",
+            "length": 244000,
+            "id": "67896d47-20f2-4224-9d0f-60ceb95d015f",
+            "recording": {
+              "genres": [],
+              "length": 244000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "title": "You & Me (Flume remix) (Westend & Local Singles edit)",
+              "id": "586c91aa-c511-468b-9eac-fc39d18bec7f",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix"
+            },
+            "position": 17,
+            "title": "You & Me (Flume remix) (Westend & Local Singles edit)"
+          },
+          {
+            "number": "18",
+            "id": "3eaed709-2a1f-4ff3-9278-6881a9b65796",
+            "position": 18,
+            "title": "You Take Me Higher",
+            "recording": {
+              "genres": [],
+              "length": 236000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "title": "You Take Me Higher",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "31554a52-ba4d-4c18-a9cc-43f4a2977681"
+            },
+            "length": 236000
+          },
+          {
+            "length": 262000,
+            "recording": {
+              "id": "343fe809-1d6b-46cc-8f4a-fc4c1f5e1fe2",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "title": "[unknown]",
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "length": 262000,
+              "genres": []
+            },
+            "position": 19,
+            "title": "[unknown]",
+            "id": "bfbb2230-add1-4167-be91-e2024c1eed3b",
+            "number": "19"
+          },
+          {
+            "number": "20",
+            "length": 258000,
+            "id": "bba6a984-ffcd-4875-811b-18b5657c2374",
+            "recording": {
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "c0d4c823-4e3f-45d4-a20c-db3a31e48f66",
+              "title": "Back Tae Ayr / When a Fire Starts to Burn",
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 258000,
+              "genres": []
+            },
+            "position": 20,
+            "title": "Back Tae Ayr / When a Fire Starts to Burn"
+          },
+          {
+            "id": "ca3d8696-5471-44f8-8a65-28440254c7a8",
+            "recording": {
+              "title": "Twenty4seven",
+              "id": "0c972e60-bc5c-4a8c-8562-c2cca33b7e14",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "genres": [],
+              "length": 196000,
+              "first-release-date": "2024-05-25",
+              "video": false
+            },
+            "position": 21,
+            "title": "Twenty4seven",
+            "length": 196000,
+            "number": "21"
+          },
+          {
+            "number": "22",
+            "recording": {
+              "title": "Ooh",
+              "id": "7f6e8e7f-9bbe-4367-a1b4-1f0f3da3eae4",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "genres": [],
+              "length": 232000,
+              "video": false,
+              "first-release-date": "2024-05-25"
+            },
+            "title": "Ooh",
+            "position": 22,
+            "id": "e3d91aa3-8907-4f80-a38a-6844bca8cffd",
+            "length": 232000
+          },
+          {
+            "number": "23",
+            "title": "[unknown]",
+            "position": 23,
+            "recording": {
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "b5812fcf-50e9-401b-b4da-cb94a0fdd517",
+              "title": "[unknown]",
+              "length": 247000,
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "genres": []
+            },
+            "id": "4bf86737-7763-4240-80d5-9320c973f5d9",
+            "length": 247000
+          },
+          {
+            "number": "24",
+            "title": "[unknown]",
+            "position": 24,
+            "recording": {
+              "id": "f03f42c4-ab9b-4f7a-bb04-14b614a7a4c6",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "title": "[unknown]",
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 233000,
+              "genres": []
+            },
+            "id": "666e7bca-3eda-4be9-83e7-ce6833a1a6f6",
+            "length": 233000
+          },
+          {
+            "recording": {
+              "title": "[unknown]",
+              "id": "9b2785d5-f862-4b68-811b-45e9841524bb",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "genres": [],
+              "length": 284000,
+              "video": false,
+              "first-release-date": "2024-05-25"
+            },
+            "position": 25,
+            "title": "[unknown]",
+            "id": "8c37c89f-e8cd-441a-9a54-077c309a9e36",
+            "length": 284000,
+            "number": "25"
+          },
+          {
+            "number": "26",
+            "length": 280000,
+            "position": 26,
+            "recording": {
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "ab4ef284-6047-450b-823c-c798ceea1bc5",
+              "title": "Close My Eyes",
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "length": 280000,
+              "genres": []
+            },
+            "title": "Close My Eyes",
+            "id": "1ab7803e-22cf-4fd3-8c59-f2e7d2d9b0d5"
+          },
+          {
+            "length": 170000,
+            "title": "You Are in My System (Dennis Quin remix)",
+            "position": 27,
+            "recording": {
+              "length": 170000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "genres": [],
+              "id": "df81f643-3ce6-4754-8c25-e63684a24ff7",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "title": "You Are in My System (Dennis Quin remix)"
+            },
+            "id": "42b6b654-4df0-42f1-b9da-ad6a4201ecff",
+            "number": "27"
+          },
+          {
+            "length": 269000,
+            "id": "e6260317-21e5-40f9-bea0-a68bc180f08c",
+            "position": 28,
+            "title": "Jealous",
+            "recording": {
+              "genres": [],
+              "length": 269000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "title": "Jealous",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "7cf982cb-5624-475a-bb7d-a6b1c34ef2b7"
+            },
+            "number": "28"
+          },
+          {
+            "number": "29",
+            "length": 294000,
+            "id": "ff06e179-b2f5-4755-b4dc-e3f0e1145b6f",
+            "title": "She’s Gone, Dance On",
+            "recording": {
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 294000,
+              "genres": [],
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "25640448-4fd7-4373-98ee-04935f588daa",
+              "title": "She’s Gone, Dance On"
+            },
+            "position": 29
+          },
+          {
+            "number": "30",
+            "id": "d3c5e543-7530-47d0-a059-9021eb046434",
+            "title": "Drown in the Clouds of Dew (remix)",
+            "recording": {
+              "length": 283000,
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "genres": [],
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "a760409b-ad8f-4c67-9861-ac8fdc71c0dc",
+              "title": "Drown in the Clouds of Dew (remix)"
+            },
+            "position": 30,
+            "length": 283000
+          },
+          {
+            "number": "31",
+            "id": "5c7f815a-1547-490c-9ebf-bec60695d41b",
+            "title": "Cosmic Witch (Mochakk remix)",
+            "position": 31,
+            "recording": {
+              "title": "Cosmic Witch (Mochakk remix)",
+              "id": "a4db7dc9-e339-4f60-884c-109c6f07b9fa",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "genres": [],
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 211000
+            },
+            "length": 211000
+          },
+          {
+            "id": "8d83bbf4-544a-4845-bad4-5157920440e2",
+            "recording": {
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "length": 309000,
+              "genres": [],
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "3484136d-1bc2-4311-9608-84008dca1203",
+              "title": "Tondo"
+            },
+            "position": 32,
+            "title": "Tondo",
+            "length": 309000,
+            "number": "32"
+          },
+          {
+            "length": 178000,
+            "position": 33,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2024-05-25",
+              "length": 178000,
+              "title": "Last Dance",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "id": "4b3900a7-0dcc-477c-aadc-26139fb0b02b"
+            },
+            "title": "Last Dance",
+            "id": "7f46070e-1e3d-4eb6-b504-5f5c3c9c7554",
+            "number": "33"
+          },
+          {
+            "length": 381000,
+            "title": "Latch",
+            "position": 34,
+            "recording": {
+              "length": 381000,
+              "first-release-date": "2024-05-25",
+              "video": false,
+              "genres": [],
+              "id": "4ce22855-479c-4e1d-822e-5b9f9d33b31a",
+              "disambiguation": "part of “Disclosure b2b Mochakk at Cercle Festival 2024” DJ‐mix",
+              "title": "Latch"
+            },
+            "id": "e479f79c-6990-4b09-9498-0e423fb4afba",
+            "number": "34"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 34,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Disclosure b2b Mochakk at Cercle Festival 2024",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "secondary-types": [
+        "Live",
+        "DJ-mix"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+      ],
+      "primary-type": "Album",
+      "title": "Disclosure b2b Mochakk at Cercle Festival 2024",
+      "disambiguation": "",
+      "id": "a2b01942-e9f2-4baa-8a17-b8c2218815af",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "first-release-date": "2024-05-25"
+    }
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": true,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "count": 1
+    },
+    "quality": "normal",
+    "barcode": "5054429201659",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "release-group": {
+      "title": "From the Stars EP",
+      "disambiguation": "",
+      "id": "b9050f74-1fd2-4f66-8238-249a19c1f65c",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "first-release-date": "2025-02-21",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "asin": null,
+    "status": "Official",
+    "title": "From the Stars EP",
+    "media": [
+      {
+        "id": "156ec6fd-9eaf-3d93-a890-9d6e39860aa4",
+        "position": 1,
+        "title": "",
+        "tracks": [
+          {
+            "title": "From the Stars",
+            "recording": {
+              "genres": [],
+              "length": 260156,
+              "video": false,
+              "first-release-date": "2025-02-21",
+              "title": "From the Stars",
+              "disambiguation": "",
+              "id": "4ac5ecd1-dad7-43cd-b0e5-612f16e54664"
+            },
+            "position": 1,
+            "id": "56b54136-f4d7-4033-b160-691059922fc0",
+            "length": 260156,
+            "number": "1"
+          },
+          {
+            "recording": {
+              "genres": [],
+              "first-release-date": "2025-02-21",
+              "video": false,
+              "length": 277500,
+              "title": "Maria",
+              "disambiguation": "",
+              "id": "94f34609-f0fc-4904-a66a-67d2ea28a651"
+            },
+            "title": "Maria",
+            "position": 2,
+            "id": "785c18c4-adb4-4158-83b0-110693f1dd69",
+            "length": 277500,
+            "number": "2"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 2,
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "disambiguation": "",
+    "id": "747af6c4-97ee-476c-a1cb-9bc5ef17d8a6",
+    "release-events": [
+      {
+        "date": "2025-02-21",
+        "area": {
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "genres": [],
+    "date": "2025-02-21"
+  },
+  {
+    "date": "2021-11-19",
+    "genres": [],
+    "id": "79e2592a-9433-4b97-9ef2-7e482c9f9511",
+    "release-events": [
+      {
+        "date": "2021-11-19",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        }
+      }
+    ],
+    "disambiguation": "",
+    "title": "The Rejected Dubs, Vol.1",
+    "media": [
+      {
+        "format": "Digital Media",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 352418,
+            "recording": {
+              "length": 352418,
+              "first-release-date": "2021-11-19",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "29ac1125-570a-4db7-9f81-5280c59f5dd4",
+              "title": "Concrete Jungle (Mochakk & Mkjay’s Tropical dub)"
+            },
+            "position": 1,
+            "title": "Concrete Jungle (Mochakk & Mkjay’s Tropical dub)",
+            "id": "387092bf-40e6-478e-b5a2-0b20a6f53dd1",
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "length": 269098,
+            "title": "Lauren (MKJAY & Mochakk dub mix)",
+            "recording": {
+              "length": 269098,
+              "video": false,
+              "first-release-date": "2021-11-19",
+              "genres": [],
+              "disambiguation": "",
+              "id": "2c30c85c-6264-4e6f-8c6e-95e12c46b379",
+              "title": "Lauren (MKJAY & Mochakk dub mix)"
+            },
+            "position": 2,
+            "id": "79993191-acf9-443c-83f4-287428b450a4"
+          },
+          {
+            "recording": {
+              "first-release-date": "2021-11-19",
+              "video": false,
+              "length": 368565,
+              "genres": [],
+              "id": "7d74956a-6052-45da-9737-e9551fdd6243",
+              "disambiguation": "",
+              "title": "Feel a Way (MKJAY & Mochakk dub’s)"
+            },
+            "position": 3,
+            "title": "Feel a Way (MKJAY & Mochakk dub’s)",
+            "id": "0bcbfce2-726f-4493-8b00-0ae29cae9bf8",
+            "length": 368565,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "id": "4f3d1c67-7135-400f-977a-68704ed0953f",
+            "title": "Wrong Lesson (Mochakk & MKJAY dub mix)",
+            "position": 4,
+            "recording": {
+              "disambiguation": "",
+              "id": "738874b4-5ac1-4c4e-b19e-6fb8d0ea2bbd",
+              "title": "Wrong Lesson (Mochakk & MKJAY dub mix)",
+              "video": false,
+              "first-release-date": "2021-11-19",
+              "length": 392404,
+              "genres": []
+            },
+            "length": 392404
+          },
+          {
+            "id": "a8b1c249-f8f9-493b-b928-e88f44af82a2",
+            "position": 5,
+            "title": "One More Chance (MKJAY & Mochakk’s dub)",
+            "recording": {
+              "title": "One More Chance (MKJAY & Mochakk’s dub)",
+              "disambiguation": "",
+              "id": "f4fa2d6e-ae7b-4e93-aa07-9ef563b6b8ee",
+              "genres": [],
+              "length": 361936,
+              "video": false,
+              "first-release-date": "2021-11-19"
+            },
+            "length": 361936,
+            "number": "5"
+          },
+          {
+            "id": "77be7453-a474-458c-a2bc-b86fb51b7d2b",
+            "recording": {
+              "genres": [],
+              "first-release-date": "2021-11-19",
+              "video": false,
+              "length": 368797,
+              "title": "The Love Scene (MKJAY & Mochakk Take It On dub)",
+              "id": "ccd4d3d0-48de-44a1-bffb-a09bcce4f269",
+              "disambiguation": ""
+            },
+            "title": "The Love Scene (MKJAY & Mochakk Take It On dub)",
+            "position": 6,
+            "length": 368797,
+            "number": "6"
+          },
+          {
+            "length": 362900,
+            "title": "Skandalouz (MKJAY & Mochakk Raw dub)",
+            "position": 7,
+            "recording": {
+              "length": 362900,
+              "first-release-date": "2021-11-19",
+              "video": false,
+              "genres": [],
+              "id": "a6f38cab-3fee-4e93-a48d-599a47493fc4",
+              "disambiguation": "",
+              "title": "Skandalouz (MKJAY & Mochakk Raw dub)"
+            },
+            "id": "615e2297-41f0-4ff9-8945-859c37ec1630",
+            "number": "7"
+          },
+          {
+            "number": "8",
+            "id": "87f99de2-cee7-44fc-b191-3dd922ffeea2",
+            "recording": {
+              "length": 372546,
+              "video": false,
+              "first-release-date": "2021-11-19",
+              "genres": [],
+              "id": "62992179-7967-4f46-91bc-0eedde546199",
+              "disambiguation": "",
+              "title": "Fuck You (Mochakk & MKJAY Raw dub)"
+            },
+            "position": 8,
+            "title": "Fuck You (Mochakk & MKJAY Raw dub)",
+            "length": 372546
+          },
+          {
+            "number": "9",
+            "id": "9ba01528-2e1c-41f5-aa80-734ae168ebe4",
+            "position": 9,
+            "title": "Pensando Nela (MKJAY & Mochakk Ibiza Summer mix)",
+            "recording": {
+              "length": 440361,
+              "first-release-date": "2021-11-19",
+              "video": false,
+              "genres": [],
+              "disambiguation": "",
+              "id": "b093f2ef-9aaa-4aea-be1e-8faaaa5adc5d",
+              "title": "Pensando Nela (MKJAY & Mochakk Ibiza Summer mix)"
+            },
+            "length": 440361
+          },
+          {
+            "number": "10",
+            "length": 306188,
+            "id": "40cc2974-fc70-45de-ac82-fc1651b19eee",
+            "title": "If You Love Me (90’s Daw dub)",
+            "position": 10,
+            "recording": {
+              "genres": [],
+              "first-release-date": "2021-11-19",
+              "video": false,
+              "length": 306188,
+              "title": "If You Love Me (90’s Daw dub)",
+              "id": "0dd31b08-34b4-49a0-8003-d316278eef49",
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "11",
+            "title": "Colombina (MKJAY & Mochakk dub mix)",
+            "position": 11,
+            "recording": {
+              "title": "Colombina (MKJAY & Mochakk dub mix)",
+              "id": "9abf7e70-189a-4496-bd15-cfe015ebbd8e",
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2021-11-19",
+              "length": 336431
+            },
+            "id": "f61de791-f849-49b4-ae02-14f070d5cff6",
+            "length": 336431
+          },
+          {
+            "number": "12",
+            "length": 391227,
+            "id": "81e96d4a-03de-4b07-9589-c2a0b5f06958",
+            "title": "Move Love (Mochakk & MKJAY’s Tropical dub)",
+            "position": 12,
+            "recording": {
+              "disambiguation": "",
+              "id": "6a9d507f-3e92-4869-b4ea-a9601a0edc68",
+              "title": "Move Love (Mochakk & MKJAY’s Tropical dub)",
+              "first-release-date": "2021-11-19",
+              "video": false,
+              "length": 391227,
+              "genres": []
+            }
+          }
+        ],
+        "track-count": 12,
+        "track-offset": 0,
+        "id": "881d8d72-d653-4fb8-b92b-895272459b28",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "genres": [],
+      "first-release-date": "2021-11-19",
+      "title": "The Rejected Dubs, Vol.1",
+      "disambiguation": "",
+      "id": "c5888061-4ac1-476f-b425-dc85308214a1"
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "",
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": true,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "count": 1
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW"
+  },
+  {
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "title": "Hypersilent",
+      "disambiguation": "",
+      "id": "016b3cb5-c9fb-4fe6-b45e-ecb5a8b39258",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2025-10-24"
+    },
+    "asin": null,
+    "date": "2025-10-24",
+    "genres": [
+      {
+        "name": "tech house",
+        "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+        "disambiguation": "",
+        "count": 1
+      }
+    ],
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "a988edf7-02f3-406a-aaf1-4346cfbab19a",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 354462,
+            "id": "74b38903-1ff8-4f75-a8e6-eb66f75d1911",
+            "title": "Hypersilent",
+            "position": 1,
+            "recording": {
+              "length": 354462,
+              "video": false,
+              "first-release-date": "2025-10-24",
+              "genres": [],
+              "id": "ee9dd5c3-638d-4b55-b418-f59d1b9aab32",
+              "disambiguation": "",
+              "title": "Hypersilent"
+            },
+            "number": "1"
+          }
+        ],
+        "track-count": 1,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Hypersilent",
+    "id": "81a3aa15-7599-4906-b09c-668da8c74a24",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2025-10-24",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "quality": "normal",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 0,
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "artwork": false
+    },
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "barcode": "198704708145"
+  },
+  {
+    "quality": "normal",
+    "cover-art-archive": {
+      "count": 5,
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "barcode": "",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "title": "Xxxmas Goodies EP",
+      "id": "25439bb8-d9a4-4798-a985-24018d2ae060",
+      "disambiguation": "",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2021-12-24",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "secondary-type-ids": []
+    },
+    "date": "2021-12-24",
+    "genres": [],
+    "id": "8704a5ac-5942-4fe8-b0d0-b801ac7dbca2",
+    "disambiguation": "soundcloud",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+        },
+        "date": "2021-12-24"
+      }
+    ],
+    "title": "Xxxmas Goodies EP",
+    "media": [
+      {
+        "id": "b19c359b-c938-44f4-bc5b-79f09e4764f5",
+        "title": "",
+        "position": 1,
+        "format": "Digital Media",
+        "track-count": 5,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 340645,
+            "position": 1,
+            "title": "Game Changer",
+            "recording": {
+              "title": "Game Changer",
+              "id": "8f135d56-3916-4bc4-b545-1360df1a4e9c",
+              "disambiguation": "extended mix",
+              "genres": [],
+              "first-release-date": "2021-12-24",
+              "video": false,
+              "length": 340645
+            },
+            "id": "33d1530d-246f-420f-b10c-769782441b3e"
+          },
+          {
+            "number": "2",
+            "length": 358064,
+            "recording": {
+              "disambiguation": "extended mix",
+              "id": "68028bdf-b2aa-4d4f-bcbd-77a69e95b256",
+              "title": "Whats Yo Numba",
+              "first-release-date": "2021-12-24",
+              "video": false,
+              "length": 358064,
+              "genres": []
+            },
+            "position": 2,
+            "title": "Whats Yo Numba",
+            "id": "9a42f734-31c9-44cf-9fda-4a0f8d4b452e"
+          },
+          {
+            "title": "Wow",
+            "position": 3,
+            "recording": {
+              "video": false,
+              "first-release-date": "2021-12-24",
+              "length": 307500,
+              "genres": [],
+              "disambiguation": "extended mix",
+              "id": "b4372c76-524f-4dcb-9e86-9a7b2ef17d5b",
+              "title": "Wow"
+            },
+            "id": "a578a0f2-1eb1-4188-b1cb-3db2dea82fe0",
+            "length": 307500,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "recording": {
+              "id": "29d95bf9-0b45-4e5a-bda5-8d0cf4f1f520",
+              "disambiguation": "extended mix",
+              "title": "Early Synths",
+              "length": 344262,
+              "video": false,
+              "first-release-date": "2021-12-24",
+              "genres": []
+            },
+            "position": 4,
+            "title": "Early Synths",
+            "id": "04d05f6f-45f6-4462-a3b2-a931e4f53de6",
+            "length": 344262
+          },
+          {
+            "length": 313548,
+            "title": "Inflación",
+            "position": 5,
+            "recording": {
+              "title": "Inflación",
+              "disambiguation": "extended mix",
+              "id": "05c5219d-1750-448a-b3c2-ae1ae4f0ffd4",
+              "genres": [],
+              "length": 313548,
+              "video": false,
+              "first-release-date": "2021-12-24"
+            },
+            "id": "f79844de-a244-4029-bcd3-bc45843222ea",
+            "number": "5"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-offset": 0
+      }
+    ]
+  },
+  {
+    "date": "2023-08-25",
+    "genres": [],
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        },
+        "date": "2023-08-25"
+      }
+    ],
+    "id": "99d34112-8558-4bd8-86c7-10199e4de565",
+    "disambiguation": "",
+    "title": "Jealous",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "e93a90a9-34b6-358e-9e69-ecd5761012b5",
+        "track-offset": 0,
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "27f7b3a6-5dfc-43f5-b3b9-bebf11ba9c15",
+            "recording": {
+              "first-release-date": "2023-08-25",
+              "video": false,
+              "length": 256406,
+              "genres": [],
+              "id": "8ae38fde-2de7-46ae-898f-e21fd97e6ef5",
+              "disambiguation": "",
+              "title": "Jealous"
+            },
+            "position": 1,
+            "title": "Jealous",
+            "length": 256406
+          }
+        ],
+        "format": "Digital Media"
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2023-08-25",
+      "title": "Jealous",
+      "disambiguation": "",
+      "id": "0556be09-4957-4135-ab3b-84f6db5f6fb7",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": []
+    },
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "barcode": "197189524936",
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+  },
+  {
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "barcode": "645875694178",
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "artwork": true
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "date": "2021-03-12",
+    "genres": [],
+    "disambiguation": "",
+    "id": "9a2249a2-1785-4276-ad81-5c6943371248",
+    "release-events": [
+      {
+        "date": "2021-03-12",
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type-id": null,
+          "name": "[Worldwide]"
+        }
+      }
+    ],
+    "title": "Diu Diu Lai",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "b62e0229-a272-4abd-aae4-3c76422b1a1d",
+        "track-offset": 0,
+        "track-count": 1,
+        "tracks": [
+          {
+            "title": "Diu Diu Lai",
+            "recording": {
+              "id": "edd9db50-4b2a-4122-bb0a-e547452f2384",
+              "disambiguation": "",
+              "title": "Diu Diu Lai",
+              "length": 260321,
+              "first-release-date": "2021-03-12",
+              "video": false,
+              "genres": []
+            },
+            "position": 1,
+            "id": "d4b5ea3e-7718-4d46-af3d-a34b631b9518",
+            "length": 260321,
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "format": "Digital Media"
+      }
+    ],
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "title": "Diu Diu Lai",
+      "id": "8f2a701e-839d-4404-af38-82b72220d54a",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2021-03-12"
+    }
+  },
+  {
+    "title": "Legumes",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "97af3b32-8feb-4e67-b0cf-bdf8fcf610c9",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 1,
+        "tracks": [
+          {
+            "length": 284308,
+            "title": "Legumes",
+            "position": 1,
+            "recording": {
+              "disambiguation": "",
+              "id": "f6bff164-c0f5-43dd-922c-c7e73dca5421",
+              "title": "Legumes",
+              "length": 284308,
+              "video": false,
+              "first-release-date": "2025-08-22",
+              "genres": []
+            },
+            "id": "737f6a2a-b074-41ac-bac9-df20dc4e2323",
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "id": "a880a579-7cb0-4f5b-836a-0c9fd2fab179",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2025-08-22"
+      }
+    ],
+    "disambiguation": "",
+    "date": "2025-08-22",
+    "genres": [],
+    "release-group": {
+      "title": "Legumes",
+      "id": "9bb15485-c384-48fa-863d-c09023568c6b",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2025-08-22",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": []
+    },
+    "asin": null,
+    "status": "Official",
+    "barcode": "198704561160",
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "quality": "normal"
+  },
+  {
+    "barcode": "198588516119",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "quality": "normal",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "da341287-4adc-3d53-ac86-542f6c08b9e1",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 399360,
+            "title": "Locomotiva Ibiza 2099",
+            "position": 1,
+            "recording": {
+              "id": "38f2763e-36d4-4dad-af28-c0b8ab6664fa",
+              "disambiguation": "",
+              "title": "Locomotiva Ibiza 2099",
+              "video": false,
+              "first-release-date": "2024-07-26",
+              "length": 399360,
+              "genres": []
+            },
+            "id": "74ad0335-8345-4293-954d-86b1d4f8cf0a",
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "id": "08403609-8204-4f2b-aab7-2fb40893de4e",
+            "position": 2,
+            "recording": {
+              "title": "The Line",
+              "id": "f6b6934d-8c3b-4c11-abc7-9e12948d2f8b",
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2024-07-26",
+              "length": 410322
+            },
+            "title": "The Line",
+            "length": 410322
+          },
+          {
+            "position": 3,
+            "title": "Locomotiva Ibiza 2099 (dub mix)",
+            "recording": {
+              "video": false,
+              "first-release-date": "2024-07-26",
+              "length": 384000,
+              "genres": [],
+              "id": "97cf2c95-005e-4c60-8794-f410c60fe4ca",
+              "disambiguation": "",
+              "title": "Locomotiva Ibiza 2099 (dub mix)"
+            },
+            "id": "a4650acc-821a-4972-afce-9fed1c92e332",
+            "length": 384000,
+            "number": "3"
+          }
+        ],
+        "track-count": 3,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Locomotiva Ibiza 2099 I",
+    "id": "abd2ffda-c262-4999-836d-14529e42984f",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2024-07-26"
+      }
+    ],
+    "date": "2024-07-26",
+    "genres": [],
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2024-07-26",
+      "title": "Locomotiva Ibiza 2099 I",
+      "disambiguation": "",
+      "id": "88f52bfc-ecca-40a9-8a9e-c29609df209d"
+    },
+    "asin": null,
+    "status": "Official"
+  },
+  {
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "quality": "normal",
+    "barcode": "198588659014",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "asin": null,
+    "release-group": {
+      "title": "Locomotiva Ibiza 2099 II",
+      "id": "eee131cb-029f-442f-b561-a2887fa9cc6b",
+      "disambiguation": "",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2024-09-06",
+      "secondary-types": [],
+      "primary-type": "Single",
+      "secondary-type-ids": []
+    },
+    "status": "Official",
+    "id": "e9e6c299-d72d-4114-bb99-833d24c47eb3",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2024-09-06"
+      }
+    ],
+    "disambiguation": "",
+    "title": "Locomotiva Ibiza 2099 II",
+    "media": [
+      {
+        "id": "3afb8878-6f26-4b17-8675-d5978f5d81f8",
+        "position": 1,
+        "title": "",
+        "track-count": 3,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "65f2e0a6-633c-4169-ba50-fbdfbce2a9c8",
+            "position": 1,
+            "title": "No Boys Allowed (OG house mix)",
+            "recording": {
+              "first-release-date": "2024-09-06",
+              "video": false,
+              "length": 352500,
+              "genres": [],
+              "id": "9f43d8ee-f083-4085-a2ef-0d2078184ca2",
+              "disambiguation": "",
+              "title": "No Boys Allowed (OG house mix)"
+            },
+            "length": 352500
+          },
+          {
+            "length": 303231,
+            "position": 2,
+            "title": "Estribeira",
+            "recording": {
+              "title": "Estribeira",
+              "id": "f682fc6e-62aa-4ac0-b390-57cb8f47ff46",
+              "disambiguation": "",
+              "genres": [],
+              "length": 303230,
+              "first-release-date": "2024-09-06",
+              "video": false
+            },
+            "id": "632464f2-14d9-43e7-9690-5c91778bfdaa",
+            "number": "2"
+          },
+          {
+            "length": 238154,
+            "recording": {
+              "title": "No Boys Allowed (street mix)",
+              "id": "27179c23-f0f8-4051-b032-bce8cf320ea4",
+              "disambiguation": "",
+              "genres": [],
+              "length": 238153,
+              "first-release-date": "2024-09-06",
+              "video": false
+            },
+            "position": 3,
+            "title": "No Boys Allowed (street mix)",
+            "id": "4b293825-72c7-4011-b122-0b3091da2095",
+            "number": "3"
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "date": "2024-09-06",
+    "genres": []
+  },
+  {
+    "barcode": "5026854082318",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "count": 1
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "quality": "normal",
+    "disambiguation": "",
+    "id": "ed54dcb0-f363-4404-91c1-e622dcc64d2d",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2025-10-10"
+      }
+    ],
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "78e54701-3a8e-454d-a137-332cebc11eb6",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "1a76c0aa-1446-4fc8-88c4-dfea9d691841",
+            "position": 1,
+            "title": "Noises",
+            "recording": {
+              "id": "d18c78e4-4fa2-44cd-a74d-34d6180184f2",
+              "disambiguation": "",
+              "title": "Noises",
+              "length": 391573,
+              "first-release-date": "2025-10-10",
+              "video": false,
+              "genres": [
+                {
+                  "name": "bassline",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "8ae6fbbe-2dd0-432e-a176-6678f48dffb4"
+                },
+                {
+                  "disambiguation": "",
+                  "id": "59c7776f-fd87-4cfb-a7a5-9fe66ec02b1b",
+                  "count": 1,
+                  "name": "speed garage"
+                }
+              ]
+            },
+            "length": 391578,
+            "number": "1"
+          }
+        ]
+      }
+    ],
+    "title": "Noises",
+    "genres": [],
+    "date": "2025-10-10",
+    "asin": null,
+    "release-group": {
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2025-10-10",
+      "title": "Noises",
+      "id": "2e5f0b37-81f0-4df0-a259-48d98d1bcefe",
+      "disambiguation": "",
+      "secondary-types": [
+        "Remix"
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "primary-type": "Single"
+    },
+    "status": "Official"
+  }
+]

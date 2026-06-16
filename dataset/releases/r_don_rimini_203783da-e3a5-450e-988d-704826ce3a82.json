@@ -1,0 +1,1445 @@
+[
+  {
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "status": null,
+    "release-group": {
+      "first-release-date": "2010-01",
+      "secondary-types": [
+        "DJ-mix"
+      ],
+      "primary-type": "Album",
+      "id": "33e9bf01-a100-4023-95b2-181b7708a939",
+      "secondary-type-ids": [
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Godfather Strikes Back: January 2010",
+      "genres": [],
+      "disambiguation": ""
+    },
+    "id": "15a98b04-281f-4bf7-8b51-900b1a8af232",
+    "barcode": "",
+    "status-id": null,
+    "packaging": "None",
+    "media": [
+      {
+        "track-count": 1,
+        "id": "5298842e-ed9f-3288-8b48-1a1704abbfdf",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "title": "Godfather Strikes Back: January 2010",
+            "position": 1,
+            "length": 3658088,
+            "recording": {
+              "first-release-date": "2010-01",
+              "id": "4dab7a24-5827-48ac-964f-76fad4360d52",
+              "video": false,
+              "length": 3658088,
+              "title": "Godfather Strikes Back: January 2010",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "c17984cb-b88c-49e8-a8ce-01a26406c747"
+          }
+        ],
+        "track-offset": 0,
+        "title": "",
+        "format": "Digital Media",
+        "position": 1
+      }
+    ],
+    "asin": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "title": "Godfather Strikes Back: January 2010",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2010-01",
+    "cover-art-archive": {
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0
+    },
+    "release-events": [
+      {
+        "date": "2010-01",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "3556b2c2-9e6d-49ae-9149-bdb3c9bd40c5",
+    "release-group": {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "genres": [
+        {
+          "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+          "name": "electro",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "disambiguation": "",
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+        }
+      ],
+      "disambiguation": "",
+      "title": "Time To Panic",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2007",
+      "id": "ed984555-32c8-43d7-b0b2-210c0de37185"
+    },
+    "status": "Official",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "date": "2007",
+    "packaging-id": null,
+    "country": "FR",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "France",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "FR"
+          ],
+          "id": "08310658-51eb-3801-80de-5a0739207115",
+          "name": "France",
+          "type": null,
+          "type-id": null
+        },
+        "date": "2007"
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "media": [
+      {
+        "track-count": 4,
+        "id": "a649e4ac-a635-3fe0-beed-9c9a28404099",
+        "format-id": "18805d5b-ff3a-3bc0-9b1f-188cc06415c8",
+        "tracks": [
+          {
+            "id": "6548eb62-a703-4c77-bd12-82c056311692",
+            "recording": {
+              "first-release-date": "2007-06-11",
+              "id": "d6e0f831-dd84-48ed-9a12-6de121907c24",
+              "video": false,
+              "length": 353000,
+              "title": "Tutto va bene",
+              "genres": [
+                {
+                  "disambiguation": "",
+                  "name": "electronic",
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                  "count": 1
+                },
+                {
+                  "count": 2,
+                  "disambiguation": "",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "name": "house"
+                }
+              ],
+              "disambiguation": ""
+            },
+            "title": "Tutto Va Bene",
+            "position": 1,
+            "number": "1",
+            "length": 353000
+          },
+          {
+            "number": "2",
+            "position": 2,
+            "title": "A Fortiori",
+            "length": 366000,
+            "recording": {
+              "length": 366000,
+              "title": "A Fortiori",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2007",
+              "id": "cb470427-e49d-4dfc-a30c-c9a58808e169",
+              "video": false
+            },
+            "id": "813e56f9-6869-4ee0-9054-3f60af57fc58"
+          },
+          {
+            "id": "1a916f50-9062-44a5-9807-76bfe30bb7f9",
+            "recording": {
+              "first-release-date": "2007",
+              "id": "f4949394-a93a-4475-b6e3-62b193df8bd2",
+              "video": false,
+              "length": 303000,
+              "title": "Okay",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "title": "Okay",
+            "position": 3,
+            "number": "3",
+            "length": 303000
+          },
+          {
+            "position": 4,
+            "title": "A Contrario",
+            "number": "4",
+            "length": 280000,
+            "id": "31d1e775-26fc-4057-9849-4caac0a3c463",
+            "recording": {
+              "first-release-date": "2007",
+              "video": false,
+              "id": "b5121471-ff5f-4514-90aa-b899e8e8f19e",
+              "length": 280000,
+              "disambiguation": "",
+              "genres": [],
+              "title": "A Contrario"
+            }
+          }
+        ],
+        "track-offset": 0,
+        "position": 1,
+        "format": "CD-R",
+        "title": ""
+      }
+    ],
+    "packaging": null,
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "title": "Time To Panic",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null
+  },
+  {
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "status": null,
+    "release-group": {
+      "secondary-types": [
+        "DJ-mix"
+      ],
+      "primary-type": "Album",
+      "first-release-date": "2009-07",
+      "id": "5dc95efc-30d9-4be8-afe8-4b0cafd74ae4",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+      ],
+      "genres": [],
+      "disambiguation": "",
+      "title": "Kick' N Run Mix: July 2008"
+    },
+    "id": "555f7d12-c823-4cba-a20a-0dab788b7ea8",
+    "barcode": "",
+    "status-id": null,
+    "packaging": "None",
+    "media": [
+      {
+        "track-count": 1,
+        "id": "a8ebce2c-e237-3915-bc89-9b92b4cdfa3f",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "ca3b5ef4-f6c8-4208-8010-43d6c6954d61",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Kick' N Run Mix: July 2008",
+              "length": 3745206,
+              "video": false,
+              "id": "80311211-2ae3-430c-b00c-18e189d0e0aa",
+              "first-release-date": "2009-07"
+            },
+            "length": 3745206,
+            "position": 1,
+            "title": "Kick' N Run Mix: July 2008",
+            "number": "1"
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "title": "Kick' N Run Mix: July 2008",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2009-07",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "date": "2009-07",
+        "area": {
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "area": {
+          "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+          "name": "Switzerland",
+          "type": null,
+          "type-id": null,
+          "sort-name": "Switzerland",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "CH"
+          ]
+        },
+        "date": "2008-08-07"
+      }
+    ],
+    "country": "CH",
+    "date": "2008-08-07",
+    "packaging-id": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "Kick 'n Run",
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "media": [
+      {
+        "track-count": 6,
+        "id": "70884ce5-0759-358d-8ace-7829cbeed3e7",
+        "tracks": [
+          {
+            "number": "A1",
+            "position": 1,
+            "title": "Intro",
+            "length": null,
+            "recording": {
+              "first-release-date": "2008-08-07",
+              "id": "5b0023d3-226d-47a5-b632-487cf14eaee6",
+              "video": false,
+              "length": null,
+              "title": "Intro",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "2852bb5f-94d4-32c5-a60a-14e245478b41"
+          },
+          {
+            "length": null,
+            "position": 2,
+            "title": "Ohow?",
+            "number": "A2",
+            "id": "35b60bfa-15e8-3a85-8b47-964202f19c95",
+            "recording": {
+              "id": "2a74e6aa-ec48-4440-9af9-51f26217b2c4",
+              "video": false,
+              "first-release-date": "2008-08-07",
+              "title": "Ohow?",
+              "disambiguation": "",
+              "genres": [],
+              "length": null
+            }
+          },
+          {
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Nervous Breakdown",
+              "length": null,
+              "video": false,
+              "id": "50f15118-871c-4ae3-96a7-ad65362dc317",
+              "first-release-date": "2008-08-07"
+            },
+            "id": "db4ac934-e0ed-3bf0-8b39-731e4f211ee5",
+            "length": null,
+            "number": "A3",
+            "position": 3,
+            "title": "Nervous Breakdown"
+          },
+          {
+            "recording": {
+              "first-release-date": "2008-08-07",
+              "id": "7aec18eb-3f27-4c8d-8c45-263b2d8c9b2b",
+              "video": false,
+              "length": null,
+              "title": "Take Outs Kick 'n Run",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "8c441712-e385-3b7b-8107-96a5bb05754e",
+            "number": "A4",
+            "title": "Take Outs Kick 'n Run",
+            "position": 4,
+            "length": null
+          },
+          {
+            "length": null,
+            "number": "B1",
+            "position": 5,
+            "title": "Rave On",
+            "recording": {
+              "id": "3b95ccb0-f36b-4eca-affd-968d30ee9d3a",
+              "video": false,
+              "first-release-date": "2008-08-07",
+              "title": "Rave On",
+              "genres": [
+                {
+                  "id": "e5bba957-8c91-496a-a675-c6d0c6b51c33",
+                  "name": "dance",
+                  "disambiguation": "",
+                  "count": 1
+                },
+                {
+                  "name": "electro",
+                  "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+                  "disambiguation": "",
+                  "count": 1
+                },
+                {
+                  "count": 1,
+                  "id": "05247982-e44f-4c58-96f8-a5453be69f5f",
+                  "name": "electro house",
+                  "disambiguation": ""
+                },
+                {
+                  "name": "electronic",
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                  "disambiguation": "",
+                  "count": 2
+                }
+              ],
+              "disambiguation": "",
+              "length": null
+            },
+            "id": "ee099748-3f54-3ba8-bedc-d01fe36b24d3"
+          },
+          {
+            "length": null,
+            "title": "Hools",
+            "position": 6,
+            "number": "B2",
+            "id": "402074e2-aea9-3da6-b2be-0cb2a301cb9f",
+            "recording": {
+              "disambiguation": "",
+              "genres": [
+                {
+                  "count": 1,
+                  "name": "electro",
+                  "id": "60f00d05-df4d-496e-8f5a-c45c03a56ad4",
+                  "disambiguation": ""
+                },
+                {
+                  "disambiguation": "",
+                  "name": "electro house",
+                  "id": "05247982-e44f-4c58-96f8-a5453be69f5f",
+                  "count": 1
+                },
+                {
+                  "count": 2,
+                  "disambiguation": "",
+                  "name": "electronic",
+                  "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+                }
+              ],
+              "title": "Hools",
+              "length": null,
+              "video": false,
+              "id": "a9b09a8d-0845-4e71-a046-c4c0bafcb562",
+              "first-release-date": "2008-08-07"
+            }
+          }
+        ],
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "position": 1,
+        "title": "",
+        "format": "12\" Vinyl",
+        "track-offset": 0
+      }
+    ],
+    "release-group": {
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1
+        }
+      ],
+      "title": "Kick 'n Run",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "id": "ae862b33-c19e-35c8-913d-746d9726269f",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2008-08-07"
+    },
+    "id": "5c6f6a64-970a-4e91-821a-7375498e9c05",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": "Official"
+  },
+  {
+    "release-group": {
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "genres": [],
+      "title": "Nlarge Your Parties",
+      "primary-type": "EP",
+      "secondary-types": [],
+      "first-release-date": "2010-06-25",
+      "id": "ad210f44-56f1-4539-9527-e5087a5fee16"
+    },
+    "id": "692f7d64-c32e-4165-884b-0b4d0b905487",
+    "disambiguation": "",
+    "genres": [],
+    "quality": "normal",
+    "status": "Official",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "area": null,
+        "date": "2010-06-25"
+      }
+    ],
+    "country": null,
+    "date": "2010-06-25",
+    "packaging-id": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "asin": null,
+    "title": "Nlarge Your Parties",
+    "packaging": null,
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "media": [
+      {
+        "track-offset": 0,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Nlarge Your Intro + Whatever",
+              "length": null,
+              "video": false,
+              "id": "3de36549-b91d-4b30-90a6-6fb9a3ef67bb",
+              "first-release-date": "2010-06-25"
+            },
+            "id": "f4bda0ee-b233-4681-8db4-ea23df12b035",
+            "length": null,
+            "number": "1",
+            "title": "Nlarge Your Intro + Whatever",
+            "position": 1
+          },
+          {
+            "id": "5fc3195c-ff84-4ad2-b283-2674f6a01cfd",
+            "recording": {
+              "length": null,
+              "title": "G.O.O.D.",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2010-06-25",
+              "id": "0a586ce8-2358-499b-92e4-a83fc23fa1eb",
+              "video": false
+            },
+            "title": "G.O.O.D.",
+            "position": 2,
+            "number": "2",
+            "length": null
+          },
+          {
+            "length": null,
+            "number": "3",
+            "title": "All About",
+            "position": 3,
+            "recording": {
+              "length": null,
+              "title": "All About",
+              "genres": [],
+              "disambiguation": "",
+              "first-release-date": "2010-06-25",
+              "id": "87940530-850f-49b1-8353-e05ab1f60c2a",
+              "video": false
+            },
+            "id": "fffececb-53c8-48a1-8a7c-fc09721cac0d"
+          },
+          {
+            "number": "4",
+            "position": 4,
+            "title": "Riminology + Nlarge Your Outro - Takes Out",
+            "length": null,
+            "recording": {
+              "first-release-date": "2010-06-25",
+              "video": false,
+              "id": "8577c9ad-b05b-4724-b4f1-3d2029cbb477",
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Riminology + Nlarge Your Outro - Takes Out"
+            },
+            "id": "b60c5066-3836-4f3a-a9b6-f97c5a6e3c61"
+          }
+        ],
+        "id": "80346e00-8b0e-499e-be0c-70470d74cb54",
+        "track-count": 4
+      }
+    ]
+  },
+  {
+    "status": "Official",
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": "",
+    "id": "85089128-75b2-4ae4-948e-3d0acc86a98a",
+    "release-group": {
+      "id": "0e57a3b8-db71-45ed-91c6-37024f1119de",
+      "primary-type": "Single",
+      "secondary-types": [],
+      "first-release-date": "2012-11-23",
+      "genres": [],
+      "disambiguation": "",
+      "title": "Fear of Missing Out",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-type-ids": []
+    },
+    "title": "Fear of Missing Out",
+    "asin": null,
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "media": [
+      {
+        "track-count": 3,
+        "id": "3b418626-9e66-3986-90b2-5c3d59c43549",
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 240053,
+            "number": "1",
+            "position": 1,
+            "title": "FOMO (Fear of Missing Out)",
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "FOMO (Fear of Missing Out)",
+              "length": 240053,
+              "video": false,
+              "id": "7af1bbad-37c2-42cf-8b26-f141c92cac46",
+              "first-release-date": "2012-11-23"
+            },
+            "id": "950c2dd3-3b73-4c18-8331-856441f683b7"
+          },
+          {
+            "length": 332899,
+            "position": 2,
+            "title": "The Future Is Ours",
+            "number": "2",
+            "id": "64bc12a0-4c9c-4512-adea-3a7e1d68c945",
+            "recording": {
+              "first-release-date": "2012-11-23",
+              "video": false,
+              "id": "91e33805-fb9a-4809-b289-95188e99161c",
+              "length": 332899,
+              "genres": [],
+              "disambiguation": "",
+              "title": "The Future Is Ours"
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "2012-11-23",
+              "video": false,
+              "id": "1baf1d7d-cdeb-4d04-9dca-b17287a3b605",
+              "length": 264641,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Highlight"
+            },
+            "id": "729513be-de74-4f1d-8086-42ff872839ee",
+            "number": "3",
+            "title": "Highlight",
+            "position": 3,
+            "length": 264641
+          }
+        ],
+        "track-offset": 0,
+        "position": 1,
+        "format": "Digital Media",
+        "title": ""
+      }
+    ],
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "4018939232474",
+    "packaging": "None",
+    "release-events": [
+      {
+        "date": "2012-11-23",
+        "area": {
+          "type": null,
+          "name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "type-id": null,
+          "sort-name": "[Worldwide]",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ]
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "front": true,
+      "darkened": false,
+      "back": false,
+      "artwork": true,
+      "count": 1
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2012-11-23",
+    "country": "XW"
+  },
+  {
+    "quality": "normal",
+    "disambiguation": "",
+    "genres": [],
+    "status": null,
+    "release-group": {
+      "secondary-types": [
+        "DJ-mix"
+      ],
+      "primary-type": "Album",
+      "first-release-date": "2009",
+      "id": "782aab05-f765-4baf-ab30-85ad0dc71aca",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+      ],
+      "disambiguation": "",
+      "genres": [],
+      "title": "I Love Techno 2009 Mix"
+    },
+    "id": "8767bd22-fc03-4d90-a837-d1fd77b185b5",
+    "barcode": "",
+    "status-id": null,
+    "packaging": "None",
+    "media": [
+      {
+        "tracks": [
+          {
+            "position": 1,
+            "title": "I Love Techno 2009 Mix",
+            "number": "1",
+            "length": 2820498,
+            "id": "305ab409-1ffb-4c57-95e7-a917d0e35380",
+            "recording": {
+              "length": 2820498,
+              "disambiguation": "",
+              "genres": [],
+              "title": "I Love Techno 2009 Mix",
+              "first-release-date": "2009",
+              "video": false,
+              "id": "ab03d9bc-c16e-4ff6-951b-673d63c36933"
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-offset": 0,
+        "track-count": 1,
+        "id": "4133a4bc-d511-3bcb-97e3-507e62633a4c"
+      }
+    ],
+    "asin": null,
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "title": "I Love Techno 2009 Mix",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "date": "2009",
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "date": "2009",
+        "area": {
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "name": "[Worldwide]",
+          "type": null,
+          "type-id": null
+        }
+      }
+    ]
+  },
+  {
+    "packaging-id": null,
+    "date": "2008-03",
+    "country": "CH",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "Switzerland",
+          "type": null,
+          "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+          "iso-3166-1-codes": [
+            "CH"
+          ],
+          "sort-name": "Switzerland",
+          "disambiguation": ""
+        },
+        "date": "2008-03"
+      }
+    ],
+    "cover-art-archive": {
+      "front": false,
+      "back": false,
+      "darkened": false,
+      "count": 0,
+      "artwork": false
+    },
+    "media": [
+      {
+        "id": "8fa8f569-9fb4-3f12-b52d-17f13d7f31f7",
+        "track-count": 5,
+        "format": "Digital Media",
+        "title": "",
+        "position": 1,
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "first-release-date": "2008-03",
+              "id": "c31ed572-bd75-424d-bd91-5c1e52fb073f",
+              "video": false,
+              "length": 338000,
+              "title": "Let Me Back Up",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "4b0d656a-4851-385b-a280-02ef77436421",
+            "number": "1",
+            "position": 1,
+            "title": "Let Me Back Up",
+            "length": 338000
+          },
+          {
+            "recording": {
+              "first-release-date": "2008-03",
+              "id": "651749e3-a30e-4024-b03a-1a42c603ef8c",
+              "video": false,
+              "length": 324000,
+              "title": "Sumo",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "id": "0603ab42-f66b-3b98-a604-cf5c67be3ab1",
+            "number": "2",
+            "title": "Sumo",
+            "position": 2,
+            "length": 324000
+          },
+          {
+            "id": "9c17338e-d61b-3321-a5a9-28791eca294a",
+            "recording": {
+              "length": 351000,
+              "title": "Let Me Back Up (Crookers Tetsujin mix)",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2008-03",
+              "id": "07e58123-0689-455b-a507-636f0ca607e6",
+              "video": false
+            },
+            "position": 3,
+            "title": "Let Me Back Up (Crookers Tetsujin mix)",
+            "number": "3",
+            "length": 351000
+          },
+          {
+            "id": "261251db-987c-3840-93cc-9c9ddb07dd02",
+            "recording": {
+              "video": false,
+              "id": "51743459-979e-484f-b0ef-6d93b37e3c18",
+              "first-release-date": "2008-03",
+              "genres": [],
+              "disambiguation": "",
+              "title": "Let Me Back Up (The Driver a.k.a. Manu Le Malin feat. Lunatic Asylum remix)",
+              "length": 293000
+            },
+            "position": 4,
+            "title": "Let Me Back Up (The Driver a.k.a. Manu Le Malin feat. Lunatic Asylum remix)",
+            "number": "4",
+            "length": 293000
+          },
+          {
+            "id": "d4552818-4d9f-3637-bf3a-eb368e8d8b44",
+            "recording": {
+              "first-release-date": "2008-03",
+              "id": "24cc2127-f72e-4a89-b7f4-03997f7f91ae",
+              "video": false,
+              "length": 204000,
+              "title": "Let Me Ride Up (Poney Poney version)",
+              "genres": [],
+              "disambiguation": ""
+            },
+            "position": 5,
+            "title": "Let Me Ride Up (Poney Poney version)",
+            "number": "5",
+            "length": 204000
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794"
+      }
+    ],
+    "barcode": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging": null,
+    "title": "Absolutely Rad EP",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": "B002E5TMWG",
+    "id": "884a523b-d63e-44f4-ab74-abe07daa9220",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Absolutely Rad EP",
+      "disambiguation": "",
+      "genres": [],
+      "first-release-date": "2008-03",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "7494c7e3-212b-3f45-9485-8f9047dc6f35"
+    },
+    "status": "Official",
+    "quality": "normal",
+    "genres": [],
+    "disambiguation": ""
+  },
+  {
+    "status": null,
+    "genres": [
+      {
+        "name": "electro house",
+        "id": "05247982-e44f-4c58-96f8-a5453be69f5f",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "disambiguation": "",
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "name": "house",
+        "count": 1
+      },
+      {
+        "count": 1,
+        "name": "tech house",
+        "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+        "disambiguation": ""
+      },
+      {
+        "count": 1,
+        "name": "techno",
+        "id": "41fe3260-fcc1-450b-bd5a-803886c56912",
+        "disambiguation": ""
+      }
+    ],
+    "disambiguation": "",
+    "quality": "normal",
+    "id": "8a2da5b1-90c6-479f-9169-724a338ca48c",
+    "release-group": {
+      "first-release-date": "2008-08-07",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "id": "ae862b33-c19e-35c8-913d-746d9726269f",
+      "secondary-type-ids": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "title": "Kick 'n Run",
+      "disambiguation": "",
+      "genres": [
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1
+        }
+      ]
+    },
+    "media": [
+      {
+        "position": 1,
+        "format": "CD",
+        "title": "",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "recording": {
+              "title": "Intro",
+              "genres": [],
+              "disambiguation": "",
+              "length": null,
+              "id": "d10d894f-0caa-4677-a5b4-ec47d40b94ee",
+              "video": false,
+              "first-release-date": "2008"
+            },
+            "id": "c9ddc5f9-b33b-438e-bd03-a160f77e365b",
+            "number": "1",
+            "position": 1,
+            "title": "Intro",
+            "length": null
+          },
+          {
+            "title": "Ohow?",
+            "position": 2,
+            "number": "2",
+            "length": null,
+            "id": "ed26f069-65a9-4d0c-ace3-040fc6983cad",
+            "recording": {
+              "first-release-date": "2008",
+              "id": "534d4de8-99c6-43eb-9f3f-61e7b44534d4",
+              "video": false,
+              "length": null,
+              "title": "Ohow?",
+              "disambiguation": "",
+              "genres": []
+            }
+          },
+          {
+            "length": null,
+            "number": "3",
+            "title": "Nervous Breakdown",
+            "position": 3,
+            "recording": {
+              "first-release-date": "2008",
+              "id": "0285c8cb-caa7-458b-83ea-c49fb47711df",
+              "video": false,
+              "length": null,
+              "title": "Nervous Breakdown",
+              "disambiguation": "",
+              "genres": []
+            },
+            "id": "aac73703-7e95-440d-88f1-4286bc189479"
+          },
+          {
+            "length": null,
+            "title": "Take Outs Kick n Run",
+            "position": 4,
+            "number": "4",
+            "id": "fe4b62a3-a83e-4013-b5b2-19bc997ad6c6",
+            "recording": {
+              "length": null,
+              "title": "Take Outs Kick n Run",
+              "genres": [],
+              "disambiguation": "",
+              "first-release-date": "2008",
+              "id": "04fe4bc6-3b9e-46ab-a4bf-c9c11f2684ed",
+              "video": false
+            }
+          },
+          {
+            "length": null,
+            "title": "Rave On",
+            "position": 5,
+            "number": "5",
+            "id": "882f639a-3a39-49fb-93cb-1498ea347d41",
+            "recording": {
+              "length": null,
+              "title": "Rave On",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2008",
+              "id": "48a160ac-339d-4ece-9046-73e606311862",
+              "video": false
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "2008",
+              "video": false,
+              "id": "a98a897f-bbd0-403b-9061-ab4639b2cd85",
+              "length": null,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Hools"
+            },
+            "id": "c3605861-a8bf-42e5-bf4d-9aa49814f607",
+            "length": null,
+            "number": "6",
+            "position": 6,
+            "title": "Hools"
+          }
+        ],
+        "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+        "id": "c60494d8-14ef-4d4c-9082-ec687fd4781c",
+        "track-count": 6
+      }
+    ],
+    "packaging": null,
+    "status-id": null,
+    "barcode": "113425000125",
+    "title": "Kick 'n Run EP",
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "asin": null,
+    "date": "2008",
+    "packaging-id": null,
+    "country": "US",
+    "release-events": [
+      {
+        "date": "2008",
+        "area": {
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "sort-name": "United States",
+          "disambiguation": "",
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "name": "United States"
+        }
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "artwork": false,
+      "count": 0,
+      "front": false
+    }
+  },
+  {
+    "cover-art-archive": {
+      "artwork": false,
+      "count": 0,
+      "darkened": false,
+      "back": false,
+      "front": false
+    },
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "CH"
+          ],
+          "sort-name": "Switzerland",
+          "disambiguation": "",
+          "type-id": null,
+          "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+          "type": null,
+          "name": "Switzerland"
+        },
+        "date": "2011-06"
+      }
+    ],
+    "country": "CH",
+    "date": "2011-06",
+    "packaging-id": null,
+    "asin": "B0071T2URO",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "title": "Nlarge Your (Remixes)",
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": null,
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "title": "G.O.O.D. (Beataucue remix)",
+            "position": 1,
+            "number": "1",
+            "length": 277000,
+            "id": "4f18d7be-d3c9-3d19-8fb7-4f1011d5b613",
+            "recording": {
+              "title": "G.O.O.D. (Beataucue remix)",
+              "genres": [],
+              "disambiguation": "",
+              "length": 277000,
+              "id": "70d46d72-2da6-4c7e-8f12-6ec114493949",
+              "video": false,
+              "first-release-date": "2011-06"
+            }
+          },
+          {
+            "id": "b56f1bc7-8232-3e5d-b894-51a2d4e335bf",
+            "recording": {
+              "length": 257000,
+              "title": "G.O.O.D. (Tagteam Terror remix)",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2011-06-22",
+              "id": "61df2b93-633b-4fdb-b0d0-67cb1052d3b2",
+              "video": false
+            },
+            "title": "G.O.O.D. (Tagteam Terror remix)",
+            "position": 2,
+            "number": "2",
+            "length": 257000
+          },
+          {
+            "recording": {
+              "id": "1cb1ea78-fec6-4582-8947-93c8bcc4fed5",
+              "video": false,
+              "first-release-date": "2011-06",
+              "title": "Whatever (His Majesty Andre remix)",
+              "disambiguation": "",
+              "genres": [],
+              "length": 315000
+            },
+            "id": "789eeaaf-351c-384c-bd3d-ae315bac2331",
+            "length": 315000,
+            "number": "3",
+            "position": 3,
+            "title": "Whatever (His Majesty Andre remix)"
+          },
+          {
+            "recording": {
+              "id": "bcf471af-d81b-4b6d-aa2f-271774d92e3b",
+              "video": false,
+              "first-release-date": "2011-06",
+              "title": "Whatever (Keith & Supabeatz remix)",
+              "genres": [],
+              "disambiguation": "",
+              "length": 386000
+            },
+            "id": "ac04a779-e0e2-378c-9620-2791a2f70529",
+            "length": 386000,
+            "number": "4",
+            "position": 4,
+            "title": "Whatever (Keith & Supabeatz remix)"
+          },
+          {
+            "recording": {
+              "length": 326000,
+              "title": "Whatever (Klever remix)",
+              "genres": [],
+              "disambiguation": "",
+              "first-release-date": "2011-06",
+              "id": "e00ad6a3-6ab1-4b4d-bdf4-6fa592cce687",
+              "video": false
+            },
+            "id": "a394e3b5-0abb-3e95-a84e-65656ebe12f8",
+            "number": "5",
+            "position": 5,
+            "title": "Whatever (Klever remix)",
+            "length": 326000
+          },
+          {
+            "position": 6,
+            "title": "Whatever (Pony Pony Run Run remix)",
+            "number": "6",
+            "length": 260000,
+            "id": "ce46cb88-a2d7-3f9f-ad7e-0ecfc600f42c",
+            "recording": {
+              "id": "ad93a5ea-b13a-4ceb-b1a6-7ba7515459ec",
+              "video": false,
+              "first-release-date": "2011-06",
+              "title": "Whatever (Pony Pony Run Run remix)",
+              "disambiguation": "",
+              "genres": [],
+              "length": 260000
+            }
+          },
+          {
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Whatever (Tony Senghore remix)",
+              "length": 461000,
+              "video": false,
+              "id": "3ca7f8f5-1959-46a8-b703-17f01d56a423",
+              "first-release-date": "2011-06"
+            },
+            "id": "7a866bef-59d5-350c-93b0-e0ccb08ec7c9",
+            "number": "7",
+            "position": 7,
+            "title": "Whatever (Tony Senghore remix)",
+            "length": 461000
+          },
+          {
+            "number": "8",
+            "title": "Riminology (The Subs Remixology)",
+            "position": 8,
+            "length": 271000,
+            "recording": {
+              "length": 271000,
+              "genres": [],
+              "disambiguation": "",
+              "title": "Riminology (The Subs Remixology)",
+              "first-release-date": "2011-06",
+              "video": false,
+              "id": "b982b017-9491-49da-b9cb-d495f39589a7"
+            },
+            "id": "57c9b053-feb2-3f32-8589-042da651d667"
+          },
+          {
+            "length": 315000,
+            "position": 9,
+            "title": "Riminology (The Town remix)",
+            "number": "9",
+            "id": "be5c58d9-2aa0-3b62-be56-0383afd73f9d",
+            "recording": {
+              "first-release-date": "2011-06",
+              "video": false,
+              "id": "133b1e95-9a3c-483a-9445-fa18eda0b6c8",
+              "length": 315000,
+              "disambiguation": "",
+              "genres": [],
+              "title": "Riminology (The Town remix)"
+            }
+          },
+          {
+            "number": "10",
+            "title": "Riminology (Kido Yoji remix)",
+            "position": 10,
+            "length": 222000,
+            "recording": {
+              "disambiguation": "",
+              "genres": [],
+              "title": "Riminology (Kido Yoji remix)",
+              "length": 222000,
+              "video": false,
+              "id": "54047d5c-726b-4f26-87c3-32373c30396b",
+              "first-release-date": "2011-06"
+            },
+            "id": "ea51a05a-a9e9-3d22-99bf-c088d6effcbd"
+          },
+          {
+            "number": "11",
+            "title": "Riminology (Don Rimini club edit)",
+            "position": 11,
+            "length": 334000,
+            "recording": {
+              "genres": [],
+              "disambiguation": "",
+              "title": "Riminology (Don Rimini club edit)",
+              "length": 334000,
+              "video": false,
+              "id": "0bef38db-01fb-4124-bc5c-0f768694db52",
+              "first-release-date": "2011-06"
+            },
+            "id": "62e6edab-6b76-3195-b71b-77611e4732d1"
+          }
+        ],
+        "track-offset": 0,
+        "title": "",
+        "format": "Digital Media",
+        "position": 1,
+        "track-count": 11,
+        "id": "483dc56b-00b2-31a4-be98-e9a504f59038"
+      }
+    ],
+    "release-group": {
+      "id": "e9fa5501-f213-487b-9049-df79e97a80d8",
+      "secondary-types": [],
+      "primary-type": "EP",
+      "first-release-date": "2011-06",
+      "disambiguation": "",
+      "genres": [],
+      "title": "Nlarge Your (Remixes)",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "secondary-type-ids": []
+    },
+    "id": "e557dc85-8a35-4f3d-968f-6c0893fbd51b",
+    "genres": [],
+    "disambiguation": "",
+    "quality": "normal",
+    "status": "Official"
+  }
+]

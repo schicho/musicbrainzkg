@@ -1,0 +1,1863 @@
+[
+  {
+    "title": "Bel Mercy (Remixes)",
+    "media": [
+      {
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "recording": {
+              "genres": [],
+              "length": 270472,
+              "video": false,
+              "first-release-date": "2023-05-05",
+              "title": "Bel Mercy (Extended Mix)",
+              "disambiguation": "",
+              "id": "9a585b69-568e-4636-bb06-f4dd62573267"
+            },
+            "title": "Bel Mercy (Extended Mix)",
+            "position": 1,
+            "id": "e8cf47db-f93f-4957-8809-4bd79523f74c",
+            "length": 270472
+          },
+          {
+            "number": "2",
+            "length": 199035,
+            "id": "ddd67cef-c07e-447b-b457-225a56453aac",
+            "title": "Bel Mercy (Vladimir Cauchemar Extended Remix)",
+            "position": 2,
+            "recording": {
+              "genres": [],
+              "length": 199035,
+              "first-release-date": "2023-05-05",
+              "video": false,
+              "title": "Bel Mercy (Vladimir Cauchemar Extended Remix)",
+              "disambiguation": "",
+              "id": "7e232651-9c96-4c9d-a827-fe5b535d687a"
+            }
+          },
+          {
+            "id": "4148c430-f092-4832-9ac6-727fa8727ba0",
+            "position": 3,
+            "title": "Bel Mercy (Deborah de Luca Extended Remix)",
+            "recording": {
+              "length": 364444,
+              "video": false,
+              "first-release-date": "2023-05-05",
+              "genres": [],
+              "disambiguation": "",
+              "id": "40d508b7-ffb4-4cca-a8a6-b74c1b0edb95",
+              "title": "Bel Mercy (Deborah de Luca Extended Remix)"
+            },
+            "length": 364444,
+            "number": "3"
+          },
+          {
+            "position": 4,
+            "recording": {
+              "length": 226206,
+              "first-release-date": "2023-05-05",
+              "video": false,
+              "genres": [],
+              "id": "9b6d22c7-93b4-4605-8f65-cf8ac96c5bd2",
+              "disambiguation": "",
+              "title": "Bel Mercy (blkout. Remix)"
+            },
+            "title": "Bel Mercy (blkout. Remix)",
+            "id": "9d230736-b454-4ee2-830c-dde99c88c6d1",
+            "length": 226206,
+            "number": "4"
+          },
+          {
+            "number": "5",
+            "id": "0ad5ea97-8dfe-47c6-9598-dd86c9c05f50",
+            "position": 5,
+            "title": "Bel Mercy (Faustix Extended Mix)",
+            "recording": {
+              "genres": [],
+              "length": 203192,
+              "first-release-date": "2023-05-05",
+              "video": false,
+              "title": "Bel Mercy (Faustix Extended Mix)",
+              "id": "e089cfb4-2390-4e2e-8fad-06ce6d8ea5c9",
+              "disambiguation": ""
+            },
+            "length": 203192
+          },
+          {
+            "length": 148114,
+            "title": "Bel Mercy (goddard. Remix)",
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2023-05-05",
+              "length": 148114,
+              "title": "Bel Mercy (goddard. Remix)",
+              "disambiguation": "",
+              "id": "1177c09f-f7f3-45b1-bc4c-29c2b5a31605"
+            },
+            "position": 6,
+            "id": "376ccdee-4b15-43f7-af57-74829f1b776a",
+            "number": "6"
+          }
+        ],
+        "track-count": 6,
+        "track-offset": 0,
+        "format": "Digital Media",
+        "id": "9136e20f-c637-38d2-bc2d-de43068561c4",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "disambiguation": "",
+    "id": "1e3b45aa-1084-46a5-bb19-c3ef5ebed0b9",
+    "release-events": [
+      {
+        "date": "2023-05-05",
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type": null
+        }
+      }
+    ],
+    "date": "2023-05-05",
+    "genres": [],
+    "release-group": {
+      "title": "Bel Mercy (Remixes)",
+      "disambiguation": "",
+      "id": "dcbaf695-68a7-4bfa-8c4e-aad00f1f1c05",
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "genres": [],
+      "first-release-date": "2023-05-05",
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "asin": null,
+    "status": "Official",
+    "barcode": "5054197658662",
+    "packaging": "None",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "count": 1,
+      "artwork": true
+    },
+    "quality": "normal"
+  },
+  {
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "c6141a3d-0349-4f17-84d2-9dc36831d59f",
+            "title": "Nothing Is Easy",
+            "recording": {
+              "title": "Nothing Is Easy",
+              "id": "eb1ad2e6-a5b6-4c6a-95c9-ed3b99841e04",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2023-04-14",
+              "video": false,
+              "length": 191328
+            },
+            "position": 1,
+            "length": 191328
+          },
+          {
+            "number": "2",
+            "id": "cad53b18-bd23-4528-b158-b6c98d3a388f",
+            "position": 2,
+            "recording": {
+              "disambiguation": "",
+              "id": "78b8df03-737f-4ce0-99fb-d0dfb4afbaab",
+              "title": "Raise Up Your Lighters",
+              "video": false,
+              "first-release-date": "2023-04-14",
+              "length": 267471,
+              "genres": []
+            },
+            "title": "Raise Up Your Lighters",
+            "length": 267471
+          },
+          {
+            "number": "3",
+            "title": "Madness",
+            "position": 3,
+            "recording": {
+              "id": "66728d9b-0a06-41fe-98c8-6b0898a35451",
+              "disambiguation": "",
+              "title": "Madness",
+              "length": 197538,
+              "first-release-date": "2023-04-14",
+              "video": false,
+              "genres": []
+            },
+            "id": "0a09f2ee-b025-4da0-8e1b-7920d4f58b26",
+            "length": 197538
+          },
+          {
+            "number": "4",
+            "length": 154411,
+            "position": 4,
+            "recording": {
+              "title": "Champion Sound",
+              "disambiguation": "",
+              "id": "55fe8dac-c2da-40f6-9ee6-af0169c17459",
+              "genres": [],
+              "length": 154411,
+              "video": false,
+              "first-release-date": "2023-04-14"
+            },
+            "title": "Champion Sound",
+            "id": "d41624ea-0632-49af-9a20-3c3faff92640"
+          }
+        ],
+        "track-count": 4,
+        "position": 1,
+        "title": "",
+        "id": "3c75c753-bb0b-3070-b23e-b47da60ab106"
+      }
+    ],
+    "title": "Nothing Is Easy EP",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type": null,
+          "name": "United Kingdom",
+          "type-id": null
+        },
+        "date": "2023-04-14"
+      }
+    ],
+    "id": "2ac648ee-4cf6-4dde-80c3-72ff7944b567",
+    "disambiguation": "",
+    "genres": [],
+    "date": "2023-04-14",
+    "release-group": {
+      "primary-type": "EP",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Nothing Is Easy EP",
+      "id": "91001cfd-cdee-4ff5-acaa-71e0d5056f3f",
+      "disambiguation": "",
+      "genres": [],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "first-release-date": "2023-04-14"
+    },
+    "asin": null,
+    "status": "Official",
+    "barcode": "5054197610462",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "country": "GB",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "back": false,
+      "darkened": false,
+      "count": 1
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "quality": "normal"
+  },
+  {
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "title": "Da Feeling",
+      "disambiguation": "",
+      "id": "7d3d48e9-c370-4dca-8e15-2b02d1741db7",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2024-03-28"
+    },
+    "asin": null,
+    "genres": [],
+    "date": "2024-03-28",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "title": "Da Feeling",
+            "position": 1,
+            "recording": {
+              "disambiguation": "",
+              "id": "f687d198-84e1-47cf-8166-6c1084043e02",
+              "title": "Da Feeling",
+              "video": false,
+              "first-release-date": "2024-03-28",
+              "length": 201904,
+              "genres": []
+            },
+            "id": "0398039b-5c1f-401a-bd7c-bcb654bd00f2",
+            "length": 201904,
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "position": 1,
+        "title": "",
+        "id": "c3ea8c7d-6a9e-3c57-8309-0788464de8fd"
+      }
+    ],
+    "title": "Da Feeling",
+    "disambiguation": "",
+    "id": "2ec4a4a5-827c-40fc-9fae-5a32eaad9b4e",
+    "release-events": [
+      {
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type-id": null,
+          "name": "[Worldwide]"
+        },
+        "date": "2024-03-28"
+      }
+    ],
+    "quality": "normal",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "count": 1,
+      "artwork": true
+    },
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "barcode": "797885043207"
+  },
+  {
+    "disambiguation": "",
+    "id": "37ed276f-4ff5-48f1-bdc0-4f7c42ab6e38",
+    "release-events": [
+      {
+        "date": "2023-10-27",
+        "area": null
+      }
+    ],
+    "title": "Take U",
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "23a5fccf-f133-3989-94a5-a4ee79c69575",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 162727,
+            "title": "Take U",
+            "position": 1,
+            "recording": {
+              "length": 162727,
+              "video": false,
+              "first-release-date": "2023-10-27",
+              "genres": [],
+              "id": "6ba4a12b-bc2a-4c7c-9889-9d08ce610e7f",
+              "disambiguation": "",
+              "title": "Take U"
+            },
+            "id": "7bc00267-d15e-4324-b86a-8f8258c5d006",
+            "number": "1"
+          }
+        ]
+      }
+    ],
+    "genres": [],
+    "date": "2023-10-27",
+    "asin": null,
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "first-release-date": "2023-10-27",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "0fecc864-9aa2-4c7d-b177-814ddddb1d74",
+      "disambiguation": "",
+      "title": "Take U"
+    },
+    "status": "Official",
+    "barcode": "0044003383586",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "cover-art-archive": {
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": null,
+    "quality": "normal"
+  },
+  {
+    "quality": "normal",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "5054197678301",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "title": "Bel Mercy (Vladimir Cauchemar remix)",
+      "id": "6886b1dc-2083-4e38-94d6-ac6bcaa38cef",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2023-05-05",
+      "secondary-types": [
+        "Remix"
+      ],
+      "primary-type": "Single",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ]
+    },
+    "genres": [],
+    "date": "2023-05-05",
+    "disambiguation": "",
+    "id": "3d3920e3-625c-44e4-8980-6ad1d95d57eb",
+    "release-events": [
+      {
+        "date": "2023-05-05",
+        "area": {
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        }
+      }
+    ],
+    "title": "Bel Mercy (Vladimir Cauchemar remix)",
+    "media": [
+      {
+        "title": "",
+        "position": 1,
+        "id": "f67fb246-2872-3408-908e-35232e101fe2",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 209234,
+            "id": "b0b2322e-afec-435f-9684-851ea2d9e21b",
+            "recording": {
+              "disambiguation": "",
+              "id": "50188703-fce4-4363-bf14-b557b8c651a9",
+              "title": "Bel Mercy (Vladimir Cauchemar remix)",
+              "length": 209234,
+              "video": false,
+              "first-release-date": "2023-05-05",
+              "genres": []
+            },
+            "position": 1,
+            "title": "Bel Mercy (Vladimir Cauchemar remix)"
+          }
+        ],
+        "track-count": 1,
+        "format": "Digital Media"
+      }
+    ]
+  },
+  {
+    "date": "2022-12-02",
+    "genres": [],
+    "title": "Bel Mercy",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 169606,
+            "title": "Bel Mercy",
+            "position": 1,
+            "recording": {
+              "length": 169606,
+              "video": false,
+              "first-release-date": "2022-12-02",
+              "genres": [
+                {
+                  "count": 1,
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "disambiguation": "",
+                  "name": "house"
+                }
+              ],
+              "disambiguation": "",
+              "id": "fb18cd50-b82d-4d3c-b4a6-385efbe010d2",
+              "title": "Bel Mercy"
+            },
+            "id": "55faee41-0f9d-42fb-98e5-33370d0e5b13"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "title": "",
+        "position": 1,
+        "id": "a396f2bc-6b75-3d73-8bd1-3ecab1459056"
+      }
+    ],
+    "id": "82dd576e-c10a-4dd5-ae71-011b468d7160",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "area": null,
+        "date": "2022-12-02"
+      }
+    ],
+    "status": "Official",
+    "release-group": {
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "2022-12-02",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [
+        {
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "count": 1,
+          "name": "house"
+        }
+      ],
+      "disambiguation": "",
+      "id": "2b7ddcfa-16db-4ed4-91ea-11f8e2ad688a",
+      "title": "Bel Mercy"
+    },
+    "asin": null,
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": null
+    },
+    "barcode": "5054197469336",
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": null,
+    "cover-art-archive": {
+      "artwork": false,
+      "front": false,
+      "darkened": false,
+      "back": false,
+      "count": 0
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+  },
+  {
+    "release-group": {
+      "first-release-date": "2025-03-28",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "1e3314b7-402f-4f6b-addb-d56f348be0da",
+      "disambiguation": "",
+      "title": "Heavy Steady",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "asin": null,
+    "status": null,
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 337000,
+            "id": "8655aee2-4702-4f45-ae71-eb246ed25e9c",
+            "position": 1,
+            "recording": {
+              "genres": [],
+              "video": false,
+              "first-release-date": "2025-03-28",
+              "length": 337000,
+              "title": "Heavy Steady (extended mix)",
+              "id": "080cbd79-d72c-4e25-a365-d49fba0c7cdf",
+              "disambiguation": ""
+            },
+            "title": "Heavy Steady (extended mix)"
+          }
+        ],
+        "track-offset": 0,
+        "id": "c149cda6-f97c-4c63-be0b-2e3adcb68367",
+        "title": "",
+        "position": 1
+      }
+    ],
+    "title": "Heavy Steady",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "name": "Netherlands",
+          "type": null,
+          "disambiguation": "",
+          "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+          "iso-3166-1-codes": [
+            "NL"
+          ],
+          "sort-name": "Netherlands"
+        },
+        "date": "2025-03-28"
+      }
+    ],
+    "id": "a4cad846-6bda-4068-97e4-68c00b7c95ef",
+    "disambiguation": "Extended Mix",
+    "date": "2025-03-28",
+    "genres": [
+      {
+        "disambiguation": "",
+        "id": "1f9c4b4a-c43d-40bd-b806-357153641fd0",
+        "count": 1,
+        "name": "tech house"
+      }
+    ],
+    "country": "NL",
+    "status-id": null,
+    "packaging-id": null,
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "quality": "normal",
+    "barcode": null,
+    "packaging": null,
+    "text-representation": {
+      "script": null,
+      "language": null
+    }
+  },
+  {
+    "quality": "normal",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "back": false,
+      "darkened": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "00044003417083",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "title": "Things We Do",
+      "disambiguation": "",
+      "id": "9b7023ee-7451-41d5-884b-2098448304d1",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2024-07-19",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "Single"
+    },
+    "date": "2024-07-19",
+    "genres": [],
+    "disambiguation": "",
+    "id": "a89e78b6-c1a9-41e6-b97c-9480ad46ac21",
+    "release-events": [
+      {
+        "date": "2024-07-19",
+        "area": null
+      }
+    ],
+    "title": "Things We Do (Extended Mix)",
+    "media": [
+      {
+        "id": "91832654-fc29-36ae-be8d-b38126f8f260",
+        "position": 1,
+        "title": "",
+        "tracks": [
+          {
+            "length": 346000,
+            "title": "Things We Do (extended mix)",
+            "position": 1,
+            "recording": {
+              "title": "Things We Do (extended mix)",
+              "disambiguation": "",
+              "id": "cc60e159-4739-4fc6-a0c8-c605cdeed673",
+              "genres": [],
+              "length": 346000,
+              "first-release-date": "2024-07-19",
+              "video": false
+            },
+            "id": "70dbe9b4-4af7-403a-9683-75756e82958c",
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 1,
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ]
+  },
+  {
+    "packaging": null,
+    "text-representation": {
+      "language": null,
+      "script": null
+    },
+    "barcode": null,
+    "quality": "normal",
+    "country": "XW",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "packaging-id": null,
+    "date": "2021-07-07",
+    "genres": [],
+    "media": [
+      {
+        "format": "Digital Media",
+        "tracks": [
+          {
+            "title": "I Need Some Money (Jengi remix)",
+            "position": 1,
+            "recording": {
+              "length": 261000,
+              "video": false,
+              "first-release-date": "2021-07-07",
+              "genres": [],
+              "disambiguation": "",
+              "id": "b2cccac8-3445-42b5-8888-7903b6eb4cf1",
+              "title": "I Need Some Money (Jengi remix)"
+            },
+            "id": "f8e6cf57-1c97-49c1-aba5-df18d7355f4c",
+            "length": 261000,
+            "number": "1"
+          },
+          {
+            "position": 2,
+            "title": "Breathe Deeper (Jengi remix)",
+            "recording": {
+              "title": "Breathe Deeper (Jengi remix)",
+              "id": "9800da02-d111-4c93-9241-30c1ff993496",
+              "disambiguation": "",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2021-07-07",
+              "length": 361000
+            },
+            "id": "d7c8e0c5-86db-4d45-bd12-8345a5a9a40e",
+            "length": 361000,
+            "number": "2"
+          },
+          {
+            "id": "8add6813-077e-47dc-8a63-1666f3fa6d73",
+            "position": 3,
+            "recording": {
+              "first-release-date": "2021-07-07",
+              "video": false,
+              "length": 382000,
+              "genres": [],
+              "id": "9e791d93-91a6-408c-9480-39f91736d2ce",
+              "disambiguation": "",
+              "title": "Happy (Jengi remix)"
+            },
+            "title": "Happy (Jengi remix)",
+            "length": 382000,
+            "number": "3"
+          },
+          {
+            "number": "4",
+            "length": 285000,
+            "position": 4,
+            "title": "You Don't Know My Name (Jengi remix)",
+            "recording": {
+              "genres": [],
+              "length": 285000,
+              "video": false,
+              "first-release-date": "2021-07-07",
+              "title": "You Don't Know My Name (Jengi remix)",
+              "disambiguation": "",
+              "id": "28cc15af-bb4f-492d-8cd4-14e7059fdacb"
+            },
+            "id": "48ffdf30-58c4-4fac-9d98-d141531a6946"
+          },
+          {
+            "number": "5",
+            "recording": {
+              "length": 321000,
+              "video": false,
+              "first-release-date": "2021-07-07",
+              "genres": [],
+              "id": "e6138155-1cbd-48a6-bd76-c75097e736d3",
+              "disambiguation": "",
+              "title": "Hollereer x Lekker Bezig (Jengi remix)"
+            },
+            "position": 5,
+            "title": "Hollereer x Lekker Bezig (Jengi remix)",
+            "id": "79716d6b-bdd2-43e1-8fbb-a60bc5046b4d",
+            "length": 321000
+          },
+          {
+            "position": 6,
+            "title": "A Willi (Jengi remix)",
+            "recording": {
+              "title": "A Willi (Jengi remix)",
+              "id": "c7a62971-1858-42d1-b93f-8dfdd2460362",
+              "disambiguation": "",
+              "genres": [],
+              "first-release-date": "2021-07-07",
+              "video": false,
+              "length": 211000
+            },
+            "id": "2144f51f-8921-4a13-9b2c-90464450b50e",
+            "length": 211000,
+            "number": "6"
+          },
+          {
+            "number": "7",
+            "length": 259000,
+            "position": 7,
+            "title": "Everybody Dance Now (Jengi remix)",
+            "recording": {
+              "disambiguation": "",
+              "id": "6b7c8a42-a098-4a39-b8c9-e3c9252658f2",
+              "title": "Everybody Dance Now (Jengi remix)",
+              "length": 259000,
+              "first-release-date": "2021-07-07",
+              "video": false,
+              "genres": []
+            },
+            "id": "d8ae5618-0f08-4f69-9dac-39a4d9106724"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "track-count": 7,
+        "track-offset": 0,
+        "id": "e4177926-67f7-3e8d-b6d3-9e7498cc5010",
+        "position": 1,
+        "title": ""
+      }
+    ],
+    "title": "World Trauma EP",
+    "id": "b048a76b-da7b-41b3-8a6f-bafc3de1d967",
+    "release-events": [
+      {
+        "date": "2021-07-07",
+        "area": {
+          "type-id": null,
+          "name": "[Worldwide]",
+          "type": null,
+          "disambiguation": "",
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]"
+        }
+      }
+    ],
+    "disambiguation": "",
+    "status": "Official",
+    "release-group": {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type": "EP",
+      "first-release-date": "2021-07-07",
+      "genres": [
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "name": "rave",
+          "disambiguation": "",
+          "id": "660e755a-1b66-440b-9b7c-fbcf245f4415",
+          "count": 1
+        }
+      ],
+      "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+      "disambiguation": "",
+      "id": "b16d8b1c-946a-4c95-8cbe-654a09cb7bb1",
+      "title": "World Trauma EP"
+    },
+    "asin": null
+  },
+  {
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "packaging": "None",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "barcode": "5026854051406",
+    "status": "Official",
+    "release-group": {
+      "title": "Love the Right Way",
+      "id": "f4cc05f6-9cab-47c2-821b-4a5330df3472",
+      "disambiguation": "",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [],
+      "first-release-date": "2025-10-10",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": []
+    },
+    "asin": null,
+    "genres": [],
+    "date": "2025-10-10",
+    "title": "Love the Right Way",
+    "media": [
+      {
+        "id": "23036590-042c-49f6-aac7-635baff814a1",
+        "position": 1,
+        "title": "",
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "id": "d212f66d-bf47-44f7-824b-12d5eff89b48",
+            "title": "Love the Right Way",
+            "position": 1,
+            "recording": {
+              "first-release-date": "2025-10-10",
+              "video": false,
+              "length": 192727,
+              "genres": [],
+              "disambiguation": "",
+              "id": "67c7a542-0beb-424f-8d2f-3239fdbf4eb3",
+              "title": "Love the Right Way"
+            },
+            "length": 192727,
+            "number": "1"
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "release-events": [
+      {
+        "date": "2025-10-10",
+        "area": {
+          "name": "[Worldwide]",
+          "type-id": null,
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "sort-name": "[Worldwide]",
+          "type": null
+        }
+      }
+    ],
+    "id": "b33dd446-2691-4af2-9d6e-e7e76967bedb",
+    "disambiguation": ""
+  },
+  {
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": [],
+      "title": "Bel Mercy",
+      "disambiguation": "",
+      "id": "2b7ddcfa-16db-4ed4-91ea-11f8e2ad688a",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house"
+        }
+      ],
+      "first-release-date": "2022-12-02"
+    },
+    "genres": [],
+    "date": "2022-12-02",
+    "id": "bc4c9a58-5756-4f2a-82cf-d4fb4cc566ed",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2022-12-02",
+        "area": null
+      }
+    ],
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "f5af177f-ada6-389f-9dfe-8ff2cafa6d9d",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "length": 169606,
+            "id": "ed357fb0-2e8b-4965-8eca-61f2a6aaf18c",
+            "position": 1,
+            "title": "Bel Mercy",
+            "recording": {
+              "length": 169606,
+              "video": false,
+              "first-release-date": "2022-12-02",
+              "genres": [
+                {
+                  "name": "house",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "disambiguation": "",
+                  "count": 1
+                }
+              ],
+              "id": "fb18cd50-b82d-4d3c-b4a6-385efbe010d2",
+              "disambiguation": "",
+              "title": "Bel Mercy"
+            },
+            "number": "1"
+          }
+        ],
+        "track-count": 1
+      }
+    ],
+    "title": "Bel Mercy",
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": true,
+      "count": 1,
+      "artwork": true
+    },
+    "country": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging": "None",
+    "barcode": "5054197469329"
+  },
+  {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "AI",
+    "cover-art-archive": {
+      "artwork": true,
+      "count": 1,
+      "front": true,
+      "darkened": false,
+      "back": false
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "quality": "normal",
+    "barcode": "810072043481",
+    "packaging": "None",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "release-group": {
+      "title": "Bel Mercy",
+      "id": "2b7ddcfa-16db-4ed4-91ea-11f8e2ad688a",
+      "disambiguation": "",
+      "genres": [
+        {
+          "count": 1,
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "disambiguation": "",
+          "name": "house"
+        }
+      ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "first-release-date": "2022-12-02",
+      "primary-type": "Single",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    "asin": null,
+    "status": "Official",
+    "title": "Bel Mercy",
+    "media": [
+      {
+        "format": "Digital Media",
+        "track-offset": 0,
+        "track-count": 1,
+        "tracks": [
+          {
+            "id": "8a87e1eb-731b-4a50-92fe-8af214427fc7",
+            "position": 1,
+            "title": "Bel Mercy",
+            "recording": {
+              "genres": [
+                {
+                  "name": "house",
+                  "count": 1,
+                  "disambiguation": "",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3"
+                }
+              ],
+              "video": false,
+              "first-release-date": "2022-12-02",
+              "length": 169606,
+              "title": "Bel Mercy",
+              "id": "fb18cd50-b82d-4d3c-b4a6-385efbe010d2",
+              "disambiguation": ""
+            },
+            "length": 169606,
+            "number": "1"
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "position": 1,
+        "title": "",
+        "id": "fb203673-f56f-3371-bc84-0efca636d5e8"
+      }
+    ],
+    "id": "ca507308-6863-4501-bd33-e5f3f9f0117d",
+    "disambiguation": "",
+    "release-events": [
+      {
+        "date": "2022-12-02",
+        "area": {
+          "name": "Anguilla",
+          "type-id": null,
+          "sort-name": "Anguilla",
+          "iso-3166-1-codes": [
+            "AI"
+          ],
+          "id": "eed9e8bb-b48f-30af-95f5-f178762ee515",
+          "disambiguation": "",
+          "type": null
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "disambiguation": "",
+          "id": "2a8cc14f-8d47-389b-b54d-e94312b23d27",
+          "iso-3166-1-codes": [
+            "AG"
+          ],
+          "sort-name": "Antigua and Barbuda",
+          "type": null,
+          "name": "Antigua and Barbuda",
+          "type-id": null
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "sort-name": "Bahamas",
+          "iso-3166-1-codes": [
+            "BS"
+          ],
+          "id": "f8b33963-7364-33be-8c6c-5ab2e1075ae1",
+          "disambiguation": "",
+          "type": null,
+          "name": "Bahamas",
+          "type-id": null
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "name": "Barbados",
+          "type-id": null,
+          "sort-name": "Barbados",
+          "iso-3166-1-codes": [
+            "BB"
+          ],
+          "id": "e5d8d205-81d3-3cd3-8956-d5aaa0c0173f",
+          "disambiguation": "",
+          "type": null
+        }
+      },
+      {
+        "area": {
+          "name": "Belize",
+          "type-id": null,
+          "disambiguation": "",
+          "id": "6bf45af6-f1bf-357c-91b5-9593a9c32cb0",
+          "sort-name": "Belize",
+          "iso-3166-1-codes": [
+            "BZ"
+          ],
+          "type": null
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "8562c2e5-eabb-3fad-96f2-f536a93a2957",
+          "iso-3166-1-codes": [
+            "VG"
+          ],
+          "sort-name": "British Virgin Islands",
+          "type-id": null,
+          "name": "British Virgin Islands"
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "area": {
+          "type": null,
+          "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "CA"
+          ],
+          "sort-name": "Canada",
+          "type-id": null,
+          "name": "Canada"
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "id": "5dd25184-711c-3e6a-b089-572cd095f287",
+          "sort-name": "Cayman Islands",
+          "iso-3166-1-codes": [
+            "KY"
+          ],
+          "type-id": null,
+          "name": "Cayman Islands"
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "area": {
+          "type-id": null,
+          "name": "Costa Rica",
+          "type": null,
+          "sort-name": "Costa Rica",
+          "iso-3166-1-codes": [
+            "CR"
+          ],
+          "disambiguation": "",
+          "id": "ba544658-8266-36cb-ac0e-3bdfbf52cb00"
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "type-id": null,
+          "name": "Dominica",
+          "type": null,
+          "sort-name": "Dominica",
+          "iso-3166-1-codes": [
+            "DM"
+          ],
+          "id": "9898ec17-2174-3a61-9e3b-3f51b3ee4de1",
+          "disambiguation": ""
+        }
+      },
+      {
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "DO"
+          ],
+          "sort-name": "Dominican Republic",
+          "disambiguation": "",
+          "id": "696cb3e0-5084-30ab-9916-65ece70adbf6",
+          "type-id": null,
+          "name": "Dominican Republic"
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "SV"
+          ],
+          "sort-name": "El Salvador",
+          "disambiguation": "",
+          "id": "f2fa4bfb-97aa-3db4-8d49-cc64969ce1a7",
+          "type-id": null,
+          "name": "El Salvador"
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "id": "217e2eb3-0a3a-3b59-9eaa-a7465c1417ff",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "GD"
+          ],
+          "sort-name": "Grenada",
+          "type": null,
+          "name": "Grenada",
+          "type-id": null
+        }
+      },
+      {
+        "area": {
+          "type": null,
+          "id": "01448ddc-6ee3-3fa4-b136-507d984e31ee",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "GT"
+          ],
+          "sort-name": "Guatemala",
+          "type-id": null,
+          "name": "Guatemala"
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "type": null,
+          "id": "cf25d306-7da5-3878-a2b1-a0370f847308",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "HT"
+          ],
+          "sort-name": "Haiti",
+          "type-id": null,
+          "name": "Haiti"
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "name": "Honduras",
+          "type-id": null,
+          "disambiguation": "",
+          "id": "0c3ea915-4e49-34fc-b702-debb216fd7fa",
+          "sort-name": "Honduras",
+          "iso-3166-1-codes": [
+            "HN"
+          ],
+          "type": null
+        }
+      },
+      {
+        "area": {
+          "name": "Jamaica",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "JM"
+          ],
+          "sort-name": "Jamaica",
+          "disambiguation": "",
+          "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+          "type": null
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "disambiguation": "",
+          "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+          "sort-name": "Mexico",
+          "iso-3166-1-codes": [
+            "MX"
+          ],
+          "type": null,
+          "name": "Mexico",
+          "type-id": null
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "name": "Montserrat",
+          "type-id": null,
+          "id": "290ea438-1cb6-35e1-9755-6ab123214293",
+          "disambiguation": "",
+          "iso-3166-1-codes": [
+            "MS"
+          ],
+          "sort-name": "Montserrat",
+          "type": null
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "type-id": null,
+          "name": "Nicaragua",
+          "type": null,
+          "id": "d2b87acd-06ce-3c71-b3ff-a35d914bbabe",
+          "disambiguation": "",
+          "sort-name": "Nicaragua",
+          "iso-3166-1-codes": [
+            "NI"
+          ]
+        }
+      },
+      {
+        "area": {
+          "name": "Panama",
+          "type-id": null,
+          "id": "6f85633b-dff4-3fb4-babd-fb89b3628041",
+          "disambiguation": "",
+          "sort-name": "Panama",
+          "iso-3166-1-codes": [
+            "PA"
+          ],
+          "type": null
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "name": "Saint Kitts and Nevis",
+          "type-id": null,
+          "sort-name": "Saint Kitts and Nevis",
+          "iso-3166-1-codes": [
+            "KN"
+          ],
+          "disambiguation": "",
+          "id": "b1439904-121a-38fb-8708-0573cb42e2ef",
+          "type": null
+        }
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "type-id": null,
+          "name": "Saint Lucia",
+          "type": null,
+          "sort-name": "Saint Lucia",
+          "iso-3166-1-codes": [
+            "LC"
+          ],
+          "id": "178709ab-9e22-39ae-a93c-55e66a8183c2",
+          "disambiguation": ""
+        }
+      },
+      {
+        "area": {
+          "disambiguation": "",
+          "id": "7f9f87ec-3c1e-300d-9bb8-fa93f0754e6b",
+          "iso-3166-1-codes": [
+            "VC"
+          ],
+          "sort-name": "Saint Vincent and The Grenadines",
+          "type": null,
+          "name": "Saint Vincent and The Grenadines",
+          "type-id": null
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "type-id": null,
+          "name": "Trinidad and Tobago",
+          "type": null,
+          "id": "6c290168-f3b9-3adb-9889-b856feb2c26c",
+          "disambiguation": "",
+          "sort-name": "Trinidad and Tobago",
+          "iso-3166-1-codes": [
+            "TT"
+          ]
+        }
+      },
+      {
+        "area": {
+          "sort-name": "Turks and Caicos Islands",
+          "iso-3166-1-codes": [
+            "TC"
+          ],
+          "disambiguation": "",
+          "id": "a2d01b31-5184-382e-aab5-63b5944195b7",
+          "type": null,
+          "name": "Turks and Caicos Islands",
+          "type-id": null
+        },
+        "date": "2022-12-02"
+      },
+      {
+        "date": "2022-12-02",
+        "area": {
+          "name": "United States",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "disambiguation": "",
+          "type": null
+        }
+      }
+    ],
+    "genres": [],
+    "date": "2022-12-02"
+  },
+  {
+    "quality": "normal",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "cover-art-archive": {
+      "back": false,
+      "darkened": false,
+      "front": false,
+      "count": 0,
+      "artwork": false
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "text-representation": {
+      "language": null,
+      "script": "Latn"
+    },
+    "packaging": "None",
+    "barcode": "5054197469336",
+    "status": "Official",
+    "asin": null,
+    "release-group": {
+      "first-release-date": "2022-12-02",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "genres": [
+        {
+          "count": 1,
+          "disambiguation": "",
+          "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+          "name": "house"
+        }
+      ],
+      "disambiguation": "",
+      "id": "2b7ddcfa-16db-4ed4-91ea-11f8e2ad688a",
+      "title": "Bel Mercy",
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": []
+    },
+    "date": "2022-12-02",
+    "genres": [
+      {
+        "count": 1,
+        "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+        "disambiguation": "",
+        "name": "house"
+      }
+    ],
+    "disambiguation": "",
+    "id": "e7852218-300c-463b-9fa2-f4411b0c8337",
+    "release-events": [
+      {
+        "date": "2022-12-02",
+        "area": {
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        }
+      }
+    ],
+    "media": [
+      {
+        "id": "b78a9cc9-98eb-4e83-8650-24328c1fa4f5",
+        "title": "",
+        "position": 1,
+        "track-count": 1,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "id": "168948c5-f7c5-4f2d-a19d-1704f8049c12",
+            "position": 1,
+            "title": "Bel Mercy (extended mix)",
+            "recording": {
+              "genres": [
+                {
+                  "name": "house",
+                  "id": "a2782cb6-1cd0-477c-a61d-b3f8b42dd1b3",
+                  "disambiguation": "",
+                  "count": 1
+                }
+              ],
+              "video": false,
+              "first-release-date": "2022-12-02",
+              "length": 169606,
+              "title": "Bel Mercy",
+              "id": "fb18cd50-b82d-4d3c-b4a6-385efbe010d2",
+              "disambiguation": ""
+            },
+            "length": 270472
+          }
+        ],
+        "track-offset": 0,
+        "format": "Digital Media"
+      }
+    ],
+    "title": "Bel Mercy"
+  },
+  {
+    "status-id": null,
+    "country": null,
+    "packaging-id": null,
+    "cover-art-archive": {
+      "artwork": true,
+      "darkened": false,
+      "back": false,
+      "front": false,
+      "count": 1
+    },
+    "quality": "normal",
+    "barcode": null,
+    "packaging": null,
+    "text-representation": {
+      "script": null,
+      "language": null
+    },
+    "release-group": {
+      "secondary-types": [],
+      "primary-type": null,
+      "secondary-type-ids": [],
+      "first-release-date": "2022-03-22",
+      "genres": [],
+      "primary-type-id": null,
+      "disambiguation": "",
+      "id": "f33514a0-91a7-4afa-9847-d6575f4698fe",
+      "title": "Bel Mercy (RICHTANNER Afro Baile Remix)"
+    },
+    "asin": null,
+    "status": null,
+    "media": [
+      {
+        "position": 1,
+        "title": "",
+        "id": "5f8717f3-6a92-3525-8a89-f4f48ae15e8b",
+        "format": "Digital Media",
+        "track-offset": 0,
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "tracks": [
+          {
+            "number": "1",
+            "length": 153000,
+            "id": "2fc4e243-e95a-4e8a-968b-2500fd747bd6",
+            "title": "Bel Mercy (RICHTANNER Afro Baile Remix)",
+            "position": 1,
+            "recording": {
+              "title": "Bel Mercy (RICHTANNER Afro Baile Remix)",
+              "disambiguation": "",
+              "id": "2fd71bde-69eb-42ea-8e4e-070018a5cc5e",
+              "genres": [],
+              "video": false,
+              "first-release-date": "2022-03-22",
+              "length": 153000
+            }
+          }
+        ],
+        "track-count": 1
+      }
+    ],
+    "title": "Bel Mercy (RICHTANNER Afro Baile Remix)",
+    "disambiguation": "",
+    "id": "eaa95e9f-62b3-4f78-b571-21b8605ffbbf",
+    "release-events": [
+      {
+        "date": "2022-03-22",
+        "area": null
+      }
+    ],
+    "date": "2022-03-22",
+    "genres": []
+  },
+  {
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "XW",
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "packaging": "None",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "barcode": "00044003417052",
+    "status": "Official",
+    "release-group": {
+      "secondary-type-ids": [],
+      "primary-type": "Single",
+      "secondary-types": [],
+      "id": "9b7023ee-7451-41d5-884b-2098448304d1",
+      "disambiguation": "",
+      "title": "Things We Do",
+      "first-release-date": "2024-07-19",
+      "genres": [],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9"
+    },
+    "asin": null,
+    "genres": [],
+    "date": "2024-07-19",
+    "title": "Things We Do",
+    "media": [
+      {
+        "track-offset": 0,
+        "track-count": 1,
+        "tracks": [
+          {
+            "number": "1",
+            "length": 184218,
+            "id": "6b391c10-f235-4833-8c4e-296a6863371e",
+            "title": "Things We Do",
+            "position": 1,
+            "recording": {
+              "title": "Things We Do",
+              "id": "1bf7c86d-f487-493a-b0cb-b299578f2a09",
+              "disambiguation": "",
+              "genres": [],
+              "length": 184218,
+              "video": false,
+              "first-release-date": "2024-07-19"
+            }
+          }
+        ],
+        "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+        "format": "Digital Media",
+        "position": 1,
+        "title": "",
+        "id": "0d91bd70-9e4a-32e1-a713-17bacbc3f5f9"
+      }
+    ],
+    "id": "fb1121bd-321d-40c4-a2ab-feeb2dd52b2c",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "[Worldwide]",
+          "iso-3166-1-codes": [
+            "XW"
+          ],
+          "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+          "disambiguation": "",
+          "type": null,
+          "name": "[Worldwide]",
+          "type-id": null
+        },
+        "date": "2024-07-19"
+      }
+    ],
+    "disambiguation": ""
+  }
+]
